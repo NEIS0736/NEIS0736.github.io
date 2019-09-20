@@ -42,7 +42,17 @@
 	
 * **(Developer)**
 
-	* [login GitHub และใช้ sonar lint ในการพัฒนาซอสโค้ด](https://ardnarong.github.io/neis0736-cicd/Improving%20code%20quality%20with%20SonarQube/)
+	* login GitHub และใช้ sonar lint ในการพัฒนาซอสโค้ด
+		- Developer พัฒนาโปรแกรมโดย VS Code เป็น IDE ที่รองรับ SonarLint 
+		![](CICD_codewithsonar01.png)
+		- เสร็จแล้วทำการ git Commit แล้ว git Push 
+		![](CICD_codewithsonar02.png)
+		-จากนั้น CI จะเริ่มทำงานตาม ไฟล์ .gitlab-ci.yml
+		![](CICD_codewithsonar03.png)
+		![](CICD_codewithsonar04.png)
+		ไปดูผลการ Review source code ที่ https://sonarcloud.io 
+		![](CICD_codewithsonar05.png)
+		- Ref.https://ardnarong.github.io/neis0736-cicd/Improving%20code%20quality%20with%20SonarQube/
 
 
 ---
