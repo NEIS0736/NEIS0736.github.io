@@ -170,7 +170,7 @@
 		![](CICD_deploy02.PNG)
 		- Visite website 
 		![](CICD_deploy03.PNG)
-Ref.https://ardnarong.github.io/neis0736-cicd/deploy/
+					- Ref.https://ardnarong.github.io/neis0736-cicd/deploy/
 
 	
 	
