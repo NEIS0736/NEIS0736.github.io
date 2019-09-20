@@ -4,7 +4,7 @@
 ![](ScopePresentation.jpg "by Khun Ardnarong Boonkerd")
 
 # **CI/CD Process**
-![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_Process.png)
+![](CICD_Process.png)
 
 
 ---
