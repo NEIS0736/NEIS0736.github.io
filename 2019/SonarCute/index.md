@@ -94,7 +94,27 @@
 ### **Step 3. Connect GitHub กับ Sonar Cloud**
 
 * **(Maintainer)**
-	* [ทำการเชื่อมต่อ GitHub กับ Sonar Cloud](https://ardnarong.github.io/neis0736-cicd/github-and-sonarcloud/)
+	* ทำการเชื่อมต่อ GitHub กับ Sonar Cloud
+		- Login Sounar cloud with github account 
+	- Click Create a new project 
+	![](CICD_connectgitsonar01.png)
+	- Click Choose and organization on GitHub 
+	![](CICD_connectgitsonar02.png)
+	- Install SonarCloud on github account 
+	![](CICD_connectgitsonar03.png)
+	- Click Continue 
+	![](CICD_connectgitsonar04.png)
+	![](CICD_connectgitsonar05.png)
+	- Choose a Free plan
+	- Select github repositories for analysis 
+	![](CICD_connectgitsonar06.png)
+	- Select “With other CI tools” 
+	![](CICD_connectgitsonar07.png)
+	![](CICD_connectgitsonar08.png)
+	- Select build technology
+	- Sonarcloud show script for install 
+	![](CICD_connectgitsonar09.png)
+	- Ref.https://ardnarong.github.io/neis0736-cicd/github-and-sonarcloud/
 
 
 ---
@@ -230,7 +250,7 @@
 	* Monitoring
 		- **_prometheus ใช้สำหรับการมอนิเตอร์ docker, service ต่าง ๆ ของระบบ_**
 			- https://prometheus.io
-		- **_ Zabbix ใช้สำหรับมอนิเตอร์ฮาร์ดแวร์_** 
+		- **_Zabbix ใช้สำหรับมอนิเตอร์ฮาร์ดแวร์_** 
 			- https://www.zabbix.com
 		- **_Elastic Elastic SIEM ใช้สำหรับมอนิเตอร์ Event ต่าง ๆ_**
 			- https://www.elastic.co/products/siem
