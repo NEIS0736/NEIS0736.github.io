@@ -77,11 +77,11 @@
 				5. Role
 			- Expected Result :
 				1. เพิ่มข้อมูลของ User ที่ต้องการ Add
-					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_adduser01.png)
+					![](CICD_adduser01.png)
 				2. สามารถ Add User ได้โดยไม่เกิด Error
-					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_adduser02.png)
+					![](CICD_adduser02.png)
 				3. มี User ที่ทำการเพิ่ม อยู่ในระบบ
-					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_adduser03.png)
+					![](CICD_adduser03.png)
 
 		- Test Case-Delete User
 			- Preconditons :
@@ -96,11 +96,11 @@
 				1. User
 			- Expected Result :
 				1. แสดงข้อความ “Are you sure to delete this user ?” ก่อนทำการลบ User
-					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_deluser01.png)
+					![](CICD_deluser01.png)
 				2. แสดงข้อความ “User successfully deleted” เพื่อให้ทราบว่าทำการลบ User สำเร็จ
-					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_deluser02.png)
+					![](CICD_deluser02.png)
 				3. ในระบบไม่มี User ที่ทำการลบไปแล้ว
-					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_deluser03.png)
+					![](CICD_deluser03.png)
 		
 		- Test Case-Edit User
 		
@@ -118,11 +118,11 @@
 				1. Mobile Number
 			- Expected Result :
 				1. แสดงข้อมูล User ก่อนทำการแก้ไขข้อมูล
-					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_edituser01.png)
+					![](CICD_edituser01.png)
 				2. สามารถแก้ไขข้อมูลของ User ได้
-					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_edituser02.png)
+					![](CICD_edituser02.png)
 				3. ข้อมูลในระบบมีการเปลี่ยนแปลง
-					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_edituser03.png)
+					![](CICD_edituser03.png)
 				
 		- Test Case-Login Fail
 			- Preconditons :
@@ -136,8 +136,8 @@
 				1. Email และ Password
 			- Expected Result :
 				1. ไม่สามารถเข้าใช้งานได้ พร้อมทั้งมีแจ้งชื่อผู้ใช้งานหรือรหัสผ่านผิด
-					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_loginf01.png)
-					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_loginf02.png)
+					![](CICD_loginf01.png)
+					![](CICD_loginf02.png)
 		
 		- Test Case-Login Success
 			- Preconditons :
@@ -152,8 +152,8 @@
 			- Expected Result :
 				1. สามารถ Login เข้าใช้งานได้สำเร็จ
 			- Post Conditions : สามารถเข้าสู่ระบบและใช้งานระบบได้อย่างปรกติ
-					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_logins01.png)
-					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_logins02.png)
+					![](CICD_logins01.png)
+					![](CICD_logins02.png)
 
 ---
 # **CD (continuous deployment)**
