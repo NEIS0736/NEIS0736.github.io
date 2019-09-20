@@ -161,7 +161,19 @@
 ### **Step 6. Deploy and Monitoring**
 
 * **(System Engineer)**
-	* [Deploy production](https://ardnarong.github.io/neis0736-cicd/deploy/)
+	* Deploy production Ref.https://ardnarong.github.io/neis0736-cicd/deploy/
+		- Login GitLab
+		- Goto menu CI/CD -> Pipeline
+		- On stage deploy prodcutin > Click Play 
+		![](CICD_deploy01)
+		- System deploy passed 
+		![](CICD_deploy01)
+		- Visite website 
+		![](CICD_deploy01)
+
+
+	
+	
 	* Monitoring
 
 
