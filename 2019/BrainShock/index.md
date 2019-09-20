@@ -97,9 +97,7 @@
    
 **3. Smart contract & Solidity**
 
-<br>
-![](https://twinzabx2.github.io/solidity/solslide1.jpg)
-<br>
+<br>![](https://twinzabx2.github.io/solidity/solslide1.jpg)<br>
 <br>
 ![](https://twinzabx2.github.io/solidity/solslide2.jpg)
 <br>
