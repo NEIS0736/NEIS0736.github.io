@@ -167,9 +167,9 @@
 		- On stage deploy prodcutin > Click Play 
 		![](CICD_deploy01.PNG)
 		- System deploy passed 
-		![](CICD_deploy01.PNG)
+		![](CICD_deploy02.PNG)
 		- Visite website 
-		![](CICD_deploy01.PNG)
+		![](CICD_deploy03.PNG)
 
 
 	
