@@ -17,11 +17,29 @@
 	* Create GitHub Project
 		- สร้าง New repository บน GitHub
 		- เพิ่ม Collaborators ส่วนของผู้ใช้งานหรือ ที่จะมีสิทธิ์เข้ามาทำอะไรได้บ้าง โดยปกติจะเป็น Dev
-	* [Create GitLab CI/CD Project](https://ardnarong.github.io/neis0736-cicd/Using%20GitLab%20CI-CD%20with%20a%20GitHub%20repository/)
-		- ทำการเชื่อม gitlab กับ github เพื่อให้ เห็น repo  ที่สร้างไว้แล้ว โดยการ new project>CI/CD for external repo>GitHub
-		- เราจะเห็นชื่อ repo ที่สร้างไว้บน GitHub. กด Connectแล้ว Go to Project
-		- จะถือว่า GitHub = Repo, GitLab = CI/CD พร้อมใช้งานแล้ว
-		- ทำการเตรียม Token ของ GitLab Runner  เพื่อส่งต่อให้กับ Sys Admin นำไปใช้สำหรับลงบน Gitlab Runners onTest Server ต่อไป
+	* Create GitLab CI/CD Project
+		- Login GitLab
+	- Create new project
+	- Select CI/CD for external repo > Select GitHub 
+	![](CICD_creategitlabproject01.png)
+	- Input GitHub Personal Access Token 
+	![](CICD_creategitlabproject02.png)
+	- Click Generate new token 
+	![](CICD_creategitlabproject03.png)
+	- Select scopes 
+	![](CICD_creategitlabproject04.png)
+	- Copy tokens 
+	![](CICD_creategitlabproject05.png)
+	- Back to GitLab and input access token 
+	![](CICD_creategitlabproject06.png)
+	- Select project to connect (click connect) 
+	![](CICD_creategitlabproject07.png)
+	- (Github) create .gitlab-ci.yml 
+	![](CICD_creategitlabproject08.png)
+	- หลังจากที่ Commit แล้วระบบจะสั่งการให้ GitLab CI/CD ทำงาน
+	![](CICD_creategitlabproject09.png) 
+- Ref.https://ardnarong.github.io/neis0736-cicd/Using%20GitLab%20CI-CD%20with%20a%20GitHub%20repository/
+	
 * **(Developer)**
 
 	* [login GitHub และใช้ sonar lint ในการพัฒนาซอสโค้ด](https://ardnarong.github.io/neis0736-cicd/Improving%20code%20quality%20with%20SonarQube/)
@@ -170,14 +188,11 @@
 		![](CICD_deploy02.PNG)
 		- Visite website 
 		![](CICD_deploy03.PNG)
-					- Ref.https://ardnarong.github.io/neis0736-cicd/deploy/
+		- Ref.https://ardnarong.github.io/neis0736-cicd/deploy/
 
 	
 	
 	* Monitoring
-		- dlksldflsdf
-		- dksfdkfal;
-		-dksfdaf;
 
 
 ---
