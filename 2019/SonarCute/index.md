@@ -33,7 +33,7 @@
 * **(Maintainer)**
 	* [Send Gitlab Runner info เพื่อให้ system admin ทำการ install Gitlab runner](https://ardnarong.github.io/neis0736-cicd/Maintainer%20send%20GitLab%20runner%20token%20to%20System%20Admin/)
 
-* **(System Admin)**
+* **(System Engineer)**
 	* [Prepare Server and install Gitlab Runner](https://ardnarong.github.io/neis0736-cicd/System%20Admin%20Prepare%20Server/)
 
 ---
@@ -48,7 +48,7 @@
 
 ### **Step 4. Discusstion process CI stage (Build, Test, Deploy)**
 
-* **(Maintainer)(System Admin)(Developer)**
+* **(Maintainer)(System Engineer)(Developer)**
 	* Process CI Stage
 		- [ใช้ Docker(docker-compose.yml) test (Review code ) ใช้ Sonar Cloud ทั้งหมดทำงานด้วย .gitlac-ci.ymlDeveloper จึง Commit และ push code ที่ทำการแก้ไขแล้วเสร็จจากการตรวจของ Sonar Cloud ไปให้ Gitlab CI/CD project](https://ardnarong.github.io/neis0736-cicd/Improving%20code%20quality%20with%20SonarQube/images/img%20(4).png)
 
@@ -57,7 +57,7 @@
 
 ### **Step 5. UAT**
 
-* **(QA / Tester)**
+* **(Quality Engineer)**
 	* ทำ UAT หลังจาก Develop ผ่านการแก้ไขจะเข้าสู่กระบวนการ Change เพื่อทำการ Deploy production
 		- Test Case-Add User
 			- Preconditons :
@@ -160,7 +160,7 @@
 
 ### **Step 6. Deploy and Monitoring**
 
-* **(System Admin)**
+* **(System Engineer)**
 	* [Deploy production](https://ardnarong.github.io/neis0736-cicd/deploy/)
 	* Monitoring
 
@@ -170,12 +170,12 @@
 * **Team Member**
 
 	- Ardnarong Boonkerd (Development Leader)
-	- Tanapad Onsri (Quality Engineer)
-	- Pongpat Petchai (Quality Engineer)
-	- Suparath Suwannakorth (Maintainer)
-	- Raksapon Leelachat (System Admin)
-	- Sirimongkol Wongfu (System Admin)
 	- Angkarn Pummarin (Project Facilitator)
+	- Suparath Suwannakorth (Maintainer)
+	- Sirimongkol Wongfu (System Admin)
+	- Raksapon Leelachat (System Admin)
+	- Pongpat Petchai (Quality Engineer)
+	- Tanapad Onsri (Quality Engineer)
 	- Maykin Warasart (Project Sponsor)
 
 ---
