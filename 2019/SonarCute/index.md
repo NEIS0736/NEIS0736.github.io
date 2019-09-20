@@ -82,10 +82,10 @@
 			- https://docs.gitlab.com/runner/register/index.html
 		- **_Grant sudo permissions_**
 			- You can grant sudo permissions to the gitlab-runner user as this is who is executing the build script.
-			- <tr>$ sudo usermod -a -G sudo gitlab-runner</tr>
+				- $ sudo usermod -a -G sudo gitlab-runner
 			- You now have to remove the password restriction for sudo for the gitlab-runner user.
 			- Start the sudo editor with
-			- $ sudo visudo Now add the following to the bottom of the file
+				- $ sudo visudo Now add the following to the bottom of the file
 			- gitlab-runner ALL=(ALL) NOPASSWD: ALL
 		- Ref.https://ardnarong.github.io/neis0736-cicd/System%20Admin%20Prepare%20Server/
 
@@ -228,6 +228,12 @@
 	
 	
 	* Monitoring
+		- **_prometheus ใช้สำหรับการมอนิเตอร์ docker, service ต่าง ๆ ของระบบ_**
+			- https://prometheus.io
+		- **_ Zabbix ใช้สำหรับมอนิเตอร์ฮาร์ดแวร์_** 
+			- https://www.zabbix.com
+		- **_Elastic Elastic SIEM ใช้สำหรับมอนิเตอร์ Event ต่าง ๆ_**
+			- https://www.elastic.co/products/siem
 
 
 ---
