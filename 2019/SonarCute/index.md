@@ -169,12 +169,12 @@
 
 * **Team Member**
 
-	- Mr.Tanapad Onsri | 6117810004 | Tester
-	- Mr. Pongpat Petchai | 6117810009 | Tester
-	- Mr. Suparath Suwannakorth | 6117670003 | Maintainer
-	- Mr. Raksapon Leelachat | 6117810001 | System Admin
-	- Mr. Sirimongkol Wongfu | 6117810003 | System Admin
-	- Mr. Ardnarong Boonkerd | Developer
+	- Mr. Ardnarong Boonkerd | Development Leader
+	- Mr.Tanapad Onsri | Tester
+	- Mr. Pongpat Petchai | Tester
+	- Mr. Suparath Suwannakorth | Maintainer
+	- Mr. Raksapon Leelachat | System Admin
+	- Mr. Sirimongkol Wongfu | System Admin
 	- Mr. Angkarn Pummarin | Secretary
 	- Mr. Maykin Warasart | Project Sponsor
 
