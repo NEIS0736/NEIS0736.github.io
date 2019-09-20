@@ -169,14 +169,14 @@
 
 * **Team Member**
 
-	1. 6117810004 | คุณ ธนพัฒน์ อ่อนสี | Tester
-	2. 6117810009 | คุณ พงศ์พัฒน์  เพ็ชรไชย | Tester
-	3. 6117670003 | คุณ สุภรัชต์ สุวรรณโครธ | Maintainer
-	4. 6117810001 | คุณ รักษพล ลีลาฉัตร | System Admin
-	5. 6117810003 | คุณ ศิริมงคล วงค์ฟู | System Admin
-	6. คุณ อาจณรงค์ บุญเกิด | Developer
-	7. คุณ อังคาร ภุมรินทร์ | Secretary
-	8. คุณ เมฆินทร์ วรศาสตร์ | Project Sponsor
+	- Mr.Tanapad Onsri | 6117810004 | Tester
+	- Mr. Pongpat Petchai | 6117810009 | Tester
+	- Mr. Suparath Suwannakorth | 6117670003 | Maintainer
+	- Mr. Raksapon Leelachat | 6117810001 | System Admin
+	- Mr. Sirimongkol Wongfu | 6117810003 | System Admin
+	- Mr. Ardnarong Boonkerd | Developer
+	- Mr. Angkarn Pummarin | Secretary
+	- Mr. Maykin Warasart | Project Sponsor
 
 ---
 
