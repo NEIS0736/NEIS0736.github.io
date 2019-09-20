@@ -79,9 +79,9 @@
 				1. เพิ่มข้อมูลของ User ที่ต้องการ Add
 					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_adduser01.png)
 				2. สามารถ Add User ได้โดยไม่เกิด Error
-					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_adduser01.png)
+					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_adduser02.png)
 				3. มี User ที่ทำการเพิ่ม อยู่ในระบบ
-					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_adduser01.png)
+					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_adduser03.png)
 
 		- Test Case-Delete User
 			- Preconditons :
@@ -170,9 +170,9 @@
 
 	1. คุณ ธนพัฒน์ อ่อนสี | 6117810004 | หน้าที่รับผิดชอบ : Tester
 	1. คุณ พงศ์พัฒน์  เพ็ชรไชย | 6117810009 | หน้าที่รับผิดชอบ : Tester
-	1. คุณ Suparath Suwannakorth | 6117670003 | หน้าที่รับผิดชอบ : Maintainer
+	1. คุณ สุภรัชต์ สุวรรณโครธ | 6117670003 | หน้าที่รับผิดชอบ : Maintainer
 	1. คุณ รักษพล ลีลาฉัตร | 6117810001 | หน้าที่รับผิดชอบ : System Admin
-	1. คุณ ศิริมงคล วงค์ฟู | 6117810003 | หน้าที่รับผิดชอบ : Tester
+	1. คุณ ศิริมงคล วงค์ฟู | 6117810003 | หน้าที่รับผิดชอบ : System Admin
 	1. คุณ อาจณรงค์ บุญเกิด | หน้าที่รับผิดชอบ : Developer
 	1. คุณ อังคาร ภุมรินทร์ | หน้าที่รับผิดชอบ : Secretary
 
