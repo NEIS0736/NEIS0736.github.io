@@ -165,11 +165,11 @@
 		- Login GitLab
 		- Goto menu CI/CD -> Pipeline
 		- On stage deploy prodcutin > Click Play 
-		![](CICD_deploy01)
+		![](CICD_deploy01.png)
 		- System deploy passed 
-		![](CICD_deploy01)
+		![](CICD_deploy01.png)
 		- Visite website 
-		![](CICD_deploy01)
+		![](CICD_deploy01.png)
 
 
 	
