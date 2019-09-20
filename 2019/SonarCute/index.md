@@ -76,9 +76,9 @@
 		- password : yyy
 		- **_Install Docker and Docker Compose -> Done_**
 			- https://github.com/NaturalHistoryMuseum/scratchpads2/wiki/Install-Docker-and-Docker-Compose-(Centos-7)
-		- **_Install GitLab Runner -> Done_*
+		- **_Install GitLab Runner -> Done_**
 			- https://docs.gitlab.com/runner/install/linux-repository.html
-		- **_Registering Runners -> Done_*
+		- **_Registering Runners -> Done_**
 			- https://docs.gitlab.com/runner/register/index.html
 		- **_Grant sudo permissions_**
 			- You can grant sudo permissions to the gitlab-runner user as this is who is executing the build script.
