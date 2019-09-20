@@ -169,14 +169,14 @@
 
 * **Team Member**
 
-	- Mr. Ardnarong Boonkerd | Development Leader
-	- Mr.Tanapad Onsri | Tester
-	- Mr. Pongpat Petchai | Tester
-	- Mr. Suparath Suwannakorth | Maintainer
-	- Mr. Raksapon Leelachat | System Admin
-	- Mr. Sirimongkol Wongfu | System Admin
-	- Mr. Angkarn Pummarin | Secretary
-	- Mr. Maykin Warasart | Project Sponsor
+	- Ardnarong Boonkerd (Development Leader)
+	- Tanapad Onsri (Tester)
+	- Pongpat Petchai (Tester)
+	- Suparath Suwannakorth (Maintainer)
+	- Raksapon Leelachat (System Admin)
+	- Sirimongkol Wongfu (System Admin)
+	- Angkarn Pummarin (Secretary)
+	- Maykin Warasart (Project Sponsor)
 
 ---
 
