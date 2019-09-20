@@ -75,18 +75,18 @@
 		- username : xxx
 		- password : yyy
 		- **_Install Docker and Docker Compose -> Done_**
-		- https://github.com/NaturalHistoryMuseum/scratchpads2/wiki/Install-Docker-and-Docker-Compose-(Centos-7)
+			- https://github.com/NaturalHistoryMuseum/scratchpads2/wiki/Install-Docker-and-Docker-Compose-(Centos-7)
 		- **_Install GitLab Runner -> Done_*
-		- https://docs.gitlab.com/runner/install/linux-repository.html
+			- https://docs.gitlab.com/runner/install/linux-repository.html
 		- **_Registering Runners -> Done_*
-		- https://docs.gitlab.com/runner/register/index.html
+			- https://docs.gitlab.com/runner/register/index.html
 		- **_Grant sudo permissions_**
-		- You can grant sudo permissions to the gitlab-runner user as this is who is executing the build script.
-		- $ sudo usermod -a -G sudo gitlab-runner
-		- You now have to remove the password restriction for sudo for the gitlab-runner user.
-		- Start the sudo editor with
-		- $ sudo visudo Now add the following to the bottom of the file
-		- gitlab-runner ALL=(ALL) NOPASSWD: ALL
+			- You can grant sudo permissions to the gitlab-runner user as this is who is executing the build script.
+			- $ sudo usermod -a -G sudo gitlab-runner
+			- You now have to remove the password restriction for sudo for the gitlab-runner user.
+			- Start the sudo editor with
+			- $ sudo visudo Now add the following to the bottom of the file
+			- gitlab-runner ALL=(ALL) NOPASSWD: ALL
 		- Ref.https://ardnarong.github.io/neis0736-cicd/System%20Admin%20Prepare%20Server/
 
 ---
