@@ -59,7 +59,15 @@
 
 ### **Step 2. Send GitLab Runner info, Prepare server and install Gitlab Runner**
 * **(Maintainer)**
-	* [Send Gitlab Runner info เพื่อให้ system admin ทำการ install Gitlab runner](https://ardnarong.github.io/neis0736-cicd/Maintainer%20send%20GitLab%20runner%20token%20to%20System%20Admin/)
+	* Send Gitlab Runner info เพื่อให้ system admin ทำการ install Gitlab runner
+		- Login GitLab
+	- Go to setting menu > CI/CD > Runner and click expand 
+	![](CICD_gitlabtoken01.png)
+	- ส่งข้อมูลด้านล่างนี้ให้กับ System Admin เพื่อติดตั้ง GitLab Runner บน Server 
+	![](CICD_gitlabtoken02.png)
+	- ทำการปิด Shared Runners โดยคลิกที่ Disable Shared Runners 
+	![](CICD_gitlabtoken03.png)
+	- Ref.https://ardnarong.github.io/neis0736-cicd/Maintainer%20send%20GitLab%20runner%20token%20to%20System%20Admin/
 
 * **(System Engineer)**
 	* [Prepare Server and install Gitlab Runner](https://ardnarong.github.io/neis0736-cicd/System%20Admin%20Prepare%20Server/)
