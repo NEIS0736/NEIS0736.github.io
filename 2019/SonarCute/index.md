@@ -4,7 +4,7 @@
 ![](ScopePresentation.jpg "by Khun Ardnarong Boonkerd")
 
 # **CI/CD Process**
-![](CICD_Process.png)
+![](CICD_Process01.png)
 
 
 ---
