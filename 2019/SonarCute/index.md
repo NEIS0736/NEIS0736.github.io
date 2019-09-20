@@ -170,12 +170,12 @@
 * **Team Member**
 
 	- Ardnarong Boonkerd (Development Leader)
-	- Tanapad Onsri (Tester)
-	- Pongpat Petchai (Tester)
+	- Tanapad Onsri (Quality Engineer)
+	- Pongpat Petchai (Quality Engineer)
 	- Suparath Suwannakorth (Maintainer)
 	- Raksapon Leelachat (System Admin)
 	- Sirimongkol Wongfu (System Admin)
-	- Angkarn Pummarin (Secretary)
+	- Angkarn Pummarin (Project Facilitator)
 	- Maykin Warasart (Project Sponsor)
 
 ---
