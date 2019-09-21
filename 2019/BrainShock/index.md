@@ -189,6 +189,9 @@
 	6. Pongpat Rakdej (Blockchain Specialist)
 	7. Maykin Warasart (Project Sponsor)
 	
+	
+	![](blockchain_pic.jpg)
+	
 ---
 
 ##### **[Software Security - NEIS0736](../) (2019)**!
