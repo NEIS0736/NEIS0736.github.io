@@ -190,7 +190,7 @@
 	7. Maykin Warasart (Project Sponsor)
 	
 	
-	![](blockchain_pic.jpg)
+	![](pic.jpg)
 	
 ---
 
