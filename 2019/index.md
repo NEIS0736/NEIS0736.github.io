@@ -314,7 +314,7 @@
 
 #### [**Day 14**] - (Sat) **Sep 21,** 2019
 <a name="EndGame"></a>
-*  Grouping for the <a href="#EndGame">#EndGame</a>
+*  Grouping for the <a href="#EndGame"><s>#EndGame</s></a> -> #CivilWar
 *  **Project Presentation**
    1. **CI/CD** by *SonarCute*
    1. **Blockchain** by *BrainShock!*
