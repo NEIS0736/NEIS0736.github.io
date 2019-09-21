@@ -270,6 +270,8 @@
 	- Pongpat Petchai (Quality Engineer)
 	- Tanapad Onsri (Quality Engineer)
 	- Maykin Warasart (Project Sponsor)
+![](Group_CI-CD01.jpg)
+
 
 ---
 
