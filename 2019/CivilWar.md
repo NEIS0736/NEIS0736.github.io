@@ -5,15 +5,11 @@
 
 ---
 
-# TeamCapt
-* xxx
-* xxx
-* xxx
+TeamCapt | # TeamStark
+ xxx | Ardnarong Boonkerd 
+ xxx | Angkarn Pummarin
+ xxx | xxxx
 
-# TeamStark
-* Ardnarong Boonkerd
-* Angkarn Pummarin
-* xxx
 
 ---
 
