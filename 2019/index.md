@@ -13,6 +13,11 @@
 <a name="MiSSxTalks"></a>
 **MiSS**x***Talks*** ([Slides](https://gitlab.com/NEIS0736/2019/tree/master/Slides))
 
+*  (Sep 28) 
+	* **Peranol Akkarasarateera** (5817810004) - "***Data Annonymization***"" 
+
+---
+
 *  (Jun 29)
 	* **Pongpat Rakdej** (6017810010) - "***High Performance Computing***" - [[Done](https://www.facebook.com/photo.php?fbid=10215306429115619&set=a.1301716704634)]
 *  (Jul 13) 
