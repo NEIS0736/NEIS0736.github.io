@@ -320,13 +320,14 @@
 
 #### [**Day 14**] - (Sat) **Sep 21,** 2019
 <a name="EndGame"></a>
-*  Grouping for the <a href="#EndGame"><s>#EndGame</s></a> **#CivilWar** ***#HourOfCode***
+*  Grouping for the <a href="#EndGame"><s>#EndGame</s></a> **[#CivilWar](CivilWar)** ***#HourOfCode***
 *  **Project Presentation**
    1. **CI/CD** by *SonarCute*
    1. **Blockchain** by *BrainShock!*
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2019/wikis/Scribe-of-Day-14)** *by **Peranol A.***
 
 #### [**Day 15**] - (Sat) **Sep 28,** 2019
+<a name="CivilWar"></a>
 *  **MiSS**x***Talks***
    * *Peranol A.*
 *  **<s>#EndGame</s>** **[#CivilWar](CivilWar)**, the ***Final Battle***
