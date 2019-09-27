@@ -329,7 +329,7 @@
 *  **MiSS**x***Talks***
    * *Peranol A.*
 *  **<s>#EndGame</s>** **#CivilWar**, the ***Final Battle***
-*  **[Daily Scribe](https://gitlab.com/NEIS0736/2019/wikis/Scribe-of-Day-15)** *by **Xxxx x.***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2019/wikis/Scribe-of-Day-15)** *by **Peranol A.***
 
 #### [**Final Examination**] - *(Lec + Lab)*
 * *(Sun)* **Oct 12, 2019** *(AM)*
