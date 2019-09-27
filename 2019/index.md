@@ -326,19 +326,13 @@
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2019/wikis/Scribe-of-Day-14)** *by **Peranol A.***
 
 #### [**Day 15**] - (Sat) **Sep 28,** 2019
+*  **MiSS**x***Talks***
+   * *Peranol A.*
 *  **#EndGame**, the ***Final Battle***
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2019/wikis/Scribe-of-Day-15)** *by **Xxxx x.***
 
 #### [**Final Examination**] - *(Lec + Lab)*
 * *(Sun)* **Oct 12, 2019** *(AM)*
-*  ***Keywords***
-	* Keyword1
-	* Keyword2
-	* Keyword3
-	* ...
-	* KeywordN-2
-	* KeywordN-1
-	* KeywordN
 
 ---
 ## Our lecture room, **MII 207B**
