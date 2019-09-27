@@ -8,11 +8,11 @@
  **#TeamCapt** | **#TeamStark**
  Mutchima Chuensart 	| Ardnarong Boonkerd 
  Tanapad Onsri			| Angkarn Pummarin
- xxx | Tossaporn Hansing
- xxx | Wissanu Sameejaeng
- xxx | Suparath Suwannakorth
- xxx | Yuttapon Kunkot
- xxx | Pattama Thongprapai
+ Sirimongkol Wongfu		| Tossaporn Hansing
+ Raksapon Leelachat		| Wissanu Sameejaeng
+ Pongpat	Petchai		| Suparath Suwannakorth
+ Chitsanuphong Thaninthorn | Yuttapon Kunkot
+ Chalermwut Likasitwong | Pattama Thongprapai
  Peranol Akkarasarateera|
 
 
