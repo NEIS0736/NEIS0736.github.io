@@ -8,6 +8,7 @@
 * Team-based Term Projects **([#SonarCute](SonarCute), [#BrainShock](BrainShock))**
 * **[1st Half Score](https://gitlab.com/NEIS0736/2019/wikis/1stHalfScore)**
 * **<a href="#HereWeFix">#HereWeFix Contest</a>**
+* **<a href="#CivilWar">#CivilWar #HourOfCode #HereWeFix</a>**
 
 ---
 <a name="MiSSxTalks"></a>
