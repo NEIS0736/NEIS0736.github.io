@@ -14,7 +14,7 @@
 **MiSS**x***Talks*** ([Slides](https://gitlab.com/NEIS0736/2019/tree/master/Slides))
 
 *  (Sep 28) 
-	* **Peranol Akkarasarateera** (5817810004) - "***Data Annonymization***"" 
+	* **Peranol Akkarasarateera** (5817810004) - "***Data Anonymization***" 
 
 ---
 
