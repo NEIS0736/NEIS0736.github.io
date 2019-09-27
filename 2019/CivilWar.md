@@ -6,14 +6,14 @@
 ---
 
  **#TeamCapt** | **#TeamStark**
- xxx | Ardnarong Boonkerd 
- xxx | Angkarn Pummarin
+ Mutchima Chuensart 	| Ardnarong Boonkerd 
+ Tanapad Onsri			| Angkarn Pummarin
  xxx | Tossaporn Hansing
  xxx | Wissanu Sameejaeng
  xxx | Suparath Suwannakorth
  xxx | Yuttapon Kunkot
  xxx | Pattama Thongprapai
- xxx |
+ Peranol Akkarasarateera|
 
 
 ---
