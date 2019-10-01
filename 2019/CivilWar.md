@@ -3,7 +3,6 @@
 ---
 (***Sat***) **Sep 28,** 2019 
 
----
 
  **#TeamCapt** | **#TeamStark**
  Mutchima Chuensart 	| Ardnarong Boonkerd 
