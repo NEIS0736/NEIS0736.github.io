@@ -16,11 +16,8 @@
  Peranol Akkarasarateera|
 
 
----
-
 ![](CivilWar/before.jpg "#NEIS0736 #SoftwareSecurity #HourOfCode #HereWeFix")
 
----
 
 ---
 
