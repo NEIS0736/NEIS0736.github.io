@@ -18,7 +18,7 @@
 
 ---
 
-![](CivilWar/xx.jpg "#NEIS0736 #SoftwareSecurity #HourOfCode #HereWeFix")
+![](CivilWar/before.jpg "#NEIS0736 #SoftwareSecurity #HourOfCode #HereWeFix")
 
 ---
 
