@@ -39,7 +39,7 @@
 	* **Suparath Suwannakorth** (6117670003) - "***Digital Certificates for Electronic Transactions***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10212000767053381)]
 	* **Mutchima Chuensart** (6117810005) - "***Domain-Driven Design: Tackling Complexity in the Heart of Software***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10212000890896477)]
 	* **Raksapon Leelachat** (6117810001) - "***Secure Deployment***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10212000923817300)]
-    * **Yuttapon Kunkot** (6117810012) - "***Introduction to OWASP ZAP for Web Application Security Assessments***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10212001044300312)]
+    * **Yuttapon Kunkot** (6117810012) - "***[Introduction to OWASP ZAP for Web Application Security Assessments](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_Introduction-to-OWASP-ZAP-for-WebApplicationSecurity_v1.0.pdf)***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10212001044300312)]
 
 ---
 
