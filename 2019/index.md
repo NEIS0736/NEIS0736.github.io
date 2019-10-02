@@ -15,28 +15,28 @@
 **MiSS**x***Talks*** ([Slides](https://gitlab.com/NEIS0736/2019/tree/master/Slides))
 
 *  (Jun 29)
-	* **Pongpat Rakdej** (6017810010) - "***High Performance Computing***" - [[Done](https://www.facebook.com/photo.php?fbid=10215306429115619&set=a.1301716704634)]
+	* **Pongpat Rakdej** - "***High Performance Computing***" - [[Done](https://www.facebook.com/photo.php?fbid=10215306429115619&set=a.1301716704634)]
 *  (Jul 13) 
-	* **Angkarn Pummarin** (Certificate) - "***[Why use threat modeling & how to use it.](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_Why_use_threat_modeling_&_How_to_use_it_v1.0.pdf)***" - [[Done](https://www.facebook.com/photo.php?fbid=10211640073316263&set=a.1808814919020)]
+	* **Angkarn Pummarin** - "***[Why use threat modeling & how to use it.](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_Why_use_threat_modeling_&_How_to_use_it_v1.0.pdf)***" - [[Done](https://www.facebook.com/photo.php?fbid=10211640073316263&set=a.1808814919020)]
 *  (Aug 10)
-	* **Ardnarong Boonkerd** (Certificate) - "***[Code quality, measuring and improving it, getting started with SonarQube.](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_Code-Quality_v1.0.pdf)***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10211802447055505)]
+	* **Ardnarong Boonkerd** - "***[Code quality, measuring and improving it, getting started with SonarQube.](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_Code-Quality_v1.0.pdf)***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10211802447055505)]
 *  (Aug 24)
-	* **Chalermwut Likasitwong** (6117810006) - "***[Tips for Securing your Information Under PCI DSS](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_Tips-for-Securing-your-Information-Under-PCI-DSS.pdf)***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10211880484126383)]
-	* **Tanapad Onsri** (6117810004) - "***[Data Breaches, Data Leaks, Web Defacements Why Secure Coding Is Important?](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_DataBreaches-DataLeaks-WebDefacements-WhySecureCodingIsImportant.pdf)***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10211880823094857)]
+	* **Chalermwut Likasitwong** - "***[Tips for Securing your Information Under PCI DSS](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_Tips-for-Securing-your-Information-Under-PCI-DSS.pdf)***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10211880484126383)]
+	* **Tanapad Onsri** - "***[Data Breaches, Data Leaks, Web Defacements Why Secure Coding Is Important?](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_DataBreaches-DataLeaks-WebDefacements-WhySecureCodingIsImportant.pdf)***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10211880823094857)]
 *  (Sep 7) 
-	* **Sirimongkol Wongfu** (6117810003) - "***[What is Security Misconfiguration, and How to Avoid it.](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_What-is-SecurityMisconfiguration-and-How-to-Avoid-it.pdf)***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10211956069335966)]
+	* **Sirimongkol Wongfu** - "***[What is Security Misconfiguration, and How to Avoid it.](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_What-is-SecurityMisconfiguration-and-How-to-Avoid-it.pdf)***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10211956069335966)]
 *  (Sep 14)
-	* **Wissanu Sameejaeng** (6117810011) - "***Security Tips for Your ERP Implementation***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10211992903976809)]
-	* **Pongpat	Petchai** (6117810009) - "***[How to Prevent File Upload Vulnerabilities](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_How-to-Prevent-FileUpload-Vulnerabilities_v1.0.pdf)***" - [[Done](https://www.facebook.com/photo.php?fbid=10211993106141863&set=a.4029185946908)]
-	* **Pattama Thongprapai** (6117810014) - "***Why code reviews matter (and actually save time!)***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10211993172183514)]
-	* **Tossaporn Hansing** (6117810016) - "***Think Like an Attacker and Improve Your Defensive Strategy***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10211993612154513)]
+	* **Wissanu Sameejaeng** - "***Security Tips for Your ERP Implementation***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10211992903976809)]
+	* **Pongpat	Petchai** - "***[How to Prevent File Upload Vulnerabilities](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_How-to-Prevent-FileUpload-Vulnerabilities_v1.0.pdf)***" - [[Done](https://www.facebook.com/photo.php?fbid=10211993106141863&set=a.4029185946908)]
+	* **Pattama Thongprapai** - "***Why code reviews matter (and actually save time!)***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10211993172183514)]
+	* **Tossaporn Hansing** - "***Think Like an Attacker and Improve Your Defensive Strategy***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10211993612154513)]
 *  (Sep 15) 
-	* **Suparath Suwannakorth** (6117670003) - "***Digital Certificates for Electronic Transactions***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10212000767053381)]
-	* **Mutchima Chuensart** (6117810005) - "***[Domain-Driven Design: Tackling Complexity in the Heart of Software](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_Domain-Driven-Design_v1.0.pdf)***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10212000890896477)]
-	* **Raksapon Leelachat** (6117810001) - "***Secure Deployment***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10212000923817300)]
-    * **Yuttapon Kunkot** (6117810012) - "***[Introduction to OWASP ZAP for Web Application Security Assessments](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_Introduction-to-OWASP-ZAP-for-WebApplicationSecurity_v1.0.pdf)***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10212001044300312)]
+	* **Suparath Suwannakorth** - "***Digital Certificates for Electronic Transactions***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10212000767053381)]
+	* **Mutchima Chuensart** - "***[Domain-Driven Design: Tackling Complexity in the Heart of Software](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_Domain-Driven-Design_v1.0.pdf)***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10212000890896477)]
+	* **Raksapon Leelachat** - "***Secure Deployment***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10212000923817300)]
+    * **Yuttapon Kunkot** - "***[Introduction to OWASP ZAP for Web Application Security Assessments](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_Introduction-to-OWASP-ZAP-for-WebApplicationSecurity_v1.0.pdf)***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10212001044300312)]
 *  (Sep 28) 
-	* **Peranol Akkarasarateera** (5817810004) - "***[Data Anonymization](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_DataAnonymization_v1.0.pdf)***" - [[Done](https://twitter.com/maeklong/status/1179073418576060417)]
+	* **Peranol Akkarasarateera** - "***[Data Anonymization](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_DataAnonymization_v1.0.pdf)***" - [[Done](https://twitter.com/maeklong/status/1179073418576060417)]
 
 ---
 
