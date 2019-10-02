@@ -28,7 +28,7 @@
 *  (Sep 14)
 	* **Wissanu Sameejaeng** - "***[Security Tips for Your ERP Implementation[(https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_Security-Tips-for-Your-ERP-Implementation_v1.0.pdf)***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10211992903976809)]
 	* **Pongpat	Petchai** - "***[How to Prevent File Upload Vulnerabilities](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_How-to-Prevent-FileUpload-Vulnerabilities_v1.0.pdf)***" - [[Done](https://www.facebook.com/photo.php?fbid=10211993106141863&set=a.4029185946908)]
-	* **Pattama Thongprapai** - "***Why code reviews matter (and actually save time!)***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10211993172183514)]
+	* **Pattama Thongprapai** - "***[Why code reviews matter (and actually save time!)](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_Why-CodeReviews-Matter_v1.0.pdf)***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10211993172183514)]
 	* **Tossaporn Hansing** - "***Think Like an Attacker and Improve Your Defensive Strategy***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10211993612154513)]
 *  (Sep 15) 
 	* **Suparath Suwannakorth** - "***Digital Certificates for Electronic Transactions***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10212000767053381)]
