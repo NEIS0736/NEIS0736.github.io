@@ -31,7 +31,7 @@
 	* **Pattama Thongprapai** - "***[Why code reviews matter (and actually save time!)](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_Why-CodeReviews-Matter_v1.0.pdf)***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10211993172183514)]
 	* **Tossaporn Hansing** - "***Think Like an Attacker and Improve Your Defensive Strategy***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10211993612154513)]
 *  (Sep 15) 
-	* **Suparath Suwannakorth** - "***Digital Certificates for Electronic Transactions***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10212000767053381)]
+	* **Suparath Suwannakorth** - "***[Digital Certificates for Electronic Transactions](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_Digital-Certificate_v1.0.pdf)***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10212000767053381)]
 	* **Mutchima Chuensart** - "***[Domain-Driven Design: Tackling Complexity in the Heart of Software](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_Domain-Driven-Design_v1.0.pdf)***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10212000890896477)]
 	* **Raksapon Leelachat** - "***Secure Deployment***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10212000923817300)]
     * **Yuttapon Kunkot** - "***[Introduction to OWASP ZAP for Web Application Security Assessments](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_Introduction-to-OWASP-ZAP-for-WebApplicationSecurity_v1.0.pdf)***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10212001044300312)]
