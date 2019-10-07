@@ -330,7 +330,7 @@
 *  **<s>#EndGame</s>** **[#CivilWar](CivilWar)**, the ***Final Battle***
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2019/wikis/Scribe-of-Day-15)** *by **Peranol A.***
 
-#### [**Final Examination**] - *(Lec + Lab)*
+#### [**Final Examination**] - *(Lec)*
 * *(Sun)* **Oct 12, 2019** *(AM)*
 
 ---
