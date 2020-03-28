@@ -150,7 +150,7 @@
 	* ([TossapornH](https://twinzabx2.github.io/TossapornH))
 1. **6117810017 - Shirassuda Thongpahkdhi\***
 	* (Hello World\*)
-	* (failure transparency\*)
+	* (Failure transparency\*)
 1. **Certificate - [Thanchanok Laopromsukon](https://thanchanok28.github.io)**
 	* ([Hello World](https://github.com/thanchanok28/Thanchanok28.github.io/blob/master/HelloWorld.html))
 1. **Certificate - [Angkarn Pummarin](https://c61213on.github.io/)**
