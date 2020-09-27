@@ -6,13 +6,13 @@
 
 ---
 
-### **[Member(s)]**
+### **[Member]**
 
 1. John Doe
 
 ---
 
-### **[Instructor(s)]**
+### **[Instructor]**
 * **[Maykin Warasart](https://fb.me/maeklong)**
 * **[Pongpat Rakdej](https://fb.me/pongpatrakdej)**
 
