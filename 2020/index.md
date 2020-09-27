@@ -12,7 +12,7 @@
 
 ---
 
-**[Instructor *&* Co-instructor]**
+**[Instructors]**
 * **[Maykin Warasart](https://fb.me/maeklong)**
 * **[Pongpat Rakdej](https://fb.me/pongpatrakdej)**
 
