@@ -16,7 +16,6 @@
 * **[Maykin Warasart](https://fb.me/maeklong)**
 * **[Pongpat Rakdej](https://fb.me/pongpatrakdej)**
 
-
 ---
 
 ### [**Day 1**] - (Sun) **Nov 22,** 2020
