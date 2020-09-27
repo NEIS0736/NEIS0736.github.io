@@ -14,7 +14,7 @@
 
 **[Instructor *&* Co-instructor]**
 * **[Maykin Warasart](https://fb.me/maeklong)**
-* *[Pongpat Rakdej](https://fb.me/pongpatrakdej)*
+* **[Pongpat Rakdej](https://fb.me/pongpatrakdej)**
 
 
 ---
