@@ -22,11 +22,15 @@
 
 ### [**Day 1**] - (Sun) **Nov 22,** 2020
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-1)** *by **John Doe***
+*  **One-on-one Assessment**
+	1. John Doe
+	1. John Doe
 
 ### [**Day 2**] - (Sun) **Nov 29,** 2020
-*  **MiSS**x***Talks***
-   * *John Doe*
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-2)** *by **John Doe***
+*  **One-on-one Assessment (cont'd)**
+	1. John Doe
+	1. John Doe
 
 ### [**Day 3**] - (Sun) **Dec 6,** 2020
 *  **MiSS**x***Talks***
@@ -48,14 +52,14 @@
    * *John Doe*
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-6)** *by **John Doe***
 
-### [**Day 7**] - (***Sun***) **Jan 3,** 2020
-*  **One-on-one Assessment**
-	1. John Doe
-	1. John Doe
-    
+### [**Day 7**] - (Sun)
+*  **#MiSSxTalks Special**
+
 ---
 
-### [**Semi-final Examination**] 
+### [**Semi-final Examination**]
+*  Openbook (2 hours) + live debugging (1 Hour)
+*  Controlled environment (w/o Communication Devices)
 
 ---
 
