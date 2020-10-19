@@ -110,5 +110,5 @@
 ## Our lecture room, **TBA**
 
 ---
-## Extra Point
+### [**Extra Point**]
 *  Digital signature verification (e.g. TOR)
