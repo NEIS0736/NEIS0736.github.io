@@ -111,4 +111,4 @@
 
 ---
 ### [**Extra Point**]
-*  Digital signature verification (e.g. TOR)
+*  Digital signature verification (e.g. Tor Browser)
