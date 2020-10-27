@@ -14,16 +14,36 @@
 ---
 
 ### **[MiSSxTalks*]* (2 chances)
-    * (Sun) **Dec 6,** 2020
-    * (Sun) **Dec 13,** 2020
-    * (Sun) **Dec 20,** 2020 *(subjected to change)*
-    * (Sun) **Dec 27,** 2020
-    * (Sun) **Jan 3,** 2021 *(subjected to change)*
-    * (Sun) **Jan 24,** 2021
-    * (Sun) **Jan 31,** 2021
-    * (Sun) **Feb 7,** 2021 *(subjected to change)*
-    * (Sun) **Feb 14,** 2021
-    * (Sun) **Feb 21,** 2021
+* (Sun) **Dec 6,** 2020
+    * Slot A: ???
+    * Slot B: ???
+* (Sun) **Dec 13,** 2020
+    * Slot A: ???
+    * Slot B: ???
+* (Sun) **Dec 20,** 2020 *(subjected to change)*
+    * Slot A: ???
+    * Slot B: ???
+* (Sun) **Dec 27,** 2020
+    * Slot A: ???
+    * Slot B: ???
+* (Sun) **Jan 3,** 2021 *(subjected to change)*
+    * Slot A: ???
+    * Slot B: ???
+* (Sun) **Jan 24,** 2021
+    * Slot A: ???
+    * Slot B: ???
+* (Sun) **Jan 31,** 2021
+    * Slot A: ???
+    * Slot B: ???
+* (Sun) **Feb 7,** 2021 *(subjected to change)*
+    * Slot A: ???
+    * Slot B: ???
+* (Sun) **Feb 14,** 2021
+    * Slot A: ???
+    * Slot B: ???
+* (Sun) **Feb 21,** 2021
+    * Slot A: ???
+    * Slot B: ???
 
 ---
 
