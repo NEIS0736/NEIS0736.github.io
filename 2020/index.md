@@ -40,7 +40,7 @@
    * *John Doe*
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-4)** *by **John Doe***
 
-### [**Day 5**] - (Sun) **Dec 20,** 2020
+### [**Day 5**] - (Sun) **Dec 20,** 2020 *(subjected to change)*
 *  **MiSS**x***Talks***
    * *John Doe*
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-5)** *by **John Doe***
@@ -71,7 +71,7 @@
    * *John Doe*
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-9)** *by **John Doe***
 
-### [**Day 10**] - (Sun) **Feb 7,** 2021
+### [**Day 10**] - (Sun) **Feb 7,** 2021 *(subjected to change)*
 *  **MiSS**x***Talks***
    * *John Doe*
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-10)** *by **John Doe***
