@@ -65,9 +65,7 @@
 ---
 
 ### [**Day 8**] - (Sun) **Jan 24,** 2021
-*  **MiSS**x***Talks***
-   * *John Doe*
-*  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-8)** *by **John Doe***
+*  **MiSS**x***Talks*** **Special**
 
 ### [**Day 9**] - (Sun) **Jan 31,** 2021
 *  **MiSS**x***Talks***
