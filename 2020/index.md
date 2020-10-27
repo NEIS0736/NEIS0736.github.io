@@ -58,9 +58,9 @@
 ---
 
 ### [**Semi-final Examination**]
-*  *Jan [9\|10\|16\|17], 2021 ([A\|P]M)*
-*  **Openbook (2 hours) + live debugging (1 Hour)**
-*  **Controlled environment (w/o Communication Devices)**
+*  **Jan [9\|10\|16\|17], 2021 ([A\|P]M)**
+*  *Openbook (2 hours) + live debugging (1 Hour)*
+*  *Controlled environment (w/o Communication Devices)*
 
 ---
 
@@ -105,7 +105,7 @@
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-15)** *by **John Doe***
 
 ### [**Final Examination**] - *(Lec)*
-* *Mar [20\|21\|27\|28], 2021 ([A\|P]M)*
+*  **Mar [20\|21\|27\|28], 2021 ([A\|P]M)**
 
 ---
 ## Our lecture room, **TBA**
