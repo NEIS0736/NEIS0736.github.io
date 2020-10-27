@@ -13,7 +13,7 @@
 
 ---
 
-### **[MiSSxTalks*]** (2 chances)
+### **[MiSS**x***Talks*]** (2 chances)
 * (Sun) **Dec 6,** 2020
     * Slot A: ???
     * Slot B: ???
