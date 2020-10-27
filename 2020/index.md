@@ -3,7 +3,6 @@
 ---
 
 * [GitLab **Wiki** Page](https://gitlab.com/NEIS0736/2020/wikis/README)
-* MiSSxTalks (2 chances)
 * MiSSxTalks *Special* (Jan 24, 2021)
 
 ---
@@ -11,6 +10,20 @@
 ### **[Member]**
 
 1. John Doe
+
+---
+
+### **[MiSSxTalks*]* (2 chances)
+    * (Sun) **Dec 6,** 2020
+    * (Sun) **Dec 13,** 2020
+    * (Sun) **Dec 20,** 2020 *(subjected to change)*
+    * (Sun) **Dec 27,** 2020
+    * (Sun) **Jan 3,** 2021 *(subjected to change)*
+    * (Sun) **Jan 24,** 2021
+    * (Sun) **Jan 31,** 2021
+    * (Sun) **Feb 7,** 2021 *(subjected to change)*
+    * (Sun) **Feb 14,** 2021
+    * (Sun) **Feb 21,** 2021
 
 ---
 
@@ -84,20 +97,14 @@
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-12)** *by **John Doe***
 
 ### [**Day 13**] - (Sun) **Feb 28,** 2021
-*  **MiSS**x***Talks***
-   * *John Doe*
 *  **Mini-Contest**
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-13)** *by **John Doe***
 
 ### [**Day 14**] - (Sun) **Mar 7,** 2021
-*  **MiSS**x***Talks***
-   * *John Doe*
 *  **Group Project** Presentation
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-14)** *by **John Doe***
 
 ### [**Day 15**] - (Sun) **Mar 14,** 2021
-*  **MiSS**x***Talks***
-   * *John Doe*
 *  **Group Project** Presentation
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-15)** *by **John Doe***
 
