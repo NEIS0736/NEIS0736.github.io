@@ -110,3 +110,4 @@
 ### [**Extra Point**]
 *  Digital signature verification (e.g. Tor Browser)
 *  [Tester Work](https://testerwork.com/), a crowdsourced testing.
+*  Publication[s]
