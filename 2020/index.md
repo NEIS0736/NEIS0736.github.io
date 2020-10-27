@@ -91,9 +91,12 @@
 ### [**Day 14**] - (Sun) **Mar 7,** 2021
 *  **MiSS**x***Talks***
    * *John Doe*
+*  **Group Project** Presentation
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-14)** *by **John Doe***
 
 ### [**Day 15**] - (Sun) **Mar 14,** 2021
+*  **MiSS**x***Talks***
+   * *John Doe*
 *  **Group Project** Presentation
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-15)** *by **John Doe***
 
