@@ -56,7 +56,7 @@
 ### [**Semi-final Examination**]
 *  **Jan [10\|17], 2021 (AM)**
 *  *Openbook (2 hours) + live debugging (1 Hour)*
-*  *Controlled environment (w/o Communication Devices)*
+*  *Controlled environment (w/o communication devices)*
 
 ---
 
