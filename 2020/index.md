@@ -27,8 +27,6 @@
 ### [**Day 2**] - (Sun) **Nov 29,** 2020
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-2)** *by **John Doe***
 *  **One-on-one Assessment**
-	1. John Doe
-	1. John Doe
 
 ### [**Day 3**] - (Sun) **Dec 6,** 2020
 *  **MiSS**x***Talks***
