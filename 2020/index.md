@@ -48,7 +48,7 @@
    * *John Doe*
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-6)** *by **John Doe***
 
-### [**Day 7**] - (Sun) **Jan 3,** 2021
+### [**Day 7**] - (Sun) **Jan 3,** 2021 *(subjected to change)*
 *  **MiSS**x***Talks***
    * *John Doe*
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-7)** *by **John Doe***
