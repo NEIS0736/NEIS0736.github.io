@@ -86,6 +86,7 @@
 ### [**Day 13**] - (Sun) **Feb 28,** 2021
 *  **MiSS**x***Talks***
    * *John Doe*
+*  **Mini-Contest**
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-13)** *by **John Doe***
 
 ### [**Day 14**] - (Sun) **Mar 7,** 2021
