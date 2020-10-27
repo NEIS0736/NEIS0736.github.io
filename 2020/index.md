@@ -22,13 +22,12 @@
 
 ### [**Day 1**] - (Sun) **Nov 22,** 2020
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-1)** *by **John Doe***
-*  **One-on-one Assessment**
 	1. John Doe
 	1. John Doe
 
 ### [**Day 2**] - (Sun) **Nov 29,** 2020
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-2)** *by **John Doe***
-*  **One-on-one Assessment (cont'd)**
+*  **One-on-one Assessment**
 	1. John Doe
 	1. John Doe
 
@@ -52,59 +51,61 @@
    * *John Doe*
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-6)** *by **John Doe***
 
-### [**Day 7**] - (Sun)
-*  **#MiSSxTalks Special**
-
+### [**Day 7**] - (Sun) **Jan 3,** 2021
+*  **MiSS**x***Talks***
+   * *John Doe*
+*  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-7)** *by **John Doe***
 ---
 
 ### [**Semi-final Examination**]
-*  Openbook (2 hours) + live debugging (1 Hour)
-*  Controlled environment (w/o Communication Devices)
+*  *Jan [9|10|16|17], 2021 ([A|P]M)*
+*  **Openbook (2 hours) + live debugging (1 Hour)**
+*  **Controlled environment (w/o Communication Devices)**
 
 ---
 
-### [**Day 8**]
+### [**Day 8**] - (Sun) **Jan 24,** 2021
 *  **MiSS**x***Talks***
    * *John Doe*
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-8)** *by **John Doe***
 
-### [**Day 9**]
+### [**Day 9**] - (Sun) **Jan 31,** 2021
 *  **MiSS**x***Talks***
    * *John Doe*
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-9)** *by **John Doe***
 
-### [**Day 10**]
+### [**Day 10**] - (Sun) **Feb 7,** 2021
 *  **MiSS**x***Talks***
    * *John Doe*
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-10)** *by **John Doe***
 
-### [**Day 11**]
+### [**Day 11**] - (Sun) **Feb 14,** 2021
 *  **MiSS**x***Talks***
    * *John Doe*
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-11)** *by **John Doe***
 
-### [**Day 12**]
+### [**Day 12**] - (Sun) **Feb 21,** 2021
 *  **MiSS**x***Talks***
    * *John Doe*
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-12)** *by **John Doe***
 
-### [**Day 13**]
+### [**Day 13**] - (Sun) **Feb 28,** 2021
 *  **MiSS**x***Talks***
    * *John Doe*
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-13)** *by **John Doe***
 
-### [**Day 14**]
+### [**Day 14**] - (Sun) **Mar 7,** 2021
 *  **MiSS**x***Talks***
    * *John Doe*
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-14)** *by **John Doe***
 
-### [**Day 15**]
+### [**Day 15**] - (Sun) **Mar 14,** 2021
 *  **MiSS**x***Talks***
    * *John Doe*
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-15)** *by **John Doe***
 
 ### [**Final Examination**] - *(Lec)*
-* *TBA*
+* *Mar [20|21|27|28], 2021 ([A|P]M)*
 
 ---
 ## Our lecture room, **TBA**
