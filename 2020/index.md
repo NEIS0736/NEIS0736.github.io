@@ -3,7 +3,7 @@
 ---
 
 * [GitLab **Wiki** Page](https://gitlab.com/NEIS0736/2020/wikis/README)
-* **MiSS**x***Talks*** *Special* (Jan 24, 2021)
+* **MiSS**x***Talks*** *Special* : **Jan 24, 2021** *(tentative)*
 
 ---
 
