@@ -15,6 +15,6 @@
 * Room : **MII207A** (*MII Bldg.*)
 * [KBs](http://msit.mut.ac.th/neis0736)
 
-```markdown
-More info : maykin@owasp.org, maykin@ieee.org
-```
+### More info 
+* maykin@owasp.org, maykin@ieee.org
+* https://line.me/R/ti/p/@maykin
