@@ -56,10 +56,11 @@
 
 ### [**Day 1**] - (Sun) **Nov 22,** 2020
 *  Git
+*  **One-on-one Assessment** #1
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-1)** *by **John Doe***
 
 ### [**Day 2**] - (Sun) **Nov 29,** 2020
-*  **One-on-one Assessment**
+*  **One-on-one Assessment** #2
 
 ### [**Day 3**] - (Sun) **Dec 6,** 2020
 *  **MiSS**x***Talks***
