@@ -16,5 +16,5 @@
 * [KBs](http://msit.mut.ac.th/neis0736)
 
 ### More info 
-* maykin@owasp.org, maykin@ieee.org
+* [mailto](mailto:maykin@owasp.org), maykin@ieee.org
 * https://line.me/R/ti/p/@maykin
