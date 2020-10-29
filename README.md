@@ -14,3 +14,7 @@
 * Time : **9:00 - 12:00** (*Sun*)
 * Room : **MII207A** (*MII Bldg.*)
 * [KBs](http://msit.mut.ac.th/neis0736)
+
+```markdown
+More info : maykin@owasp.org, maykin@ieee.org
+```
