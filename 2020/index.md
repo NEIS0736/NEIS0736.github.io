@@ -55,6 +55,7 @@
 ---
 
 ### [**Day 1**] - (Sun) **Nov 22,** 2020
+*  Git
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-1)** *by **John Doe***
 
 ### [**Day 2**] - (Sun) **Nov 29,** 2020
