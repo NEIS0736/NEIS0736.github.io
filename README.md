@@ -17,4 +17,4 @@
 
 [**More info**] 
 * [maykin@owasp.org](mailto:maykin@owasp.org), [maykin@ieee.org](mailto:maykin@ieee.org)
-* [@maykin](https://line.me/R/ti/p/@maykin)
+* [LINE](https://line.me/R/ti/p/@maykin), [Telegram](https://t.me/maeklong)
