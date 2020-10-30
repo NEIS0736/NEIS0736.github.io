@@ -141,4 +141,5 @@
 *  [Keybase](https://keybase.io/)
 *  Digital signature verification (e.g. Tor Browser)
 *  [Tester Work](https://testerwork.com/), a crowdsourced testing.
+*  Subresource Integrity
 *  Publication[s]
