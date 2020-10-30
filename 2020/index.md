@@ -63,7 +63,9 @@
 *  Homework : [**Bruce Schneier: The Security Mindset**](https://www.youtube.com/watch?v=eZNzMKS7zjo) - 7:32 min.
 
 ### [**Week 2**] - (Sun) **Nov 29,** 2020
-*  **One-on-one Assessment**
+*  **One-on-one Assessment** (***true coffee***)
+    ** Security Mindset
+    ** Topics of interest - Thesis/Independent Study
 
 ### [**Week 3**] - (Sun) **Dec 6,** 2020
 *  **MiSS**x***Talks***
