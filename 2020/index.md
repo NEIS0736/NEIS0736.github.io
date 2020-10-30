@@ -142,12 +142,12 @@
  
 |       ACTIVITIES	                      | PERCENTAGES |
 | --------------------------------------- | ----------- |
-|Attendance and Participation	          |     xx%     |
-|Assignments                              |     xx%     |
-|Completion of mandatory finger exercises |	    xx%     |
-|Course Project                           |     xx%     |
-|Midterm Quiz	                          |     xx%     |
-|Final Quiz                               |	    xx%     |
+|Attendance and Participation             |      xx     |
+|Individual assignments and extra point   |      xx     |
+|Completion of mandatory finger exercises |	     xx     |
+|Course Project                           |      xx     |
+|Midterm Quiz	                          |      xx     |
+|Final Quiz                               |	     xx     |
 
 ---
 ### [**Required Materials**]
