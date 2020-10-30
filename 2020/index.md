@@ -64,9 +64,9 @@
 
 ### [**Week 2**] - (Sun) **Nov 29,** 2020
 *  **One-on-one Assessment** (***true coffee***)
-    ** Background check
-    ** Security mindset
-    ** Topics of interest (Thesis/Independent Study)
+    * Background check
+    * Security mindset
+    * Topics of interest (Thesis/Independent Study)
 
 ### [**Week 3**] - (Sun) **Dec 6,** 2020
 *  **MiSS**x***Talks***
