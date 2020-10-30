@@ -64,13 +64,14 @@
 *  Homeworks
     *  [**Bruce Schneier: The Security Mindset**](https://www.youtube.com/watch?v=eZNzMKS7zjo) - *only 7:32 min.*
     *  Prep. for the [One-on-One](#OneOnOne) Assessment
+        * Background check
+        * Security mindset
+        * Topics of interest (Thesis/Independent Study)
 
 ### [**Week 2**] - (Sun) **Nov 29,** 2020
 <a name="OneOnOne"></a>
 *  **One-on-One Assessment** (***true coffee***)
-    * Background check
-    * Security mindset
-    * Topics of interest (Thesis/Independent Study)
+    *  John Doe 
 
 ### [**Week 3**] - (Sun) **Dec 6,** 2020
 *  **MiSS**x***Talks***
