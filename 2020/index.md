@@ -49,9 +49,9 @@
 ---
 
 ### **[Instructor]**
-* **[Maykin Warasart](https://fb.me/maeklong)**
-* **[Pongpat Rakdej](https://fb.me/pongpatrakdej)**
-* **[Pemika Limpittaya](https://fb.me/tourlek.fisho)**
+* [Maykin Warasart](https://fb.me/maeklong)
+* [Pongpat Rakdej](https://fb.me/pongpatrakdej)
+* [Pemika Limpittaya](https://fb.me/tourlek.fisho)
 
 ---
 
