@@ -147,6 +147,10 @@
 |Final Quiz|	40%|
 
 ---
+## **Required Materials**
+There are no required books to purchase for this class.  
+
+---
 ## Our lecture room, **TBA**
 
 ---
