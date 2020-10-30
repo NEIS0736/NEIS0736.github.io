@@ -62,10 +62,11 @@
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-1)** *by **John Doe***
 *  Homeworks
     *  [**Bruce Schneier: The Security Mindset**](https://www.youtube.com/watch?v=eZNzMKS7zjo) - *only 7:32 min.*
-    *  Prep. for the OoO.
+    *  Prep. for the [One-on-One](OneOnOne)
 
 ### [**Week 2**] - (Sun) **Nov 29,** 2020
-*  **One-on-one Assessment** (***true coffee***)
+<a name="OneOnOne"></a>
+*  **One-on-One Assessment** (***true coffee***)
     * Background check
     * Security mindset
     * Topics of interest (Thesis/Independent Study)
