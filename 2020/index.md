@@ -147,11 +147,11 @@
 |Final Quiz|	40%|
 
 ---
-## **Required Materials**
+## [**Required Materials**]
 There are no required books to purchase for this class.  
 
 ---
-## **Recommended Materials**
+## [**Recommended Materials**]
 *  Security Engineering, Ross Anderson
 *  Computer Security and the Internet:  Tools and Jewels, Paul C. van Oorschot
 *  Software Security:  Principles, Policies, and Protection, Payer 
