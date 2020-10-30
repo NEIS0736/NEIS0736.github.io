@@ -136,6 +136,17 @@
 *  **Mar [20\|21\|27\|28], 2021 ([A\|P]M)**
 
 ---
+### [**Grading Policy**]
+ Grades will be roughly computed as follows:
+ 
+|ACTIVITIES	| PERCENTAGES |
+| --- | ----------- |
+|Problem sets	|30%|
+|Completion of mandatory finger exercises|	10%|
+|Midterm Quiz	|20%|
+|Final Quiz|	40%|
+
+---
 ## Our lecture room, **TBA**
 
 ---
@@ -146,14 +157,3 @@
 *  CTF/Bug bounty write-ups
 *  Subresource Integrity
 *  Publication[s]
-
----
-### [**Grading Policy**]
- Grades will be roughly computed as follows:
- 
-|ACTIVITIES	| PERCENTAGES |
-| --- | ----------- |
-|Problem sets	|30%|
-|Completion of mandatory finger exercises|	10%|
-|Midterm Quiz	|20%|
-|Final Quiz|	40%|
