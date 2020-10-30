@@ -157,7 +157,7 @@ There are no required books to purchase for this class.
 *  [Software Security:  Principles, Policies, and Protection](https://nebelwelt.net/SS3P/softsec.pdf), Payer 
 
 ---
-### Official class meeting place, **TBA**
+### [**Official class meeting place**], ***TBA***
 
 ---
 ### [**Extra Point**]
