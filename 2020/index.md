@@ -143,14 +143,14 @@
 ### [**Grading Policy**]
  A weighted grade average will be calculated as follows:
  
-|       ACTIVITIES	                       | PERCENTAGES |
-| ---------------------------------------- | ----------- |
-|In-class participation                    |      xx     |
-|Individual assignments and extra point    |      xx     |
-|Completion of mandatory finger exercises  |	  xx     |
-|Course project                            |      xx     |
-|Midterm exam	                           |      xx     |
-|Final exam                                |	  xx     |
+|       ACTIVITIES	                         | PERCENTAGES |
+| ------------------------------------------ | ----------- |
+|In-class participation (#MiSSxTalks special)|      xx     |
+|Individual assignments (#MiSSxTalks)        |      xx     |
+|Completion of mandatory finger exercises    |	    xx     |
+|Course project                              |      xx     |
+|Midterm exam	                             |      xx     |
+|Final exam                                  |      xx     |
 
 ---
 ### [**Required Materials**]
