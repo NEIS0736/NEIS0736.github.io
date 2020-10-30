@@ -140,14 +140,14 @@
 ### [**Grading Policy**]
  A weighted grade average will be calculated as follows:
  
-|       ACTIVITIES	                      | PERCENTAGES |
-| --------------------------------------- | ----------- |
-|Attendance and Participation             |      xx     |
-|Individual assignments and extra point   |      xx     |
-|Completion of mandatory finger exercises |	     xx     |
-|Course Project                           |      xx     |
-|Midterm Quiz	                          |      xx     |
-|Final Quiz                               |	     xx     |
+|       ACTIVITIES	                       | PERCENTAGES |
+| ---------------------------------------- | ----------- |
+|In-class participation (scribe of the day)|      xx     |
+|Individual assignments and extra point    |      xx     |
+|Completion of mandatory finger exercises  |	  xx     |
+|Course project                            |      xx     |
+|Midterm exam	                           |      xx     |
+|Final exam                                |	  xx     |
 
 ---
 ### [**Required Materials**]
