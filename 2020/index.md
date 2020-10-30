@@ -142,7 +142,7 @@
  
 |       ACTIVITIES	                       | PERCENTAGES |
 | ---------------------------------------- | ----------- |
-|In-class participation (scribe of the day)|      xx     |
+|In-class participation                    |      xx     |
 |Individual assignments and extra point    |      xx     |
 |Completion of mandatory finger exercises  |	  xx     |
 |Course project                            |      xx     |
