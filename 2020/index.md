@@ -62,7 +62,7 @@
 *  **KEEP CALM** and **FUN with Git**
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-1)** *by **John Doe***
 *  Homeworks
-    *  [**Bruce Schneier: The Security Mindset**](https://www.youtube.com/watch?v=eZNzMKS7zjo) - *only 7:32 min.*
+    *  [**Bruce Schneier: The Security Mindset**](https://www.youtube.com/watch?v=eZNzMKS7zjo) - *only* ***7:32*** *min.*
     *  Prep. for the [**One-on-One**](#OneOnOne) Assessment
         * *Background* check
         * Security *mindset*
