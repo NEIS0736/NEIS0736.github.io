@@ -141,6 +141,6 @@
 *  [Keybase](https://keybase.io/)
 *  Digital signature verification (e.g. Tor Browser)
 *  [Tester Work](https://testerwork.com/), a crowdsourced testing
-*  CTF Write-ups
+*  CTF/Bug bounty write-ups
 *  Subresource Integrity
 *  Publication[s]
