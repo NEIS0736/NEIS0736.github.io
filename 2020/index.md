@@ -4,6 +4,7 @@
 
 * [GitLab **Wiki** Page](https://gitlab.com/NEIS0736/2020/wikis/README)
 * **MiSS**x***Talks*** *Special* : **Jan 24, 2021** *(tentative)*
+* **[One-on-One](OneOnOne)** Assessment : **Nov 29**, 2020
 
 ---
 
@@ -62,7 +63,7 @@
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-1)** *by **John Doe***
 *  Homeworks
     *  [**Bruce Schneier: The Security Mindset**](https://www.youtube.com/watch?v=eZNzMKS7zjo) - *only 7:32 min.*
-    *  Prep. for the [One-on-One](OneOnOne)
+    *  Prep. for the [One-on-One](OneOnOne) Assessment
 
 ### [**Week 2**] - (Sun) **Nov 29,** 2020
 <a name="OneOnOne"></a>
