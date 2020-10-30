@@ -54,37 +54,37 @@
 
 ---
 
-### [**Day 1**] - (Sun) **Nov 22,** 2020
+### [**Week 1**] - (Sun) **Nov 22,** 2020
 *  **Ground rules** (created and agreed by the people participating in the 1st session)
 *  [**Grading policy**](#grading-policy)
 *  **KEEP CALM** and **FUN with Git** 
 *  **One-on-one Assessment** #1
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-1)** *by **John Doe***
 
-### [**Day 2**] - (Sun) **Nov 29,** 2020
+### [**Week 2**] - (Sun) **Nov 29,** 2020
 *  **One-on-one Assessment** #2
 
-### [**Day 3**] - (Sun) **Dec 6,** 2020
+### [**Week 3**] - (Sun) **Dec 6,** 2020
 *  **MiSS**x***Talks***
    * *John Doe*
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-3)** *by **John Doe***
 
-### [**Day 4**] - (Sun) **Dec 13,** 2020
+### [**Week 4**] - (Sun) **Dec 13,** 2020
 *  **MiSS**x***Talks***
    * *John Doe*
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-4)** *by **John Doe***
 
-### [**Day 5**] - (Sun) **Dec 20,** 2020 *(subjected to change)*
+### [**Week 5**] - (Sun) **Dec 20,** 2020 *(subjected to change)*
 *  **MiSS**x***Talks***
    * *John Doe*
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-5)** *by **John Doe***
 
-### [**Day 6**] - (Sun) **Dec 27,** 2020
+### [**Week 6**] - (Sun) **Dec 27,** 2020
 *  **MiSS**x***Talks***
    * *John Doe*
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-6)** *by **John Doe***
 
-### [**Day 7**] - (Sun) **Jan 3,** 2021 *(subjected to change)*
+### [**Week 7**] - (Sun) **Jan 3,** 2021 *(subjected to change)*
 *  **MiSS**x***Talks***
    * *John Doe*
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-7)** *by **John Doe***
@@ -97,38 +97,38 @@
 
 ---
 
-### [**Day 8**] - (Sun) **Jan 24,** 2021
+### [**Week 8**] - (Sun) **Jan 24,** 2021
 *  **MiSS**x***Talks*** **Special**
 
-### [**Day 9**] - (Sun) **Jan 31,** 2021
+### [**Week 9**] - (Sun) **Jan 31,** 2021
 *  **MiSS**x***Talks***
    * *John Doe*
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-9)** *by **John Doe***
 
-### [**Day 10**] - (Sun) **Feb 7,** 2021 *(subjected to change)*
+### [**Week 10**] - (Sun) **Feb 7,** 2021 *(subjected to change)*
 *  **MiSS**x***Talks***
    * *John Doe*
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-10)** *by **John Doe***
 
-### [**Day 11**] - (Sun) **Feb 14,** 2021
+### [**Week 11**] - (Sun) **Feb 14,** 2021
 *  **MiSS**x***Talks***
    * *John Doe*
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-11)** *by **John Doe***
 
-### [**Day 12**] - (Sun) **Feb 21,** 2021
+### [**Week 12**] - (Sun) **Feb 21,** 2021
 *  **MiSS**x***Talks***
    * *John Doe*
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-12)** *by **John Doe***
 
-### [**Day 13**] - (Sun) **Feb 28,** 2021
+### [**Week 13**] - (Sun) **Feb 28,** 2021
 *  **Mini-Contest**
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-13)** *by **John Doe***
 
-### [**Day 14**] - (Sun) **Mar 7,** 2021
+### [**Week 14**] - (Sun) **Mar 7,** 2021
 *  **Group Project** Presentation
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-14)** *by **John Doe***
 
-### [**Day 15**] - (Sun) **Mar 14,** 2021
+### [**Week 15**] - (Sun) **Mar 14,** 2021
 *  **Group Project** Presentation
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-15)** *by **John Doe***
 
