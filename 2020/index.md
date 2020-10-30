@@ -151,7 +151,7 @@
 There are no required books to purchase for this class.  
 
 ---
-## Our lecture room, **TBA**
+## Official class meeting place, **TBA**
 
 ---
 ### [**Extra Point**]
