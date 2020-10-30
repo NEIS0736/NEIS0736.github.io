@@ -55,7 +55,8 @@
 ---
 
 ### [**Day 1**] - (Sun) **Nov 22,** 2020
-*  Git
+*  Ground rules (created and agreed to by the people participating in the class)
+*  KEEP CALM and PLAY with Git 
 *  **One-on-one Assessment** #1
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-1)** *by **John Doe***
 
