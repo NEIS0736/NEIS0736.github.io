@@ -151,6 +151,12 @@
 There are no required books to purchase for this class.  
 
 ---
+## **Recommended Materials**
+*  Security Engineering, Ross Anderson
+*  Computer Security and the Internet:  Tools and Jewels, Paul C. van Oorschot
+*  Software Security:  Principles, Policies, and Protection, Payer 
+
+---
 ## Official class meeting place, **TBA**
 
 ---
