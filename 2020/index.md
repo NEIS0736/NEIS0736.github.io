@@ -55,7 +55,7 @@
 ---
 
 ### [**Day 1**] - (Sun) **Nov 22,** 2020
-*  **Ground rules** (created and agreed by the people participating in the 1st day)
+*  **Ground rules** (created and agreed by the people participating in the 1st session)
 *  **KEEP CALM** and **FUN with Git** 
 *  **One-on-one Assessment** #1
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-1)** *by **John Doe***
