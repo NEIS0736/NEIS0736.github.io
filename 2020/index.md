@@ -174,6 +174,7 @@ There are no required books to purchase for this class.
 
 ---
 ### [**Recommended Materials**]
+*  [Authentication, Authorisation & Accountability (AAA) Knowledge Area](https://www.cybok.org/media/downloads/AAA_issue_1.0_q3qspzo.pdf), Dieter Gollmann
 *  [Security Engineering](https://www.cl.cam.ac.uk/~rja14/book.html), Ross Anderson
 *  [Computer Security and the Internet:  Tools and Jewels](https://people.scs.carleton.ca/~paulv/toolsjewels.html), Paul C. van Oorschot
 *  [Software Security:  Principles, Policies, and Protection](https://nebelwelt.net/SS3P/softsec.pdf), Payer 
