@@ -150,7 +150,9 @@
 ---
 ### [**Grading Policy**]
  Grades will be roughly computed as follows:
+ 
 |ACTIVITIES	| PERCENTAGES |
+| --- | ----------- |
 |Problem sets	|30%|
 |Completion of mandatory finger exercises|	10%|
 |Midterm Quiz	|20%|
