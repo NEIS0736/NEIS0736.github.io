@@ -140,6 +140,7 @@
 ### [**Extra Point**]
 *  [Keybase](https://keybase.io/)
 *  Digital signature verification (e.g. Tor Browser)
-*  [Tester Work](https://testerwork.com/), a crowdsourced testing.
+*  [Tester Work](https://testerwork.com/), a crowdsourced testing
+*  CTF Write-ups
 *  Subresource Integrity
 *  Publication[s]
