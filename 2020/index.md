@@ -147,17 +147,17 @@
 |Final Quiz|	40%|
 
 ---
-## [**Required Materials**]
+### [**Required Materials**]
 There are no required books to purchase for this class.  
 
 ---
-## [**Recommended Materials**]
+### [**Recommended Materials**]
 *  [Security Engineering](https://www.cl.cam.ac.uk/~rja14/book.html), Ross Anderson
 *  [Computer Security and the Internet:  Tools and Jewels](https://people.scs.carleton.ca/~paulv/toolsjewels.html), Paul C. van Oorschot
 *  [Software Security:  Principles, Policies, and Protection](https://nebelwelt.net/SS3P/softsec.pdf), Payer 
 
 ---
-## Official class meeting place, **TBA**
+### Official class meeting place, **TBA**
 
 ---
 ### [**Extra Point**]
