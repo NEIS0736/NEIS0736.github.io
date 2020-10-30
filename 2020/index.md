@@ -137,14 +137,14 @@
 
 ---
 ### [**Grading Policy**]
- Grades will be roughly computed as follows:
- 
+ A weighted grade average will be calculated as follows:
 |ACTIVITIES	| PERCENTAGES |
 | --- | ----------- |
-|Problem sets	|30%|
-|Completion of mandatory finger exercises|	10%|
-|Midterm Quiz	|20%|
-|Final Quiz|	40%|
+|Attendance and Participation	|xx%|
+|Completion of mandatory finger exercises|	xx%|
+|Midterm Quiz	|xx%|
+|Course Project| xx%|
+|Final Quiz|	xx%|
 
 ---
 ### [**Required Materials**]
