@@ -55,16 +55,15 @@
 ---
 
 ### [**Week 1**] - (Sun) **Nov 22,** 2020
-*  Course introduction
-*  **Ground rules** (created and agreed by the people participating in the 1st session)
-*  [**Grading policy**](#grading-policy)
-*  **KEEP CALM** and **FUN with Git** 
-*  **One-on-one Assessment** #1
+*  **Course introduction**
+    *  **Ground rules** (created and agreed by the people participating in the 1st session)
+    *  [**Grading policy**](#grading-policy)
+*  **KEEP CALM** and **FUN with Git**
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-1)** *by **John Doe***
 *  Homework : [**Bruce Schneier: The Security Mindset**](https://www.youtube.com/watch?v=eZNzMKS7zjo) - 7:32 min.
 
 ### [**Week 2**] - (Sun) **Nov 29,** 2020
-*  **One-on-one Assessment** #2
+*  **One-on-one Assessment**
 
 ### [**Week 3**] - (Sun) **Dec 6,** 2020
 *  **MiSS**x***Talks***
