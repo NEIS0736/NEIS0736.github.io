@@ -190,3 +190,6 @@ There are no required books to purchase for this class.
 *  CTF/Bug bounty write-ups
 *  Subresource Integrity
 *  Publication[s]
+
+### 80-20 Rule
+Discuss 20% of things used 80% of the time in depth to touch upon other things briefly equipping you with enough knowledge to find out more on your own
