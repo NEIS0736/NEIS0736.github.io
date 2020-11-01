@@ -209,6 +209,7 @@
 |In-class participation (#MiSSxTalks special)           |      xx     |
 |Individual assignments (#MiSSxTalks)                   |      xx     |
 |Completion of mandatory finger exercises (mini contest)|	   xx     |
+|Extra (Daily Scribe, etc)                              |      xx     |
 |Course project                                         |      xx     |
 |Midterm exam	                                        |      xx     |
 |Final exam                                             |      xx     |
