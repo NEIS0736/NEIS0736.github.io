@@ -87,6 +87,9 @@
     
     or
     
+    1. 08:31 - 08:40 : John Doe
+    1. 08:41 - 08:50 : John Doe
+    1. 08:51 - 09:00 : John Doe
     1. 09:01 - 09:10 : John Doe 
     1. 09:11 - 09:20 : John Doe 
     1. 09:21 - 09:30 : John Doe 
