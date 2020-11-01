@@ -218,6 +218,7 @@ There are no required books to purchase for this class.
 
 ---
 ### [**Extra Point**]
+*  Someone just searched for you on Google...
 *  [Keybase](https://keybase.io/)
 *  Digital signature verification (e.g. Tor Browser)
 *  [Tester Work](https://testerwork.com/), a crowdsourced testing
