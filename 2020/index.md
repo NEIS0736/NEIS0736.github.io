@@ -35,10 +35,6 @@
     * Slot A: ???
     * Slot B: ???
     * Slot C: ???
-* (Sun) **Jan 24,** 2021
-    * Slot A: ???
-    * Slot B: ???
-    * Slot C: ???
 * (Sun) **Jan 31,** 2021
     * Slot A: ???
     * Slot B: ???
@@ -132,25 +128,35 @@
 ### [**Week 3**] - (Sun) **Dec 6,** 2020
 *  **MiSS**x***Talks***
    * *John Doe*
+   * *John Doe*
+   * *John Doe*
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-3)** *by **John Doe***
 
 ### [**Week 4**] - (Sun) **Dec 13,** 2020
 *  **MiSS**x***Talks***
+   * *John Doe*
+   * *John Doe*
    * *John Doe*
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-4)** *by **John Doe***
 
 ### [**Week 5**] - (Sun) **Dec 20,** 2020 *(subjected to change)*
 *  **MiSS**x***Talks***
    * *John Doe*
+   * *John Doe*
+   * *John Doe*
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-5)** *by **John Doe***
 
 ### [**Week 6**] - (Sun) **Dec 27,** 2020
 *  **MiSS**x***Talks***
    * *John Doe*
+   * *John Doe*
+   * *John Doe*
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-6)** *by **John Doe***
 
 ### [**Week 7**] - (Sun) **Jan 3,** 2021 *(subjected to change)*
 *  **MiSS**x***Talks***
+   * *John Doe*
+   * *John Doe*
    * *John Doe*
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-7)** *by **John Doe***
 ---
@@ -168,20 +174,28 @@
 ### [**Week 9**] - (Sun) **Jan 31,** 2021
 *  **MiSS**x***Talks***
    * *John Doe*
+   * *John Doe*
+   * *John Doe*
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-9)** *by **John Doe***
 
 ### [**Week 10**] - (Sun) **Feb 7,** 2021 *(subjected to change)*
 *  **MiSS**x***Talks***
+   * *John Doe*
+   * *John Doe*
    * *John Doe*
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-10)** *by **John Doe***
 
 ### [**Week 11**] - (Sun) **Feb 14,** 2021
 *  **MiSS**x***Talks***
    * *John Doe*
+   * *John Doe*
+   * *John Doe*
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-11)** *by **John Doe***
 
 ### [**Week 12**] - (Sun) **Feb 21,** 2021
 *  **MiSS**x***Talks***
+   * *John Doe*
+   * *John Doe*
    * *John Doe*
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-12)** *by **John Doe***
 
