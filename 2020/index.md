@@ -71,7 +71,7 @@
     *  [**Grading policy**](#grading-policy)
 *  **KEEP CALM** and **FUN with Git**
     *  Biography
-*  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-1)** *by **John Doe***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-1)** *by **John Doe***
 *  Homeworks
     *  [**Bruce Schneier: The Security Mindset**](https://www.youtube.com/watch?v=eZNzMKS7zjo) - *only* ***7:32*** *min.*
     *  Prep. for the [**One-on-One**](#OneOnOne) Assessment
@@ -132,27 +132,27 @@
 ### [**Week 3**] - (Sun) **Dec 6,** 2020
 *  **MiSS**x***Talks***
    * *John Doe*
-*  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-3)** *by **John Doe***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-3)** *by **John Doe***
 
 ### [**Week 4**] - (Sun) **Dec 13,** 2020
 *  **MiSS**x***Talks***
    * *John Doe*
-*  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-4)** *by **John Doe***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-4)** *by **John Doe***
 
 ### [**Week 5**] - (Sun) **Dec 20,** 2020 *(subjected to change)*
 *  **MiSS**x***Talks***
    * *John Doe*
-*  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-5)** *by **John Doe***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-5)** *by **John Doe***
 
 ### [**Week 6**] - (Sun) **Dec 27,** 2020
 *  **MiSS**x***Talks***
    * *John Doe*
-*  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-6)** *by **John Doe***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-6)** *by **John Doe***
 
 ### [**Week 7**] - (Sun) **Jan 3,** 2021 *(subjected to change)*
 *  **MiSS**x***Talks***
    * *John Doe*
-*  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-7)** *by **John Doe***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-7)** *by **John Doe***
 ---
 
 ### [**Semi-final Examination**]
@@ -168,34 +168,34 @@
 ### [**Week 9**] - (Sun) **Jan 31,** 2021
 *  **MiSS**x***Talks***
    * *John Doe*
-*  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-9)** *by **John Doe***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-9)** *by **John Doe***
 
 ### [**Week 10**] - (Sun) **Feb 7,** 2021 *(subjected to change)*
 *  **MiSS**x***Talks***
    * *John Doe*
-*  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-10)** *by **John Doe***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-10)** *by **John Doe***
 
 ### [**Week 11**] - (Sun) **Feb 14,** 2021
 *  **MiSS**x***Talks***
    * *John Doe*
-*  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-11)** *by **John Doe***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-11)** *by **John Doe***
 
 ### [**Week 12**] - (Sun) **Feb 21,** 2021
 *  **MiSS**x***Talks***
    * *John Doe*
-*  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-12)** *by **John Doe***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-12)** *by **John Doe***
 
 ### [**Week 13**] - (Sun) **Feb 28,** 2021
 *  **Mini-Contest**
-*  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-13)** *by **John Doe***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-13)** *by **John Doe***
 
 ### [**Week 14**] - (Sun) **Mar 7,** 2021
 *  **Group Project** Presentation
-*  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-14)** *by **John Doe***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-14)** *by **John Doe***
 
 ### [**Week 15**] - (Sun) **Mar 14,** 2021
 *  **Group Project** Presentation
-*  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-15)** *by **John Doe***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-15)** *by **John Doe***
 
 ### [**Final Examination**] - *(Lec)*
 *  **Mar [20\|21\|27\|28], 2021 ([A\|P]M)**
