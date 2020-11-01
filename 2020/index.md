@@ -93,11 +93,13 @@
     1. 09:31 - 09:40 : John Doe 
     1. 09:41 - 09:50 : John Doe 
     1. 09:51 - 10:00 : John Doe 
+    1. 10:01 - 10:10 : John Doe 
+    1. 10:11 - 10:20 : John Doe 
+    1. 10:21 - 10:30 : John Doe 
+    1. 10:31 - 10:40 : John Doe 
+    1. 10:41 - 10:50 : John Doe 
+    1. 10:51 - 11:00 : John Doe 
     
-    1. 10:01 - 10:15 : John Doe 
-    1. 10:16 - 10:30 : John Doe 
-    1. 10:31 - 10:45 : John Doe 
-    1. 10:46 - 11:00 : John Doe 
     1. 11:01 - 11:15 : John Doe 
     1. 11:16 - 11:30 : John Doe 
     1. 11:31 - 11:45 : John Doe 
