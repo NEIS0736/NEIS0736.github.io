@@ -206,8 +206,8 @@
  
 |       ACTIVITIES	                                    | PERCENTAGES |
 | ----------------------------------------------------- | ----------- |
-|In-class participation (#MiSSxTalks special)           |      xx     |
-|Individual assignments (#MiSSxTalks)                   |      xx     |
+|In-class participation (#**MiSS**x***Talks*** special) |      xx     |
+|Individual assignments (#**MiSS**x***Talks***)         |      xx     |
 |Completion of mandatory finger exercises (mini contest)|	   xx     |
 |Extra (Daily Scribe, etc)                              |      xx     |
 |Course project                                         |      xx     |
