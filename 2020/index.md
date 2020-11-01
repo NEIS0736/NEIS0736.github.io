@@ -236,6 +236,7 @@ There are no required books to purchase for this class.
 *  CTF/Bug bounty write-ups
 *  Subresource Integrity
 *  Publication[s]
+*  Community Volunteering
 
 ---
 ### [**80-20 Rule**]
