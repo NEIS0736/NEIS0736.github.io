@@ -113,7 +113,10 @@
     1. 12:21 - 12:30 : John Doe
     1. 12:31 - 12:40 : John Doe
     1. 12:41 - 12:50 : John Doe 
-    1. 12:51 - 13:00 : John Doe  
+    1. 12:51 - 13:00 : John Doe    
+    1. 13:01 - 13:10 : John Doe 
+    1. 13:11 - 13:20 : John Doe 
+    1. 13:21 - 13:30 : John Doe
     
 ### [**Week 3**] - (Sun) **Dec 6,** 2020
 *  **MiSS**x***Talks***
