@@ -66,6 +66,7 @@
     *  Prep. for the [**One-on-One**](#OneOnOne) Assessment
         * **Background** check
         * Security **mindset**
+        * Show us your #HelloWorld
         * Topics of interest (**Thesis/Independent Study**)
 
 ### [**Week 2**] - (Sun) **Nov 29,** 2020
