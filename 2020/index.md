@@ -18,33 +18,43 @@
 * (Sun) **Dec 6,** 2020
     * Slot A: ???
     * Slot B: ???
+    * Slot C: ???
 * (Sun) **Dec 13,** 2020
     * Slot A: ???
     * Slot B: ???
+    * Slot C: ???
 * (Sun) **Dec 20,** 2020 *(subjected to change)*
     * Slot A: ???
     * Slot B: ???
+    * Slot C: ???
 * (Sun) **Dec 27,** 2020
     * Slot A: ???
     * Slot B: ???
+    * Slot C: ???
 * (Sun) **Jan 3,** 2021 *(subjected to change)*
     * Slot A: ???
     * Slot B: ???
+    * Slot C: ???
 * (Sun) **Jan 24,** 2021
     * Slot A: ???
     * Slot B: ???
+    * Slot C: ???
 * (Sun) **Jan 31,** 2021
     * Slot A: ???
     * Slot B: ???
+    * Slot C: ???
 * (Sun) **Feb 7,** 2021 *(subjected to change)*
     * Slot A: ???
     * Slot B: ???
+    * Slot C: ???
 * (Sun) **Feb 14,** 2021
     * Slot A: ???
     * Slot B: ???
+    * Slot C: ???
 * (Sun) **Feb 21,** 2021
     * Slot A: ???
     * Slot B: ???
+    * Slot C: ???
 
 ---
 
