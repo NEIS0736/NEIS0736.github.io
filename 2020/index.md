@@ -60,6 +60,7 @@
     *  **Ground rules** (created and agreed by the people participating in the 1st session)
     *  [**Grading policy**](#grading-policy)
 *  **KEEP CALM** and **FUN with Git**
+*  Researcher Bio.
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2020/wikis/Scribe-of-Day-1)** *by **John Doe***
 *  Homeworks
     *  [**Bruce Schneier: The Security Mindset**](https://www.youtube.com/watch?v=eZNzMKS7zjo) - *only* ***7:32*** *min.*
