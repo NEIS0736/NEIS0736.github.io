@@ -245,6 +245,7 @@ There are no required books to purchase for this class.
 
 ---
 ### [**Extra Point**]
+*  [GitLab](https://gitlab.com/) Pages
 *  [Someone just searched for you on Google...](Extra/Searched-for-you-on-Google.png)
 *  [Keybase](https://keybase.io/)
 *  Digital signature verification (e.g. [Tor Browser](https://www.torproject.org/download/))
