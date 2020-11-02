@@ -251,8 +251,8 @@ There are no required books to purchase for this class.
 *  Bug bounty/CTF write-ups
 *  [Subresource Integrity](https://www.srihash.org/)
 *  Publication[s] (e.g. [Coin Recovery](https://ieeexplore.ieee.org/abstract/document/8911915))
-*  Community Volunteering
-*  Software Development related Certification (e.g. [Professional Certificate in Secure Software Development Fundamentals](https://www.edx.org/professional-certificate/linuxfoundationx-secure-software-development-fundamentals))
+*  Community volunteering
+*  Software development related certification (e.g. [Professional Certificate in Secure Software Development Fundamentals](https://www.edx.org/professional-certificate/linuxfoundationx-secure-software-development-fundamentals))
 
 ---
 ### [**80-20 Rule**]
