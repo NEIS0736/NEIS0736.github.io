@@ -248,7 +248,7 @@ There are no required books to purchase for this class.
 *  Digital signature verification (e.g. [Tor Browser](https://www.torproject.org/download/))
 *  [Tester Work](https://testerwork.com/), a crowdsourced testing
 *  CTF/Bug bounty write-ups
-*  Subresource Integrity
+*  [Subresource Integrity](https://www.srihash.org/)
 *  Publication[s]
 *  Community Volunteering
 
