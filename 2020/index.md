@@ -245,7 +245,7 @@ There are no required books to purchase for this class.
 ### [**Extra Point**]
 *  [Someone just searched for you on Google...](Extra/Searched-for-you-on-Google.jpg)
 *  [Keybase](https://keybase.io/)
-*  Digital signature verification (e.g. Tor Browser)
+*  Digital signature verification (e.g. [Tor Browser](https://www.torproject.org/download/))
 *  [Tester Work](https://testerwork.com/), a crowdsourced testing
 *  CTF/Bug bounty write-ups
 *  Subresource Integrity
