@@ -249,7 +249,7 @@ There are no required books to purchase for this class.
 *  [Tester Work](https://testerwork.com/), a crowdsourced testing
 *  CTF/Bug bounty write-ups
 *  [Subresource Integrity](https://www.srihash.org/)
-*  Publication[s]
+*  Publication[s] (e.g. [Coin Recovery](https://ieeexplore.ieee.org/abstract/document/8911915))
 *  Community Volunteering
 
 ---
