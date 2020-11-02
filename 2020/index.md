@@ -78,7 +78,7 @@
 
 ### [**Week 2**] - (Sun) **Nov 29,** 2020
 *  [Web Application Vulnerability Report 2019](https://www.acunetix.com/acunetix-web-application-vulnerability-report-2019/), [Acunetix](https://www.acunetix.com/)
-*  [2020 Web Application Vulnerability Report](https://go.acunetix.com/2020-vulnerability-report), [Acunetix](acunetix.com)
+*  [2020 Web Application Vulnerability Report](https://go.acunetix.com/2020-vulnerability-report), [Acunetix](https://www.acunetix.com)
 <a name="OneOnOne"></a>
 *  **One-on-One Assessment** (***true** coffee*)
     1. 09:01 - 09:15 : John Doe 
