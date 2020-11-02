@@ -247,7 +247,7 @@ There are no required books to purchase for this class.
 *  [Keybase](https://keybase.io/)
 *  Digital signature verification (e.g. [Tor Browser](https://www.torproject.org/download/))
 *  [Tester Work](https://testerwork.com/), a crowdsourced testing
-*  CTF/Bug bounty write-ups
+*  Bug bounty/CTF write-ups
 *  [Subresource Integrity](https://www.srihash.org/)
 *  Publication[s] (e.g. [Coin Recovery](https://ieeexplore.ieee.org/abstract/document/8911915))
 *  Community Volunteering
