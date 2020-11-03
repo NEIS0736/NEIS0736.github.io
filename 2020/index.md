@@ -135,7 +135,6 @@
    * *John Doe*
 *  [Web Application Vulnerability Report 2019](https://www.acunetix.com/acunetix-web-application-vulnerability-report-2019/), [Acunetix](https://www.acunetix.com/)
 *  [2020 Web Application Vulnerability Report](https://go.acunetix.com/2020-vulnerability-report), [Acunetix](https://www.acunetix.com)
-
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-3)** *by **John Doe***
 
 ### [**Week 4**] - (Sun) **Dec 13,** 2020
@@ -145,6 +144,8 @@
    * *John Doe*
 *  [Schema.org](https://schema.org/) is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond.
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-4)** *by **John Doe***
+*  Homework
+   * [When **Open Source** Came to Microsoft](https://www.codemag.com/Article/2009041/When-Open-Source-Came-to-Microsoft), [Richard Campbell](https://www.codemag.com/People/Bio/Richard.Campbell)
 
 ### [**Week 5**] - (Sun) **Dec 20,** 2020 *(subjected to change)*
 *  **MiSS**x***Talks***
