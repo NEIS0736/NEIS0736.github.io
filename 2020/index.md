@@ -125,6 +125,8 @@
     1. 13:01 - 13:10 : John Doe 
     1. 13:11 - 13:20 : John Doe 
     1. 13:21 - 13:30 : John Doe
+*  Homework
+   *  Test Case
     
 ### [**Week 3**] - (Sun) **Dec 6,** 2020
 *  **MiSS**x***Talks***
