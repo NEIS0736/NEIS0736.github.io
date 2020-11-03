@@ -133,9 +133,11 @@
    * *John Doe*
    * *John Doe*
    * *John Doe*
-*  [Web Application Vulnerability Report 2019](https://www.acunetix.com/acunetix-web-application-vulnerability-report-2019/), [Acunetix](https://www.acunetix.com/)
-*  [2020 Web Application Vulnerability Report](https://go.acunetix.com/2020-vulnerability-report), [Acunetix](https://www.acunetix.com)
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-3)** *by **John Doe***
+*  Homework
+   * [Web Application Vulnerability Report 2019](https://www.acunetix.com/acunetix-web-application-vulnerability-report-2019/), [Acunetix](https://www.acunetix.com/)
+   * [2020 Web Application Vulnerability Report](https://go.acunetix.com/2020-vulnerability-report), [Acunetix](https://www.acunetix.com)
+
 
 ### [**Week 4**] - (Sun) **Dec 13,** 2020
 *  **MiSS**x***Talks***
