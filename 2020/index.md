@@ -155,8 +155,11 @@
    * *John Doe*
    * *John Doe*
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-5)** *by **John Doe***
+*  Homework
+   * Prep. for the Moments of **Celebration & Sharing**
 
 ### [**Week 6**] - (Sun) **Dec 27,** 2020
+*  Moments of **Celebration & Sharing**
 *  **MiSS**x***Talks***
    * *John Doe*
    * *John Doe*
