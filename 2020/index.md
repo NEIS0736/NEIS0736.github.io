@@ -77,7 +77,7 @@
         * Topics of interest (**Thesis/Independent Study**)
 
 ### [**Week 2**] - (Sun) **Nov 29,** 2020
-*  **Gang of three work : D... S... V...**
+*  **Gang of Three : D... S... V...**
 <a name="OneOnOne"></a>
 *  **One-on-One Assessment** (***true** coffee*)
     1. 09:01 - 09:15 : John Doe 
