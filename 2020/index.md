@@ -243,7 +243,7 @@
 |Midterm exam	                                                             |      xx     |
 |Final exam                                                                  |      xx     |
 
----
+
 ### [**Required Materials**]
 *  There are **no required books** to purchase for this class.  
 
