@@ -63,7 +63,7 @@
 
 ### [**Week 1**] - (Sun) **Nov 22,** 2020
 *  **Course introduction**
-    *  **Ground rules** (created and agreed by the people participating in the 1st session)
+    *  **Ground rules** (created and agreed by the people participating in the **1<sup>st</sup>** session)
     *  [**Grading policy**](#grading-policy)
 *  **KEEP CALM** and **FUN with Git**
     *  Biography
