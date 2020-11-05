@@ -66,7 +66,7 @@
     *  **Ground rules** (created and agreed by the people participating in the **1<sup>st</sup>** session)
     *  [**Grading policy**](#grading-policy)
 *  **KEEP CALM** and **FUN with Git**
-    *  Biography
+    *  **Bio**graphy
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-1)** *by **John Doe***
 *  Homeworks
     *  [**Bruce Schneier: The Security Mindset**](https://www.youtube.com/watch?v=eZNzMKS7zjo) - *only* ***7:32*** *min.*
@@ -75,7 +75,7 @@
     *  Prep. for the [**One-on-One**](#OneOnOne) Assessment
         * **Background** check
         * Security **mindset**
-        * Reasons why #SWSec is more critical
+        * Reasons why **#SWSec is more critical**
         * Thailand **Security Foresight 2035**
         * Show us your **#HelloWorld** ***3 times*** smartly
         * Topics of interest (**Thesis/Independent Study**)
