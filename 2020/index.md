@@ -202,6 +202,7 @@
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-10)** *by **John Doe***
 
 ### [**Week 11**] - (Sun) **Feb 14,** 2021
+*  **Valentine** *vs.* **Ovaltine**
 *  **MiSS**x***Talks***
    * *John Doe*
    * *John Doe*
