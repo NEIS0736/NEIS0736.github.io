@@ -76,6 +76,7 @@
         * **Background** check
         * Security **mindset**
         * Reasons why #SWSec is more critical
+        * Thailand Security Foresight 2035
         * Show us your **#HelloWorld** ***3 times*** smartly
         * Topics of interest (**Thesis/Independent Study**)
 
