@@ -268,8 +268,8 @@
 *  [Subresource Integrity](https://www.srihash.org/)
 *  Publication[s] (e.g. [Coin Recovery](https://ieeexplore.ieee.org/abstract/document/8911915))
 *  Community volunteering
-*  Software development related certification (e.g. [Professional Certificate in Secure Software Development Fundamentals](https://www.edx.org/professional-certificate/linuxfoundationx-secure-software-development-fundamentals))
-*  Information Systems Security/Cybersecurity related Contest/Seminar/Webinar
+*  Certification (e.g. [Professional Certificate in Secure Software Development Fundamentals](https://www.edx.org/professional-certificate/linuxfoundationx-secure-software-development-fundamentals))
+*  Contest/Seminar/Webinar
 
 ---
 ### [**80-20 Rule**]
