@@ -71,7 +71,7 @@
 *  Homeworks
     *  [**Bruce Schneier: The Security Mindset**](https://www.youtube.com/watch?v=eZNzMKS7zjo) - *only* ***7:32*** *min.*
     *  [5 Reasons Why **Software Security Is More Critical** Than Ever](https://resources.checkmarx.com/why-appsec-now/infographic), Checkmarx
-    *  ["Security"](https://www.depa.or.th/storage/app/media/file/Second%20Deliverable%20RevVer%20EN%20V12%20140819%20FIN.pdf), Thailand Digital Technology Foresight 2035
+    *  ["**Security**"](https://www.depa.or.th/storage/app/media/file/Second%20Deliverable%20RevVer%20EN%20V12%20140819%20FIN.pdf), Thailand Digital Technology **Foresight 2035**
     *  Prep. for the [**One-on-One**](#OneOnOne) Assessment
         * **Background** check
         * Security **mindset**
