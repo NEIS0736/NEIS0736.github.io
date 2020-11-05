@@ -70,9 +70,11 @@
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-1)** *by **John Doe***
 *  Homeworks
     *  [**Bruce Schneier: The Security Mindset**](https://www.youtube.com/watch?v=eZNzMKS7zjo) - *only* ***7:32*** *min.*
+    *  [5 Reasons Why **Software Security Is More Critical** Than Ever](https://resources.checkmarx.com/why-appsec-now/infographic), Checkmarx
     *  Prep. for the [**One-on-One**](#OneOnOne) Assessment
         * **Background** check
         * Security **mindset**
+        * Reasons why #SWSec is more critical
         * Show us your **#HelloWorld** ***3 times*** smartly
         * Topics of interest (**Thesis/Independent Study**)
 
