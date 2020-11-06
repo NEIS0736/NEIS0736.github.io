@@ -188,6 +188,7 @@
 ---
 
 ### [**Week 8**] - (Sun) **Jan 24,** 2021
+*  **Man of the Mi.....** Award
 *  **MiSS**x***Talks*** **Special**
 
 ### [**Week 9**] - (Sun) **Jan 31,** 2021
