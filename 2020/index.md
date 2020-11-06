@@ -67,6 +67,7 @@
     *  [**Grading policy**](#grading-policy)
 *  **KEEP CALM** and **FUN with Git**
     *  **Bio**graphy
+    *  Customize your G... p...s layout
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-1)** *by **John Doe***
 *  Homeworks
     *  [**Bruce Schneier: The Security Mindset**](https://www.youtube.com/watch?v=eZNzMKS7zjo) - *only* ***7:32*** *min.*
