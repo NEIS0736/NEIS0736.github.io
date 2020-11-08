@@ -82,7 +82,9 @@
         * Topics of interest (**Thesis/Independent Study**)
 
 ### [**Week 2**] - (Sun) **Nov 29,** 2020
-*  **Gang of Three : D... S... V...**, [OWASP Top 10 Security Fundamentals](https://codered.eccouncil.org/CourseDetails/owasp-top-10-security-fundamentals), Paulo Silva (14-day **FREE** trial)
+*  **Gang of Three**
+    * **D... S... V...**
+    * [OWASP Top 10 Security Fundamentals](https://codered.eccouncil.org/CourseDetails/owasp-top-10-security-fundamentals), Paulo Silva (14-day **FREE** trial)
 <a name="OneOnOne"></a>
 *  **One-on-One Assessment** (***true** coffee*)
     1. 09:01 - 09:15 : John Doe 
