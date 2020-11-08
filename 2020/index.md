@@ -138,6 +138,7 @@
    * *John Doe*
    * *John Doe*
    * *John Doe*
+*  **Client**, **BA**, **Developer** *&* **Code**
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-3)** *by **John Doe***
 *  Homework
    * [Web Application Vulnerability Report 2019](https://www.acunetix.com/acunetix-web-application-vulnerability-report-2019/), [Acunetix](https://www.acunetix.com/)
