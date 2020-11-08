@@ -272,7 +272,7 @@
 *  [Tester Work](https://testerwork.com/), a crowdsourced testing
 *  Bug bounty/CTF write-ups
 *  [Subresource Integrity](https://www.srihash.org/)
-*  Publication[s] (e.g. [Coin Recovery](https://ieeexplore.ieee.org/abstract/document/8911915))
+*  Publication[s] (e.g. [Coin Recovery](https://ieeexplore.ieee.org/abstract/document/8911915), [ECTI DAMT and NCON 2021](https://ict.up.ac.th/icdamt/2021/cfp.php))
 *  Community volunteering (e.g. [VolunteXTH](https://VolunteX.GitHub.io/), [Barcamp Bangkhen](https://www.facebook.com/Barcampbangkhen/posts/3695288630493546))
 *  Certification (e.g. [Professional Certificate in Secure Software Development Fundamentals](https://www.edx.org/professional-certificate/linuxfoundationx-secure-software-development-fundamentals))
 *  Contest/Seminar/Webinar
