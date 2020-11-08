@@ -152,6 +152,7 @@
    * *John Doe*
    * *John Doe*
    * *John Doe*
+*  **Two factor authentication**   
 *  [Schema.org](https://schema.org/) is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond.
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-4)** *by **John Doe***
 *  Homework
@@ -163,6 +164,7 @@
    * *John Doe*
    * *John Doe*
    * *John Doe*
+*  Twitter : **Login Alert**
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-5)** *by **John Doe***
 *  Homework
    * **Alert** : well known application/services
