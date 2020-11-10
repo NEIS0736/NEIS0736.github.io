@@ -2,7 +2,7 @@
 
 [[**2020**](2020)] - Lecture & recitation, 1 session/week, 3 hours/session
 * Time : **9:00 - 12:00** (*Sun*)
-* Room : **TBA**
+* Room : **MII209B** (*MII Bldg.*)
 * [KBs](https://gitlab.com/NEIS0736/2020/wikis/README)
 
 [[**2019**](2019)] - Lecture & recitation, 1 session/week, 3 hours/session

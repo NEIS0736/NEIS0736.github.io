@@ -267,7 +267,8 @@
 *  [Software Security:  Principles, Policies, and Protection](https://nebelwelt.net/SS3P/softsec.pdf), Payer 
 
 ---
-### [**Official class meeting place**], ***TBA***
+### [**Official class meeting place**]
+*  **MII209B**
 
 ---
 ### [**Extra Point**]
