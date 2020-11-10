@@ -172,7 +172,7 @@
 
 ### [**Week 6**] - (Sun) **Dec 27,** 2020
 *  Moments of **Celebration & Sharing**
-*  [The Twelve Factors](https://12factor.net/th/)
+*  [The **Twelve Factors**](https://12factor.net/th/)
 *  **MiSS**x***Talks***
    * *John Doe*
    * *John Doe*
