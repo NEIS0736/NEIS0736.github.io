@@ -268,7 +268,8 @@
 
 
 ### [**Required Materials**]
-*  There are **no required books** to purchase for this class.  
+*  There are **no required books** to purchase for this class, but a personal laptop.
+*  All students will be required to have a personal computer and bring it to class every week.
 
 ---
 ### [**Recommended Materials**]
