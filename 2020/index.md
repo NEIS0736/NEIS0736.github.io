@@ -8,9 +8,10 @@
 
 ---
 
-### **[Member]**
+### **[Participants]**
 
-1. John Doe
+1. Ekawut Chairat (6217660002)
+1. Nipitpon Doungyai (6317810008)
 
 ---
 
