@@ -14,6 +14,7 @@
 1. Bhoomjit Bhoominath (6317660004)
 1. Ekawut Chairat (6217660002)
 1. Hachol Dabthong (6217810010)
+1. Jaruspong Tongboon (6217810004)
 1. Nantawan Sanpukdee (6317660003)
 1. Nipitpon Doungyai (6317810008)
 1. Piyawit Khumkrong (6317810004)
