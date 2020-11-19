@@ -18,6 +18,7 @@
 1. Nantawan Sanpukdee (6317660003)
 1. Nattapong Ketkaew (6317810011)
 1. Nipitpon Doungyai (6317810008)
+1. Phureephat Sottiratanapan (6217810014)
 1. Piyawit Khumkrong (6317810004)
 1. Saran Kaewnang (6317810007)
 1. Suntisuk Thepthong (6217810015)
