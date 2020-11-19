@@ -74,6 +74,7 @@
     *  **Grading statistic &** [**policy**](#grading-policy)
 *  **KEEP CALM** and **FUN with Git**
     *  **Bio**graphy
+        *  [Reverso Speller](https://www.reverso.net/spell-checker/english-spelling-grammar/)
     *  Customize your G... p...s layout
 *  **MiSS**x***Talks*** 
     *  [CSSLP Ex. Outline](https://www.isc2.org/-/media/ISC2/Certifications/Exam-Outlines/CSSLP-Exam-Outline-Sept2020.ashx)
