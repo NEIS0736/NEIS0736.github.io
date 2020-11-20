@@ -121,22 +121,7 @@
     * **D... S... V...**
     * [OWASP Top 10 Security Fundamentals](https://codered.eccouncil.org/CourseDetails/owasp-top-10-security-fundamentals), Paulo Silva (14-day **FREE** trial)
 <a name="OneOnOne"></a>
-*  **One-on-One Assessment** (***true** coffee*)
-    1. 09:01 - 09:15 : John Doe 
-    1. 09:16 - 09:30 : John Doe 
-    1. 09:31 - 09:45 : John Doe 
-    1. 09:46 - 10:00 : John Doe 
-    1. 10:01 - 10:15 : John Doe 
-    1. 10:16 - 10:30 : John Doe 
-    1. 10:31 - 10:45 : John Doe 
-    1. 10:46 - 11:00 : John Doe 
-    1. 11:01 - 11:15 : John Doe 
-    1. 11:16 - 11:30 : John Doe 
-    1. 11:31 - 11:45 : John Doe 
-    1. 11:46 - 12:00 : John Doe 
-    
-    or
-    
+*  **One-on-One Assessment** (***true** coffee*)   
     1. 08:31 - 08:40 : John Doe
     1. 08:41 - 08:50 : John Doe
     1. 08:51 - 09:00 : John Doe
