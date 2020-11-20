@@ -35,7 +35,7 @@
 1. Supattra Boonkied (6317810003)
 1. Thanakorn Prajuabkamon (6217810017)
 1. Theerapong Kanrawong (6317810002)
-1. Vatcharin Kongsakul (6217810003), [![](/Assets/github-30x30.jpg "#NEIS0736")](https://github.com/ryudokung), [](https://gitlab.com/ryudokun)
+1. Vatcharin Kongsakul (6217810003), [![](/Assets/github-20x20.jpg "#NEIS0736")](https://github.com/ryudokung), [](https://gitlab.com/ryudokun)
 1. Vuttawat Uyanont (6317810001)
 1. Wasupol Chaisangasilp (6317810014)
 
