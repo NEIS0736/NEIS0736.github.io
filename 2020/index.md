@@ -15,6 +15,7 @@
 1. Ekawut Chairat (6217660002)
 1. Fareed Marnleb (6317810012)
 1. Hachol Dabthong (6217810010)
+1. Jaray Paensong (6317660006)
 1. Jaruspong Tongboon (6217810004)
 1. Nantawan Sanpukdee (6317660003)
 1. Nattapong Ketkaew (6317810011)
