@@ -25,7 +25,7 @@
 1. Nattawut Reungsap (6217810013)
 1. Nipitpon Doungyai (6317810008)
 1. Phureephat Sottiratanapan (6217810014)
-1. Piyawit Khumkrong (6317810004)
+1. Piyawit Khumkrong (6317810004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/EsKoOnG) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/EsKoOnG)
 1. Sakarin Kaewsathitwong (6217810002)
 1. Sanchat Phaisit (6317810015)
 1. Saran Kaewnang (6317810007)
