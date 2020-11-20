@@ -325,3 +325,4 @@
 
 *  [Sizer 4.0](http://www.brianapps.net/sizer4/)
 *  [Visual Studio Code](https://code.visualstudio.com/download)
+*  [GitHub Desktop](https://desktop.github.com/)
