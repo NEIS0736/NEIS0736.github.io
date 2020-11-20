@@ -13,6 +13,7 @@
 1. Athiporn Phumnicom (6217810016)
 1. Bhoomjit Bhoominath (6317660004)
 1. Ekawut Chairat (6217660002)
+1. Fareed Marnleb (6317810012)
 1. Hachol Dabthong (6217810010)
 1. Jaruspong Tongboon (6217810004)
 1. Nantawan Sanpukdee (6317660003)
