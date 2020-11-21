@@ -26,7 +26,7 @@
 1. Nipitpon Doungyai (6317810008) <!-- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/xxx) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/xxx) -->
 1. Phureephat Sottiratanapan (6217810014) <!-- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/xxx) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/xxx) -->
 1. Piyawit Khumkrong (6317810004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/EsKoOnG) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/EsKoOnG)
-1. Sakarin Kaewsathitwong (6217810002) <!-- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/xxx) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/xxx) -->
+1. Sakarin Kaewsathitwong (6217810002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Alfatoxin) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Alfatoxin)
 1. Sanchat Phaisit (6317810015) <!-- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/xxx) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/xxx) -->
 1. Saran Kaewnang (6317810007) <!-- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/xxx) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/xxx) -->
 1. Soontorn Janphuk (6317660001) <!-- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/xxx) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/xxx) -->
@@ -37,7 +37,7 @@
 1. Theerapong Kanrawong (6317810002) <!-- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/xxx) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/xxx) -->
 1. Vatcharin Kongsakul (6217810003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ryudokung) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/ryudokun)
 1. Vuttawat Uyanont (6317810001) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Hyde4thHeaven) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Hyde4thHeaven)
-1. Wasupol Chaisangasilp (6317810014) <!-- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/xxx) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/xxx) -->
+1. Wasupol Chaisangasilp (6317810014) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/XserieX) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/XserieX)
 
 ---
 
