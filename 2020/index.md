@@ -87,7 +87,7 @@
 
 ### **[Instructor]**
 * [Maykin Warasart](https://fb.me/maeklong)
-* [Pongpat Rakdej](https://fb.me/pongpatrakdej)
+* [Pongpat Rakdej](https://fb.me/pongpatrakdej) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/pp717) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/pp717)
 * [Pemika Limpittaya](https://fb.me/tourlek.fisho)
 
 ---
