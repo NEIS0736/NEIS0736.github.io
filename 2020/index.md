@@ -79,10 +79,6 @@
     * Slot A: ???
     * Slot B: ???
     * Slot C: ???
-* (Sun) **Feb 28,** 2021
-    * Slot A: ???
-    * Slot B: ???
-    * Slot C: ???
 
 ---
 
@@ -252,10 +248,6 @@
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-12)** *by **John Doe***
 
 ### [**Week 13**] - (Sun) **Feb 28,** 2021
-*  **MiSS**x***Talks***
-   * *John Doe*
-   * *John Doe*
-   * *John Doe*
 *  **Mini-Contest**
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-13)** *by **John Doe***
 
