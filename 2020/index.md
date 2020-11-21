@@ -34,7 +34,7 @@
 1. Sununta Labaiusuh (6217810009) <!-- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/xxx) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/xxx) -->
 1. Supattra Boonkied (6317810003) <!-- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/xxx) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/xxx) -->
 1. Thanakorn Prajuabkamon (6217810017) <!-- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/xxx) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/xxx) -->
-1. Theerapong Kanrawong (6317810002) <!-- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/xxx) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/xxx) -->
+1. Theerapong Kanrawong (6317810002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Devtech95) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Devtech95)
 1. Vatcharin Kongsakul (6217810003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ryudokung) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/ryudokun)
 1. Vuttawat Uyanont (6317810001) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Hyde4thHeaven) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Hyde4thHeaven)
 1. Wasupol Chaisangasilp (6317810014) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/XserieX) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/XserieX)
