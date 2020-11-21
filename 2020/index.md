@@ -32,7 +32,7 @@
 1. Soontorn Janphuk (6317660001) <!-- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/xxx) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/xxx) -->
 1. Suntisuk Thepthong (6217810015) <!-- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/xxx) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/xxx) -->
 1. Sununta Labaiusuh (6217810009) <!-- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/xxx) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/xxx) -->
-1. Supattra Boonkied (6317810003) <!-- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/xxx) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/xxx) -->
+1. Supattra Boonkied (6317810003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/SupattraBoonkied) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/SupattraBoonkied) -->
 1. Thanakorn Prajuabkamon (6217810017) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/nongkon09) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/nongkon09)
 1. Theerapong Kanrawong (6317810002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Devtech95) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Devtech95)
 1. Vatcharin Kongsakul (6217810003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ryudokung) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/ryudokun)
