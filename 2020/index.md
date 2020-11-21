@@ -17,7 +17,7 @@
 1. Fareed Marnleb (6317810012) <!-- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/xxx) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/xxx) -->
 1. Hachol Dabthong (6217810010) <!-- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/xxx) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/xxx) -->
 1. Jaray Paensong (6317660006) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/HiRayShi) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/HiRayShi)
-1. Jaruspong Tongboon (6217810004) <!-- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/xxx) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/xxx) -->
+1. Jaruspong Tongboon (6217810004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/jaruspong4) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/jaruspong4)
 1. Keaittisak Luithong (6317660007) <!-- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/xxx) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/xxx) -->
 1. Nantawan Sanpukdee (6317660003) <!-- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/xxx) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/xxx) -->
 1. Narunart Vongeium (6317810006) <!-- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/xxx) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/xxx) -->
