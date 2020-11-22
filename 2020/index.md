@@ -44,13 +44,11 @@
 ---
 
 ### **[MiSS**x***Talks*]** (2 chances)
-* (Sun) **Nov 22,** 2020
-    * Khun Vatcharin Kongsakul, "Git"
 * (Sun) **Dec 6,** 2020
     * Slot A: ???
     * Slot B: ???
     * Slot C: ???
-    * Slot D: ???
+    * Slot D: **"Secure Access Service Edge (SASE)"**, Khun Suntisuk Thepthong (IceSuntisuk)
 * (Sun) **Dec 13,** 2020
     * Slot A: ???
     * Slot B: ???
@@ -83,6 +81,10 @@
     * Slot A: ???
     * Slot B: ???
     * Slot C: ???
+---
+
+* (Sun) **Nov 22,** 2020
+    * **"Git"**, Khun Vatcharin Kongsakul
 
 ---
 
