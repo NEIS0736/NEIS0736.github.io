@@ -106,7 +106,7 @@
 *  **MiSS**x***Talks*** 
     *  [CSSLP Ex. Outline](https://www.isc2.org/-/media/ISC2/Certifications/Exam-Outlines/CSSLP-Exam-Outline-Sept2020.ashx)
     *  [Extra Point](#extra-point)
-*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-1)** *by **Ekawut Chairat***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day1)** *by **Ekawut Chairat***
 *  Homeworks
     *  [**Bruce Schneier: The Security Mindset**](https://www.youtube.com/watch?v=eZNzMKS7zjo) - *only* ***7:32*** *min.*
     *  [5 Reasons Why **Software Security Is More Critical** Than Ever](https://resources.checkmarx.com/why-appsec-now/infographic), Checkmarx
