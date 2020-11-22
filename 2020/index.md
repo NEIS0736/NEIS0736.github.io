@@ -272,8 +272,8 @@
 |In-class participation (#**MiSS**x***Talks*** special, Daily Scribe, Extra) |      xx     |
 |Individual assignments (#**MiSS**x***Talks***)                              |      xx     |
 |Completion of mandatory finger exercises (mini contest)                     |	    xx     |
-|Course project                                                              |      xx     |
-|Midterm exam	                                                             |      xx     |
+|Course project                                                              |      10     |
+|Midterm exam	                                                             |      30     |
 |Final exam                                                                  |      35     |
 
 
