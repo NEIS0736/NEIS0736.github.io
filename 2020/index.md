@@ -164,7 +164,7 @@
    * *John Doe*
    * *John Doe*
 *  **Client**, **BA**, **Developer** *&* **Code**
-*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-3)** *by **John Doe***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day3)** *by **John Doe***
 *  Homework
    * [Web Application Vulnerability Report 2019](https://www.acunetix.com/acunetix-web-application-vulnerability-report-2019/), Acunetix
    * [2020 Web Application Vulnerability Report](https://go.acunetix.com/2020-vulnerability-report), Acunetix
@@ -177,7 +177,7 @@
    * *John Doe*
 *  **Two factor authentication**   
 *  [Schema.org](https://schema.org/) is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond.
-*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-4)** *by **John Doe***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day4)** *by **John Doe***
 *  Homework
    * **Two factor authentication** : well known application/services
    * [When **Open Source** Came to Microsoft](https://www.codemag.com/Article/2009041/When-Open-Source-Came-to-Microsoft), [Richard Campbell](https://www.codemag.com/People/Bio/Richard.Campbell)
@@ -188,7 +188,7 @@
    * *John Doe*
    * *John Doe*
 *  Twitter : **Login Alert**
-*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-5)** *by **John Doe***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day5)** *by **John Doe***
 *  Homework
    * **Alert** : well known application/services
    * Prep. for the Moments of **Celebration & Sharing**
@@ -200,14 +200,14 @@
    * *John Doe*
    * *John Doe*
    * *John Doe*
-*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-6)** *by **John Doe***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day6)** *by **John Doe***
 
 ### [**Week 7**] - (Sun) **Jan 3,** 2021 *(subjected to change)*
 *  **MiSS**x***Talks***
    * *John Doe*
    * *John Doe*
    * *John Doe*
-*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-7)** *by **John Doe***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day7)** *by **John Doe***
 ---
 
 ### [**Semi-final Examination**]
@@ -227,14 +227,14 @@
    * *John Doe*
    * *John Doe*
    * *John Doe*
-*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-9)** *by **John Doe***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day9)** *by **John Doe***
 
 ### [**Week 10**] - (Sun) **Feb 7,** 2021 *(subjected to change)*
 *  **MiSS**x***Talks***
    * *John Doe*
    * *John Doe*
    * *John Doe*
-*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-10)** *by **John Doe***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day10)** *by **John Doe***
 
 ### [**Week 11**] - (Sun) **Feb 14,** 2021
 *  **Valentine** *vs.* **Ovaltine** <!--Mini contest, organized by you-->
@@ -242,26 +242,26 @@
    * *John Doe*
    * *John Doe*
    * *John Doe*
-*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-11)** *by **John Doe***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day11)** *by **John Doe***
 
 ### [**Week 12**] - (Sun) **Feb 21,** 2021
 *  **MiSS**x***Talks***
    * *John Doe*
    * *John Doe*
    * *John Doe*
-*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-12)** *by **John Doe***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day12)** *by **John Doe***
 
 ### [**Week 13**] - (Sun) **Feb 28,** 2021
 *  **Mini-Contest**
-*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-13)** *by **John Doe***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day13)** *by **John Doe***
 
 ### [**Week 14**] - (Sun) **Mar 7,** 2021
 *  **Group Project** Presentation
-*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-14)** *by **John Doe***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day14)** *by **John Doe***
 
 ### [**Week 15**] - (Sun) **Mar 14,** 2021
 *  **Group Project** Presentation
-*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/Daily-Scribe-15)** *by **John Doe***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day15)** *by **John Doe***
 
 ### [**Final Examination**] - *(Lec)*
 *  **Mar [20\|21\|27\|28], 2021 ([A\|P]M)**
