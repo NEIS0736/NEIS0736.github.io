@@ -122,34 +122,34 @@
     * [OWASP Top 10 Security Fundamentals](https://codered.eccouncil.org/CourseDetails/owasp-top-10-security-fundamentals), Paulo Silva (14-day **FREE** trial)
 <a name="OneOnOne"></a>
 *  **One-on-One Assessment** (***true** coffee*)   
-    1. 08:31 - 08:40 : Ek
-    1. 08:41 - 08:50 : Saka
-    1. 08:51 - 09:00 : Hachol
-    1. 09:01 - 09:10 : Sunt 
-    1. 09:11 - 09:20 : Thana 
-    1. 09:21 - 09:30 : Nattaw
-    1. 09:31 - 09:40 : Sununta 
-    1. 09:41 - 09:50 : Athi 
-    1. 09:51 - 10:00 : Jaras 
-    1. 10:01 - 10:10 : Piyaw
-    1. 10:11 - 10:20 : V 
-    1. 10:21 - 10:30 : Faree 
-    1. 10:31 - 10:40 : Anan 
-    1. 10:41 - 10:50 : Jaray
-    1. 10:51 - 11:00 : Soon     
-    1. 11:01 - 11:10 : Nanta 
-    1. 11:11 - 11:20 : Bhoo 
-    1. 11:21 - 11:30 : Vut
-    1. 11:31 - 11:40 : K
-    1. 11:41 - 11:50 : Nattapong 
-    1. 11:51 - 12:00 : Sanch   
-    1. 12:01 - 12:10 : Saran 
-    1. 12:11 - 12:20 : Nipit 
-    1. 12:21 - 12:30 : Naru
-    1. 12:31 - 12:40 : Supat
-    1. 12:41 - 12:50 : Wasu 
-    1. 12:51 - 13:00 : Phureephat
-    1. 13:01 - 13:10 : xxx 
+    1. 08:31 - 08:40 : Khun Ek
+    1. 08:41 - 08:50 : Khun Saka
+    1. 08:51 - 09:00 : Khun Hachol
+    1. 09:01 - 09:10 : Khun Sunt 
+    1. 09:11 - 09:20 : Khun Thana 
+    1. 09:21 - 09:30 : Khun Nattaw
+    1. 09:31 - 09:40 : Khun Sununta 
+    1. 09:41 - 09:50 : Khun Athi 
+    1. 09:51 - 10:00 : Khun Jaras 
+    1. 10:01 - 10:10 : Khun Piyaw
+    1. 10:11 - 10:20 : Khun V 
+    1. 10:21 - 10:30 : Khun Faree 
+    1. 10:31 - 10:40 : Khun Anan 
+    1. 10:41 - 10:50 : Khun Jaray
+    1. 10:51 - 11:00 : Khun Soon     
+    1. 11:01 - 11:10 : Khun Nanta 
+    1. 11:11 - 11:20 : Khun Bhoo 
+    1. 11:21 - 11:30 : Khun Vut
+    1. 11:31 - 11:40 : Khun K
+    1. 11:41 - 11:50 : Khun Nattapong 
+    1. 11:51 - 12:00 : Khun Sanch   
+    1. 12:01 - 12:10 : Khun Saran 
+    1. 12:11 - 12:20 : Khun Nipit 
+    1. 12:21 - 12:30 : Khun Naru
+    1. 12:31 - 12:40 : Khun Supat
+    1. 12:41 - 12:50 : Khun Wasu 
+    1. 12:51 - 13:00 : Khun Phureephat
+    1. 13:01 - 13:10 : Khun Shirassuda Thongpakdhi 
 
 *  Homework
    *  Test Case
