@@ -44,6 +44,8 @@
 ---
 
 ### **[MiSS**x***Talks*]** (2 chances)
+* (Sun) **Nov 22,** 2020
+    * Khun Vatcharin Kongsakul, "Git"
 * (Sun) **Dec 6,** 2020
     * Slot A: ???
     * Slot B: ???
