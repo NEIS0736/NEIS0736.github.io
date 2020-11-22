@@ -274,7 +274,7 @@
 |Completion of mandatory finger exercises (mini contest)                     |	    xx     |
 |Course project                                                              |      xx     |
 |Midterm exam	                                                             |      xx     |
-|Final exam                                                                  |      xx     |
+|Final exam                                                                  |      35     |
 
 
 ### [**Required Materials**]
