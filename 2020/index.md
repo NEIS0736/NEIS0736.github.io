@@ -13,8 +13,8 @@
 
 1. [Anan Boondamnoen](https://AnanBoondamnoen.GitHub.io) (6317810009) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/AnanBoondamnoen) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/AnanBoondamnoen)
 1. [Athiporn Phumnicom](https://AthipornP.GitHub.io) (6217810016) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/AthipornP) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/AthipornP)
-1. [Bhoomjit Bhoominath](https://xxx.GitHub.io) (6317660004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/peegonggoy) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/peegonggoy)
-1. [Ekawut Chairat](https://peegonggoy.GitHub.io) (6217660002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/inuax) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/inuax)
+1. [Bhoomjit Bhoominath](https://peegonggoy.GitHub.io) (6317660004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/peegonggoy) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/peegonggoy)
+1. [Ekawut Chairat](https://inuax.GitHub.io) (6217660002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/inuax) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/inuax)
 1. [Fareed Marnleb](https://marukofar.GitHub.io) (6317810012) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/marukofar) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/marukofar)
 1. [Hachol Dabthong](https://hacholda.GitHub.io) (6217810010) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/hacholda) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/hacholda)
 1. [Jaray Paensong](https://HiRayShi.GitHub.io) (6317660006) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/HiRayShi) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/HiRayShi)
