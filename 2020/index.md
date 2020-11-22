@@ -152,7 +152,8 @@
     1. 12:31 - 12:40 : Khun Supattra Boonkied
     1. 12:41 - 12:50 : Khun Wasupol Chaisangasilp 
     1. 12:51 - 13:00 : Khun Phureephat Sottiratanapan
-    1. 13:01 - 13:10 : Khun Shirassuda Thongpakdhi 
+    1. 13:01 - 13:10 : Khun Shirassuda Thongpakdhi
+    1. 13:11 - 13:20 : Khun Theerapong Kanrawong
 
 *  Homework
    *  Test Case
