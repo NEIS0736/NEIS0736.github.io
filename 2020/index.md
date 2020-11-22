@@ -125,33 +125,33 @@
     * [OWASP Top 10 Security Fundamentals](https://codered.eccouncil.org/CourseDetails/owasp-top-10-security-fundamentals), Paulo Silva (14-day **FREE** trial)
 <a name="OneOnOne"></a>
 *  **One-on-One Assessment** (***true** coffee*)   
-    1. 08:31 - 08:40 : Khun Ek
-    1. 08:41 - 08:50 : Khun Saka
-    1. 08:51 - 09:00 : Khun Hachol
-    1. 09:01 - 09:10 : Khun Sunt 
-    1. 09:11 - 09:20 : Khun Thana 
-    1. 09:21 - 09:30 : Khun Nattaw
-    1. 09:31 - 09:40 : Khun Sununta 
-    1. 09:41 - 09:50 : Khun Athi 
-    1. 09:51 - 10:00 : Khun Jaras 
-    1. 10:01 - 10:10 : Khun Piyaw
-    1. 10:11 - 10:20 : Khun V 
-    1. 10:21 - 10:30 : Khun Faree 
-    1. 10:31 - 10:40 : Khun Anan 
-    1. 10:41 - 10:50 : Khun Jaray
-    1. 10:51 - 11:00 : Khun Soon     
-    1. 11:01 - 11:10 : Khun Nanta 
-    1. 11:11 - 11:20 : Khun Bhoo 
-    1. 11:21 - 11:30 : Khun Vut
-    1. 11:31 - 11:40 : Khun K
-    1. 11:41 - 11:50 : Khun Nattapong 
-    1. 11:51 - 12:00 : Khun Sanch   
-    1. 12:01 - 12:10 : Khun Saran 
-    1. 12:11 - 12:20 : Khun Nipit 
-    1. 12:21 - 12:30 : Khun Naru
-    1. 12:31 - 12:40 : Khun Supat
-    1. 12:41 - 12:50 : Khun Wasu 
-    1. 12:51 - 13:00 : Khun Phureephat
+    1. 08:31 - 08:40 : Khun Ekawut Chairat
+    1. 08:41 - 08:50 : Khun Sakarin Kaewsathitwong
+    1. 08:51 - 09:00 : Khun Hachol Dabthong
+    1. 09:01 - 09:10 : Khun Suntisuk Thepthong 
+    1. 09:11 - 09:20 : Khun Thanakorn Prajuabkamon 
+    1. 09:21 - 09:30 : Khun Nattawut Reungsap
+    1. 09:31 - 09:40 : Khun Sununta Labaiusuh 
+    1. 09:41 - 09:50 : Khun Athiporn Phumnicom 
+    1. 09:51 - 10:00 : Khun Jaruspong Tongboon 
+    1. 10:01 - 10:10 : Khun Piyawit Khumkrong
+    1. 10:11 - 10:20 : Khun Vatcharin Kongsakul 
+    1. 10:21 - 10:30 : Khun Fareed Marnleb 
+    1. 10:31 - 10:40 : Khun Anan Boondamnoen 
+    1. 10:41 - 10:50 : Khun Jaray Paensong
+    1. 10:51 - 11:00 : Khun Soontorn Janphuk     
+    1. 11:01 - 11:10 : Khun Nantawan Sanpukdee 
+    1. 11:11 - 11:20 : Khun Bhoomjit Bhoominath 
+    1. 11:21 - 11:30 : Khun Vuttawat Uyanont
+    1. 11:31 - 11:40 : Khun Keaittisak Luithong
+    1. 11:41 - 11:50 : Khun Nattapong Ketkaew 
+    1. 11:51 - 12:00 : Khun Sanchat Phaisit   
+    1. 12:01 - 12:10 : Khun Saran Kaewnang 
+    1. 12:11 - 12:20 : Khun Nipitpon Doungyai 
+    1. 12:21 - 12:30 : Khun Narunart Vongeium
+    1. 12:31 - 12:40 : Khun Supattra Boonkied
+    1. 12:41 - 12:50 : Khun Wasupol Chaisangasilp 
+    1. 12:51 - 13:00 : Khun Phureephat Sottiratanapan
     1. 13:01 - 13:10 : Khun Shirassuda Thongpakdhi 
 
 *  Homework
