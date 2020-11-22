@@ -81,10 +81,10 @@
     * Slot A: ???
     * Slot B: ???
     * Slot C: ???
----
 
-* (Sun) **Nov 22,** 2020
-    * **"Git"**, Khun Vatcharin Kongsakul
+**Done**
+    * (Sun) **Nov 22,** 2020
+        * **"Git"**, Khun Vatcharin Kongsakul
 
 ---
 
