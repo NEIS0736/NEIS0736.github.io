@@ -97,6 +97,8 @@
 *  **Course introduction**
     *  **Ground rules** (created and agreed by the people participating in the **1<sup>st</sup>** session)
     *  **Grading statistic &** [**policy**](#grading-policy)
+*  **MiSS**x***Talks***
+   * *Khun* **Vatcharin K.**
 *  **KEEP CALM** and **FUN with Git**
     *  **Bio**graphy
         *  [ReversoSpeller](https://www.reverso.net/spell-checker/english-spelling-grammar/)
@@ -116,8 +118,6 @@
         * Thailand **Security Foresight 2035**
         * Show us your **#HelloWorld** ***3 times*** smartly
         * Topics of interest (**Thesis/Independent Study**) w/ **3 related papers** from [IEEExplore](https://ieeexplore.ieee.org/Xplore/home.jsp) *or* other trusted research databases
-<a name="ChosenOne"></a>
-*  The Chosen One: **Khun** ***Vatcharin K.***
     
 ### [**Week 2**] - (Sun) **Nov 29,** 2020
 *  **Gang of Three**
