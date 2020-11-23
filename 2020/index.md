@@ -40,7 +40,7 @@
 1. [Vatcharin Kongsakul](https://ryudokung.GitHub.io) (6217810003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ryudokung) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/ryudokun)
     * [Git](/2020/MiSSxTalks/VatcharinK.jpg)
 1. [Vuttawat Uyanont](https://Hyde4thHeaven.GitHub.io) (6317810001) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Hyde4thHeaven) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Hyde4thHeaven)
-    * [How to create a new GitLab pages from scratch](https://hyde4thheaven.github.io/How-to-Create-GitLab-Pages/)
+    * [How to create a new GitLab page from scratch](https://hyde4thheaven.github.io/How-to-Create-GitLab-Pages/)
 1. [Wasupol Chaisangasilp](https://XserieX.GitHub.io) (6317810014) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/XserieX) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/XserieX)
 
 ---
