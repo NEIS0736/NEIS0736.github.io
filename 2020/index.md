@@ -151,10 +151,10 @@
     1. 12:01 - 12:10 : Khun Saran Kaewnang 
     1. 12:11 - 12:20 : Khun Nipitpon Doungyai 
     1. 12:21 - 12:30 : Khun Narunart Vongeium
-    1. 12:31 - 12:40 : Khun Supattra Boonkied
-    1. 12:41 - 12:50 : Khun Wasupol Chaisangasilp 
-    1. 12:51 - 13:00 : Khun Phureephat Sottiratanapan
-    1. 13:01 - 13:10 : Khun Shirassuda Thongpakdhi
+    1. 12:31 - 12:40 : Khun Shirassuda Thongpakdhi
+    1. 12:41 - 12:50 : Khun Supattra Boonkied
+    1. 12:51 - 13:00 : Khun Wasupol Chaisangasilp 
+    1. 13:01 - 13:10 : Khun Phureephat Sottiratanapan
     1. 13:11 - 13:20 : Khun Theerapong Kanrawong
 
 *  Homework
