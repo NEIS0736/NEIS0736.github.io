@@ -38,6 +38,7 @@
 1. [Thanakorn Prajuabkamon](https://nongkon09.GitHub.io) (6217810017) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/nongkon09) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/nongkon09)
 1. [Theerapong Kanrawong](https://Devtech95.GitHub.io) (6317810002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Devtech95) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Devtech95)
 1. [Vatcharin Kongsakul](https://ryudokung.GitHub.io) (6217810003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ryudokung) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/ryudokun)
+    * [Git](/2020/MiSSxTalks/VatcharinK.jpg)
 1. [Vuttawat Uyanont](https://Hyde4thHeaven.GitHub.io) (6317810001) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Hyde4thHeaven) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Hyde4thHeaven)
 1. [Wasupol Chaisangasilp](https://XserieX.GitHub.io) (6317810014) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/XserieX) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/XserieX)
 
