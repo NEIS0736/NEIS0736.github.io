@@ -120,7 +120,9 @@
         * Thailand **Security Foresight 2035**
         * Show us your **Love in the loop***
         * Topics of interest (**Thesis/Independent Study**) w/ **3 related papers** from [IEEExplore](https://ieeexplore.ieee.org/Xplore/home.jsp) *or* ***trusted research databases***
-        * **Completion** of your **GitHub Page bio**graphy.
+        * **Completion** of your **GitHub Page bio**graphy
+        * Tell me your **AKA**
+        * Perfectly **MiSS**x***Talks*** topic name
     
 ### [**Week 2**] - (Sun) **Nov 29,** 2020
 *  **Gang of Three**
