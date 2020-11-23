@@ -324,3 +324,6 @@
 *  [Sizer 4.0](http://www.brianapps.net/sizer4/)
 *  [Visual Studio Code](https://code.visualstudio.com/download)
 *  [GitHub Desktop](https://desktop.github.com/)
+
+
+"Improper input validation is such a common cause of security vulnerabilities that it is 2019 CWE Top 25 #3. It is also identified as [CWE-20](https://cwe.mitre.org/data/definitions/20.html) (Improper Input Validation).", LinuxFoundationX: LFD105x Secure Software Development: Implementation
