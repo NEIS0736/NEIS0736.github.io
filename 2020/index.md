@@ -120,7 +120,7 @@
         * Thailand **Security Foresight 2035**
         * Show us your **#HelloWorld** ***3 times*** smartly
         * Topics of interest (**Thesis/Independent Study**) w/ **3 related papers** from [IEEExplore](https://ieeexplore.ieee.org/Xplore/home.jsp) *or* other trusted research databases
-        * Completion of your GitHub Page biography.
+        * **Completion** of your **GitHub Page bio**graphy.
     
 ### [**Week 2**] - (Sun) **Nov 29,** 2020
 *  **Gang of Three**
