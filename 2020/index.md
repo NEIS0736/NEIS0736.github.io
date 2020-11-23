@@ -56,8 +56,8 @@
     * Slot B: ???
     * Slot C: ???
 * (Sun) **Dec 20,** 2020 *(subjected to change)*
-    * Slot A: ???
-    * Slot B: ???
+    * Slot A: **"Static Application Security Testing"**, Khun Nipitpon Doungyai (**Geno**)
+    * Slot B: **"Dynamic Application Security Testing"**,	Khun Saran Kaewnang (**GOLF**)
     * Slot C: ???
 * (Sun) **Dec 27,** 2020
     * Slot A: ???
