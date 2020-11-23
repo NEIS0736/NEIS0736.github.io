@@ -63,7 +63,7 @@
     * Slot B: ???
     * Slot C: ???
 * (Sun) **Jan 3,** 2021 *(subjected to change)*
-    * Slot A: ???
+    * Slot A: **"Blockchain and Smart Contract"**,	Khun Vuttawat Uyanont (Palm)
     * Slot B: ???
     * Slot C: ???
 * (Sun) **Jan 31,** 2021
