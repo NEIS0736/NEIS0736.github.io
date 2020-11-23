@@ -3,7 +3,6 @@
 ---
 
 * [GitLab **Wiki**](https://gitlab.com/NEIS0736/2020/wikis/README)
-* **MiSS**x***Talks*** [**Booking**](https://docs.google.com/spreadsheets/d/1NBZyw19XSU4rv0BdW0LQ2KAnSXwAGk1odZ9KhA6fbNc)
 * **MiSS**x***Talks*** *Special* : **Jan 24, 2021** *(tentative)*
 * **[One-on-One](#OneOnOne)** Assessment : **Nov 29**, 2020
 
@@ -45,7 +44,8 @@
 
 ---
 
-### **[MiSS**x***Talks*]** (2 chances)
+### **[MiSS**x***Talks*]** (2 chances) 
+* [**Book**](https://docs.google.com/spreadsheets/d/1NBZyw19XSU4rv0BdW0LQ2KAnSXwAGk1odZ9KhA6fbNc) your time slot
 * (Sun) **Dec 6,** 2020
     * Slot A: ???
     * Slot B: ???
