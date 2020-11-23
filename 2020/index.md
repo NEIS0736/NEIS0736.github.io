@@ -118,7 +118,7 @@
         * Security **mindset**
         * Reasons why **#SWSec is more critical**
         * Thailand **Security Foresight 2035**
-        * Show us your **Love on the loop***
+        * Show us your **Love in the loop***
         * Topics of interest (**Thesis/Independent Study**) w/ **3 related papers** from [IEEExplore](https://ieeexplore.ieee.org/Xplore/home.jsp) *or* ***trusted research databases***
         * **Completion** of your **GitHub Page bio**graphy.
     
