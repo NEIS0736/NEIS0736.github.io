@@ -50,7 +50,7 @@
 * (Sun) **Dec 6,** 2020
     * Slot A: ???
     * Slot B: ???
-    * Slot C: ???
+    * Slot C: **"Sign an assembly with a strong name"**, Khun Athiporn Phumnicom (**Beam**)
     * Slot D: **"Secure Access Service Edge (SASE)"**, Khun Suntisuk Thepthong (**IceSuntisuk**)
 * (Sun) **Dec 13,** 2020
     * Slot A: ???
