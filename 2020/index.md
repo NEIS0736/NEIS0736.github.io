@@ -298,7 +298,7 @@
 
 ---
 ### [**Official class meeting place**]
-*  **MII209B**
+[![](/2020/img/MII209B.jpg "#NEIS0736")]
 
 ---
 ### [**Extra Point**]
