@@ -142,7 +142,7 @@
     1. 09:51 - 10:00 : Khun Jaruspong Tongboon 
     1. 10:01 - 10:10 : Khun Piyawit Khumkrong
     1. 10:11 - 10:20 : Khun Vatcharin Kongsakul 
-    1. 10:21 - 10:30 : Khun Fareed Marnleb 
+    1. 10:21 - 10:30 : Khun Fareed Marnleb (Ratchayothin, Nov 26, 7:00 PM)
     1. 10:31 - 10:40 : Khun Anan Boondamnoen 
     1. 10:41 - 10:50 : Khun Jaray Paensong
     1. 10:51 - 11:00 : Khun Soontorn Janphuk     
