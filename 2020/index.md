@@ -300,7 +300,7 @@
 ### [**Official class meeting place**]
 ![](/2020/img/MII209B.jpg "#NEIS0736")
 
----
+
 ### [**Extra Point**]
 *  <del>[GitLab](https://gitlab.com/) Pages</del>, *claimed by Khun Vuttawat U.*
 *  [Someone just searched for you on Google...](Extra/Searched-for-you-on-Google.png)
