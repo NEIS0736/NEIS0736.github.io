@@ -64,7 +64,7 @@
     * Slot C: ???
 * (Sun) **Dec 27,** 2020
     * Slot A: ???
-    * Slot B: ???
+    * Slot B: **"TBD"**, Khun Bhoomjit Bhoominath (**Luck**)
     * Slot C: ???
 * (Sun) **Jan 3,** 2021 *(subjected to change)*
     * Slot A: **"Blockchain and Smart Contract"**,	Khun Vuttawat Uyanont (**Palm**)
@@ -76,7 +76,7 @@
     * Slot C: ???
 * (Sun) **Feb 7,** 2021 *(subjected to change)*
     * Slot A: ???
-    * Slot B: ???
+    * Slot B: **"TBD"**, Khun Nattapong Ketkaew (**X**)
     * Slot C: ???
 * (Sun) **Feb 14,** 2021
     * Slot A: ???
