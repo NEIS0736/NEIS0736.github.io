@@ -28,6 +28,7 @@
 1. [Phureephat Sottiratanapan](https://PhureephatS.GitHub.io) (6217810014) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/PhureephatS) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/PhureephatS)
 1. [Piyawit Khumkrong](https://EsKoOnG.GitHub.io) (6317810004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/EsKoOnG) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/EsKoOnG)
     * T-Shirt Design
+    * [Warning: line endings have changed from ‘LF’ to ‘CRLF’](https://eskoong.github.io/eol)
 1. [Sakarin Kaewsathitwong](https://Alfatoxin.GitHub.io) (6217810002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Alfatoxin) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Alfatoxin)
 1. [Sanchat Phaisit](https://ph-sanchat.GitHub.io) (6317810015) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ph-sanchat) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/ph-sanchat)
 1. [Saran Kaewnang](https://ahictf.GitHub.io) (6317810007) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ahictf) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/ahictf)
