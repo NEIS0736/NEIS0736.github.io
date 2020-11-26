@@ -132,7 +132,10 @@
     * **D... S... V...**
     * [OWASP Top 10 Security Fundamentals](https://codered.eccouncil.org/CourseDetails/owasp-top-10-security-fundamentals), Paulo Silva (14-day **FREE** trial)
 <a name="OneOnOne"></a>
-*  **One-on-One Assessment** (***true** coffee*)   
+*  **One-on-One Assessment** (***true** coffee*)
+    1. Nov 26 : Khun Fareed Marnleb (Ratchayothin)
+    1. Nov 26 : Khun Soontorn Janphuk (Ratchayothin)
+
     1. 08:31 - 08:40 : Khun Ekawut Chairat
     1. 08:41 - 08:50 : Khun Sakarin Kaewsathitwong
     1. 08:51 - 09:00 : Khun Hachol Dabthong
@@ -144,10 +147,8 @@
     1. 09:51 - 10:00 : Khun Jaruspong Tongboon 
     1. 10:01 - 10:10 : Khun Piyawit Khumkrong
     1. 10:11 - 10:20 : Khun Vatcharin Kongsakul 
-    1. 10:21 - 10:30 : Khun Fareed Marnleb (Ratchayothin, Nov 26, 7:00 PM)
     1. 10:31 - 10:40 : Khun Anan Boondamnoen 
-    1. 10:41 - 10:50 : Khun Jaray Paensong
-    1. 10:51 - 11:00 : Khun Soontorn Janphuk     
+    1. 10:41 - 10:50 : Khun Jaray Paensong     
     1. 11:01 - 11:10 : Khun Nantawan Sanpukdee 
     1. 11:11 - 11:20 : Khun Bhoomjit Bhoominath 
     1. 11:21 - 11:30 : Khun Vuttawat Uyanont
