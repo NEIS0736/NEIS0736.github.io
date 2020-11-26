@@ -335,4 +335,4 @@
 *  [Visual Studio Code](https://code.visualstudio.com/download)
 *  [GitHub Desktop](https://desktop.github.com/)
 *  [ReversoSpeller](https://www.reverso.net/spell-checker/english-spelling-grammar/)
-*  [The new way to send a thank you| group card](https://www.groupgreeting.com/)
+*  [The new way to send a thank you\| group card](https://www.groupgreeting.com/)
