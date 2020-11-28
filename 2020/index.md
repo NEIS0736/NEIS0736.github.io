@@ -74,7 +74,7 @@
 * (Sun) **Jan 31,** 2021
     * Slot A: ???
     * Slot B: **"TBD"**, Khun Soontorn Janphuk (**Brad**)
-    * Slot C: **"TBD"**, Khun Fareed Marnleb
+    * Slot C: **"TBD"**, Khun Fareed Marnleb (**Far**)
 * (Sun) **Feb 7,** 2021 *(subjected to change)*
     * Slot A: ???
     * Slot B: **"TBD"**, Khun Nattapong Ketkaew (**X**)
