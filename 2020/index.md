@@ -133,7 +133,7 @@
     * **D... S... V...**
     * [OWASP Top 10 Security Fundamentals](https://codered.eccouncil.org/CourseDetails/owasp-top-10-security-fundamentals), Paulo Silva (14-day **FREE** trial)
 <a name="OneOnOne"></a>
-*  **One-on-One Assessment** (***true** coffee*)
+*  **One-on-One Assessment**
     + ***true** coffee at MUT* *
     + ***Starbucks** at Major Avenue - Ratchayothin* **
 
