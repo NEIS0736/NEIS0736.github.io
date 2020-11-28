@@ -164,7 +164,6 @@
     1. 12:31 - 12:40 : Khun Phureephat Sottiratanapan
     1. 12:41 - 12:50 : Khun Theerapong Kanrawong
     
-    
     1. Dec 1 (Eve) : Khun Suntisuk Thepthong (Ratchayothin)
 
 *  Homework
