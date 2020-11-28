@@ -136,7 +136,9 @@
 *  **One-on-One Assessment** (***true** coffee*)
 
     1. Nov 26 (Eve): [Khun Fareed Marnleb](OneOnOne/FareedM.jpg) (***Starbucks** at Major Avenue - Ratchayothin*)
+        * IoT, CASB
     1. Nov 26 (Eve): [Khun Soontorn Janphuk](OneOnOne/SoontornJ.jpg) (***Starbucks** at Major Avenue - Ratchayothin*)
+        * CTI, SOC
 
     1. 08:31 - 08:40 : Khun Ekawut Chairat
     1. 08:41 - 08:50 : Khun Sakarin Kaewsathitwong
