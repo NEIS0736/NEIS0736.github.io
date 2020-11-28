@@ -133,7 +133,7 @@
 ### [**Week 2**] - (Sun) **Nov 29,** 2020
 *  Security Requirements
     * [OWASP ASVS (Application Security Verification Standard)](https://owasp.org/www-project-application-security-verification-standard/)
-    * Choose & Create the KBs in GitLab Wikis
+    * Choose & Create the KBs in GitLab Wikis under "Requirement", Ask **Khun Ekawut C.** if you cannot do it.
     <a name="OneOnOne"></a>
 *  **One-on-One Assessment** (***true** coffee*)
 
