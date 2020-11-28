@@ -135,7 +135,7 @@
 <a name="OneOnOne"></a>
 *  **One-on-One Assessment** (***true** coffee*)
     1. Nov 26 (Eve): Khun Fareed Marnleb (Ratchayothin)
-    1. Nov 26 (Eve): Khun Soontorn Janphuk (Ratchayothin)
+    1. Nov 26 (Eve): [Khun Soontorn Janphuk](OneOnOne/SoontornJ.jpg) (Ratchayothin)
 
     1. 08:31 - 08:40 : Khun Ekawut Chairat
     1. 08:41 - 08:50 : Khun Sakarin Kaewsathitwong
