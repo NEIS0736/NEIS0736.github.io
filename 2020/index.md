@@ -142,30 +142,31 @@
 
     1. 08:31 - 08:40 : Khun Ekawut Chairat
     1. 08:41 - 08:50 : Khun Sakarin Kaewsathitwong
-    1. 08:51 - 09:00 : Khun Hachol Dabthong
-    1. 09:01 - 09:10 : Khun Thanakorn Prajuabkamon 
+    1. 09:01 - 09:10 : Khun Thanakorn Prajuabkamon
     1. 09:11 - 09:20 : Khun Nattawut Reungsap
-    1. 09:21 - 09:30 : Khun Sununta Labaiusuh 
-    1. 09:31 - 09:40 : Khun Athiporn Phumnicom 
-    1. 09:41 - 09:50 : Khun Jaruspong Tongboon 
+    1. 09:21 - 09:30 : Khun Sununta Labaiusuh
+    1. 09:31 - 09:40 : Khun Athiporn Phumnicom
+    1. 09:41 - 09:50 : Khun Jaruspong Tongboon
     1. 09:51 - 10:00 : Khun Piyawit Khumkrong
-    1. 10:01 - 10:10 : Khun Vatcharin Kongsakul 
-    1. 10:11 - 10:20 : Khun Anan Boondamnoen 
-    1. 10:21 - 10:30 : Khun Jaray Paensong     
-    1. 10:31 - 10:40 : Khun Nantawan Sanpukdee 
-    1. 10:41 - 10:50 : Khun Bhoomjit Bhoominath 
+    1. 10:01 - 10:10 : Khun Vatcharin Kongsakul
+    1. 10:11 - 10:20 : Khun Anan Boondamnoen
+    1. 10:21 - 10:30 : Khun Jaray Paensong
+    1. 10:31 - 10:40 : Khun Nantawan Sanpukdee
+    1. 10:41 - 10:50 : Khun Bhoomjit Bhoominath
     1. 10:51 - 11:00 : Khun Vuttawat Uyanont
     1. 11:01 - 11:10 : Khun Keaittisak Luithong
-    1. 11:11 - 11:20 : Khun Nattapong Ketkaew 
-    1. 11:21 - 11:30 : Khun Sanchat Phaisit   
-    1. 11:31 - 11:40 : Khun Saran Kaewnang 
-    1. 11:41 - 11:50 : Khun Nipitpon Doungyai 
+    1. 11:11 - 11:20 : Khun Nattapong Ketkaew
+    1. 11:21 - 11:30 : Khun Sanchat Phaisit
+    1. 11:31 - 11:40 : Khun Saran Kaewnang
+    1. 11:41 - 11:50 : Khun Nipitpon Doungyai
     1. 11:51 - 12:00 : Khun Narunart Vongeium
     1. 12:01 - 12:10 : Khun Shirassuda Thongpakdhi
     1. 12:11 - 12:20 : Khun Supattra Boonkied
-    1. 12:21 - 12:30 : Khun Wasupol Chaisangasilp 
+    1. 12:21 - 12:30 : Khun Wasupol Chaisangasilp
     1. 12:31 - 12:40 : Khun Phureephat Sottiratanapan
     1. 12:41 - 12:50 : Khun Theerapong Kanrawong
+    
+    1. 15:00 - 15:15 : Khun Hachol Dabthong
     
     1. Dec 1 (Eve) : Khun Suntisuk Thepthong  (***Starbucks** at Major Avenue - Ratchayothin*)
     
