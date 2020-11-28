@@ -134,8 +134,12 @@
     * [OWASP Top 10 Security Fundamentals](https://codered.eccouncil.org/CourseDetails/owasp-top-10-security-fundamentals), Paulo Silva (14-day **FREE** trial)
 <a name="OneOnOne"></a>
 *  **One-on-One Assessment** (***true** coffee*)
-    1. Nov 26 (Eve): [Khun Fareed Marnleb]() (Ratchayothin)
-    1. Nov 26 (Eve): [Khun Soontorn Janphuk](OneOnOne/SoontornJ.jpg) (Ratchayothin)
+
++ ***true** coffee at MUT* *
++ ***Starbucks** at Major Avenue - Ratchayothin* **
+
+    1. Nov 26 (Eve): [Khun Fareed Marnleb](OneOnOne/FareedM.jpg) **
+    1. Nov 26 (Eve): [Khun Soontorn Janphuk](OneOnOne/SoontornJ.jpg) **
 
     1. 08:31 - 08:40 : Khun Ekawut Chairat
     1. 08:41 - 08:50 : Khun Sakarin Kaewsathitwong
@@ -164,7 +168,7 @@
     1. 12:31 - 12:40 : Khun Phureephat Sottiratanapan
     1. 12:41 - 12:50 : Khun Theerapong Kanrawong
     
-    1. Dec 1 (Eve) : Khun Suntisuk Thepthong (Ratchayothin)
+    1. Dec 1 (Eve) : Khun Suntisuk Thepthong **
 
 *  Homework
    *  Test Case
