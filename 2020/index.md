@@ -131,10 +131,10 @@
         * Perfectly **MiSS**x***Talks*** topic name
     
 ### [**Week 2**] - (Sun) **Nov 29,** 2020
-*  **Gang of Three**
-    * **D... S... V...**
-    * [OWASP Top 10 Security Fundamentals](https://codered.eccouncil.org/CourseDetails/owasp-top-10-security-fundamentals), Paulo Silva (14-day **FREE** trial)
-<a name="OneOnOne"></a>
+*  Security Requirements
+    * [OWASP ASVS (Application Security Verification Standard)](https://owasp.org/www-project-application-security-verification-standard/)
+    * Choose & Create the KBs in GitLab Wikis
+    <a name="OneOnOne"></a>
 *  **One-on-One Assessment** (***true** coffee*)
 
     1. Nov 26 (Eve): [Khun Fareed Marnleb](OneOnOne/FareedM.jpg) (***Starbucks** at Major Avenue - Ratchayothin*)
@@ -169,16 +169,16 @@
     
     1. Dec 1 (Eve) : Khun Suntisuk Thepthong (***Starbucks** at Major Avenue - Ratchayothin*)
     1. Dec 1 (Eve) : Khun Nantawan Sanpukdee (***Starbucks** at Major Avenue - Ratchayothin*)
-    
 
 *  **Homework**
-   *  Security Requirements
+   * [OWASP Top 10 Security Fundamentals](https://codered.eccouncil.org/CourseDetails/owasp-top-10-security-fundamentals), Paulo Silva (14-day **FREE** trial)
     
 ### [**Week 3**] - (Sun) **Dec 6,** 2020
 *  **MiSS**x***Talks***
    * *John Doe*
    * *John Doe*
    * *John Doe*
+*  **Digital Signature Verification**
 *  **Client**, **BA**, **Developer** *&* **Code**
 *  **Test Case**
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day3)** *by **John Doe***
