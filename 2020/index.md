@@ -171,7 +171,7 @@
     
 
 *  **Homework**
-   *  Test Case
+   *  Security Requirements
     
 ### [**Week 3**] - (Sun) **Dec 6,** 2020
 *  **MiSS**x***Talks***
@@ -179,6 +179,7 @@
    * *John Doe*
    * *John Doe*
 *  **Client**, **BA**, **Developer** *&* **Code**
+*  **Test Case**
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day3)** *by **John Doe***
 *  Homework
    * [Web Application Vulnerability Report 2019](https://www.acunetix.com/acunetix-web-application-vulnerability-report-2019/), Acunetix
