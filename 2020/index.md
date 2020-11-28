@@ -308,6 +308,7 @@
 ### [**Extra Point**]
 *  <del>[GitLab](https://gitlab.com/) Pages</del>, *claimed by Khun Vuttawat U.*
 *  [Someone just searched for you on Google...](Extra/Searched-for-you-on-Google.png)
+*  [If you found it useful maybe consider buying us a coffee](Extra/buy-us-a-coffee.png)
 *  [Keybase](https://keybase.io/)
 *  Digital signature verification (e.g. [Tor Browser](https://www.torproject.org/download/))
 *  [Tester Work](https://testerwork.com/), a crowdsourced testing
