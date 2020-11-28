@@ -113,7 +113,7 @@
     *  [CSSLP Ex. Outline](https://www.isc2.org/-/media/ISC2/Certifications/Exam-Outlines/CSSLP-Exam-Outline-Sept2020.ashx)
     *  [Extra Point](#extra-point)
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day1)** *by **Ekawut Chairat***
-*  Homeworks
+*  **Homeworks**
     *  [**Bruce Schneier: The Security Mindset**](https://www.youtube.com/watch?v=eZNzMKS7zjo) - *only* ***7:32*** *min.*
     *  [5 Reasons Why **Software Security Is More Critical** Than Ever](https://resources.checkmarx.com/why-appsec-now/infographic), Checkmarx
     *  ["**Security**"](https://www.depa.or.th/storage/app/media/file/Second%20Deliverable%20RevVer%20EN%20V12%20140819%20FIN.pdf), Thailand Digital Technology **Foresight 2035**
@@ -170,7 +170,7 @@
     1. Dec 1 (Eve) : Khun Suntisuk Thepthong  (***Starbucks** at Major Avenue - Ratchayothin*)
     
 
-*  Homework
+*  **Homework**
    *  Test Case
     
 ### [**Week 3**] - (Sun) **Dec 6,** 2020
