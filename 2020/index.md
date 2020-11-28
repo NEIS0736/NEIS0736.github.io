@@ -289,9 +289,9 @@
  
 |       ACTIVITIES	                                                         | PERCENTAGES |
 | -------------------------------------------------------------------------- | :---------: |
-|In-class participation (#**MiSS**x***Talks*** special, Daily Scribe, Extra) |      20     |
+|In-class participation (#**MiSS**x***Talks*** special, Daily Scribe, Extra) |      13     |
 |Individual assignments (#**MiSS**x***Talks***)                              |      10     |
-|Completion of mandatory finger exercises (mini contest)                     |	    5     |
+|Completion of mandatory finger exercises (mini contest)                     |	    7     |
 |Course project                                                              |      10     |
 |Midterm exam	                                                             |      25     |
 |Final exam                                                                  |      30     |
