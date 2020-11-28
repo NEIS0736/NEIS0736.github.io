@@ -289,7 +289,7 @@
  
 |       ACTIVITIES	                                                         | PERCENTAGES |
 | -------------------------------------------------------------------------- | :---------: |
-|In-class participation (#**MiSS**x***Talks*** special, Daily Scribe, Extra) |      xx     |
+|In-class participation (#**MiSS**x***Talks*** special, Daily Scribe, Extra) |      15     |
 |Individual assignments (#**MiSS**x***Talks***)                              |      10     |
 |Completion of mandatory finger exercises (mini contest)                     |	    5     |
 |Course project                                                              |      10     |
