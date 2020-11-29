@@ -53,6 +53,7 @@
 1. [Soontorn Janphuk](https://freedom357.GitHub.io) (6317660001) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/freedom357) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/freedom357)
     * One-on-One - CTI, SOC
 1. [Suntisuk Thepthong](https://icesuntisuk.GitHub.io) (6217810015) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/icesuntisuk) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/icesuntisuk)
+    * One-on-One - SIEM, Security Automation, SOAR
 1. [Sununta Labaiusuh](https://sununta580.GitHub.io) (6217810009) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/sununta580) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/sununta)
     * One-on-One - Cloud Security, Test bed
 1. [Supattra Boonkied](https://SupattraBoonkied.GitHub.io) (6317810003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/SupattraBoonkied) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/SupattraBoonkied)
@@ -187,11 +188,11 @@
     1. 11:51 - 12:00 : Khun Wasupol Chaisangasilp    
     1. 12:01 - 12:10 : Khun Theerapong Kanrawong    
     1. 12:11 - 12:20 : Khun Hachol Dabthong
+    1. Dec 1 (Eve) : Khun Suntisuk Thepthong (***Starbucks** at Major Avenue - Ratchayothin*)
     
     1. xx:xx - xx:xx : Khun Nattapong Ketkaew
     1. xx:xx - xx:xx : Khun Sanchat Phaisit
     
-    1. Dec 1 (Eve) : Khun Suntisuk Thepthong (***Starbucks** at Major Avenue - Ratchayothin*)
     1. Dec 1 (Eve) : Khun Nantawan Sanpukdee (***Starbucks** at Major Avenue - Ratchayothin*)
 
 *  **Homework**
