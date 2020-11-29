@@ -12,6 +12,7 @@
 
 1. [Anan Boondamnoen](https://AnanBoondamnoen.GitHub.io) (6317810009) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/AnanBoondamnoen) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/AnanBoondamnoen)
 1. [Athiporn Phumnicom](https://AthipornP.GitHub.io) (6217810016) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/AthipornP) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/AthipornP)
+    *  Authentication, OpenID
 1. [Bhoomjit Bhoominath](https://peegonggoy.GitHub.io) (6317660004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/peegonggoy) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/peegonggoy)
 1. [Ekawut Chairat](https://inuax.GitHub.io) (6217660002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/inuax) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/inuax)
     *  [Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day1) of Day 1
@@ -21,16 +22,19 @@
 1. [Hachol Dabthong](https://hacholda.GitHub.io) (6217810010) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/hacholda) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/hacholda)
 1. [Jaray Paensong](https://HiRayShi.GitHub.io) (6317660006) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/HiRayShi) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/HiRayShi)
 1. [Jaruspong Tongboon](https://jaruspong4.GitHub.io) (6217810004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/jaruspong4) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/jaruspong4)
+    *  One-on-One - ISMS
 1. [Keaittisak Luithong](https://keaittisak.GitHub.io) (6317660007) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/keaittisak) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/joker0138)
 1. [Nantawan Sanpukdee](https://fAi00-S.GitHub.io) (6317660003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/fAi00-S) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/fAi00)
 1. [Narunart Vongeium](https://EITCHY.GitHub.io) (6317810006) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/EITCHY) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/EITCHY)
 1. [Nattapong Ketkaew](https://nattapong007.GitHub.io) (6317810011) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/nattapong007) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/nattapong007)
 1. [Nattawut Reungsap](https://omoomomx.GitHub.io) (6217810013) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/omoomomx) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/omoomomx)
+    *  One-on-One - ISO, 27001 
 1. [Nipitpon Doungyai](https://itsGno.GitHub.io) (6317810008) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/itsGno) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/itsGno)
 1. [Phureephat Sottiratanapan](https://PhureephatS.GitHub.io) (6217810014) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/PhureephatS) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/PhureephatS)
 1. [Piyawit Khumkrong](https://EsKoOnG.GitHub.io) (6317810004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/EsKoOnG) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/EsKoOnG)
     * T-Shirt Design
     * [Warning: line endings have changed from ‘LF’ to ‘CRLF’](https://eskoong.github.io/eol)
+    * One-on-One - Machine Learning, IDS
 1. [Sakarin Kaewsathitwong](https://Alfatoxin.GitHub.io) (6217810002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Alfatoxin) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Alfatoxin)
     * One-on-One - MitM
 1. [Sanchat Phaisit](https://ph-sanchat.GitHub.io) (6317810015) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ph-sanchat) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/ph-sanchat)
@@ -40,12 +44,14 @@
     *  One-on-One - CTI, SOC
 1. [Suntisuk Thepthong](https://icesuntisuk.GitHub.io) (6217810015) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/icesuntisuk) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/icesuntisuk)
 1. [Sununta Labaiusuh](https://sununta580.GitHub.io) (6217810009) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/sununta580) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/sununta)
+    *  One-on-One - Cloud Security, Test bed
 1. [Supattra Boonkied](https://SupattraBoonkied.GitHub.io) (6317810003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/SupattraBoonkied) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/SupattraBoonkied)
 1. [Thanakorn Prajuabkamon](https://nongkon09.GitHub.io) (6217810017) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/nongkon09) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/nongkon09)
     *  One-on-One - Cloud Security, Misconfiguration 
 1. [Theerapong Kanrawong](https://Devtech95.GitHub.io) (6317810002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Devtech95) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Devtech95)
 1. [Vatcharin Kongsakul](https://ryudokung.GitHub.io) (6217810003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ryudokung) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/ryudokun)
     * [Git](/2020/MiSSxTalks/VatcharinK.jpg)
+    *  IoT PenTest, DevOps, DevSecOps, Agile
 1. [Vuttawat Uyanont](https://Hyde4thHeaven.GitHub.io) (6317810001) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Hyde4thHeaven) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Hyde4thHeaven)
     * T-Shirt Design
     * [How to create a new GitLab page from scratch](https://hyde4thheaven.github.io/How-to-Create-GitLab-Pages/), [https://hyde4thheaven.gitlab.io/profile/](https://hyde4thheaven.gitlab.io/profile/)
