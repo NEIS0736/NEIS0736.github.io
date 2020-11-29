@@ -193,6 +193,7 @@
     1. XXXX : Khun Nattapong Ketkaew
     1. XXXX : Khun Sanchat Phaisit
 
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day2)** *by **John Doe***
 *  **Homework**
    * [OWASP Top 10 Security Fundamentals](https://codered.eccouncil.org/CourseDetails/owasp-top-10-security-fundamentals), Paulo Silva (14-day **FREE** trial)
     
