@@ -22,7 +22,7 @@
     *  One-on-One - IoT, CASB
 1. [Hachol Dabthong](https://hacholda.GitHub.io) (6217810010) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/hacholda) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/hacholda)
 1. [Jaray Paensong](https://HiRayShi.GitHub.io) (6317660006) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/HiRayShi) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/HiRayShi)
-    *  One-on-One - 
+    *  One-on-One - CTF, Gamification
 1. [Jaruspong Tongboon](https://jaruspong4.GitHub.io) (6217810004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/jaruspong4) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/jaruspong4)
     *  One-on-One - ISMS
 1. [Keaittisak Luithong](https://keaittisak.GitHub.io) (6317660007) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/keaittisak) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/joker0138)
