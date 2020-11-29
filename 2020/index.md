@@ -190,10 +190,9 @@
     1. 12:11 - 12:20 : Khun Hachol Dabthong
     1. 15:15 - 15:30 : Khun Suntisuk Thepthong
     
-    1. xx:xx - xx:xx : Khun Nattapong Ketkaew
-    1. xx:xx - xx:xx : Khun Sanchat Phaisit
-    
     1. Dec 1 (Eve) : Khun Nantawan Sanpukdee (***Starbucks** at Major Avenue - Ratchayothin*)
+    1. XXXX : Khun Nattapong Ketkaew
+    1. XXXX : Khun Sanchat Phaisit
 
 *  **Homework**
    * [OWASP Top 10 Security Fundamentals](https://codered.eccouncil.org/CourseDetails/owasp-top-10-security-fundamentals), Paulo Silva (14-day **FREE** trial)
