@@ -185,7 +185,7 @@
     1. 11:31 - 11:40 : [Khun Phureephat Sottiratanapan](OneOnOne/PhureephatS.jpg)
     1. 11:41 - 11:50 : [Khun Supattra Boonkied](OneOnOne/SupattraB.jpg)
     1. 11:51 - 12:00 : [Khun Wasupol Chaisangasilp](OneOnOne/WasupolC.jpg)
-    1. 12:01 - 12:10 : Khun Theerapong Kanrawong    
+    1. 12:01 - 12:10 : [Khun Theerapong Kanrawong](OneOnOne/TheerapongK.jpg)
     1. 12:11 - 12:20 : Khun Hachol Dabthong
     1. 15:15 - 15:30 : Khun Suntisuk Thepthong
     
