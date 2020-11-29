@@ -11,13 +11,13 @@
 ### **[Participants]**
 
 1. [Anan Boondamnoen](https://AnanBoondamnoen.GitHub.io) (6317810009) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/AnanBoondamnoen) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/AnanBoondamnoen)
-    *  Sandbox, Malware (behavior) Analysis
+    * One-on-One - Sandbox, Malware (behavior) Analysis
 1. [Athiporn Phumnicom](https://AthipornP.GitHub.io) (6217810016) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/AthipornP) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/AthipornP)
-    *  Authentication, OpenID
+    * One-on-One - Authentication, OpenID
 1. [Bhoomjit Bhoominath](https://peegonggoy.GitHub.io) (6317660004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/peegonggoy) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/peegonggoy)
-    *  Threat Modeling, Threat Intelligence
+    * One-on-One - Threat Modeling, Threat Intelligence
 1. [Ekawut Chairat](https://inuax.GitHub.io) (6217660002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/inuax) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/inuax)
-    *  [Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day1) of Day 1
+    * [Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day1) of Day 1
     * One-on-One - NetDevOps, Automation
 1. [Fareed Marnleb](https://marukofar.GitHub.io) (6317810012) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/marukofar) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/marukofar)
     * One-on-One - IoT, CASB
@@ -63,7 +63,7 @@
     * One-on-One - RPA
 1. [Vatcharin Kongsakul](https://ryudokung.GitHub.io) (6217810003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ryudokung) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/ryudokun)
     * [Git](/2020/MiSSxTalks/VatcharinK.jpg)
-    *  IoT PenTest, DevOps, DevSecOps, Agile
+    * One-on-One - IoT PenTest, DevOps, DevSecOps, Agile
 1. [Vuttawat Uyanont](https://Hyde4thHeaven.GitHub.io) (6317810001) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Hyde4thHeaven) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Hyde4thHeaven)
     * T-Shirt Design
     * [How to create a new GitLab page from scratch](https://hyde4thheaven.github.io/How-to-Create-GitLab-Pages/), [https://hyde4thheaven.gitlab.io/profile/](https://hyde4thheaven.gitlab.io/profile/)
@@ -185,8 +185,8 @@
     1. 12:11 - 12:20 : Khun Phureephat Sottiratanapan
     1. 11:51 - 12:00 : Khun Supattra Boonkied    
     1. 12:01 - 12:10 : Khun Wasupol Chaisangasilp    
-    1. 12:21 - 12:30 : Khun Theerapong Kanrawong    
-    1. 15:00 - 15:15 : Khun Hachol Dabthong
+    1. 12:11 - 12:20 : Khun Theerapong Kanrawong    
+    1. 12:21 - 12:30 : Khun Hachol Dabthong
     
     1. xx:xx - xx:xx : Khun Nattapong Ketkaew
     1. xx:xx - xx:xx : Khun Sanchat Phaisit
