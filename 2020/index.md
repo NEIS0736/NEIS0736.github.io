@@ -2,7 +2,7 @@
 
 ---
 
-* [GitLab **Wiki**](https://gitlab.com/NEIS0736/2020/wikis/README)
+* [GitLab **Wiki**](https://gitlab.com/NEIS0736/2020/wikis/pages)
 * [**MiSS**x***Talks***](#missxtalks-2-chances)
 * **MiSS**x***Talks*** *Special* : **Jan 24, 2021** *(tentative)*
 * **[One-on-One](#OneOnOne)** Assessment : **Nov 29**, 2020
@@ -22,14 +22,17 @@
 1. [Ekawut Chairat](https://inuax.GitHub.io) (6217660002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/inuax) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/inuax)
     * [Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day1) of Day 1
     * One-on-One - NetDevOps, Automation
+    * [V9.1 Client Communications Security Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V9.1-Client-Communications-Security-Requirements)
 1. [Fareed Marnleb](https://marukofar.GitHub.io) (6317810012) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/marukofar) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/marukofar)
     * One-on-One - IoT, CASB
 1. [Hachol Dabthong](https://hacholda.GitHub.io) (6217810010) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/hacholda) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/hacholda)
     * One-on-One - Automated Testing
+    * [V7.1 Log Content Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V7.1-Log-Content-Requirements)
 1. [Jaray Paensong](https://HiRayShi.GitHub.io) (6317660006) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/HiRayShi) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/HiRayShi)
     * One-on-One - CTF, Gamification
 1. [Jaruspong Tongboon](https://jaruspong4.GitHub.io) (6217810004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/jaruspong4) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/jaruspong4)
     * One-on-One - ISMS
+    * [V6.1 Data Classification](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V6.1-Data-Classification)
 1. [Keaittisak Luithong](https://keaittisak.GitHub.io) (6317660007) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/keaittisak) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/joker0138)
     * One-on-One - Penetration Testing, Mobile
 1. [Nantawan Sanpukdee](https://fAi00-S.GitHub.io) (6317660003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/fAi00-S) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/fAi00)
@@ -38,6 +41,7 @@
 1. [Nattapong Ketkaew](https://nattapong007.GitHub.io) (6317810011) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/nattapong007) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/nattapong007)
 1. [Nattawut Reungsap](https://omoomomx.GitHub.io) (6217810013) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/omoomomx) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/omoomomx)
     * One-on-One - ISO, 27001 
+    * [V4.1 General Access Control Design](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V4.1-General-Access-Control-Design)
 1. [Nipitpon Doungyai](https://itsGno.GitHub.io) (6317810008) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/itsGno) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/itsGno)
     * One-on-One - VA, PT
 1. [Phureephat Sottiratanapan](https://PhureephatS.GitHub.io) (6217810014) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/PhureephatS) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/PhureephatS)
@@ -46,6 +50,7 @@
     * T-Shirt Design
     * [Warning: line endings have changed from ‘LF’ to ‘CRLF’](https://eskoong.github.io/eol)
     * One-on-One - Machine Learning, IDS
+    * [V1.6 Cryptographic Architectural Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V1.6-Cryptographic-Architectural-Requirements)
 1. [Sakarin Kaewsathitwong](https://Alfatoxin.GitHub.io) (6217810002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Alfatoxin) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Alfatoxin)
     * One-on-One - MitM
     * [12.5.1 Verify that the web tier is configured to serve only files with specific file extensions to prevent unintentional information and source code leakage](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/12.5-File-Download-Requirements)
@@ -60,10 +65,13 @@
     * One-on-One - SIEM, Security Automation, SOAR
 1. [Sununta Labaiusuh](https://sununta580.GitHub.io) (6217810009) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/sununta580) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/sununta)
     * One-on-One - Cloud Security, Test bed
+    * [V1.7 Errors, Logging and Auditing Architectural Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V1.7-Errors,-Logging-and-Auditing-Architectural-Requirements1)
 1. [Supattra Boonkied](https://SupattraBoonkied.GitHub.io) (6317810003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/SupattraBoonkied) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/SupattraBoonkied)
     * One-on-One - IoT, Blockchain
+    * [V10.1 Code Integrity Controls](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V10.1-Code-Integrity-Controls)
 1. [Thanakorn Prajuabkamon](https://nongkon09.GitHub.io) (6217810017) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/nongkon09) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/nongkon09)
     * One-on-One - Cloud Security, Misconfiguration 
+    * [12.1.1 Verify that the application will not accept large files that could fill up storage or cause a denial of service](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V12.1-File-Upload-Requirements)
 1. [Theerapong Kanrawong](https://Devtech95.GitHub.io) (6317810002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Devtech95) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Devtech95)
     * One-on-One - RPA
 1. [Vatcharin Kongsakul](https://ryudokung.GitHub.io) (6217810003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ryudokung) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/ryudokun)
