@@ -174,7 +174,7 @@
     1. 09:41 - 09:50 : [Khun Piyawit Khumkrong](OneOnOne/PiyawitK.jpg)
     1. 09:51 - 10:00 : [Khun Vatcharin Kongsakul](OneOnOne/VatcharinK.jpg)
     1. 10:01 - 10:10 : [Khun Anan Boondamnoen](OneOnOne/AnanB.jpg)
-    1. 10:11 - 10:20 : Khun Jaray Paensong    
+    1. 10:11 - 10:20 : [Khun Jaray Paensong](JarayP.jpg)
     1. 10:21 - 10:30 : Khun Bhoomjit Bhoominath
     1. 10:31 - 10:40 : Khun Vuttawat Uyanont
     1. 10:41 - 10:50 : Khun Keaittisak Luithong
