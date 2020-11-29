@@ -3,6 +3,7 @@
 ---
 
 * [GitLab **Wiki**](https://gitlab.com/NEIS0736/2020/wikis/README)
+* [**MiSS**x***Talks***](#missxtalks-2-chances)
 * **MiSS**x***Talks*** *Special* : **Jan 24, 2021** *(tentative)*
 * **[One-on-One](#OneOnOne)** Assessment : **Nov 29**, 2020
 
