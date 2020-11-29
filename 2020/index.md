@@ -161,9 +161,9 @@
     1. 09:31 - 09:40 : Khun Jaruspong Tongboon
     1. 09:41 - 10:50 : Khun Piyawit Khumkrong
     1. 09:51 - 10:00 : Khun Vatcharin Kongsakul    
-    1. 10:01 - 10:10 : Khun Anan Boondamnoen
-    
+    1. 10:01 - 10:10 : Khun Anan Boondamnoen    
     1. 10:11 - 10:20 : Khun Jaray Paensong
+    
     1. 10:21 - 10:30 : Khun Bhoomjit Bhoominath
     1. 10:31 - 10:40 : Khun Vuttawat Uyanont
     1. 10:41 - 11:50 : Khun Keaittisak Luithong
