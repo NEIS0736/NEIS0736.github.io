@@ -27,6 +27,7 @@
 1. [Jaruspong Tongboon](https://jaruspong4.GitHub.io) (6217810004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/jaruspong4) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/jaruspong4)
     *  One-on-One - ISMS
 1. [Keaittisak Luithong](https://keaittisak.GitHub.io) (6317660007) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/keaittisak) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/joker0138)
+    *  One-on-One - Penetration Testing, Mobile
 1. [Nantawan Sanpukdee](https://fAi00-S.GitHub.io) (6317660003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/fAi00-S) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/fAi00)
 1. [Narunart Vongeium](https://EITCHY.GitHub.io) (6317810006) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/EITCHY) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/EITCHY)
 1. [Nattapong Ketkaew](https://nattapong007.GitHub.io) (6317810011) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/nattapong007) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/nattapong007)
