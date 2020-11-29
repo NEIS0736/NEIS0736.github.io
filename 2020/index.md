@@ -67,6 +67,7 @@
     * [How to create a new GitLab page from scratch](https://hyde4thheaven.github.io/How-to-Create-GitLab-Pages/), [https://hyde4thheaven.gitlab.io/profile/](https://hyde4thheaven.gitlab.io/profile/)
     * One-on-One - Smart Contract, Blockchain, Cryptocurrency
 1. [Wasupol Chaisangasilp](https://XserieX.GitHub.io) (6317810014) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/XserieX) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/XserieX)
+    * One-on-One - CTI
 
 ---
 
