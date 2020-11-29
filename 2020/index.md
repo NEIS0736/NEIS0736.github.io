@@ -43,6 +43,7 @@
     * One-on-One - MitM
 1. [Sanchat Phaisit](https://ph-sanchat.GitHub.io) (6317810015) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ph-sanchat) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/ph-sanchat)
 1. [Saran Kaewnang](https://ahictf.GitHub.io) (6317810007) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ahictf) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/ahictf)
+    * One-on-One - VA, PT
 1. [Shirassuda Thongpakdhi](http://MyGitHubNEIS0736.github.io) (6117810017) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/MyGitHubNEIS0736) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/MyGitHubNEIS0736)
 1. [Soontorn Janphuk](https://freedom357.GitHub.io) (6317660001) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/freedom357) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/freedom357)
     *  One-on-One - CTI, SOC
@@ -169,10 +170,8 @@
     1. 10:21 - 10:30 : Khun Bhoomjit Bhoominath
     1. 10:31 - 10:40 : Khun Vuttawat Uyanont
     1. 10:41 - 11:50 : Khun Keaittisak Luithong
-    
-    1. 10:51 - 11:00 : Khun Nattapong Ketkaew
-    1. 11:01 - 11:10 : Khun Sanchat Phaisit
     1. 11:11 - 11:20 : Khun Saran Kaewnang
+    
     1. 11:21 - 11:30 : Khun Nipitpon Doungyai
     1. 11:31 - 11:40 : Khun Narunart Vongeium
     1. 11:41 - 11:50 : Khun Shirassuda Thongpakdhi
@@ -182,6 +181,8 @@
     1. 12:21 - 12:30 : Khun Theerapong Kanrawong
     
     1. 15:00 - 15:15 : Khun Hachol Dabthong
+    1. xx:xx - xx:xx : Khun Nattapong Ketkaew
+    1. xx:xx - xx:xx : Khun Sanchat Phaisit
     
     1. Dec 1 (Eve) : Khun Suntisuk Thepthong (***Starbucks** at Major Avenue - Ratchayothin*)
     1. Dec 1 (Eve) : Khun Nantawan Sanpukdee (***Starbucks** at Major Avenue - Ratchayothin*)
