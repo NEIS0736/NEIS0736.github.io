@@ -179,7 +179,7 @@
     1. 10:31 - 10:40 : [Khun Vuttawat Uyanont](OneOnOne/VuttawatU.jpg)
     1. 10:41 - 10:50 : [Khun Keaittisak Luithong](OneOnOne/KeaittisakL.jpg)
     1. 10:51 - 11:00 : [Khun Saran Kaewnang](OneOnOne/SaranK.jpg) 
-    1. 11:01 - 11:10 : Khun Nipitpon Doungyai    
+    1. 11:01 - 11:10 : [Khun Nipitpon Doungyai](OneOnOne/NipitponD.jpg)
     1. 11:11 - 11:20 : Khun Narunart Vongeium
     1. 11:21 - 11:30 : Khun Shirassuda Thongpakdhi
     1. 11:31 - 11:40 : Khun Phureephat Sottiratanapan
