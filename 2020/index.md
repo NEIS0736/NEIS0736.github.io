@@ -59,6 +59,7 @@
 1. [Thanakorn Prajuabkamon](https://nongkon09.GitHub.io) (6217810017) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/nongkon09) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/nongkon09)
     * One-on-One - Cloud Security, Misconfiguration 
 1. [Theerapong Kanrawong](https://Devtech95.GitHub.io) (6317810002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Devtech95) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Devtech95)
+    * One-on-One - RPA
 1. [Vatcharin Kongsakul](https://ryudokung.GitHub.io) (6217810003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ryudokung) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/ryudokun)
     * [Git](/2020/MiSSxTalks/VatcharinK.jpg)
     *  IoT PenTest, DevOps, DevSecOps, Agile
@@ -181,9 +182,8 @@
     1. 11:31 - 11:40 : Khun Narunart Vongeium
     1. 11:41 - 11:50 : Khun Shirassuda Thongpakdhi
     1. 12:11 - 12:20 : Khun Phureephat Sottiratanapan
-    1. 11:51 - 12:00 : Khun Supattra Boonkied
-    
-    1. 12:01 - 12:10 : Khun Wasupol Chaisangasilp
+    1. 11:51 - 12:00 : Khun Supattra Boonkied    
+    1. 12:01 - 12:10 : Khun Wasupol Chaisangasilp    
     1. 12:21 - 12:30 : Khun Theerapong Kanrawong
     
     1. 15:00 - 15:15 : Khun Hachol Dabthong
