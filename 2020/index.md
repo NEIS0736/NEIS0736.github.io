@@ -162,7 +162,6 @@
         
     <a name="OneOnOne"></a>
 *  **One-on-One Assessment** (***true** coffee*)
-
     1. Nov 26 (Eve): [Khun Fareed Marnleb](OneOnOne/FareedM.jpg) (***Starbucks** at Major Avenue - Ratchayothin*)
     1. Nov 26 (Eve): [Khun Soontorn Janphuk](OneOnOne/SoontornJ.jpg) (***Starbucks** at Major Avenue - Ratchayothin*)
     1. 08:31 - 08:40 : [Khun Ekawut Chairat](OneOnOne/EkawutC.jpg)
