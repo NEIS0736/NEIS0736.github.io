@@ -188,7 +188,7 @@
     1. 11:51 - 12:00 : Khun Wasupol Chaisangasilp    
     1. 12:01 - 12:10 : Khun Theerapong Kanrawong    
     1. 12:11 - 12:20 : Khun Hachol Dabthong
-    1. Dec 1 (Eve) : Khun Suntisuk Thepthong (***Starbucks** at Major Avenue - Ratchayothin*)
+    1. 15:15 - 15:30 : Khun Suntisuk Thepthong
     
     1. xx:xx - xx:xx : Khun Nattapong Ketkaew
     1. xx:xx - xx:xx : Khun Sanchat Phaisit
