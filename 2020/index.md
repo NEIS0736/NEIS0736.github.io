@@ -168,7 +168,7 @@
     1. 08:31 - 08:40 : [Khun Ekawut Chairat](OneOnOne/EkawutC.jpg)
     1. 08:41 - 08:50 : [Khun Sakarin Kaewsathitwong](OneOnOne/SakarinK.jpg)
     1. 08:51 - 09:00 : [Khun Thanakorn Prajuabkamon](OneOnOne/ThanakornP.jpg)
-    1. 09:01 - 09:10 : Khun Nattawut Reungsap
+    1. 09:01 - 09:10 : [Khun Nattawut Reungsap](OneOnOne/NattawutR.jpg)
     1. 09:11 - 09:20 : Khun Sununta Labaiusuh
     1. 09:21 - 09:30 : Khun Athiporn Phumnicom
     1. 09:31 - 09:40 : Khun Jaruspong Tongboon
