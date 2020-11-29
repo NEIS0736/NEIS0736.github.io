@@ -151,8 +151,7 @@
     1. Nov 26 (Eve): [Khun Fareed Marnleb](OneOnOne/FareedM.jpg) (***Starbucks** at Major Avenue - Ratchayothin*)
     1. Nov 26 (Eve): [Khun Soontorn Janphuk](OneOnOne/SoontornJ.jpg) (***Starbucks** at Major Avenue - Ratchayothin*)
     1. 08:31 - 08:40 : Khun Ekawut Chairat
-    1. 08:41 - 08:50 : Khun Sakarin Kaewsathitwong
-    
+    1. 08:41 - 08:50 : Khun Sakarin Kaewsathitwong    
     1. 08:51 - 09:00 : Khun Thanakorn Prajuabkamon
     1. 09:01 - 09:10 : Khun Nattawut Reungsap
     1. 09:11 - 09:20 : Khun Sununta Labaiusuh
@@ -160,6 +159,7 @@
     1. 09:31 - 09:40 : Khun Jaruspong Tongboon
     1. 09:41 - 10:50 : Khun Piyawit Khumkrong
     1. 09:51 - 10:00 : Khun Vatcharin Kongsakul
+    
     1. 10:01 - 10:10 : Khun Anan Boondamnoen
     1. 10:11 - 10:20 : Khun Jaray Paensong
     1. 10:21 - 10:30 : Khun Bhoomjit Bhoominath
