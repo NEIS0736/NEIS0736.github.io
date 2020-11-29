@@ -184,9 +184,9 @@
     1. 12:11 - 12:20 : Khun Phureephat Sottiratanapan
     1. 11:51 - 12:00 : Khun Supattra Boonkied    
     1. 12:01 - 12:10 : Khun Wasupol Chaisangasilp    
-    1. 12:21 - 12:30 : Khun Theerapong Kanrawong
-    
+    1. 12:21 - 12:30 : Khun Theerapong Kanrawong    
     1. 15:00 - 15:15 : Khun Hachol Dabthong
+    
     1. xx:xx - xx:xx : Khun Nattapong Ketkaew
     1. xx:xx - xx:xx : Khun Sanchat Phaisit
     
