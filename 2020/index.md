@@ -22,6 +22,7 @@
 1. [Fareed Marnleb](https://marukofar.GitHub.io) (6317810012) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/marukofar) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/marukofar)
     * One-on-One - IoT, CASB
 1. [Hachol Dabthong](https://hacholda.GitHub.io) (6217810010) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/hacholda) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/hacholda)
+    * One-on-One - Automated Testing
 1. [Jaray Paensong](https://HiRayShi.GitHub.io) (6317660006) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/HiRayShi) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/HiRayShi)
     * One-on-One - CTF, Gamification
 1. [Jaruspong Tongboon](https://jaruspong4.GitHub.io) (6217810004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/jaruspong4) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/jaruspong4)
@@ -76,7 +77,7 @@
 * [**Book**](https://docs.google.com/spreadsheets/d/1NBZyw19XSU4rv0BdW0LQ2KAnSXwAGk1odZ9KhA6fbNc) your time slot
 * (Sun) **Dec 6,** 2020
     * Slot A: **"DevSecOps : Integrating Security into DevOps"**, Khun Piyawit Khumkrong (**Es**)
-    * Slot B: ???
+    * Slot B: **"Automate Test by Robot Framework"**, khun Hachol Dabthong (**Chon**)
     * Slot C: **"Sign an assembly with a strong name"**, Khun Athiporn Phumnicom (**Beam**)
     * Slot D: **"Secure Access Service Edge (SASE)"**, Khun Suntisuk Thepthong (**IceSuntisuk**)
 * (Sun) **Dec 13,** 2020
