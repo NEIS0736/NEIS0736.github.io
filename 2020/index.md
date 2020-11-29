@@ -47,6 +47,7 @@
     * One-on-One - Machine Learning, IDS
 1. [Sakarin Kaewsathitwong](https://Alfatoxin.GitHub.io) (6217810002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Alfatoxin) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Alfatoxin)
     * One-on-One - MitM
+    * [12.5.1 Verify that the web tier is configured to serve only files with specific file extensions to prevent unintentional information and source code leakage](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/12.5-File-Download-Requirements)
 1. [Sanchat Phaisit](https://ph-sanchat.GitHub.io) (6317810015) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ph-sanchat) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/ph-sanchat)
 1. [Saran Kaewnang](https://ahictf.GitHub.io) (6317810007) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ahictf) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/ahictf)
     * One-on-One - VA, PT
