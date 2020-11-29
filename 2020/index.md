@@ -6,7 +6,7 @@
 * [**MiSS**x***Talks***](#missxtalks-2-chances)
 * **MiSS**x***Talks*** *Special* : **Jan 24, 2021** *(tentative)*
 * **[One-on-One](#OneOnOne)** Assessment : **Nov 29**, 2020
-* [Week 1](#week-1---sun-nov-22-2020), [Week 2](#week-2---sun-nov-29-2020),
+* [Week 1](#week-1---sun-nov-22-2020), [Week 2](#week-2---sun-nov-29-2020), [Week 3](#week-3---sun-dec-6-2020)
 
 ---
 
@@ -201,9 +201,10 @@
     
 ### [**Week 3**] - (Sun) **Dec 6,** 2020
 *  **MiSS**x***Talks***
-   * *John Doe*
-   * *John Doe*
-   * *John Doe*
+        * “DevSecOps : Integrating Security into DevOps”, Khun Piyawit Khumkrong (Es)
+        * “Automate Test by Robot Framework”, Khun Hachol Dabthong (Chon)
+        * “Sign an assembly with a strong name”, Khun Athiporn Phumnicom (Beam)
+        * “Secure Access Service Edge (SASE)”, Khun Suntisuk Thepthong (IceSuntisuk)
 *  **Digital Signature Verification**
 *  **Client**, **BA**, **Developer** *&* **Code**
 *  **Test Case**
