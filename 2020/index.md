@@ -201,10 +201,10 @@
     
 ### [**Week 3**] - (Sun) **Dec 6,** 2020
 *  **MiSS**x***Talks***
-   * “DevSecOps : Integrating Security into DevOps”, Khun Piyawit Khumkrong (Es)
-   * “Automate Test by Robot Framework”, Khun Hachol Dabthong (Chon)
-   * “Sign an assembly with a strong name”, Khun Athiporn Phumnicom (Beam)
-   * “Secure Access Service Edge (SASE)”, Khun Suntisuk Thepthong (IceSuntisuk)
+   * “**DevSecOps : Integrating Security into DevOps**”, Khun Piyawit Khumkrong (Es)
+   * “**Automate Test by Robot Framework**”, Khun Hachol Dabthong (Chon)
+   * “**Sign an assembly with a strong name**”, Khun Athiporn Phumnicom (Beam)
+   * “**Secure Access Service Edge (SASE)**”, Khun Suntisuk Thepthong (IceSuntisuk)
 *  **Digital Signature Verification**
 *  **Client**, **BA**, **Developer** *&* **Code**
 *  **Test Case**
