@@ -78,7 +78,7 @@
 * [**Book**](https://docs.google.com/spreadsheets/d/1NBZyw19XSU4rv0BdW0LQ2KAnSXwAGk1odZ9KhA6fbNc) your time slot
 * (Sun) **Dec 6,** 2020
     * Slot A: **"DevSecOps : Integrating Security into DevOps"**, Khun Piyawit Khumkrong (**Es**)
-    * Slot B: **"Automate Test by Robot Framework"**, khun Hachol Dabthong (**Chon**)
+    * Slot B: **"Automate Test by Robot Framework"**, Khun Hachol Dabthong (**Chon**)
     * Slot C: **"Sign an assembly with a strong name"**, Khun Athiporn Phumnicom (**Beam**)
     * Slot D: **"Secure Access Service Edge (SASE)"**, Khun Suntisuk Thepthong (**IceSuntisuk**)
 * (Sun) **Dec 13,** 2020
