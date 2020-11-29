@@ -171,7 +171,7 @@
     1. 09:11 - 09:20 : [Khun Sununta Labaiusuh](OneOnOne/SununtaL.jpg)
     1. 09:21 - 09:30 : [Khun Athiporn Phumnicom](OneOnOne/AthipornP.jpg)
     1. 09:31 - 09:40 : [Khun Jaruspong Tongboon](OneOnOne/JaruspongT.jpg)
-    1. 09:41 - 09:50 : Khun Piyawit Khumkrong
+    1. 09:41 - 09:50 : [Khun Piyawit Khumkrong](OneOnOne/PiyawitK.jpg)
     1. 09:51 - 10:00 : Khun Vatcharin Kongsakul    
     1. 10:01 - 10:10 : Khun Anan Boondamnoen    
     1. 10:11 - 10:20 : Khun Jaray Paensong    
