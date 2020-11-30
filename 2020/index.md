@@ -215,6 +215,7 @@
    * “**Automate Test by Robot Framework**”, Khun Hachol Dabthong (Chon)
    * “**Sign an assembly with a strong name**”, Khun Athiporn Phumnicom (Beam)
    * “**Secure Access Service Edge (SASE)**”, Khun Suntisuk Thepthong (IceSuntisuk)
+*  Relocate GitLab repository
 *  **Digital Signature Verification**
 *  **Client**, **BA**, **Developer** *&* **Code**
 *  **Test Case**
