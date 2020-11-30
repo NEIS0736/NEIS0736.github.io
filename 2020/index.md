@@ -310,7 +310,10 @@
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day12)** *by **John Doe***
 
 ### [**Week 13**] - (Sun) **Feb 28,** 2021
-*  **Mini-Contest**
+*  **Mini-Contest** ***(draw lots)***
+    * Round 1
+    * Round 2
+    * Round 3
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day13)** *by **John Doe***
 
 ### [**Week 14**] - (Sun) **Mar 7,** 2021
