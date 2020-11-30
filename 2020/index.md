@@ -219,6 +219,7 @@
    * "**Sign an assembly with a strong name**", Khun Athiporn Phumnicom (Beam)
    * "**Secure Access Service Edge (SASE)**", Khun Suntisuk Thepthong (IceSuntisuk)
 *  Relocate GitLab repository
+*  /ˈrēˌkap/ - Security Requirement
 *  **Digital Signature Verification**
 *  **Client**, **BA**, **Developer** *&* **Code**
 *  **Test Case**
