@@ -209,9 +209,7 @@
     1. XXXX : Khun Sanchat Phaisit
 
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day2)** *by **John Doe***
-*  **Homework**
-   * [OWASP Top 10 Security Fundamentals](https://codered.eccouncil.org/CourseDetails/owasp-top-10-security-fundamentals), Paulo Silva (14-day **FREE** trial)
-    
+
 ### [**Week 3**] - (Sun) **Dec 6,** 2020
 *  **MiSS**x***Talks***
    * "**DevSecOps : Integrating Security into DevOps**", Khun Piyawit Khumkrong (Es)
@@ -220,14 +218,17 @@
    * "**Secure Access Service Edge (SASE)**", Khun Suntisuk Thepthong (IceSuntisuk)
 *  Relocate GitLab repository
 *  **/ˈrēˌkap/** - ***Security Requirements***
+*  **Group Project & Mini-Contest** Clarification
 *  **Digital Signature Verification**
 *  **Client**, **BA**, **Developer** *&* **Code**
 *  **Test Case**
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day3)** *by **John Doe***
-*  Homework
+
+*  **Homework**
    * [Web Application Vulnerability Report 2019](https://www.acunetix.com/acunetix-web-application-vulnerability-report-2019/), Acunetix
    * [2020 Web Application Vulnerability Report](https://go.acunetix.com/2020-vulnerability-report), Acunetix
-
+   * [OWASP Top 10 Security Fundamentals](https://codered.eccouncil.org/CourseDetails/owasp-top-10-security-fundamentals), Paulo Silva (14-day **FREE** trial)
+    
 
 ### [**Week 4**] - (Sun) **Dec 13,** 2020
 *  **MiSS**x***Talks***
