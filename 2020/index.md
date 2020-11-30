@@ -96,7 +96,7 @@
     * Slot C: **"Sign an assembly with a strong name"**, Khun Athiporn Phumnicom (**Beam**)
     * Slot D: **"Secure Access Service Edge (SASE)"**, Khun Suntisuk Thepthong (**IceSuntisuk**)
 * (Sun) **Dec 13,** 2020
-    * Slot A: ???
+    * Slot A: **"Cyber-Physical Systems, a Key to Smart Factory"**, Khun Keaittisak Luithong (**Joke**)
     * Slot B: ???
     * Slot C: ???
 * (Sun) **Dec 20,** 2020 *(subjected to change)*
@@ -213,10 +213,10 @@
     
 ### [**Week 3**] - (Sun) **Dec 6,** 2020
 *  **MiSS**x***Talks***
-   * “**DevSecOps : Integrating Security into DevOps**”, Khun Piyawit Khumkrong (Es)
-   * “**Automate Test by Robot Framework**”, Khun Hachol Dabthong (Chon)
-   * “**Sign an assembly with a strong name**”, Khun Athiporn Phumnicom (Beam)
-   * “**Secure Access Service Edge (SASE)**”, Khun Suntisuk Thepthong (IceSuntisuk)
+   * "**DevSecOps : Integrating Security into DevOps**", Khun Piyawit Khumkrong (Es)
+   * "**Automate Test by Robot Framework**", Khun Hachol Dabthong (Chon)
+   * "**Sign an assembly with a strong name**", Khun Athiporn Phumnicom (Beam)
+   * "**Secure Access Service Edge (SASE)**", Khun Suntisuk Thepthong (IceSuntisuk)
 *  Relocate GitLab repository
 *  **Digital Signature Verification**
 *  **Client**, **BA**, **Developer** *&* **Code**
@@ -229,7 +229,7 @@
 
 ### [**Week 4**] - (Sun) **Dec 13,** 2020
 *  **MiSS**x***Talks***
-   * *John Doe*
+   * "**Cyber-Physical Systems, a Key to Smart Factory**", Khun Keaittisak Luithong (Joke)
    * *John Doe*
    * *John Doe*
 *  **Two factor authentication**   
