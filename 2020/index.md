@@ -105,7 +105,7 @@
     * Slot C: **"Cybersecurity & Data Policy"**, Khun Keaittisak Luithong (**Joke**)
 * (Sun) **Dec 27,** 2020
     * Slot A: ???
-    * Slot B: **"TBD"**, Khun Bhoomjit Bhoominath (**Luck**)
+    * Slot B: **"Threat Modeling to Explore Threats and Countermeasures"**, Khun Bhoomjit Bhoominath (**Luck**)
     * Slot C: **"TBD"**, Khun Theerapong Kanrawong (**Pong**)
 * (Sun) **Jan 3,** 2021 *(subjected to change)*
     * Slot A: **"Blockchain and Smart Contract"**,	Khun Vuttawat Uyanont (**Palm**)
@@ -255,13 +255,13 @@
 *  [The **Twelve Factors**](https://12factor.net/) ([ไทย](https://12factor.net/th/))
 *  **MiSS**x***Talks***
    * *John Doe*
-   * *John Doe*
+   * **"Threat Modeling to Explore Threats and Countermeasures"**, Khun Bhoomjit Bhoominath (Luck)
    * *John Doe*
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day6)** *by **John Doe***
 
 ### [**Week 7**] - (Sun) **Jan 3,** 2021 *(subjected to change)*
 *  **MiSS**x***Talks***
-   * *John Doe*
+   * **"Blockchain and Smart Contract"**,	Khun Vuttawat Uyanont (Palm)
    * *John Doe*
    * *John Doe*
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day7)** *by **John Doe***
