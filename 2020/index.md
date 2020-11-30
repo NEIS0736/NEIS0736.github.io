@@ -218,7 +218,7 @@
    * "**Secure Access Service Edge (SASE)**", Khun Suntisuk Thepthong (IceSuntisuk)
 *  Relocate GitLab repository
 *  **/ˈrēˌkap/** - ***Security Requirements***
-*  **Group Project & Mini-Contest** Clarification
+*  **Group Project & Mini-Contest** Clarification & Grouping
 *  **Digital Signature Verification**
 *  **Client**, **BA**, **Developer** *&* **Code**
 *  **Test Case**
@@ -228,7 +228,6 @@
    * [Web Application Vulnerability Report 2019](https://www.acunetix.com/acunetix-web-application-vulnerability-report-2019/), Acunetix
    * [2020 Web Application Vulnerability Report](https://go.acunetix.com/2020-vulnerability-report), Acunetix
    * [OWASP Top 10 Security Fundamentals](https://codered.eccouncil.org/CourseDetails/owasp-top-10-security-fundamentals), Paulo Silva (14-day **FREE** trial)
-    
 
 ### [**Week 4**] - (Sun) **Dec 13,** 2020
 *  **MiSS**x***Talks***
