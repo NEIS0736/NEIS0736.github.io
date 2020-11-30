@@ -203,8 +203,9 @@
     1. 12:11 - 12:20 : [Khun Hachol Dabthong](OneOnOne/HacholD.jpg)
     1. 15:15 - 15:30 : [Khun Suntisuk Thepthong](OneOnOne/SuntisukT.jpg)
     
-    1. Dec 1 (Eve) : Khun Nantawan Sanpukdee (***Starbucks** at Major Avenue - Ratchayothin*)
-    1. XXXX : Khun Nattapong Ketkaew
+    1. Dec 1 (Eve) : Khun Nantawan Sanpukdee (***Starbucks** at Central Ladprao*)
+    1. Dec 1 (Eve) : Khun Nattapong Ketkaew (***Starbucks** at Central Ladprao*)
+
     1. XXXX : Khun Sanchat Phaisit
 
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day2)** *by **John Doe***
