@@ -400,4 +400,5 @@
 ### Misc.
 *  [The new way to send a thank you\| group card](https://www.groupgreeting.com/)
 *  [Web Framework Benchmarks](https://www.techempower.com/benchmarks/)
+*  [Practical Cryptography for Developers](https://cryptobook.nakov.com/)
 *  [Why is XAMPP not suited for production?](https://stackoverflow.com/questions/26297731/why-is-xampp-not-suited-for-production)
