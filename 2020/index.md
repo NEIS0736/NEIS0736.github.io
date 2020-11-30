@@ -106,7 +106,7 @@
     * Slot C: **"TBD"**, Khun Nantawan Sanpukdee (**Fai**)
 * (Sun) **Dec 27,** 2020
     * Slot A: ???
-    * Slot B: **"Threat Modeling to Explore Threats and Countermeasures"**, Khun Bhoomjit Bhoominath (**Luck**)
+    * Slot B: **"Threat Modeling, The first step towards security in SDLC"**, Khun Bhoomjit Bhoominath (**Luck**)
     * Slot C: **"TBD"**, Khun Theerapong Kanrawong (**Pong**)
 * (Sun) **Jan 3,** 2021 *(subjected to change)*
     * Slot A: **"Blockchain and Smart Contract"**,	Khun Vuttawat Uyanont (**Palm**)
