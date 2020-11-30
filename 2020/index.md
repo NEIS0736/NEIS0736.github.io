@@ -365,7 +365,7 @@
 
 ### [**Extra Point**]
 *  <del>[GitLab](https://gitlab.com/) Pages</del>, *claimed by Khun Vuttawat U.*
-*  **GitLab** - **P**ersonal **A**ccess **T**oken
+*  <del>**GitLab** - **P**ersonal **A**ccess **T**oken</del>, *claimed by Khun Thanakorn P.*
 *  [Someone just searched for you on Google...](Extra/Searched-for-you-on-Google.png)
 *  [If you found it useful maybe consider buying us a coffee](Extra/buy-us-a-coffee.png)
 *  [Keybase](https://keybase.io/)
