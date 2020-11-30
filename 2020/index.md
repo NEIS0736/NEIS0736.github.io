@@ -313,10 +313,16 @@
 
 ### [**Week 14**] - (Sun) **Mar 7,** 2021
 *  **Group Project** Presentation
+    * Group 1
+    * Group 2
+    * Group 3
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day14)** *by **John Doe***
 
 ### [**Week 15**] - (Sun) **Mar 14,** 2021
 *  **Group Project** Presentation
+    * Group 4
+    * Group 5
+    * Group 6
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day15)** *by **John Doe***
 
 ### [**Final Examination**] - *(Lec)*
