@@ -103,7 +103,7 @@
 * (Sun) **Dec 20,** 2020 *(subjected to change)*
     * Slot A: **"Static Application Security Testing"**, Khun Nipitpon Doungyai (**Geno**)
     * Slot B: **"Dynamic Application Security Testing"**,	Khun Saran Kaewnang (**GOLF**)
-    * Slot C: **"Cybersecurity & Data Policy"**, Khun Keaittisak Luithong (**Joke**)
+    * Slot C: **"TBD"**, Khun Nantawan Sanpukdee (**Fai**)
 * (Sun) **Dec 27,** 2020
     * Slot A: ???
     * Slot B: **"Threat Modeling to Explore Threats and Countermeasures"**, Khun Bhoomjit Bhoominath (**Luck**)
