@@ -383,7 +383,7 @@
     * "Insecure deserialization is such a common mistake in web applications that it is 2017 OWASP Top 10 #8 and 2019 CWE Top 25 #23. It is [CWE-502](https://cwe.mitre.org/data/definitions/502.html), Deserialization of Untrusted Data. Attackers may find such vulnerabilities harder to exploit, but once the vulnerability is found it can result in immediate compromise of an entire system, because it may provide complete control of the system to the attacker."
 *  Warning: line endings have changed from 'LF' to 'CRLF'.
 *  **C**yber **T**hreat **I**ntelligence - **API**
-*  What is a **Platform**?
+*  What is a (computing/digital) **platform**?
 
 ---
 ### [**80-20 Rule**]
