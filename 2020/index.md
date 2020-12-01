@@ -38,6 +38,7 @@
 1. [Keaittisak Luithong](https://keaittisak.GitHub.io) (6317660007) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/keaittisak) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/joker0138)
     * One-on-One - Penetration Testing, Mobile
 1. [Nantawan Sanpukdee](https://fAi00-S.GitHub.io) (6317660003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/fAi00-S) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/fAi00)
+    * One-on-One - CII, Forensics
 1. [Narunart Vongeium](https://EITCHY.GitHub.io) (6317810006) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/EITCHY) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/EITCHY)
     * One-on-One - Logging, Log Monitoring
 1. [Nattapong Ketkaew](https://nattapong007.GitHub.io) (6317810011) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/nattapong007) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/nattapong007)
@@ -203,10 +204,9 @@
     1. 12:01 - 12:10 : [Khun Theerapong Kanrawong](OneOnOne/TheerapongK.jpg)
     1. 12:11 - 12:20 : [Khun Hachol Dabthong](OneOnOne/HacholD.jpg)
     1. 15:15 - 15:30 : [Khun Suntisuk Thepthong](OneOnOne/SuntisukT.jpg)
-    
     1. Dec 1 (Eve) : Khun Nantawan Sanpukdee (***Starbucks** at Central Ladprao*)
+    
     1. Dec 1 (Eve) : Khun Nattapong Ketkaew (***Starbucks** at Central Ladprao*)
-
     1. XXXX : Khun Sanchat Phaisit
 
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day2)** *by **John Doe***
