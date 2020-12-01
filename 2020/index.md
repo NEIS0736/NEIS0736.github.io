@@ -94,7 +94,7 @@
 * (Sun) **Dec 6,** 2020
     * Slot A: **"DevSecOps : Integrating Security into DevOps"**, Khun Piyawit Khumkrong (**Es**)
     * Slot B: **"Automate Test by Robot Framework"**, Khun Hachol Dabthong (**Chon**)
-    * Slot C: **"Sign an assembly with a strong name"**, Khun Athiporn Phumnicom (**Beam**)
+    * Slot C: **"Keep Calm and Sign your Strong Name Assemblies"**, Khun Athiporn Phumnicom (**Beam**)
     * Slot D: **"Secure Access Service Edge (SASE)"**, Khun Suntisuk Thepthong (**IceSuntisuk**)
 * (Sun) **Dec 13,** 2020
     * Slot A: **"Cyber-Physical Systems, a Key to Smart Factory"**, Khun Keaittisak Luithong (**Joke**)
@@ -215,7 +215,7 @@
 *  **MiSS**x***Talks***
    * "**DevSecOps : Integrating Security into DevOps**", Khun Piyawit Khumkrong (Es)
    * "**Automate Test by Robot Framework**", Khun Hachol Dabthong (Chon)
-   * "**Sign an assembly with a strong name**", Khun Athiporn Phumnicom (Beam)
+   * "**Keep Calm and Sign your Strong Name Assemblies**", Khun Athiporn Phumnicom (Beam)
    * "**Secure Access Service Edge (SASE)**", Khun Suntisuk Thepthong (IceSuntisuk)
 *  Relocate GitLab repository
 *  **/ˈrēˌkap/** - ***Security Requirements***
