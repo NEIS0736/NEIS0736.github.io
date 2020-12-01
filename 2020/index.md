@@ -206,7 +206,7 @@
     1. 12:11 - 12:20 : [Khun Hachol Dabthong](OneOnOne/HacholD.jpg)
     1. 15:15 - 15:30 : [Khun Suntisuk Thepthong](OneOnOne/SuntisukT.jpg)
     1. Dec 1 (Eve) : [Khun Nantawan Sanpukdee](OneOnOne/NantawanS.jpg) (***Starbucks** at Central Ladprao*)
-    1. Dec 1 (Eve) : Khun Nattapong Ketkaew (***Starbucks** at Central Ladprao*)
+    1. Dec 1 (Eve) : [Khun Nattapong Ketkaew](OneOnOne/NattapongK.jpg) (***Starbucks** at Central Ladprao*)
     
     1. XXXX : Khun Sanchat Phaisit
 
