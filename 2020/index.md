@@ -382,7 +382,7 @@
     * "Improper input validation is such a common cause of security vulnerabilities that it is 2019 CWE Top 25 #3. It is also identified as [CWE-20](https://cwe.mitre.org/data/definitions/20.html) (Improper Input Validation)."
     * "Insecure deserialization is such a common mistake in web applications that it is 2017 OWASP Top 10 #8 and 2019 CWE Top 25 #23. It is [CWE-502](https://cwe.mitre.org/data/definitions/502.html), Deserialization of Untrusted Data. Attackers may find such vulnerabilities harder to exploit, but once the vulnerability is found it can result in immediate compromise of an entire system, because it may provide complete control of the system to the attacker."
 *  <del>Warning: line endings have changed from 'LF' to 'CRLF'</del>, *claimed by Khun Piyawit K.*
-*  **C**yber **T**hreat **I**ntelligence - **API**
+*  **C**yber **T**hreat **I**ntelligence - **API**, “Threat intelligence” (TI) is evidence-based knowledge — including context, mechanisms, indicators, implications and actionable advice — about an existing or emerging menace or hazard to IT or information assets. It can be used to inform decisions regarding the subject’s response to that menace or hazard. – Gartner
 *  What is a (computing/digital) **platform**?
 *  **ar·chi·tec·ture** */ˈärkəˌtek(t)SHər/*
 
