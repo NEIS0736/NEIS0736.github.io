@@ -95,7 +95,7 @@
 * [**Book**](https://docs.google.com/spreadsheets/d/1NBZyw19XSU4rv0BdW0LQ2KAnSXwAGk1odZ9KhA6fbNc) your time slot
 * (Sun) **Dec 6,** 2020
     * Slot A: **"DevSecOps : Integrating Security into DevOps"**, Khun Piyawit Khumkrong (**Es**)
-    * Slot B: **"Automate Test by Robot Framework"**, Khun Hachol Dabthong (**Chon**)
+    * Slot B: **"Automated Testing, Robot Framework Will Save the Day!"**, Khun Hachol Dabthong (**Chon**)
     * Slot C: **"Keep Calm and Sign your Strong Name Assemblies"**, Khun Athiporn Phumnicom (**Beam**)
     * Slot D: **"Secure Access Service Edge (SASE)"**, Khun Suntisuk Thepthong (**IceSuntisuk**)
 * (Sun) **Dec 13,** 2020
@@ -205,7 +205,7 @@
     1. 12:01 - 12:10 : [Khun Theerapong Kanrawong](OneOnOne/TheerapongK.jpg)
     1. 12:11 - 12:20 : [Khun Hachol Dabthong](OneOnOne/HacholD.jpg)
     1. 15:15 - 15:30 : [Khun Suntisuk Thepthong](OneOnOne/SuntisukT.jpg)
-    1. Dec 1 (Eve) : Khun Nantawan Sanpukdee (***Starbucks** at Central Ladprao*)
+    1. Dec 1 (Eve) : [Khun Nantawan Sanpukdee](OneOnOne/NantawanS.jpg) (***Starbucks** at Central Ladprao*)
     1. Dec 1 (Eve) : Khun Nattapong Ketkaew (***Starbucks** at Central Ladprao*)
     
     1. XXXX : Khun Sanchat Phaisit
@@ -215,7 +215,7 @@
 ### [**Week 3**] - (Sun) **Dec 6,** 2020
 *  **MiSS**x***Talks***
    * "**DevSecOps : Integrating Security into DevOps**", Khun Piyawit Khumkrong (Es)
-   * "**Automate Test by Robot Framework**", Khun Hachol Dabthong (Chon)
+   * "**Automated Testing, Robot Framework Will Save the Day!**", Khun Hachol Dabthong (Chon)
    * "**Sign an assembly with a strong name**", Khun Athiporn Phumnicom (Beam)
    * "**Secure Access Service Edge (SASE)**", Khun Suntisuk Thepthong (IceSuntisuk)
 *  Relocate GitLab repository
