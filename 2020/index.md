@@ -384,6 +384,7 @@
 *  <del>Warning: line endings have changed from 'LF' to 'CRLF'</del>, *claimed by Khun Piyawit K.*
 *  **C**yber **T**hreat **I**ntelligence - **API**
 *  What is a (computing/digital) **platform**?
+*  **ar·chi·tec·ture** */ˈärkəˌtek(t)SHər/*
 
 ---
 ### [**80-20 Rule**]
