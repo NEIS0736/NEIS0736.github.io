@@ -388,6 +388,7 @@
 *  What is a (computing/digital) **platform**?
 *  **ar·chi·tec·ture** /ˈärkəˌtek(t)SHər/
 *  [Data Governance](https://www.dga.or.th/th/profile/2108/)
+*  Source Code **Escrow** Agreement
 
 ---
 ### [**80-20 Rule**]
