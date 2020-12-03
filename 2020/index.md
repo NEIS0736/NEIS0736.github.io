@@ -26,6 +26,7 @@
     * [Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day1) of Day 1
     * One-on-One - NetDevOps, Automation
     * [V9.1 Client Communications Security Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V9.1-Client-Communications-Security-Requirements)
+    * [Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day1) of Day 2
 1. [Fareed Marnleb](https://marukofar.GitHub.io) (6317810012) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/marukofar) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/marukofar)
     * One-on-One - IoT, CASB
 1. [Hachol Dabthong](https://hacholda.GitHub.io) (6217810010) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/hacholda) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/hacholda)
@@ -39,9 +40,11 @@
 1. [Keaittisak Luithong](https://keaittisak.GitHub.io) (6317660007) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/keaittisak) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/joker0138)
     * One-on-One - Penetration Testing, Mobile
 1. [Nantawan Sanpukdee](https://fAi00-S.GitHub.io) (6317660003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/fAi00-S) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/fAi00)
+    * One-on-One - CII, Forensics, Cybersecurity
 1. [Narunart Vongeium](https://EITCHY.GitHub.io) (6317810006) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/EITCHY) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/EITCHY)
     * One-on-One - Logging, Log Monitoring
 1. [Nattapong Ketkaew](https://nattapong007.GitHub.io) (6317810011) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/nattapong007) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/nattapong007)
+    * One-on-One - CTI, Log Monitoring
 1. [Nattawut Reungsap](https://omoomomx.GitHub.io) (6217810013) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/omoomomx) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/omoomomx)
     * One-on-One - ISO, 27001 
     * [V4.1 General Access Control Design](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V4.1-General-Access-Control-Design)
@@ -75,6 +78,7 @@
 1. [Thanakorn Prajuabkamon](https://nongkon09.GitHub.io) (6217810017) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/nongkon09) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/nongkon09)
     * One-on-One - Cloud Security, Misconfiguration 
     * [12.1.1 Verify that the application will not accept large files that could fill up storage or cause a denial of service](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V12.1-File-Upload-Requirements)
+    * [**GitLab** - HTTP Basic: Access denied. You must use a personal access token with 'read_repository' or 'write_repository' scope for Git over HTTP.](https://nongkon09.github.io/Gitlab2factor)
 1. [Theerapong Kanrawong](https://Devtech95.GitHub.io) (6317810002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Devtech95) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Devtech95)
     * One-on-One - RPA
 1. [Vatcharin Kongsakul](https://ryudokung.GitHub.io) (6217810003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ryudokung) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/ryudokun)
@@ -93,8 +97,8 @@
 * [**Book**](https://docs.google.com/spreadsheets/d/1NBZyw19XSU4rv0BdW0LQ2KAnSXwAGk1odZ9KhA6fbNc) your time slot
 * (Sun) **Dec 6,** 2020
     * Slot A: **"DevSecOps : Integrating Security into DevOps"**, Khun Piyawit Khumkrong (**Es**)
-    * Slot B: **"Automate Test by Robot Framework"**, Khun Hachol Dabthong (**Chon**)
-    * Slot C: **"Sign an assembly with a strong name"**, Khun Athiporn Phumnicom (**Beam**)
+    * Slot B: **"Automated Testing, Robot Framework Will Save the Day!"**, Khun Hachol Dabthong (**Chon**)
+    * Slot C: **"Keep Calm and Sign your Strong Name Assemblies"**, Khun Athiporn Phumnicom (**Beam**)
     * Slot D: **"Secure Access Service Edge (SASE)"**, Khun Suntisuk Thepthong (**IceSuntisuk**)
 * (Sun) **Dec 13,** 2020
     * Slot A: **"Cyber-Physical Systems, a Key to Smart Factory"**, Khun Keaittisak Luithong (**Joke**)
@@ -103,10 +107,10 @@
 * (Sun) **Dec 20,** 2020 *(subjected to change)*
     * Slot A: **"Static Application Security Testing"**, Khun Nipitpon Doungyai (**Geno**)
     * Slot B: **"Dynamic Application Security Testing"**,	Khun Saran Kaewnang (**GOLF**)
-    * Slot C: **"Cybersecurity & Data Policy"**, Khun Keaittisak Luithong (**Joke**)
+    * Slot C: **"TBD"**, Khun Nantawan Sanpukdee (**Fai**)
 * (Sun) **Dec 27,** 2020
     * Slot A: ???
-    * Slot B: **"Threat Modeling to Explore Threats and Countermeasures"**, Khun Bhoomjit Bhoominath (**Luck**)
+    * Slot B: **"Threat Modeling, The first step towards security in SDLC"**, Khun Bhoomjit Bhoominath (**Luck**)
     * Slot C: **"TBD"**, Khun Theerapong Kanrawong (**Pong**)
 * (Sun) **Jan 3,** 2021 *(subjected to change)*
     * Slot A: **"Blockchain and Smart Contract"**,	Khun Vuttawat Uyanont (**Palm**)
@@ -203,18 +207,17 @@
     1. 12:01 - 12:10 : [Khun Theerapong Kanrawong](OneOnOne/TheerapongK.jpg)
     1. 12:11 - 12:20 : [Khun Hachol Dabthong](OneOnOne/HacholD.jpg)
     1. 15:15 - 15:30 : [Khun Suntisuk Thepthong](OneOnOne/SuntisukT.jpg)
+    1. Dec 1 (Eve) : [Khun Nantawan Sanpukdee](OneOnOne/NantawanS.jpg) (***Starbucks** at Central Ladprao*)
+    1. Dec 1 (Eve) : [Khun Nattapong Ketkaew](OneOnOne/NattapongK.jpg) (***Starbucks** at Central Ladprao*)
     
-    1. Dec 1 (Eve) : Khun Nantawan Sanpukdee (***Starbucks** at Central Ladprao*)
-    1. Dec 1 (Eve) : Khun Nattapong Ketkaew (***Starbucks** at Central Ladprao*)
-
     1. XXXX : Khun Sanchat Phaisit
 
-*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day2)** *by **John Doe***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day2)** *by **Ekawut Chairat***
 
 ### [**Week 3**] - (Sun) **Dec 6,** 2020
 *  **MiSS**x***Talks***
    * "**DevSecOps : Integrating Security into DevOps**", Khun Piyawit Khumkrong (Es)
-   * "**Automate Test by Robot Framework**", Khun Hachol Dabthong (Chon)
+   * "**Automated Testing, Robot Framework Will Save the Day!**", Khun Hachol Dabthong (Chon)
    * "**Sign an assembly with a strong name**", Khun Athiporn Phumnicom (Beam)
    * "**Secure Access Service Edge (SASE)**", Khun Suntisuk Thepthong (IceSuntisuk)
 *  Relocate GitLab repository
@@ -366,7 +369,7 @@
 
 ### [**Extra Point**]
 *  <del>[GitLab](https://gitlab.com/) Pages</del>, *claimed by Khun Vuttawat U.*
-*  **GitLab** - **P**ersonal **A**ccess **T**oken
+*  <del>**GitLab** - **P**ersonal **A**ccess **T**oken</del>, *claimed by Khun Thanakorn P.*
 *  [Someone just searched for you on Google...](Extra/Searched-for-you-on-Google.png)
 *  [If you found it useful maybe consider buying us a coffee](Extra/buy-us-a-coffee.png)
 *  [Keybase](https://keybase.io/)
@@ -381,7 +384,12 @@
 *  LinuxFoundationX: LFD105x Secure Software Development: Implementation
     * "Improper input validation is such a common cause of security vulnerabilities that it is 2019 CWE Top 25 #3. It is also identified as [CWE-20](https://cwe.mitre.org/data/definitions/20.html) (Improper Input Validation)."
     * "Insecure deserialization is such a common mistake in web applications that it is 2017 OWASP Top 10 #8 and 2019 CWE Top 25 #23. It is [CWE-502](https://cwe.mitre.org/data/definitions/502.html), Deserialization of Untrusted Data. Attackers may find such vulnerabilities harder to exploit, but once the vulnerability is found it can result in immediate compromise of an entire system, because it may provide complete control of the system to the attacker."
-*  Warning: line endings have changed from 'LF' to 'CRLF'.
+*  <del>Warning: line endings have changed from 'LF' to 'CRLF'</del>, *claimed by Khun Piyawit K.*
+*  **C**yber **T**hreat **I**ntelligence - **API**. “**Threat intelligence” (TI)** is evidence-based knowledge — including context, mechanisms, indicators, implications and actionable advice — about an existing or emerging menace or hazard to IT or information assets. It can be used to inform decisions regarding the subject’s response to that menace or hazard. ***– Gartner***
+*  What is a (computing/digital) **platform**?
+*  **ar·chi·tec·ture** /ˈärkəˌtek(t)SHər/
+*  [Data Governance](https://www.dga.or.th/th/profile/2108/)
+*  Source Code **Escrow** Agreement
 
 ---
 ### [**80-20 Rule**]
@@ -400,4 +408,5 @@
 ### Misc.
 *  [The new way to send a thank you\| group card](https://www.groupgreeting.com/)
 *  [Web Framework Benchmarks](https://www.techempower.com/benchmarks/)
-*  [Why is XAMPP not suited for production?](https://stackoverflow.com/questions/26297731/why-is-xampp-not-suited-for-production)
+*  [Practical Cryptography for Developers](https://cryptobook.nakov.com/)
+*  [Why is XAMPP not suited for production?](https://stackoverflow.com/questions/26297731/)
