@@ -412,3 +412,4 @@
 *  [Web Framework Benchmarks](https://www.techempower.com/benchmarks/)
 *  [Practical Cryptography for Developers](https://cryptobook.nakov.com/)
 *  [Why is XAMPP not suited for production?](https://stackoverflow.com/questions/26297731/)
+*  [Sensitive Data Exposed in GitHub](https://unit42.paloaltonetworks.com/github-data-exposed/)
