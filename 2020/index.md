@@ -390,6 +390,8 @@
 *  **ar·chi·tec·ture** /ˈärkəˌtek(t)SHər/
 *  [Data Governance](https://www.dga.or.th/th/profile/2108/)
 *  Source Code **Escrow** Agreement
+*  Technical Due Diligence
+*  Search vs. Browse
 
 ---
 ### [**80-20 Rule**]
