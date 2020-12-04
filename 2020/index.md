@@ -10,6 +10,7 @@
 * Week 8, Week 9, Week 10, Week 11, Week 12, Week 13, Week 14, Week 15 and Final Exam
 * [Extra Point](#extra-point)
 * [Participant Workload](https://docs.google.com/spreadsheets/d/1hRO2O_fGCn1PPJUci0nTwPFrQhQRtlcuU8UqYueSFYs)
+* [Time Attendance](https://docs.google.com/spreadsheets/d/1syF-UahZg0n1x1l2qcRrEGZDOosKRiwJDVcmA7PaPxk/edit?usp=sharing)
 
 ---
 
