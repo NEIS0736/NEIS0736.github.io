@@ -363,6 +363,7 @@
 *  [Security Engineering](https://www.cl.cam.ac.uk/~rja14/book.html), Ross Anderson
 *  [Computer Security and the Internet:  Tools and Jewels](https://people.scs.carleton.ca/~paulv/toolsjewels.html), Paul C. van Oorschot
 *  [Software Security:  Principles, Policies, and Protection](https://nebelwelt.net/SS3P/softsec.pdf), Payer 
+*  [OWASP Web Security Testing Guide v4.2](https://github.com/OWASP/wstg/releases/download/v4.2/wstg-v4.2.pdf)
 
 ---
 ### [**Official class meeting place**]
