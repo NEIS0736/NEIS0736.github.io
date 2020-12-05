@@ -229,6 +229,8 @@
 *  **Digital Signature Verification**
    * [Python](https://www.python.org/downloads/release/python-390/)
    * [PHP](https://www.php.net/downloads.php)
+   * [Notepad++](https://notepad-plus-plus.org/downloads/v7.9.1/)
+   * [Arduino IDE](https://www.arduino.cc/en/software)
    * [MySQL](https://dev.mysql.com/downloads/installer/)
    * [Gpg4win](https://www.gpg4win.org/download.html)
    * 
