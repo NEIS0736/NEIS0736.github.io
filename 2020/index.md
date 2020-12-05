@@ -396,6 +396,7 @@
 *  Source Code **Escrow** Agreement
 *  Technical Due Diligence
 *  Search vs. Browse
+*  [Amazon Lookout for Vision - Spot product defects using computer vision to automate quality inspection](https://aws.amazon.com/lookout-for-vision/)
 
 ---
 ### [**80-20 Rule**]
