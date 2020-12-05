@@ -227,7 +227,7 @@
 *  **/ˈrēˌkap/** - ***Security Requirements***
 *  **Group Project & Mini-Contest** Clarification & Grouping
 *  **Digital Signature Verification**
-   * [Python](https://www.python.org/downloads/release/python-390/)
+   * [Python](https://www.python.org/downloads/release/python-390/), [MySQL](https://dev.mysql.com/downloads/installer/)
 *  **Client**, **BA**, **Developer** *&* **Code**
 *  **Test Case**
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day3)** *by **John Doe***
