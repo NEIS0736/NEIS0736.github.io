@@ -229,11 +229,14 @@
 *  **Digital Signature Verification**
    * [Python](https://www.python.org/downloads/release/python-390/)
    * [PHP](https://www.php.net/downloads.php)
+   * [phpMyAdmin](https://www.phpmyadmin.net/downloads/)
+   * [Apache HTTP Server](https://httpd.apache.org/download.cgi)
    * [Notepad++](https://notepad-plus-plus.org/downloads/v7.9.1/)
    * [Arduino IDE](https://www.arduino.cc/en/software)
    * [MySQL](https://dev.mysql.com/downloads/installer/)
    * [Gpg4win](https://www.gpg4win.org/download.html)
-   * 
+   * [Kali Linux](https://www.kali.org/downloads/)
+   
 *  **Client**, **BA**, **Developer** *&* **Code**
 *  **Test Case**
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day3)** *by **John Doe***
