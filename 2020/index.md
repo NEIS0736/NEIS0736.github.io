@@ -216,7 +216,7 @@
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day2)** *by **Ekawut Chairat***
 
 ### [**Week 3**] - (Sun) **Dec 6,** 2020
-*  **Required** App : LINE Dictionary ([Android](https://play.google.com/store/apps/details?id=com.naver.android.globaldictenth)), ([iOS](https://apps.apple.com/th/app/english-dictionary-th-id-zh/id904908129))
+*  **Required** App : **LINE Dict**ionary ([Android](https://play.google.com/store/apps/details?id=com.naver.android.globaldictenth)), ([iOS](https://apps.apple.com/th/app/english-dictionary-th-id-zh/id904908129))
 *  **Constructive** Criticism
 *  **MiSS**x***Talks***
    * "**DevSecOps : Integrating Security into DevOps**", Khun Piyawit Khumkrong (Es)
