@@ -227,7 +227,11 @@
 *  **/ˈrēˌkap/** - ***Security Requirements***
 *  **Group Project & Mini-Contest** Clarification & Grouping
 *  **Digital Signature Verification**
-   * [Python](https://www.python.org/downloads/release/python-390/), [MySQL](https://dev.mysql.com/downloads/installer/)
+   * [Python](https://www.python.org/downloads/release/python-390/)
+   * [PHP](https://www.php.net/downloads.php)
+   * [MySQL](https://dev.mysql.com/downloads/installer/)
+   * [Gpg4win](https://www.gpg4win.org/download.html)
+   * 
 *  **Client**, **BA**, **Developer** *&* **Code**
 *  **Test Case**
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day3)** *by **John Doe***
