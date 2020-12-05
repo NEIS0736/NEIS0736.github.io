@@ -394,7 +394,7 @@
 *  **C**yber **T**hreat **I**ntelligence - **API**. “**Threat intelligence” (TI)** is evidence-based knowledge — including context, mechanisms, indicators, implications and actionable advice — about an existing or emerging menace or hazard to IT or information assets. It can be used to inform decisions regarding the subject’s response to that menace or hazard. ***– Gartner***
 *  What is a (computing/digital) **platform**?
 *  **ar·chi·tec·ture** /ˈärkəˌtek(t)SHər/
-*  <del>[Data Governance](https://www.dga.or.th/th/profile/2108/)</del>, *claimed by Khun Bhoomjit B.*
+*  <del>[Data Governance](https://www.dga.or.th/th/profile/2108/)</del>, *claimed by Khun Bhoomjit Bh.*
 *  Source Code **Escrow** Agreement
 *  Technical Due Diligence
 *  Search vs. Browse
