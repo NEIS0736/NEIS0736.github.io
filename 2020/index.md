@@ -236,7 +236,7 @@
 
 ### [**Week 4**] - (Sun) **Dec 13,** 2020
 *  **MiSS**x***Talks***
-   * "**Cyber-Physical Systems, a Key to Smart Factory**", Khun Keaittisak Luithong (Joke)
+   * "**Security Testing**", Khun Jaray Paensong (Ray)
    * *John Doe*
    * *John Doe*
 *  **Client**, **BA**, **Developer** *&* **Code**
