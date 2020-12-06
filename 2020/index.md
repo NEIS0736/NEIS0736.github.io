@@ -20,6 +20,7 @@
     * One-on-One - Sandbox, Malware (behavior) Analysis
 1. [Athiporn Phumnicom](https://AthipornP.GitHub.io) (6217810016) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/AthipornP) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/AthipornP)
     * One-on-One - Authentication, OpenID
+    * [Keep Calm and Sign your Strong Name Assemblies](/2020/MiSSxTalks/AthipornP.jpg)
 1. [Bhoomjit Bhoominath](https://peegonggoy.GitHub.io) (6317660004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/peegonggoy) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/peegonggoy)
     * One-on-One - Threat Modeling, Threat Intelligence
     * [V1.1 Secure Software Development Lifecycle Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V1.1-Secure-Software-Development-Lifecycle-Requirements)
