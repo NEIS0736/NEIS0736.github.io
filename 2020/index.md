@@ -131,7 +131,7 @@
     * Slot C: ???
 * (Sun) **Feb 21,** 2021
     * Slot A: ???
-    * Slot B: ???
+    * Slot B: **"TBD"** Khun Shirassuda Thongpakdhi (**Kad**)
     * Slot C: ???
 
 * **[Done]**
