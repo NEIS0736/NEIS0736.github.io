@@ -227,26 +227,25 @@
 *  Relocate GitLab repository
 *  **/ˈrēˌkap/** - ***Security Requirements***
 *  **Group Project & Mini-Contest** Clarification & Grouping
-*  **Digital Signature Verification**
-   * [Python](https://www.python.org/downloads/release/python-390/), [PHP](https://www.php.net/downloads.php), [phpMyAdmin](https://www.phpmyadmin.net/downloads/), [MySQL](https://dev.mysql.com/downloads/installer/), [Apache HTTP Server](https://httpd.apache.org/download.cgi), [nginx](http://nginx.org/en/download.html), [Notepad++](https://notepad-plus-plus.org/downloads/v7.9.1/), [Arduino IDE](https://www.arduino.cc/en/software), [Gpg4win](https://www.gpg4win.org/download.html), [GnuPG](https://www.gnupg.org/download/index.html), [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html), [Kali Linux](https://www.kali.org/downloads/)
-*  **Client**, **BA**, **Developer** *&* **Code**
-*  **Test Case**
+*  
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day3)** *by **John Doe***
-
 *  **Homework**
-   * [Web Application Vulnerability Report 2019](https://www.acunetix.com/acunetix-web-application-vulnerability-report-2019/), Acunetix
-   * [2020 Web Application Vulnerability Report](https://go.acunetix.com/2020-vulnerability-report), Acunetix
-   * [OWASP Top 10 Security Fundamentals](https://codered.eccouncil.org/CourseDetails/owasp-top-10-security-fundamentals), Paulo Silva (14-day **FREE** trial)
+   * **Digital Signature Verification**, [Python](https://www.python.org/downloads/release/python-390/), [PHP](https://www.php.net/downloads.php), [phpMyAdmin](https://www.phpmyadmin.net/downloads/), [MySQL](https://dev.mysql.com/downloads/installer/), [Apache HTTP Server](https://httpd.apache.org/download.cgi), [nginx](http://nginx.org/en/download.html), [Notepad++](https://notepad-plus-plus.org/downloads/v7.9.1/), [Arduino IDE](https://www.arduino.cc/en/software), [Gpg4win](https://www.gpg4win.org/download.html), [GnuPG](https://www.gnupg.org/download/index.html), [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html), [Kali Linux](https://www.kali.org/downloads/)
 
 ### [**Week 4**] - (Sun) **Dec 13,** 2020
 *  **MiSS**x***Talks***
    * "**Cyber-Physical Systems, a Key to Smart Factory**", Khun Keaittisak Luithong (Joke)
    * *John Doe*
    * *John Doe*
+*  **Client**, **BA**, **Developer** *&* **Code**
+*  **Test Case**  
 *  **Two factor authentication**   
 *  [Schema.org](https://schema.org/) is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond.
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day4)** *by **John Doe***
 *  Homework
+   * [Web Application Vulnerability Report 2019](https://www.acunetix.com/acunetix-web-application-vulnerability-report-2019/), Acunetix
+   * [2020 Web Application Vulnerability Report](https://go.acunetix.com/2020-vulnerability-report), Acunetix
+   * [OWASP Top 10 Security Fundamentals](https://codered.eccouncil.org/CourseDetails/owasp-top-10-security-fundamentals), Paulo Silva (14-day **FREE** trial)
    * **Two factor authentication** : well known application/services
    * [When **Open Source** Came to Microsoft](https://www.codemag.com/Article/2009041/When-Open-Source-Came-to-Microsoft), [Richard Campbell](https://www.codemag.com/People/Bio/Richard.Campbell)
 
