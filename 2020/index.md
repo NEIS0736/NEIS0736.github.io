@@ -102,7 +102,7 @@
 ### **[MiSS**x***Talks*]** (2 chances) 
 * [**Book**](https://docs.google.com/spreadsheets/d/1NBZyw19XSU4rv0BdW0LQ2KAnSXwAGk1odZ9KhA6fbNc) your time slot
 * (Sun) **Dec 13,** 2020
-    * Slot A: **"Cyber-Physical Systems, a Key to Smart Factory"**, Khun Keaittisak Luithong (**Joke**)
+    * Slot A: **"Security Testing"**, Khun Jaray Paensong (**Ray**)
     * Slot B: ???
     * Slot C: ???
 * (Sun) **Dec 20,** 2020 *(subjected to change)*
@@ -110,7 +110,7 @@
     * Slot B: **"Dynamic Application Security Testing"**,	Khun Saran Kaewnang (**GOLF**)
     * Slot C: **"TBD"**, Khun Nantawan Sanpukdee (**Fai**)
 * (Sun) **Dec 27,** 2020
-    * Slot A: ???
+    * Slot A: **"Cyber-physical System"**, Khun Keaittisak Luithong (**Joke**)
     * Slot B: **"Threat Modeling, The first step towards security in SDLC"**, Khun Bhoomjit Bhoominath (**Luck**)
     * Slot C: **"TBD"**, Khun Theerapong Kanrawong (**Pong**)
 * (Sun) **Jan 3,** 2021 *(subjected to change)*
