@@ -226,7 +226,7 @@
 *  **MiSS**x***Talks***
    * "**DevSecOps : Integrating Security into DevOps**", Khun Piyawit Khumkrong (Es)
    * "**Automated Testing, Robot Framework Will Save the Day!**", Khun Hachol Dabthong (Chon)
-   * "**Sign an assembly with a strong name**", Khun Athiporn Phumnicom (Beam)
+   * "**Keep Calm and Sign your Strong Name Assemblies**", Khun Athiporn Phumnicom (Beam)
    * "**Secure Access Service Edge (SASE)**", Khun Suntisuk Thepthong (IceSuntisuk)
 *  Relocate GitLab repository
 *  **/ˈrēˌkap/** - ***Security Requirements***
