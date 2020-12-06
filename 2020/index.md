@@ -59,7 +59,7 @@
     * [Warning: line endings have changed from ‘LF’ to ‘CRLF’](https://eskoong.github.io/eol)
     * One-on-One - Machine Learning, IDS
     * [V1.6 Cryptographic Architectural Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V1.6-Cryptographic-Architectural-Requirements)
-    * [DevSecOps : Integrating Security into DevOps]
+    * [DevSecOps : Integrating Security into DevOps](/2020/MiSSxTalks/PiyawitK.jpg)
 1. [Sakarin Kaewsathitwong](https://Alfatoxin.GitHub.io) (6217810002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Alfatoxin) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Alfatoxin)
     * One-on-One - MitM
     * [12.5.1 Verify that the web tier is configured to serve only files with specific file extensions to prevent unintentional information and source code leakage](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/12.5-File-Download-Requirements)
