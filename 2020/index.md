@@ -233,7 +233,7 @@
 *  **Group Project & Mini-Contest** Clarification & Grouping
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day3)** *by **John Doe***
 *  **Homework**
-   * **Digital Signature Verification**, [Python](https://www.python.org/downloads/release/python-390/), [PHP](https://www.php.net/downloads.php), [phpMyAdmin](https://www.phpmyadmin.net/downloads/), [MySQL](https://dev.mysql.com/downloads/installer/), [Apache HTTP Server](https://httpd.apache.org/download.cgi), [nginx](http://nginx.org/en/download.html), [Notepad++](https://notepad-plus-plus.org/downloads/v7.9.1/), [Arduino IDE](https://www.arduino.cc/en/software), [Gpg4win](https://www.gpg4win.org/download.html), [GnuPG](https://www.gnupg.org/download/index.html), [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html), [Kali Linux](https://www.kali.org/downloads/)
+   * **Digital Signature Verification**, <del>[Python](https://www.python.org/downloads/release/python-390/)</del>, [PHP](https://www.php.net/downloads.php), <del>[phpMyAdmin](https://www.phpmyadmin.net/downloads/), [MySQL](https://dev.mysql.com/downloads/installer/), [Apache HTTP Server](https://httpd.apache.org/download.cgi)</del>, [nginx](http://nginx.org/en/download.html), <del>[Notepad++](https://notepad-plus-plus.org/downloads/v7.9.1/), [Arduino IDE](https://www.arduino.cc/en/software), [Gpg4win](https://www.gpg4win.org/download.html)</del>, [GnuPG](https://www.gnupg.org/download/index.html), <del>[PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html), [Kali Linux](https://www.kali.org/downloads/)</del>
 
 ### [**Week 4**] - (Sun) **Dec 13,** 2020
 *  **MiSS**x***Talks***
