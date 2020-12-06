@@ -97,11 +97,6 @@
 
 ### **[MiSS**x***Talks*]** (2 chances) 
 * [**Book**](https://docs.google.com/spreadsheets/d/1NBZyw19XSU4rv0BdW0LQ2KAnSXwAGk1odZ9KhA6fbNc) your time slot
-* (Sun) **Dec 6,** 2020
-    * Slot A: **"DevSecOps : Integrating Security into DevOps"**, Khun Piyawit Khumkrong (**Es**)
-    * Slot B: **"Automated Testing, Robot Framework Will Save the Day!"**, Khun Hachol Dabthong (**Chon**)
-    * Slot C: **"Keep Calm and Sign your Strong Name Assemblies"**, Khun Athiporn Phumnicom (**Beam**)
-    * Slot D: **"Secure Access Service Edge (SASE)"**, Khun Suntisuk Thepthong (**IceSuntisuk**)
 * (Sun) **Dec 13,** 2020
     * Slot A: **"Cyber-Physical Systems, a Key to Smart Factory"**, Khun Keaittisak Luithong (**Joke**)
     * Slot B: ???
@@ -138,7 +133,11 @@
 * **[Done]**
     * (Sun) **Nov 22,** 2020
         * **"Git"**, Khun Vatcharin Kongsakul
-
+    * (Sun) **Dec 6,** 2020
+        * **"DevSecOps : Integrating Security into DevOps"**, Khun Piyawit Khumkrong (**Es**)
+        * **"Automated Testing, Robot Framework Will Save the Day!"**, Khun Hachol Dabthong (**Chon**)
+        * **"Keep Calm and Sign your Strong Name Assemblies"**, Khun Athiporn Phumnicom (**Beam**)
+        * **"Secure Access Service Edge (SASE)"**, Khun Suntisuk Thepthong (**IceSuntisuk**)
 ---
 
 ### **[Instructor]**
