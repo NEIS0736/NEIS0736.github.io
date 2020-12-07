@@ -123,7 +123,7 @@
 * (Sun) **Dec 20,** 2020 *(subjected to change)*
     * Slot A: **"Static Application Security Testing"**, Khun Nipitpon Doungyai (**Geno**)
     * Slot B: **"Dynamic Application Security Testing"**,	Khun Saran Kaewnang (**GOLF**)
-    * Slot C: **"TBD"**, Khun Nantawan Sanpukdee (**Fai**)
+    * Slot C: **"System acquisition, development and maintenance in ISO27001"**, Khun Nantawan Sanpukdee (**Fai**)
 * (Sun) **Dec 27,** 2020
     * Slot A: **"Cyber-physical System"**, Khun Keaittisak Luithong (**Joke**)
     * Slot B: **"Threat Modeling, The first step towards security in SDLC"**, Khun Bhoomjit Bhoominath (**Luck**)
