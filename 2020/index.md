@@ -241,6 +241,7 @@
    * "**Security Testing**", Khun Jaray Paensong (Ray)
    * *John Doe*
    * *John Doe*
+*  **Testable** Security **Requirements**
 *  **Client**, **BA**, **Developer** *&* **Code**
 *  **Test Case**  
 *  **Two factor authentication**   
