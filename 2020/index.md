@@ -46,6 +46,7 @@
     * [V6.1 Data Classification](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V6.1-Data-Classification)
 1. [Keaittisak Luithong](https://keaittisak.GitHub.io) (6317660007) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/keaittisak) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/joker0138)
     * One-on-One - Penetration Testing, Mobile
+    * [DSV - Python](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Python) (#5)
 1. [Nantawan Sanpukdee](https://fAi00-S.GitHub.io) (6317660003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/fAi00-S) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/fAi00)
     * One-on-One - CII, Forensics, Cybersecurity
 1. [Narunart Vongeium](https://EITCHY.GitHub.io) (6317810006) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/EITCHY) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/EITCHY)
@@ -69,6 +70,7 @@
     * One-on-One - Machine Learning, IDS
     * [V1.6 Cryptographic Architectural Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V1.6-Cryptographic-Architectural-Requirements)
     * [DevSecOps : Integrating Security into DevOps](/2020/MiSSxTalks/PiyawitK.jpg)
+    * [DSV - Python](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Python) (#5)
 1. [Sakarin Kaewsathitwong](https://Alfatoxin.GitHub.io) (6217810002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Alfatoxin) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Alfatoxin)
     * One-on-One - MitM
     * [12.5.1 Verify that the web tier is configured to serve only files with specific file extensions to prevent unintentional information and source code leakage](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/12.5-File-Download-Requirements)
