@@ -265,6 +265,7 @@
    * *John Doe*
    * *John Doe*
 *  Twitter : **Login Alert**
+*  [The new way to send a farewell\| group card](https://www.groupgreeting.com/)
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day5)** *by **John Doe***
 *  Homework
    * **Alert** : well known application/services
@@ -425,7 +426,6 @@
 *  [ReversoSpeller](https://www.reverso.net/spell-checker/english-spelling-grammar/)
 
 ### Misc.
-*  [The new way to send a thank you\| group card](https://www.groupgreeting.com/)
 *  [Web Framework Benchmarks](https://www.techempower.com/benchmarks/)
 *  [Practical Cryptography for Developers](https://cryptobook.nakov.com/)
 *  [Why is XAMPP not suited for production?](https://stackoverflow.com/questions/26297731/)
