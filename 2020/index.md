@@ -21,6 +21,7 @@
 1. [Athiporn Phumnicom](https://AthipornP.GitHub.io) (6217810016) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/AthipornP) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/AthipornP)
     * One-on-One - Authentication, OpenID
     * [Keep Calm and Sign your Strong Name Assemblies](/2020/MiSSxTalks/AthipornP.jpg)
+    * [DSV - Gpg4win](https://gitlab.com/NEIS0736/2020/-/wikis/Digital%20signature/Gpg4win/Gpg4win) (#2)
 1. [Bhoomjit Bhoominath](https://peegonggoy.GitHub.io) (6317660004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/peegonggoy) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/peegonggoy)
     * One-on-One - Threat Modeling, Threat Intelligence
     * [V1.1 Secure Software Development Lifecycle Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V1.1-Secure-Software-Development-Lifecycle-Requirements)
@@ -57,6 +58,7 @@
     * One-on-One - VA, PT
 1. [Phureephat Sottiratanapan](https://PhureephatS.GitHub.io) (6217810014) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/PhureephatS) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/PhureephatS)
     * One-on-One - 27001
+    * [DSV - Gpg4win](https://gitlab.com/NEIS0736/2020/-/wikis/Digital%20signature/Gpg4win/Gpg4win) (#2)
 1. [Piyawit Khumkrong](https://EsKoOnG.GitHub.io) (6317810004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/EsKoOnG) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/EsKoOnG)
     * T-Shirt Design
     * [Warning: line endings have changed from ‘LF’ to ‘CRLF’](https://eskoong.github.io/eol)
@@ -81,6 +83,7 @@
 1. [Sununta Labaiusuh](https://sununta580.GitHub.io) (6217810009) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/sununta580) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/sununta)
     * One-on-One - Cloud Security, Test bed
     * [V1.7 Errors, Logging and Auditing Architectural Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V1.7-Errors,-Logging-and-Auditing-Architectural-Requirements1)
+    * [DSV - Gpg4win](https://gitlab.com/NEIS0736/2020/-/wikis/Digital%20signature/Gpg4win/Gpg4win) (#2)
 1. [Supattra Boonkied](https://SupattraBoonkied.GitHub.io) (6317810003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/SupattraBoonkied) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/SupattraBoonkied)
     * One-on-One - IoT, Blockchain
     * [V10.1 Code Integrity Controls](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V10.1-Code-Integrity-Controls)
