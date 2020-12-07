@@ -280,6 +280,7 @@
    * *John Doe*
    * *John Doe*
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day7)** *by **John Doe***
+
 ---
 
 ### [**Semi-final Examination**]
