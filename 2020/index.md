@@ -21,7 +21,7 @@
 1. [Athiporn Phumnicom](https://AthipornP.GitHub.io) (6217810016) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/AthipornP) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/AthipornP)
     * One-on-One - Authentication, OpenID
     * [Keep Calm and Sign your Strong Name Assemblies](/2020/MiSSxTalks/AthipornP.jpg)
-    * [DSV - Gpg4win](https://gitlab.com/NEIS0736/2020/-/wikis/Digital%20signature/Gpg4win/Gpg4win) (#2)
+    * [DSV - Gpg4win](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Gpg4win/Gpg4win) (#2)
 1. [Bhoomjit Bhoominath](https://peegonggoy.GitHub.io) (6317660004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/peegonggoy) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/peegonggoy)
     * One-on-One - Threat Modeling, Threat Intelligence
     * [V1.1 Secure Software Development Lifecycle Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V1.1-Secure-Software-Development-Lifecycle-Requirements)
@@ -31,7 +31,7 @@
     * One-on-One - NetDevOps, Automation
     * [V9.1 Client Communications Security Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V9.1-Client-Communications-Security-Requirements)
     * [Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day1) of Day 2
-    * [DSV - Notepad++](https://gitlab.com/NEIS0736/2020/-/wikis/Digital%20signature/NotepadPP) (#1)
+    * [DSV - Notepad++](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/NotepadPP) (#1)
 1. [Fareed Marnleb](https://marukofar.GitHub.io) (6317810012) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/marukofar) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/marukofar)
     * One-on-One - IoT, CASB
 1. [Hachol Dabthong](https://hacholda.GitHub.io) (6217810010) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/hacholda) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/hacholda)
@@ -58,7 +58,7 @@
     * One-on-One - VA, PT
 1. [Phureephat Sottiratanapan](https://PhureephatS.GitHub.io) (6217810014) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/PhureephatS) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/PhureephatS)
     * One-on-One - 27001
-    * [DSV - Gpg4win](https://gitlab.com/NEIS0736/2020/-/wikis/Digital%20signature/Gpg4win/Gpg4win) (#2)
+    * [DSV - Gpg4win](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Gpg4win/Gpg4win) (#2)
 1. [Piyawit Khumkrong](https://EsKoOnG.GitHub.io) (6317810004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/EsKoOnG) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/EsKoOnG)
     * T-Shirt Design
     * [Warning: line endings have changed from ‘LF’ to ‘CRLF’](https://eskoong.github.io/eol)
@@ -79,11 +79,11 @@
     * One-on-One - SIEM, Security Automation, SOAR
     * [V11-Business-Logic-Verification-Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V11-Business-Logic-Verification-Requirements)
     * [Secure Access Service Edge (SASE)](/2020/MiSSxTalks/SuntisukT.jpg)
-    * [DSV - Notepad++](https://gitlab.com/NEIS0736/2020/-/wikis/Digital%20signature/NotepadPP) (#1)
+    * [DSV - Notepad++](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/NotepadPP) (#1)
 1. [Sununta Labaiusuh](https://sununta580.GitHub.io) (6217810009) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/sununta580) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/sununta)
     * One-on-One - Cloud Security, Test bed
     * [V1.7 Errors, Logging and Auditing Architectural Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V1.7-Errors,-Logging-and-Auditing-Architectural-Requirements1)
-    * [DSV - Gpg4win](https://gitlab.com/NEIS0736/2020/-/wikis/Digital%20signature/Gpg4win/Gpg4win) (#2)
+    * [DSV - Gpg4win](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Gpg4win/Gpg4win) (#2)
 1. [Supattra Boonkied](https://SupattraBoonkied.GitHub.io) (6317810003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/SupattraBoonkied) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/SupattraBoonkied)
     * One-on-One - IoT, Blockchain
     * [V10.1 Code Integrity Controls](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V10.1-Code-Integrity-Controls)
@@ -91,7 +91,7 @@
     * One-on-One - Cloud Security, Misconfiguration 
     * [12.1.1 Verify that the application will not accept large files that could fill up storage or cause a denial of service](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V12.1-File-Upload-Requirements)
     * [**GitLab** - HTTP Basic: Access denied. You must use a personal access token with 'read_repository' or 'write_repository' scope for Git over HTTP.](https://nongkon09.github.io/Gitlab2factor)
-    * [DSV - Notepad++](https://gitlab.com/NEIS0736/2020/-/wikis/Digital%20signature/NotepadPP) (#1)
+    * [DSV - Notepad++](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/NotepadPP) (#1)
 1. [Theerapong Kanrawong](https://Devtech95.GitHub.io) (6317810002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Devtech95) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Devtech95)
     * One-on-One - RPA
     * [Source Code Escrow](https://gitlab.com/NEIS0736/2020/-/wikis/KBs/Source-code-escrow)
