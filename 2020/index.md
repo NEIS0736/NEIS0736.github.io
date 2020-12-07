@@ -49,6 +49,7 @@
     * One-on-One - CII, Forensics, Cybersecurity
 1. [Narunart Vongeium](https://EITCHY.GitHub.io) (6317810006) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/EITCHY) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/EITCHY)
     * One-on-One - Logging, Log Monitoring
+    * [DSV - PuTTy](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/putty) (#4)
 1. [Nattapong Ketkaew](https://nattapong007.GitHub.io) (6317810011) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/nattapong007) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/nattapong007)
     * One-on-One - CTI, Log Monitoring
 1. [Nattawut Reungsap](https://omoomomx.GitHub.io) (6217810013) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/omoomomx) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/omoomomx)
@@ -57,6 +58,7 @@
     + [DSV - Kali](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Kali) (#3)
 1. [Nipitpon Doungyai](https://itsGno.GitHub.io) (6317810008) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/itsGno) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/itsGno)
     * One-on-One - VA, PT
+    * [DSV - PuTTy](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/putty) (#4)
 1. [Phureephat Sottiratanapan](https://PhureephatS.GitHub.io) (6217810014) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/PhureephatS) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/PhureephatS)
     * One-on-One - 27001
     * [DSV - Gpg4win](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Gpg4win/Gpg4win) (#2)
@@ -97,6 +99,7 @@
 1. [Theerapong Kanrawong](https://Devtech95.GitHub.io) (6317810002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Devtech95) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Devtech95)
     * One-on-One - RPA
     * [Source Code Escrow](https://gitlab.com/NEIS0736/2020/-/wikis/KBs/Source-code-escrow)
+    * [DSV - PuTTy](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/putty) (#4)
 1. [Vatcharin Kongsakul](https://ryudokung.GitHub.io) (6217810003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ryudokung) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/ryudokun)
     * [Git](/2020/MiSSxTalks/VatcharinK.jpg)
     * One-on-One - IoT PenTest, DevOps, DevSecOps, Agile
