@@ -30,6 +30,7 @@
     * One-on-One - NetDevOps, Automation
     * [V9.1 Client Communications Security Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V9.1-Client-Communications-Security-Requirements)
     * [Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day1) of Day 2
+    * [DSV - Notepad++](https://gitlab.com/NEIS0736/2020/-/wikis/Digital%20signature/NotepadPP) (#1)
 1. [Fareed Marnleb](https://marukofar.GitHub.io) (6317810012) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/marukofar) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/marukofar)
     * One-on-One - IoT, CASB
 1. [Hachol Dabthong](https://hacholda.GitHub.io) (6217810010) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/hacholda) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/hacholda)
@@ -76,6 +77,7 @@
     * One-on-One - SIEM, Security Automation, SOAR
     * [V11-Business-Logic-Verification-Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V11-Business-Logic-Verification-Requirements)
     * [Secure Access Service Edge (SASE)](/2020/MiSSxTalks/SuntisukT.jpg)
+    * [DSV - Notepad++](https://gitlab.com/NEIS0736/2020/-/wikis/Digital%20signature/NotepadPP) (#1)
 1. [Sununta Labaiusuh](https://sununta580.GitHub.io) (6217810009) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/sununta580) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/sununta)
     * One-on-One - Cloud Security, Test bed
     * [V1.7 Errors, Logging and Auditing Architectural Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V1.7-Errors,-Logging-and-Auditing-Architectural-Requirements1)
@@ -86,6 +88,7 @@
     * One-on-One - Cloud Security, Misconfiguration 
     * [12.1.1 Verify that the application will not accept large files that could fill up storage or cause a denial of service](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V12.1-File-Upload-Requirements)
     * [**GitLab** - HTTP Basic: Access denied. You must use a personal access token with 'read_repository' or 'write_repository' scope for Git over HTTP.](https://nongkon09.github.io/Gitlab2factor)
+    * [DSV - Notepad++](https://gitlab.com/NEIS0736/2020/-/wikis/Digital%20signature/NotepadPP) (#1)
 1. [Theerapong Kanrawong](https://Devtech95.GitHub.io) (6317810002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Devtech95) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Devtech95)
     * One-on-One - RPA
 1. [Vatcharin Kongsakul](https://ryudokung.GitHub.io) (6217810003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ryudokung) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/ryudokun)
