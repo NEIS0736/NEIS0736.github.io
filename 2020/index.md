@@ -11,6 +11,7 @@
 * [Extra Point](#extra-point)
 * [Participant Workload](https://docs.google.com/spreadsheets/d/1hRO2O_fGCn1PPJUci0nTwPFrQhQRtlcuU8UqYueSFYs)
 * [Time Attendance](https://docs.google.com/spreadsheets/d/1syF-UahZg0n1x1l2qcRrEGZDOosKRiwJDVcmA7PaPxk/edit?usp=sharing)
+* [Group of 7 (not 11)](https://docs.google.com/spreadsheets/d/1UIOmHYdnGpVccp6i9bH2QgDPePinBAY5D5RklpE38V4)
 
 ---
 
