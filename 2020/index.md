@@ -110,8 +110,6 @@
 * [**Book**](https://docs.google.com/spreadsheets/d/1NBZyw19XSU4rv0BdW0LQ2KAnSXwAGk1odZ9KhA6fbNc) your time slot
 * (Sun) **Dec 13,** 2020
     * Slot A: **"Security Testing"**, Khun Jaray Paensong (**Ray**)
-    * Slot B: ???
-    * Slot C: ???
 * (Sun) **Dec 20,** 2020 *(subjected to change)*
     * Slot A: **"Static Application Security Testing"**, Khun Nipitpon Doungyai (**Geno**)
     * Slot B: **"Dynamic Application Security Testing"**,	Khun Saran Kaewnang (**GOLF**)
