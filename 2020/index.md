@@ -271,7 +271,7 @@
    * Prep. for the Moments of **Celebration & Sharing**
 
 ### [**Week 6**] - (Sun) **Dec 27,** 2020
-*  Moments of **Celebration & Sharing**
+*  X'Mas Aftermath: Moments of **Celebration & Sharing**
 *  [The **Twelve Factors**](https://12factor.net/) ([ไทย](https://12factor.net/th/))
 *  **MiSS**x***Talks***
    * *John Doe*
