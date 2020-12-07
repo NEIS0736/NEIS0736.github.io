@@ -74,6 +74,7 @@
     * One-on-One - CTI, SOC
 1. [Suntisuk Thepthong](https://icesuntisuk.GitHub.io) (6217810015) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/icesuntisuk) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/icesuntisuk)
     * One-on-One - SIEM, Security Automation, SOAR
+    * [V11-Business-Logic-Verification-Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V11-Business-Logic-Verification-Requirements)
     * [Secure Access Service Edge (SASE)](/2020/MiSSxTalks/SuntisukT.jpg)
 1. [Sununta Labaiusuh](https://sununta580.GitHub.io) (6217810009) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/sununta580) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/sununta)
     * One-on-One - Cloud Security, Test bed
