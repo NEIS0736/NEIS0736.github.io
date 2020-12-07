@@ -260,13 +260,14 @@
    * [When **Open Source** Came to Microsoft](https://www.codemag.com/Article/2009041/When-Open-Source-Came-to-Microsoft), [Richard Campbell](https://www.codemag.com/People/Bio/Richard.Campbell)
 
 ### [**Week 5**] - (Sun) **Dec 20,** 2020 *(subjected to change)*
+*  [The new way to send a farewell\| group card](https://www.groupgreeting.com/)
 *  **MiSS**x***Talks***
    * *John Doe*
    * *John Doe*
    * *John Doe*
 *  Twitter : **Login Alert**
-*  [The new way to send a farewell\| group card](https://www.groupgreeting.com/)
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day5)** *by **John Doe***
+*  Say Congrat to ...
 *  Homework
    * **Alert** : well known application/services
    * Prep. for the Moments of **Celebration & Sharing**
