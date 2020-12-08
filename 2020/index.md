@@ -28,7 +28,7 @@
     * One-on-One - Threat Modeling, Threat Intelligence
     * [V1.1 Secure Software Development Lifecycle Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V1.1-Secure-Software-Development-Lifecycle-Requirements)
     * [Data Governance](https://peegonggoy.github.io/DG/)
-    * [DSV - Python](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Python) (#5)
+    * [DSV - Python](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Python) (#6)
 1. [Ekawut Chairat](https://inuax.GitHub.io) (6217660002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/inuax) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/inuax)
     * [Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day1) of Day 1
     * One-on-One - NetDevOps, Automation
@@ -37,11 +37,12 @@
     * [DSV - Notepad++](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/NotepadPP) (#1)
 1. [Fareed Marnleb](https://marukofar.GitHub.io) (6317810012) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/marukofar) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/marukofar)
     * One-on-One - IoT, CASB
+    * [DSV - phpMyAdmin](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/3-Easy-Steps-to-Verify-The-Digital-Signature--phpMyAdmin-) (#4)
 1. [Hachol Dabthong](https://hacholda.GitHub.io) (6217810010) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/hacholda) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/hacholda)
     * One-on-One - Automated Testing
     * [V7.1 Log Content Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V7.1-Log-Content-Requirements)
     * [Automated Testing, Robot Framework Will Save the Day!](/2020/MiSSxTalks/HacholD.jpg)
-    * [DSV - MySQL](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/MySQL) (#6)
+    * [DSV - MySQL](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/MySQL) (#7)
 1. [Jaray Paensong](https://HiRayShi.GitHub.io) (6317660006) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/HiRayShi) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/HiRayShi)
     * One-on-One - CTF, Gamification
 1. [Jaruspong Tongboon](https://jaruspong4.GitHub.io) (6217810004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/jaruspong4) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/jaruspong4)
@@ -49,13 +50,13 @@
     * [V6.1 Data Classification](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V6.1-Data-Classification)
 1. [Keaittisak Luithong](https://keaittisak.GitHub.io) (6317660007) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/keaittisak) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/joker0138)
     * One-on-One - Penetration Testing, Mobile
-    * [DSV - Python](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Python) (#5)
+    * [DSV - Python](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Python) (#6)
 1. [Nantawan Sanpukdee](https://fAi00-S.GitHub.io) (6317660003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/fAi00-S) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/fAi00)
     * One-on-One - CII, Forensics, Cybersecurity
-    * [DSV - MySQL](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/MySQL) (#6)
+    * [DSV - MySQL](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/MySQL) (#7)
 1. [Narunart Vongeium](https://EITCHY.GitHub.io) (6317810006) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/EITCHY) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/EITCHY)
     * One-on-One - Logging, Log Monitoring
-    * [DSV - PuTTY](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/putty) (#4)
+    * [DSV - PuTTY](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/putty) (#5)
 1. [Nattapong Ketkaew](https://nattapong007.GitHub.io) (6317810011) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/nattapong007) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/nattapong007)
     * One-on-One - CTI, Log Monitoring
 1. [Nattawut Reungsap](https://omoomomx.GitHub.io) (6217810013) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/omoomomx) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/omoomomx)
@@ -64,7 +65,7 @@
     + [DSV - Kali](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Kali) (#3)
 1. [Nipitpon Doungyai](https://itsGno.GitHub.io) (6317810008) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/itsGno) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/itsGno)
     * One-on-One - VA, PT
-    * [DSV - PuTTY](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/putty) (#4)
+    * [DSV - PuTTY](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/putty) (#5)
 1. [Phureephat Sottiratanapan](https://PhureephatS.GitHub.io) (6217810014) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/PhureephatS) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/PhureephatS)
     * One-on-One - 27001
     * [DSV - Gpg4win](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Gpg4win/Gpg4win) (#2)
@@ -74,7 +75,7 @@
     * One-on-One - Machine Learning, IDS
     * [V1.6 Cryptographic Architectural Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V1.6-Cryptographic-Architectural-Requirements)
     * [DevSecOps : Integrating Security into DevOps](/2020/MiSSxTalks/PiyawitK.jpg)
-    * [DSV - Python](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Python) (#5)
+    * [DSV - Python](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Python) (#6)
 1. [Sakarin Kaewsathitwong](https://Alfatoxin.GitHub.io) (6217810002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Alfatoxin) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Alfatoxin)
     * One-on-One - MitM
     * [12.5.1 Verify that the web tier is configured to serve only files with specific file extensions to prevent unintentional information and source code leakage](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/12.5-File-Download-Requirements)
@@ -86,6 +87,7 @@
     * One-on-One - Static Analysis, Android, SaaS, SDN
 1. [Soontorn Janphuk](https://freedom357.GitHub.io) (6317660001) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/freedom357) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/freedom357)
     * One-on-One - CTI, SOC
+    * [DSV - phpMyAdmin](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/3-Easy-Steps-to-Verify-The-Digital-Signature--phpMyAdmin-) (#4)
 1. [Suntisuk Thepthong](https://icesuntisuk.GitHub.io) (6217810015) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/icesuntisuk) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/icesuntisuk)
     * One-on-One - SIEM, Security Automation, SOAR
     * [V11-Business-Logic-Verification-Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V11-Business-Logic-Verification-Requirements)
@@ -98,7 +100,7 @@
 1. [Supattra Boonkied](https://SupattraBoonkied.GitHub.io) (6317810003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/SupattraBoonkied) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/SupattraBoonkied)
     * One-on-One - IoT, Blockchain
     * [V10.1 Code Integrity Controls](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V10.1-Code-Integrity-Controls)
-    * [DSV - MySQL](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/MySQL) (#6)
+    * [DSV - MySQL](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/MySQL) (#7)
 1. [Thanakorn Prajuabkamon](https://nongkon09.GitHub.io) (6217810017) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/nongkon09) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/nongkon09)
     * One-on-One - Cloud Security, Misconfiguration 
     * [12.1.1 Verify that the application will not accept large files that could fill up storage or cause a denial of service](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V12.1-File-Upload-Requirements)
@@ -107,7 +109,7 @@
 1. [Theerapong Kanrawong](https://Devtech95.GitHub.io) (6317810002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Devtech95) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Devtech95)
     * One-on-One - RPA
     * [Source Code Escrow](https://gitlab.com/NEIS0736/2020/-/wikis/KBs/Source-code-escrow)
-    * [DSV - PuTTY](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/putty) (#4)
+    * [DSV - PuTTY](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/putty) (#5)
 1. [Vatcharin Kongsakul](https://ryudokung.GitHub.io) (6217810003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ryudokung) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/ryudokun)
     * [Git](/2020/MiSSxTalks/VatcharinK.jpg)
     * One-on-One - IoT PenTest, DevOps, DevSecOps, Agile
@@ -116,6 +118,7 @@
     * T-Shirt Design
     * [How to create a new GitLab page from scratch](https://hyde4thheaven.github.io/How-to-Create-GitLab-Pages/), [https://hyde4thheaven.gitlab.io/profile/](https://hyde4thheaven.gitlab.io/profile/)
     * One-on-One - Smart Contract, Blockchain, Cryptocurrency
+    * [DSV - phpMyAdmin](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/3-Easy-Steps-to-Verify-The-Digital-Signature--phpMyAdmin-) (#4)
 1. [Wasupol Chaisangasilp](https://XserieX.GitHub.io) (6317810014) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/XserieX) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/XserieX)
     * One-on-One - CTI
 
