@@ -41,6 +41,7 @@
     * One-on-One - Automated Testing
     * [V7.1 Log Content Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V7.1-Log-Content-Requirements)
     * [Automated Testing, Robot Framework Will Save the Day!](/2020/MiSSxTalks/HacholD.jpg)
+    * [DSV - MySQL](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/MySQL) (#6)
 1. [Jaray Paensong](https://HiRayShi.GitHub.io) (6317660006) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/HiRayShi) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/HiRayShi)
     * One-on-One - CTF, Gamification
 1. [Jaruspong Tongboon](https://jaruspong4.GitHub.io) (6217810004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/jaruspong4) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/jaruspong4)
@@ -51,6 +52,7 @@
     * [DSV - Python](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Python) (#5)
 1. [Nantawan Sanpukdee](https://fAi00-S.GitHub.io) (6317660003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/fAi00-S) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/fAi00)
     * One-on-One - CII, Forensics, Cybersecurity
+    * [DSV - MySQL](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/MySQL) (#6)
 1. [Narunart Vongeium](https://EITCHY.GitHub.io) (6317810006) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/EITCHY) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/EITCHY)
     * One-on-One - Logging, Log Monitoring
     * [DSV - PuTTy](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/putty) (#4)
@@ -96,6 +98,7 @@
 1. [Supattra Boonkied](https://SupattraBoonkied.GitHub.io) (6317810003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/SupattraBoonkied) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/SupattraBoonkied)
     * One-on-One - IoT, Blockchain
     * [V10.1 Code Integrity Controls](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V10.1-Code-Integrity-Controls)
+    * [DSV - MySQL](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/MySQL) (#6)
 1. [Thanakorn Prajuabkamon](https://nongkon09.GitHub.io) (6217810017) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/nongkon09) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/nongkon09)
     * One-on-One - Cloud Security, Misconfiguration 
     * [12.1.1 Verify that the application will not accept large files that could fill up storage or cause a denial of service](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V12.1-File-Upload-Requirements)
