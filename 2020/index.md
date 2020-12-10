@@ -276,8 +276,8 @@
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day4)** *by **John Doe***
 *  Homework
    * Congratulations Messages \| [The new way to send a farewell\| group card](https://www.groupgreeting.com/)
-      * https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/VuttawatU-congrats-qr-code.png
-      * https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/SaranK-qr-cong.png
+      1. [VuttawatU](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/VuttawatU-congrats-qr-code.png)
+      1. [SaranK](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/SaranK-qr-cong.png)
    * [Web Application Vulnerability Report 2019](https://www.acunetix.com/acunetix-web-application-vulnerability-report-2019/), Acunetix
    * [2020 Web Application Vulnerability Report](https://go.acunetix.com/2020-vulnerability-report), Acunetix
    * [OWASP Top 10 Security Fundamentals](https://codered.eccouncil.org/CourseDetails/owasp-top-10-security-fundamentals), Paulo Silva (14-day **FREE** trial)
