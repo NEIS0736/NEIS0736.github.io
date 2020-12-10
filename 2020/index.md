@@ -287,8 +287,8 @@
       [Theerapong](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Theerapong-qr-code.png),
       [Athiporn](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Athiporn-qr-code.png),
       [Phureephat](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Phureephat.png),
-      [Piyawit](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Piyawit.k-qr-code.png)
-      
+      [Piyawit](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Piyawit.k-qr-code.png),
+      [Thanakorn](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Thanakorn-qr-code.png)
       
       
    * [Web Application Vulnerability Report 2019](https://www.acunetix.com/acunetix-web-application-vulnerability-report-2019/), Acunetix
