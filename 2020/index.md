@@ -275,7 +275,7 @@
 *  [Schema.org](https://schema.org/) is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond.
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day4)** *by **John Doe***
 *  Homework
-   * Encoded Congratulations Message \| [The new way to send a farewell\| group card](https://www.groupgreeting.com/)
+   * Congratulations Messages \| [The new way to send a farewell\| group card](https://www.groupgreeting.com/)
       * https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/VuttawatU-congrats-qr-code.png
       * https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/SaranK-qr-cong.png
    * [Web Application Vulnerability Report 2019](https://www.acunetix.com/acunetix-web-application-vulnerability-report-2019/), Acunetix
