@@ -286,7 +286,8 @@
       [Sanchat](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/sanchat-qr-code.png),
       [Theerapong](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Theerapong-qr-code.png),
       [Athiporn](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Athiporn-qr-code.png),
-      [Phureephat](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Phureephat.png)
+      [Phureephat](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Phureephat.png),
+      [Piyawit](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Piyawit.k-qr-code.png)
       
       
       
