@@ -291,7 +291,7 @@
       [Thanakorn](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Thanakorn-qr-code.png),
       [Jaray](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Jaray-qr-code.png),
       [Ekawut](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Ekawut-qr-code.png)
-      [Anan](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Anan-qr-code.png)
+      [Anan](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Anan-qr-code.jpg)
       
       
    * [Web Application Vulnerability Report 2019](https://www.acunetix.com/acunetix-web-application-vulnerability-report-2019/), Acunetix
