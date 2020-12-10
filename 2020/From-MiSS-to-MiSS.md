@@ -26,7 +26,7 @@
 
 ![](/2020/Congrats/Ekawut-qr-code.png "#NEIS0736, #NECS0736")
 
-![](/2020/Congrats/Anan-qr-code.png "#NEIS0736, #NECS0736")
+![](/2020/Congrats/Anan-qr-code.jpg "#NEIS0736, #NECS0736")
 
 ![](/2020/Congrats/MaykinW.png "#NEIS0736, #NECS0736")
 
