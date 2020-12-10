@@ -278,7 +278,7 @@
    * Congratulations Messages \| [The new way to send a farewell\| group card](https://www.groupgreeting.com/)
       * [Vuttawat](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/VuttawatU-congrats-qr-code.png),
       [Saran](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/SaranK-qr-cong.png),
-      [Bhoomjit](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Bhoomjit.png),
+      [Bhoomjit](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Bhoomjit-qr-code.png),
       [Fareed](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Congrats-Fareed.png)
    * [Web Application Vulnerability Report 2019](https://www.acunetix.com/acunetix-web-application-vulnerability-report-2019/), Acunetix
    * [2020 Web Application Vulnerability Report](https://go.acunetix.com/2020-vulnerability-report), Acunetix
