@@ -85,6 +85,7 @@
     + [DSV - Kali](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Kali) (#3)
 1. [Sanchat Phaisit](https://ph-sanchat.GitHub.io) (6317810015) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ph-sanchat) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/ph-sanchat)
     * [DSV - Apache](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Apache) (#9)
+    + [V2.3-Authenticator-Lifecycle-Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V2.3-Authenticator-Lifecycle-Requirements)
 1. [Saran Kaewnang](https://ahictf.GitHub.io) (6317810007) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ahictf) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/ahictf)
     * One-on-One - VA, PT
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/SaranK-qr-cong.png)
