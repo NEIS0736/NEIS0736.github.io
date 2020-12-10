@@ -290,9 +290,9 @@
       [Piyawit](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Piyawit.k-qr-code.png),
       [Thanakorn](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Thanakorn-qr-code.png),
       [Jaray](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Jaray-qr-code.png),
-      [Ekawut](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Ekawut-qr-code.png)
-      [Anan](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Anan-qr-code.jpg)
-      
+      [Ekawut](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Ekawut-qr-code.png),
+      [Anan](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Anan-qr-code.jpg),
+      [Soontorn](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Soontorn-qr-code-2.png)
       
    * [Web Application Vulnerability Report 2019](https://www.acunetix.com/acunetix-web-application-vulnerability-report-2019/), Acunetix
    * [2020 Web Application Vulnerability Report](https://go.acunetix.com/2020-vulnerability-report), Acunetix
