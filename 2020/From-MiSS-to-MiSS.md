@@ -8,6 +8,8 @@
 
 ![](/2020/Congrats/Bhoomjit-qr-code.png "#NEIS0736, #NECS0736")
 
+![](/2020/Congrats/Congrats-Fareed.png "#NEIS0736, #NECS0736")
+
 ![](/2020/Congrats/MaykinW.png "#NEIS0736, #NECS0736")
 
 ---
