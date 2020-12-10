@@ -122,6 +122,7 @@
     * [How to create a new GitLab page from scratch](https://hyde4thheaven.github.io/How-to-Create-GitLab-Pages/), [https://hyde4thheaven.gitlab.io/profile/](https://hyde4thheaven.gitlab.io/profile/)
     * One-on-One - Smart Contract, Blockchain, Cryptocurrency
     * [DSV - phpMyAdmin](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/3-Easy-Steps-to-Verify-The-Digital-Signature--phpMyAdmin-) (#4)
+    * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/VuttawatU-congrats-qr-code.png)
 1. [Wasupol Chaisangasilp](https://XserieX.GitHub.io) (6317810014) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/XserieX) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/XserieX)
     * One-on-One - CTI
 
@@ -274,6 +275,8 @@
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day4)** *by **John Doe***
 *  Homework
    * Encoded Congratulations Message | [The new way to send a farewell\| group card](https://www.groupgreeting.com/)
+      * https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/VuttawatU-congrats-qr-code.png
+      * 
    * [Web Application Vulnerability Report 2019](https://www.acunetix.com/acunetix-web-application-vulnerability-report-2019/), Acunetix
    * [2020 Web Application Vulnerability Report](https://go.acunetix.com/2020-vulnerability-report), Acunetix
    * [OWASP Top 10 Security Fundamentals](https://codered.eccouncil.org/CourseDetails/owasp-top-10-security-fundamentals), Paulo Silva (14-day **FREE** trial)
