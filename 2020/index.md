@@ -271,8 +271,9 @@
 *  [![](/Assets/ORCID_iD-20x20.png "ORCiD")](https://orcid.org/)
 *  **Client**, **BA**, **Developer** *&* **Code**
 *  **Testable** Security **Requirements**
+*  [Web Application Vulnerability Report 2019](https://www.acunetix.com/acunetix-web-application-vulnerability-report-2019/) vs. [2020 Web Application Vulnerability Report](https://go.acunetix.com/2020-vulnerability-report)
 *  **Test Case**
-*  **Two factor authentication**   
+*  **Two factor authentication**
 *  [Schema.org](https://schema.org/) is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond.
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day4)** *by **John Doe***
 *  Homework
@@ -295,9 +296,7 @@
       [Sakarin](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Sakarin-QR-Code.png),
       [Suntisuk](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Icesuntisuk-qr-code.png)
       
-   * [Web Application Vulnerability Report 2019](https://www.acunetix.com/acunetix-web-application-vulnerability-report-2019/), Acunetix
-   * [2020 Web Application Vulnerability Report](https://go.acunetix.com/2020-vulnerability-report), Acunetix
-   * [OWASP Top 10 Security Fundamentals](https://codered.eccouncil.org/CourseDetails/owasp-top-10-security-fundamentals), Paulo Silva (14-day **FREE** trial)
+    * [OWASP Top 10 Security Fundamentals](https://codered.eccouncil.org/CourseDetails/owasp-top-10-security-fundamentals), Paulo Silva (14-day **FREE** trial)
    * **Two factor authentication** : well known application/services
    * [When **Open Source** Came to Microsoft](https://www.codemag.com/Article/2009041/When-Open-Source-Came-to-Microsoft), [Richard Campbell](https://www.codemag.com/People/Bio/Richard.Campbell)
 
