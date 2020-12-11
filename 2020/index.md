@@ -272,6 +272,7 @@
 *  **Client**, **BA**, **Developer** *&* **Code**
 *  **Testable** Security **Requirements**
 *  **Test Case**
+*  [ISTQB Glossary](https://glossary.istqb.org/en/search/)
 *  [Web Application Vulnerability Report 2019](https://www.acunetix.com/acunetix-web-application-vulnerability-report-2019/) vs. [2020 Web Application Vulnerability Report](https://go.acunetix.com/2020-vulnerability-report)
 *  **Two factor authentication**
 *  [Schema.org](https://schema.org/) is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond.
