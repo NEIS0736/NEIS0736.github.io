@@ -274,7 +274,7 @@
 *  **Test Case**, [ISTQB Glossary](https://glossary.istqb.org/en/search/)
    * [Web Application Vulnerability Report 2019](https://www.acunetix.com/acunetix-web-application-vulnerability-report-2019/)
    * [2020 Web Application Vulnerability Report](https://go.acunetix.com/2020-vulnerability-report)
-   * [Securing Web Application Technologies (SWAT) CHECKLIST](https://www.newnettechnologies.com/posters/sans-securing-web-applications.pdf)
+   * [Securing Web Application Technologies (SWAT) Checklist](https://www.newnettechnologies.com/posters/sans-securing-web-applications.pdf)
 *  Static Application Security Testing (SAST), Source Code Analysis
    * Do not hesitate to ask Khun Nipitpon.
 *  **Two factor authentication**
