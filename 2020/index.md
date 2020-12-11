@@ -300,7 +300,7 @@
       [Sakarin](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Sakarin-QR-Code.png),
       [Suntisuk](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Icesuntisuk-qr-code.png)
       
-    * [OWASP Top 10 Security Fundamentals](https://codered.eccouncil.org/CourseDetails/owasp-top-10-security-fundamentals), Paulo Silva (14-day **FREE** trial)
+   * [OWASP Top 10 Security Fundamentals](https://codered.eccouncil.org/CourseDetails/owasp-top-10-security-fundamentals), Paulo Silva (14-day **FREE** trial)
    * **Two factor authentication** : well known application/services
    * [When **Open Source** Came to Microsoft](https://www.codemag.com/Article/2009041/When-Open-Source-Came-to-Microsoft), [Richard Campbell](https://www.codemag.com/People/Bio/Richard.Campbell)
 
