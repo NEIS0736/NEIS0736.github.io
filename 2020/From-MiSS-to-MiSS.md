@@ -36,7 +36,7 @@
 
 ![](/2020/Congrats/Icesuntisuk-qr-code.png "#NEIS0736, #NECS0736")
 
-![](/2020/Congrats/supattra-qr-code.png "#NEIS0736, #NECS0736")
+![](/2020/Congrats/supattra_qr-code.png "#NEIS0736, #NECS0736")
 
 ![](/2020/Congrats/keaittisak_congrat.png "#NEIS0736, #NECS0736")
 
