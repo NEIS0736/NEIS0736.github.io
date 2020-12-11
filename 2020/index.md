@@ -269,8 +269,8 @@
 *  **MiSS**x***Talks***
    * "**Security Testing**", Khun Jaray Paensong (Ray)
 *  [![](/Assets/ORCID_iD-20x20.png "ORCiD")](https://orcid.org/)
-*  **Testable** Security **Requirements**
 *  **Client**, **BA**, **Developer** *&* **Code**
+*  **Testable** Security **Requirements**
 *  **Test Case**
 *  **Two factor authentication**   
 *  [Schema.org](https://schema.org/) is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond.
