@@ -54,7 +54,7 @@
     * One-on-One - CTF, Gamification
     * [DSV - Apache](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Apache) (#9)
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Jaray-qr-code.png)
-1. [Jaruspong Tongboon](https://jaruspong4.GitHub.io) (6217810004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/jaruspong4) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/jaruspong4) [![](/Assets/ORCID_iD-20x20.png "ORCiD")](https://orcid.org/0000-xxxx-xxxx-xxxx)
+1. [Jaruspong Tongboon](https://jaruspong4.GitHub.io) (6217810004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/jaruspong4) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/jaruspong4)
     * One-on-One - ISMS
     * [V6.1 Data Classification](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V6.1-Data-Classification)
 1. [Keaittisak Luithong](https://keaittisak.GitHub.io) (6317660007) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/keaittisak) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/joker0138) [![](/Assets/ORCID_iD-20x20.png "ORCiD")](https://orcid.org/0000-xxxx-xxxx-xxxx)
