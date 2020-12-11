@@ -457,6 +457,7 @@
 *  Technical Due Diligence
 *  Search vs. Browse
 *  [Amazon Lookout for Vision - Spot product defects using computer vision to automate quality inspection](https://aws.amazon.com/lookout-for-vision/)
+*  Planet earth with visualization of GitHub activity crossing the globe.
 
 ---
 ### [**80-20 Rule**]
