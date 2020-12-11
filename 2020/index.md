@@ -279,7 +279,8 @@
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day4)** *by **John Doe***
 *  Homework
    * Congratulations Messages \| [The new way to send a farewell\| group card](https://www.groupgreeting.com/)
-      * [Vuttawat](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/VuttawatU-congrats-qr-code.png),
+      * 
+      [Vuttawat](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/VuttawatU-congrats-qr-code.png),
       [Saran](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/SaranK-qr-cong.png),
       [Bhoomjit](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Bhoomjit-qr-code.png),
       [Fareed](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Congrats-Fareed.png),
