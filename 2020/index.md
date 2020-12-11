@@ -268,8 +268,6 @@
 ### [**Week 4**] - (Sun) **Dec 13,** 2020
 *  **MiSS**x***Talks***
    * "**Security Testing**", Khun Jaray Paensong (Ray)
-   * *John Doe*
-   * *John Doe*
 *  [![](/Assets/ORCID_iD-20x20.png "ORCiD")](https://orcid.org/)
 *  **Testable** Security **Requirements**
 *  **Client**, **BA**, **Developer** *&* **Code**
