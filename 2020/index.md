@@ -301,7 +301,8 @@
       [Sakarin](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Sakarin-QR-Code.png),
       [Suntisuk](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Icesuntisuk-qr-code.png),
       [Supattra](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/supattra_qr-code.png),
-      [Keaittisak](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/keaittisak_congrat.png)
+      [Keaittisak](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/keaittisak_congrat.png),
+      [Nattapong](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Nattapong-Ketkaew-qr.png)
       
    * [OWASP Top 10 Security Fundamentals](https://codered.eccouncil.org/CourseDetails/owasp-top-10-security-fundamentals), Paulo Silva (14-day **FREE** trial)
    * **Two factor authentication** : well known application/services
