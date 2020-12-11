@@ -271,9 +271,10 @@
    * "**Security Testing**", Khun Jaray Paensong (Ray)
    * *John Doe*
    * *John Doe*
+*  [![](/Assets/ORCID_iD-20x20.png "ORCiD")](https://orcid.org/)
 *  **Testable** Security **Requirements**
 *  **Client**, **BA**, **Developer** *&* **Code**
-*  **Test Case**  
+*  **Test Case**
 *  **Two factor authentication**   
 *  [Schema.org](https://schema.org/) is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond.
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day4)** *by **John Doe***
