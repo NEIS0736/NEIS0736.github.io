@@ -456,7 +456,7 @@
 *  <del>[Data Governance](https://www.dga.or.th/th/profile/2108/)</del>, *claimed by Khun Bhoomjit Bh.*
 *  Source Code **Escrow** Agreement
 *  Technical Due Diligence
-*  Search vs. Browse
+*  <del>Search vs. Browse</del>, *booked by Khun Phureephat S.*
 *  [Amazon Lookout for Vision - Spot product defects using computer vision to automate quality inspection](https://aws.amazon.com/lookout-for-vision/)
 *  Planet earth with visualization of GitHub activity crossing the globe.
 
