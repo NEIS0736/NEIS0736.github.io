@@ -20,39 +20,47 @@
 1. [Anan Boondamnoen](https://AnanBoondamnoen.GitHub.io) (6317810009) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/AnanBoondamnoen) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/AnanBoondamnoen)
     * One-on-One - Sandbox, Malware (behavior) Analysis
     * [DSV - Arduino IDE](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Arduino-IDE) (#8)
+    * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Anan-qr-code.jpg)
 1. [Athiporn Phumnicom](https://AthipornP.GitHub.io) (6217810016) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/AthipornP) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/AthipornP)
     * One-on-One - Authentication, OpenID
     * [V3.4 Cookie based Session Management](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V3.4-Cookie-based-Session-Management)
     * [Keep Calm and Sign your Strong Name Assemblies](/2020/MiSSxTalks/AthipornP.jpg)
     * [DSV - Gpg4win](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Gpg4win/Gpg4win) (#2)
+    * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Athiporn-qr-code.png)
 1. [Bhoomjit Bhoominath](https://peegonggoy.GitHub.io) (6317660004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/peegonggoy) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/peegonggoy)
     * One-on-One - Threat Modeling, Threat Intelligence
     * [V1.1 Secure Software Development Lifecycle Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V1.1-Secure-Software-Development-Lifecycle-Requirements)
     * [Data Governance](https://peegonggoy.github.io/DG/)
     * [DSV - Python](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Python) (#6)
+    * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Bhoomjit-qr-code.png),
 1. [Ekawut Chairat](https://inuax.GitHub.io) (6217660002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/inuax) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/inuax)
     * [Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day1) of Day 1
     * One-on-One - NetDevOps, Automation
     * [V9.1 Client Communications Security Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V9.1-Client-Communications-Security-Requirements)
     * [Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day1) of Day 2
     * [DSV - Notepad++](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/NotepadPP) (#1)
+    * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Ekawut-qr-code.png)
 1. [Fareed Marnleb](https://marukofar.GitHub.io) (6317810012) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/marukofar) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/marukofar)
     * One-on-One - IoT, CASB
     * [DSV - phpMyAdmin](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/3-Easy-Steps-to-Verify-The-Digital-Signature--phpMyAdmin-) (#4)
+    [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Congrats-Fareed.png)
 1. [Hachol Dabthong](https://hacholda.GitHub.io) (6217810010) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/hacholda) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/hacholda)
     * One-on-One - Automated Testing
     * [V7.1 Log Content Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V7.1-Log-Content-Requirements)
     * [Automated Testing, Robot Framework Will Save the Day!](/2020/MiSSxTalks/HacholD.jpg)
     * [DSV - MySQL](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/MySQL) (#7)
+    * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/QRtiger2.png)
 1. [Jaray Paensong](https://HiRayShi.GitHub.io) (6317660006) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/HiRayShi) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/HiRayShi)
     * One-on-One - CTF, Gamification
     * [DSV - Apache](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Apache) (#9)
+    * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Jaray-qr-code.png)
 1. [Jaruspong Tongboon](https://jaruspong4.GitHub.io) (6217810004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/jaruspong4) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/jaruspong4)
     * One-on-One - ISMS
     * [V6.1 Data Classification](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V6.1-Data-Classification)
 1. [Keaittisak Luithong](https://keaittisak.GitHub.io) (6317660007) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/keaittisak) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/joker0138)
     * One-on-One - Penetration Testing, Mobile
     * [DSV - Python](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Python) (#6)
+    * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/keaittisak_congrat.png)
 1. [Nantawan Sanpukdee](https://fAi00-S.GitHub.io) (6317660003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/fAi00-S) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/fAi00)
     * One-on-One - CII, Forensics, Cybersecurity
     * [DSV - MySQL](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/MySQL) (#7)
@@ -62,6 +70,7 @@
 1. [Nattapong Ketkaew](https://nattapong007.GitHub.io) (6317810011) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/nattapong007) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/nattapong007)
     * One-on-One - CTI, Log Monitoring
     * [DSV - Arduino IDE](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Arduino-IDE) (#8)
+    * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Nattapong-Ketkaew-qr.png)
 1. [Nattawut Reungsap](https://omoomomx.GitHub.io) (6217810013) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/omoomomx) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/omoomomx)
     * One-on-One - ISO, 27001 
     * [V4.1 General Access Control Design](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V4.1-General-Access-Control-Design)
@@ -72,6 +81,7 @@
 1. [Phureephat Sottiratanapan](https://PhureephatS.GitHub.io) (6217810014) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/PhureephatS) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/PhureephatS)
     * One-on-One - 27001
     * [DSV - Gpg4win](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Gpg4win/Gpg4win) (#2)
+    * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Phureephat.png)
     * [Search vs. Browse](https://gitlab.com/NEIS0736/2020/-/wikis/KBs/Search-vs-Browse)
 1. [Piyawit Khumkrong](https://EsKoOnG.GitHub.io) (6317810004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/EsKoOnG) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/EsKoOnG)
     * T-Shirt Design
@@ -80,13 +90,16 @@
     * [V1.6 Cryptographic Architectural Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V1.6-Cryptographic-Architectural-Requirements)
     * [DevSecOps : Integrating Security into DevOps](/2020/MiSSxTalks/PiyawitK.jpg)
     * [DSV - Python](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Python) (#6)
+    * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Piyawit.k-qr-code.png)
 1. [Sakarin Kaewsathitwong](https://Alfatoxin.GitHub.io) (6217810002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Alfatoxin) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Alfatoxin)
     * One-on-One - MitM
     * [12.5.1 Verify that the web tier is configured to serve only files with specific file extensions to prevent unintentional information and source code leakage](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/12.5-File-Download-Requirements)
-    + [DSV - Kali](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Kali) (#3)
+    * [DSV - Kali](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Kali) (#3)
+    * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Sakarin-QR-Code.png)
 1. [Sanchat Phaisit](https://ph-sanchat.GitHub.io) (6317810015) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ph-sanchat) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/ph-sanchat)
     * [DSV - Apache](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Apache) (#9)
-    + [V2.3 Authenticator Lifecycle Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V2.3-Authenticator-Lifecycle-Requirements)
+    * [V2.3 Authenticator Lifecycle Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V2.3-Authenticator-Lifecycle-Requirements)
+    * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/sanchat-qr-code.png)
 1. [Saran Kaewnang](https://ahictf.GitHub.io) (6317810007) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ahictf) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/ahictf)
     * One-on-One - VA, PT
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/SaranK-qr-cong.png)
@@ -96,11 +109,13 @@
 1. [Soontorn Janphuk](https://freedom357.GitHub.io) (6317660001) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/freedom357) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/freedom357)
     * One-on-One - CTI, SOC
     * [DSV - phpMyAdmin](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/3-Easy-Steps-to-Verify-The-Digital-Signature--phpMyAdmin-) (#4)
+    * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Soontorn-qr-code-2.png)
 1. [Suntisuk Thepthong](https://icesuntisuk.GitHub.io) (6217810015) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/icesuntisuk) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/icesuntisuk)
     * One-on-One - SIEM, Security Automation, SOAR
     * [V11-Business-Logic-Verification-Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V11-Business-Logic-Verification-Requirements)
     * [Secure Access Service Edge (SASE)](/2020/MiSSxTalks/SuntisukT.jpg)
     * [DSV - Notepad++](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/NotepadPP) (#1)
+    * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Icesuntisuk-qr-code.png)
 1. [Sununta Labaiusuh](https://sununta580.GitHub.io) (6217810009) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/sununta580) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/sununta)
     * One-on-One - Cloud Security, Test bed
     * [V1.7 Errors, Logging and Auditing Architectural Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V1.7-Errors,-Logging-and-Auditing-Architectural-Requirements1)
@@ -109,15 +124,18 @@
     * One-on-One - IoT, Blockchain
     * [V10.1 Code Integrity Controls](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V10.1-Code-Integrity-Controls)
     * [DSV - MySQL](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/MySQL) (#7)
+    * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/supattra_qr-code.png)
 1. [Thanakorn Prajuabkamon](https://nongkon09.GitHub.io) (6217810017) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/nongkon09) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/nongkon09)
     * One-on-One - Cloud Security, Misconfiguration 
     * [12.1.1 Verify that the application will not accept large files that could fill up storage or cause a denial of service](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V12.1-File-Upload-Requirements)
     * [**GitLab** - HTTP Basic: Access denied. You must use a personal access token with 'read_repository' or 'write_repository' scope for Git over HTTP.](https://nongkon09.github.io/Gitlab2factor)
     * [DSV - Notepad++](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/NotepadPP) (#1)
+    * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Thanakorn-qr-code.png)
 1. [Theerapong Kanrawong](https://Devtech95.GitHub.io) (6317810002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Devtech95) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Devtech95)
     * One-on-One - RPA
     * [Source Code Escrow](https://gitlab.com/NEIS0736/2020/-/wikis/KBs/Source-code-escrow)
     * [DSV - PuTTY](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/putty) (#5)
+    * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Theerapong-qr-code.png)
 1. [Vatcharin Kongsakul](https://ryudokung.GitHub.io) (6217810003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ryudokung) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/ryudokun)
     * [Git](/2020/MiSSxTalks/VatcharinK.jpg)
     * One-on-One - IoT PenTest, DevOps, DevSecOps, Agile
