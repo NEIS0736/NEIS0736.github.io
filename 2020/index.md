@@ -320,7 +320,7 @@
 *  [![](/Assets/ORCID_iD-20x20.png "ORCiD")](https://orcid.org/) [https://orcid.org/0000-0001-9855-1676](https://orcid.org/0000-0001-9855-1676)
 *  **Client**, **BA**, **Developer** *&* **Code**
 *  **Testable** Security **Requirements**
-*  **Test Case**, [ISTQB Glossary](https://glossary.istqb.org/en/search/)
+*  **Test Case**, [ISTQB Glossary](https://glossary.istqb.org/en/search/test%20case)
    * [Web Application Vulnerability Report 2019](https://www.acunetix.com/acunetix-web-application-vulnerability-report-2019/)
    * [2020 Web Application Vulnerability Report](https://go.acunetix.com/2020-vulnerability-report)
    * [Securing Web Application Technologies (SWAT) Checklist](https://www.newnettechnologies.com/posters/sans-securing-web-applications.pdf)
