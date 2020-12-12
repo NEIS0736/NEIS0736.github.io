@@ -80,6 +80,7 @@
     * (6317810006) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/EITCHY) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/EITCHY) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-xxxx-xxxx-xxxx")](https://orcid.org/0000-xxxx-xxxx-xxxx)
     * One-on-One - Logging, Log Monitoring
     * [DSV - PuTTY](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/putty) (#5)
+    * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Narunart-qr-code.png)
 1. [Nattapong Ketkaew](https://nattapong007.GitHub.io)
     * (6317810011) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/nattapong007) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/nattapong007) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-xxxx-xxxx-xxxx")](https://orcid.org/0000-xxxx-xxxx-xxxx)
     * One-on-One - CTI, Log Monitoring
@@ -358,7 +359,10 @@
       [Nattapong](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Nattapong-Ketkaew-qr.png),
       [Wasupol](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Conglatulation-Wasupol.png),
       [Vatcharin](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Vatcharin-QR.png),
-      [Nantawan](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Nantawan_qr-code.png)
+      [Nantawan](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Nantawan_qr-code.png),
+      [Narunart](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Narunart-qr-code.png)
+      
+      
       
    * [OWASP Top 10 Security Fundamentals](https://codered.eccouncil.org/CourseDetails/owasp-top-10-security-fundamentals), Paulo Silva (14-day **FREE** trial)
    * **Two factor authentication** : well known application/services
