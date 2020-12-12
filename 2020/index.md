@@ -407,15 +407,11 @@
 ---
 
 ### [**Week 8**] - (Sun) **Jan 24,** 2021
-*  **Man of the Mi.....** Award
-*  **MiSS**x***Talks*** **Special**
+*  **N/A**
 
 ### [**Week 9**] - (Sun) **Jan 31,** 2021
-*  **MiSS**x***Talks***
-   * *John Doe*
-   * *John Doe*
-   * *John Doe*
-*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day9)** *by **John Doe***
+*  **Man of the Mi.....** Award
+*  **MiSS**x***Talks*** **Special**
 
 ### [**Week 10**] - (Sun) **Feb 7,** 2021 *(subjected to change)*
 *  **MiSS**x***Talks***
