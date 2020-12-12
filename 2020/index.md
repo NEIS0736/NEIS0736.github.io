@@ -166,7 +166,8 @@
     * (6217810003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ryudokung) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/ryudokun) [![](/Assets/ORCID_iD-20x20.png "ORCiD")](https://orcid.org/0000-xxxx-xxxx-xxxx)
     * [MiSSxTalks - Git](/2020/MiSSxTalks/VatcharinK.jpg)
     * One-on-One - IoT PenTest, DevOps, DevSecOps, Agile
-    + [DSV - Kali](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Kali) (#3)
+    * [DSV - Kali](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Kali) (#3)
+    * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Vatcharin-QR.png)
 1. [Vuttawat Uyanont](https://Hyde4thHeaven.GitHub.io)
     * (6317810001) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Hyde4thHeaven) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Hyde4thHeaven) [![](/Assets/ORCID_iD-20x20.png "ORCiD")](https://orcid.org/0000-xxxx-xxxx-xxxx)
     * T-Shirt Design
@@ -353,7 +354,8 @@
       [Supattra](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/supattra_qr-code.png),
       [Keaittisak](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/keaittisak_congrat.png),
       [Nattapong](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Nattapong-Ketkaew-qr.png),
-      [Wasupol](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Conglatulation-Wasupol.png)
+      [Wasupol](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Conglatulation-Wasupol.png),
+      [Vatcharin](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Vatcharin-QR.png)
       
    * [OWASP Top 10 Security Fundamentals](https://codered.eccouncil.org/CourseDetails/owasp-top-10-security-fundamentals), Paulo Silva (14-day **FREE** trial)
    * **Two factor authentication** : well known application/services
