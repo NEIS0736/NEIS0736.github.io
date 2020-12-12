@@ -45,7 +45,7 @@
     * [DSV - Notepad++](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/NotepadPP) (#1)
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Ekawut-qr-code.png)
 1. [Fareed Marnleb](https://marukofar.GitHub.io)
-    * (6317810012) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/marukofar) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/marukofar) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-xxxx-xxxx-xxxx")](https://orcid.org/0000-xxxx-xxxx-xxxx)
+    * (6317810012) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/marukofar) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/marukofar) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-6769-7453")](https://orcid.org/0000-0001-6769-7453)
     * One-on-One - IoT, CASB
     * [DSV - phpMyAdmin](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/3-Easy-Steps-to-Verify-The-Digital-Signature--phpMyAdmin-) (#4)
     [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Congrats-Fareed.png)
