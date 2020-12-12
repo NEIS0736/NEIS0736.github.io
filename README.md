@@ -1,4 +1,4 @@
-## [#NEIS0736](https://www.google.com/search?q=NEIS0736) #NECS0736 [#SoftwareSecurity](https://www.google.com/search?q=Software+Security) [#SwSec](https://www.google.com/search?q=SwSec)
+## [#NEIS0736](https://www.google.com/search?q=NEIS0736) [#NECS0736](https://www.google.com/search?q=NECS0736) [#SoftwareSecurity](https://www.google.com/search?q=Software+Security) [#SwSec](https://www.google.com/search?q=SwSec)
 
 [[**2020**](2020)] - Lecture & recitation, 1 session/week, 3 hours/session
 * Time : **9:00 - 12:00** (*Sun*)
