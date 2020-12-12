@@ -189,7 +189,7 @@
 ### **[MiSS**x***Talks*]** (2 chances) 
 * [**Book**](https://docs.google.com/spreadsheets/d/1NBZyw19XSU4rv0BdW0LQ2KAnSXwAGk1odZ9KhA6fbNc) your time slot
 * (Sun) **Dec 13,** 2020
-    * Slot A: **"Security Testing"**, Khun Jaray Paensong (**Ray**)
+    * Slot A: **"SQL Injection, the well-known vulnerability ever."**, Khun Jaray Paensong (**Ray**)
 * (Sun) **Dec 20,** 2020 *(subjected to change)*
     * Slot A: **"Static Application Security Testing"**, Khun Nipitpon Doungyai (**Geno**)
     * Slot B: **"Dynamic Application Security Testing"**,	Khun Saran Kaewnang (**GOLF**)
@@ -321,7 +321,7 @@
 
 ### [**Week 4**] - (Sun) **Dec 13,** 2020
 *  **MiSS**x***Talks***
-   * "**Security Testing**", Khun Jaray Paensong (Ray)
+   * "**SQL Injection, the well-known vulnerability ever**", Khun Jaray Paensong (Ray)
 *  [![](/Assets/ORCID_iD-20x20.png "ORCiD")](https://orcid.org/) [https://orcid.org/0000-0001-9855-1676](https://orcid.org/0000-0001-9855-1676)
 *  **Client**, **BA**, **Developer** *&* **Code**
 *  **Testable** Security **Requirements**
