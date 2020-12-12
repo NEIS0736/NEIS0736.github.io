@@ -177,6 +177,7 @@
 1. [Wasupol Chaisangasilp](https://XserieX.GitHub.io)
     * (6317810014) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/XserieX) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/XserieX) [![](/Assets/ORCID_iD-20x20.png "ORCiD")](https://orcid.org/0000-xxxx-xxxx-xxxx)
     * One-on-One - CTI
+    * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Conglatulation-Wasupol.png)
 
 ---
 
@@ -350,7 +351,8 @@
       [Suntisuk](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Icesuntisuk-qr-code.png),
       [Supattra](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/supattra_qr-code.png),
       [Keaittisak](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/keaittisak_congrat.png),
-      [Nattapong](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Nattapong-Ketkaew-qr.png)
+      [Nattapong](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Nattapong-Ketkaew-qr.png),
+      [Wasupol](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Conglatulation-Wasupol.png)
       
    * [OWASP Top 10 Security Fundamentals](https://codered.eccouncil.org/CourseDetails/owasp-top-10-security-fundamentals), Paulo Silva (14-day **FREE** trial)
    * **Two factor authentication** : well known application/services
