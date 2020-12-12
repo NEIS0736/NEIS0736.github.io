@@ -53,7 +53,7 @@
     * (6217810010) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/hacholda) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/hacholda) [![](/Assets/ORCID_iD-20x20.png "ORCiD")](https://orcid.org/0000-xxxx-xxxx-xxxx)
     * One-on-One - Automated Testing
     * [V7.1 Log Content Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V7.1-Log-Content-Requirements)
-    * [Automated Testing, Robot Framework Will Save the Day!](/2020/MiSSxTalks/HacholD.jpg)
+    * [MiSSxTalks - Automated Testing, Robot Framework Will Save the Day!](/2020/MiSSxTalks/HacholD.jpg)
     * [DSV - MySQL](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/MySQL) (#7)
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/QRtiger2.png)
 1. [Jaray Paensong](https://HiRayShi.GitHub.io)
@@ -104,7 +104,7 @@
     * [Warning: line endings have changed from ‘LF’ to ‘CRLF’](https://eskoong.github.io/eol)
     * One-on-One - Machine Learning, IDS
     * [V1.6 Cryptographic Architectural Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V1.6-Cryptographic-Architectural-Requirements)
-    * [DevSecOps : Integrating Security into DevOps](/2020/MiSSxTalks/PiyawitK.jpg)
+    * [MiSSxTalks - DevSecOps : Integrating Security into DevOps](/2020/MiSSxTalks/PiyawitK.jpg)
     * [DSV - Python](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Python) (#6)
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Piyawit.k-qr-code.png)
 1. [Sakarin Kaewsathitwong](https://Alfatoxin.GitHub.io)
@@ -135,7 +135,7 @@
     * (6217810015) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/icesuntisuk) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/icesuntisuk) [![](/Assets/ORCID_iD-20x20.png "ORCiD")](https://orcid.org/0000-xxxx-xxxx-xxxx)
     * One-on-One - SIEM, Security Automation, SOAR
     * [V11-Business-Logic-Verification-Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V11-Business-Logic-Verification-Requirements)
-    * [Secure Access Service Edge (SASE)](/2020/MiSSxTalks/SuntisukT.jpg)
+    * [MiSSxTalks - Secure Access Service Edge (SASE)](/2020/MiSSxTalks/SuntisukT.jpg)
     * [DSV - Notepad++](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/NotepadPP) (#1)
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Icesuntisuk-qr-code.png)
 1. [Sununta Labaiusuh](https://sununta580.GitHub.io)
@@ -164,7 +164,7 @@
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Theerapong-qr-code.png)
 1. [Vatcharin Kongsakul](https://ryudokung.GitHub.io)
     * (6217810003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ryudokung) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/ryudokun) [![](/Assets/ORCID_iD-20x20.png "ORCiD")](https://orcid.org/0000-xxxx-xxxx-xxxx)
-    * [Git](/2020/MiSSxTalks/VatcharinK.jpg)
+    * [MiSSxTalks - Git](/2020/MiSSxTalks/VatcharinK.jpg)
     * One-on-One - IoT PenTest, DevOps, DevSecOps, Agile
     + [DSV - Kali](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Kali) (#3)
 1. [Vuttawat Uyanont](https://Hyde4thHeaven.GitHub.io)
