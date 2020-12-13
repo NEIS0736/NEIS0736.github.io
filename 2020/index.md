@@ -261,8 +261,6 @@
 
 ### **[MiSS**x***Talks*]** (2 chances) 
 * [**Book**](https://docs.google.com/spreadsheets/d/1NBZyw19XSU4rv0BdW0LQ2KAnSXwAGk1odZ9KhA6fbNc) your time slot
-* (Sun) **Dec 13,** 2020
-    * Slot A: **"SQL Injection, the well-known vulnerability ever."**, Khun Jaray Paensong (**Ray**)
 * (Sun) **Dec 20,** 2020 *(subjected to change)*
     * Slot A: **"Static Application Security Testing"**, Khun Nipitpon Doungyai (**Geno**)
     * Slot B: **"Dynamic Application Security Testing"**,	Khun Saran Kaewnang (**GOLF**)
@@ -300,6 +298,8 @@
         * **"Automated Testing, Robot Framework Will Save the Day!"**, Khun Hachol Dabthong (**Chon**)
         * **"Keep Calm and Sign your Strong Name Assemblies"**, Khun Athiporn Phumnicom (**Beam**)
         * **"Secure Access Service Edge (SASE)"**, Khun Suntisuk Thepthong (**IceSuntisuk**)
+    * (Sun) **Dec 13,** 2020
+        * **"SQL Injection, the well-known vulnerability ever."**, Khun Jaray Paensong (**Ray**)
         
 ---
 
