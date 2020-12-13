@@ -557,7 +557,7 @@
 *  What is a (computing/digital) **platform**?
 *  **ar·chi·tec·ture** /ˈärkəˌtek(t)SHər/
 *  <del>[Data Governance](https://www.dga.or.th/th/profile/2108/)</del>, *claimed by Khun Bhoomjit Bh.*
-*  Source Code **Escrow** Agreement
+*  <del>Source Code **Escrow** Agreement</del>, claimed by Khun Theerapong K.
 *  <del>Technical Due Diligence</del>, *booked by Khun Shirassuda T.*
 *  <del>Search vs. Browse</del>, *claimed by Khun Phureephat S.*
 *  [Amazon Lookout for Vision - Spot product defects using computer vision to automate quality inspection](https://aws.amazon.com/lookout-for-vision/)
