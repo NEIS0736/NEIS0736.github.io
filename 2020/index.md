@@ -265,13 +265,13 @@
 ### **[MiSS**x***Talks*]** (2 chances) 
 * [**Book**](https://docs.google.com/spreadsheets/d/1NBZyw19XSU4rv0BdW0LQ2KAnSXwAGk1odZ9KhA6fbNc) your time slot
 * (Sun) **Dec 20,** 2020 *(subjected to change)*
-    * Slot B: **"Dynamic Application Security Testing"**,	Khun Saran Kaewnang (**GOLF**)
-    * Slot C: **"System acquisition, development and maintenance in ISO27001"**, Khun Nantawan Sanpukdee (**Fai**)
+    * Slot A: **"System acquisition, development and maintenance in ISO27001"**, Khun Nantawan Sanpukdee 
+    * <del>Slot B: **"Dynamic Application Security Testing"**,	Khun Saran Kaewnang (**GOLF**)</del>(**Fai**)
 * (Sun) **Dec 27,** 2020
-    * Slot A: **"Static Application Security Testing"**, Khun Nipitpon Doungyai (**Geno**)
     * Slot A: **"Cyber-physical System"**, Khun Keaittisak Luithong (**Joke**)
     * Slot B: **"Threat Modeling, The first step towards security in SDLC"**, Khun Bhoomjit Bhoominath (**Luck**)
     * Slot C: **"TBD"**, Khun Theerapong Kanrawong (**Pong**)
+    * Slot D: **"Static Application Security Testing"**, Khun Nipitpon Doungyai (**Geno**)
 * (Sun) **Jan 3,** 2021 *(subjected to change)*
     * Slot A: **"Blockchain and Smart Contract"**,	Khun Vuttawat Uyanont (**Palm**)
     * Slot B: ???
@@ -401,14 +401,6 @@
 *  **Client**, **BA**, **Developer** *&* **Code**
 *  [**Testable** Security **Requirements**](https://docs.google.com/document/d/1cSDcWqEIRgchNIMJ8XMc4VpjaG-7WOC7hQnSpWswiKA)
 *  **Test Case**, [ISTQB Glossary](https://glossary.istqb.org/en/search/test%20case)
-   * [Web Application Vulnerability Report 2019](https://www.acunetix.com/acunetix-web-application-vulnerability-report-2019/)
-   * [2020 Web Application Vulnerability Report](https://go.acunetix.com/2020-vulnerability-report)
-   * [Securing Web Application Technologies (SWAT) Checklist](https://www.newnettechnologies.com/posters/sans-securing-web-applications.pdf)
-*  Static Application Security Testing (SAST), Source Code Analysis
-   * [#HereWeFix](https://www.google.com/search?q=%23HereWeFix&rlz=1C9BKJA_enTH873TH874&hl=en-US&prmd=mivn&source=lnms&tbm=isch&sa=X&ved=2ahUKEwim0qX2ysftAhXyzzgGHbpwBl0Q_AUoAnoECAQQAg&biw=834&bih=997&dpr=2)
-   * Do not hesitate to ask Khun Nipitpon.
-*  **Two factor authentication**
-*  [Schema.org](https://schema.org/) is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond.
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day4)** *by **John Doe***
 *  Homework
    * Congratulations Messages \| [The new way to send a farewell\| group card](https://www.groupgreeting.com/)
@@ -439,21 +431,26 @@
       [Narunart](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Narunart-qr-code.png),
       [Nipitpon](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/QR-nipitpon.png)
       
-   * [OWASP Top 10 Security Fundamentals](https://codered.eccouncil.org/CourseDetails/owasp-top-10-security-fundamentals), Paulo Silva (14-day **FREE** trial)
-   * **Two factor authentication** : well known application/services
-   * [When **Open Source** Came to Microsoft](https://www.codemag.com/Article/2009041/When-Open-Source-Came-to-Microsoft), [Richard Campbell](https://www.codemag.com/People/Bio/Richard.Campbell)
-
 ### [**Week 5**] - (Sun) **Dec 20,** 2020 *(subjected to change)*
 *  **MiSS**x***Talks***
-   * *John Doe*
-   * *John Doe*
-   * *John Doe*
+   * **"System acquisition, development and maintenance in ISO27001"**, Khun Nantawan Sanpukdee
+* [Web Application Vulnerability Report 2019](https://www.acunetix.com/acunetix-web-application-vulnerability-report-2019/) | [2020 Web Application Vulnerability Report](https://go.acunetix.com/2020-vulnerability-report) | [Securing Web Application Technologies (SWAT) Checklist](https://www.newnettechnologies.com/posters/sans-securing-web-applications.pdf)
+
+<!--*  Static Application Security Testing (SAST), Source Code Analysis
+   * [#HereWeFix](https://www.google.com/search?q=%23HereWeFix&rlz=1C9BKJA_enTH873TH874&hl=en-US&prmd=mivn&source=lnms&tbm=isch&sa=X&ved=2ahUKEwim0qX2ysftAhXyzzgGHbpwBl0Q_AUoAnoECAQQAg&biw=834&bih=997&dpr=2)
+   * Do not hesitate to ask Khun Nipitpon.-->
+   
+*  **Two factor authentication**
+*  [Schema.org](https://schema.org/) is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond.
 *  Twitter : **Login Alert**
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day5)** *by **John Doe***
 *  Say Congratz to ...
 *  Homework
    * **Alert** : well known application/services
    * Prep. for the Moments of **Celebration & Sharing**
+   * [OWASP Top 10 Security Fundamentals](https://codered.eccouncil.org/CourseDetails/owasp-top-10-security-fundamentals), Paulo Silva (14-day **FREE** trial)
+   * **Two factor authentication** : well known application/services
+   * [When **Open Source** Came to Microsoft](https://www.codemag.com/Article/2009041/When-Open-Source-Came-to-Microsoft), [Richard Campbell](https://www.codemag.com/People/Bio/Richard.Campbell)
 
 ### [**Week 6**] - (Sun) **Dec 27,** 2020
 *  X'Mas Aftermath: Moments of **Celebration & Sharing**
