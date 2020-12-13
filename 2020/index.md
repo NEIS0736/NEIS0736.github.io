@@ -108,6 +108,7 @@
     * One-on-One - Logging, Log Monitoring
     * [DSV - PuTTY](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/putty) (#5)
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Narunart-qr-code.png)
+    * [TC : Log Protection](https://devtech95.github.io/testcase-log-Protection)
     
 <a name="Nattapong"></a>
 1. [Nattapong Ketkaew](https://nattapong007.GitHub.io)
@@ -233,6 +234,7 @@
     * [Source Code Escrow](https://gitlab.com/NEIS0736/2020/-/wikis/KBs/Source-code-escrow)
     * [DSV - PuTTY](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/putty) (#5)
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Theerapong-qr-code.png)
+    * [TC : Log Protection](https://devtech95.github.io/testcase-log-Protection)
     
 <a name="Vatcharin"></a>
 1. [Vatcharin Kongsakul](https://ryudokung.GitHub.io)
@@ -263,10 +265,10 @@
 ### **[MiSS**x***Talks*]** (2 chances) 
 * [**Book**](https://docs.google.com/spreadsheets/d/1NBZyw19XSU4rv0BdW0LQ2KAnSXwAGk1odZ9KhA6fbNc) your time slot
 * (Sun) **Dec 20,** 2020 *(subjected to change)*
-    * Slot A: **"Static Application Security Testing"**, Khun Nipitpon Doungyai (**Geno**)
     * Slot B: **"Dynamic Application Security Testing"**,	Khun Saran Kaewnang (**GOLF**)
     * Slot C: **"System acquisition, development and maintenance in ISO27001"**, Khun Nantawan Sanpukdee (**Fai**)
 * (Sun) **Dec 27,** 2020
+    * Slot A: **"Static Application Security Testing"**, Khun Nipitpon Doungyai (**Geno**)
     * Slot A: **"Cyber-physical System"**, Khun Keaittisak Luithong (**Joke**)
     * Slot B: **"Threat Modeling, The first step towards security in SDLC"**, Khun Bhoomjit Bhoominath (**Luck**)
     * Slot C: **"TBD"**, Khun Theerapong Kanrawong (**Pong**)
