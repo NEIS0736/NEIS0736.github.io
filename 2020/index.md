@@ -35,7 +35,8 @@
     * [V1.1 Secure Software Development Lifecycle Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V1.1-Secure-Software-Development-Lifecycle-Requirements)
     * [Data Governance](https://peegonggoy.github.io/DG/)
     * [DSV - Python](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Python) (#6)
-    * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Bhoomjit-qr-code.png),
+    * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Bhoomjit-qr-code.png)
+    * [TC : Data Encryption](https://eskoong.github.io/encryption_test_case)
 1. [Ekawut Chairat](https://inuax.GitHub.io)
     * (6217660002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/inuax) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/inuax) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-9674-9627")](https://orcid.org/0000-0002-9674-9627)
     * [Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day1) of Day 1
@@ -113,6 +114,7 @@
     * [MiSSxTalks - DevSecOps : Integrating Security into DevOps](/2020/MiSSxTalks/PiyawitK.jpg)
     * [DSV - Python](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Python) (#6)
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Piyawit.k-qr-code.png)
+    * [TC : Data Encryption](https://eskoong.github.io/encryption_test_case)
 1. [Sakarin Kaewsathitwong](https://Alfatoxin.GitHub.io)
     * (6217810002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Alfatoxin) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Alfatoxin) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-0519-6925")](https://orcid.org/0000-0002-0519-6925)
     * One-on-One - MitM
