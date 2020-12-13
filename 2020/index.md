@@ -92,7 +92,7 @@
     * [V4.1 General Access Control Design](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V4.1-General-Access-Control-Design)
     + [DSV - Kali](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Kali) (#3)
 1. [Nipitpon Doungyai](https://itsGno.GitHub.io)
-    * (6317810008) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/itsGno) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/itsGno) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-xxxx-xxxx-xxxx")](https://orcid.org/0000-xxxx-xxxx-xxxx)
+    * (6317810008) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/itsGno) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/itsGno) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-1681-1126")](https://orcid.org/0000-0003-1681-1126)
     * One-on-One - VA, PT
     * [DSV - PuTTY](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/putty) (#5)
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/QR-nipitpon.png)
