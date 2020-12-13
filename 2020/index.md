@@ -142,6 +142,7 @@
     * One-on-One - Static Analysis, Android, SaaS, SDN
     * [DSV - Arduino IDE](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Arduino-IDE) (#8)
     * [V2.5 Credential Recovery Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V2.5-Credential-Recovery-Requirements)
+    * [TC : File Upload](https://nongkon09.github.io/file_upload_requirement_testcase)
 1. [Soontorn Janphuk](https://freedom357.GitHub.io)
     * (6317660001) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/freedom357) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/freedom357) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-0858-412X")](https://orcid.org/0000-0003-0858-412X)
     * One-on-One - CTI, SOC
@@ -154,6 +155,7 @@
     * [MiSSxTalks - Secure Access Service Edge (SASE)](/2020/MiSSxTalks/SuntisukT.jpg)
     * [DSV - Notepad++](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/NotepadPP) (#1)
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Icesuntisuk-qr-code.png)
+    * [TC : File Upload](https://nongkon09.github.io/file_upload_requirement_testcase)
 1. [Sununta Labaiusuh](https://sununta580.GitHub.io)
     * (6217810009) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/sununta580) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/sununta)
     * One-on-One - Cloud Security, Test bed
@@ -173,6 +175,7 @@
     * [**GitLab** - HTTP Basic: Access denied. You must use a personal access token with 'read_repository' or 'write_repository' scope for Git over HTTP.](https://nongkon09.github.io/Gitlab2factor)
     * [DSV - Notepad++](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/NotepadPP) (#1)
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Thanakorn-qr-code.png)
+    * [TC : File Upload](https://nongkon09.github.io/file_upload_requirement_testcase)
 1. [Theerapong Kanrawong](https://Devtech95.GitHub.io)
     * (6317810002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Devtech95) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Devtech95) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-6704-9069")](https://orcid.org/0000-0001-6704-9069)
     * One-on-One - RPA
