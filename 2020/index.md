@@ -137,7 +137,7 @@
     * [DSV - phpMyAdmin](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/3-Easy-Steps-to-Verify-The-Digital-Signature--phpMyAdmin-) (#4)
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Soontorn-qr-code-2.png)
 1. [Suntisuk Thepthong](https://icesuntisuk.GitHub.io)
-    * (6217810015) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/icesuntisuk) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/icesuntisuk) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-xxxx-xxxx-xxxx")](https://orcid.org/0000-xxxx-xxxx-xxxx)
+    * (6217810015) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/icesuntisuk) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/icesuntisuk) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-5528-6005")](https://orcid.org/0000-0002-5528-6005)
     * One-on-One - SIEM, Security Automation, SOAR
     * [V11-Business-Logic-Verification-Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V11-Business-Logic-Verification-Requirements)
     * [MiSSxTalks - Secure Access Service Edge (SASE)](/2020/MiSSxTalks/SuntisukT.jpg)
