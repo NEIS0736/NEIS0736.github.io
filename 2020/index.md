@@ -103,7 +103,7 @@
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Phureephat.png)
     * [Search vs. Browse](https://gitlab.com/NEIS0736/2020/-/wikis/KBs/Search-vs-Browse)
 1. [Piyawit Khumkrong](https://EsKoOnG.GitHub.io)
-    * (6317810004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/EsKoOnG) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/EsKoOnG) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-xxxx-xxxx-xxxx")](https://orcid.org/0000-xxxx-xxxx-xxxx)
+    * (6317810004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/EsKoOnG) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/EsKoOnG) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-5527-0233")](https://orcid.org/0000-0001-5527-0233)
     * T-Shirt Design
     * [Warning: line endings have changed from ‘LF’ to ‘CRLF’](https://eskoong.github.io/eol)
     * One-on-One - Machine Learning, IDS
