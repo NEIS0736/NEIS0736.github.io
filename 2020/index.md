@@ -48,7 +48,8 @@
     * (6317810012) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/marukofar) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/marukofar) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-6769-7453")](https://orcid.org/0000-0001-6769-7453)
     * One-on-One - IoT, CASB
     * [DSV - phpMyAdmin](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/3-Easy-Steps-to-Verify-The-Digital-Signature--phpMyAdmin-) (#4)
-    [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Congrats-Fareed.png)
+    * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Congrats-Fareed.png)
+    * [TC : E-Mail Validation](https://marukofar.github.io/Test-Case-Email-Validation)
 1. [Hachol Dabthong](https://hacholda.GitHub.io)
     * (6217810010) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/hacholda) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/hacholda) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-7028-3742")](https://orcid.org/0000-0002-7028-3742)
     * One-on-One - Automated Testing
@@ -181,6 +182,7 @@
     * One-on-One - Smart Contract, Blockchain, Cryptocurrency
     * [DSV - phpMyAdmin](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/3-Easy-Steps-to-Verify-The-Digital-Signature--phpMyAdmin-) (#4)
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/VuttawatU-congrats-qr-code.png)
+    * [TC : E-Mail Validation](https://marukofar.github.io/Test-Case-Email-Validation)
 1. [Wasupol Chaisangasilp](https://XserieX.GitHub.io)
     * (6317810014) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/XserieX) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/XserieX) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-7315-4049")](https://orcid.org/0000-0002-7315-4049)
     * One-on-One - CTI
