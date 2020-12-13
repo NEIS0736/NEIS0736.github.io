@@ -301,8 +301,7 @@
     1. 15:15 - 15:30 : [Khun Suntisuk Thepthong](OneOnOne/SuntisukT.jpg)
     1. Dec 1 (Eve) : [Khun Nantawan Sanpukdee](OneOnOne/NantawanS.jpg) (***Starbucks** at Central Ladprao*)
     1. Dec 1 (Eve) : [Khun Nattapong Ketkaew](OneOnOne/NattapongK.jpg) (***Starbucks** at Central Ladprao*)
-    
-    1. Dec 13 (8:30) : Khun Sanchat Phaisit
+    1. Dec 13 (8:30) : [Khun Sanchat Phaisit](OneOnOne/SanchatP.jpg)
 
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day2)** *by **Ekawut Chairat***
 
