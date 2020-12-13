@@ -124,11 +124,11 @@
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/sanchat-qr-code.png)
     * One-on-One - Phishing, ISO27001, Chemistry
 1. [Saran Kaewnang](https://ahictf.GitHub.io)
-    * (6317810007) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ahictf) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/ahictf) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-xxxx-xxxx-xxxx")](https://orcid.org/0000-xxxx-xxxx-xxxx)
+    * (6317810007) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ahictf) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/ahictf) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-1885-5448 ")](https://orcid.org/0000-0003-1885-5448)
     * One-on-One - VA, PT
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/SaranK-qr-cong.png)
 1. [Shirassuda Thongpakdhi](http://MyGitHubNEIS0736.github.io)
-    * (6117810017) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/MyGitHubNEIS0736) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/MyGitHubNEIS0736) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-xxxx-xxxx-xxxx")](https://orcid.org/0000-xxxx-xxxx-xxxx)
+    * (6117810017) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/MyGitHubNEIS0736) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/MyGitHubNEIS0736) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-8272-0161")](https://orcid.org/0000-0002-8272-0161)
     * One-on-One - Static Analysis, Android, SaaS, SDN
     * [DSV - Arduino IDE](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Arduino-IDE) (#8)
 1. [Soontorn Janphuk](https://freedom357.GitHub.io)
