@@ -172,6 +172,7 @@
 1. [Soontorn Janphuk](https://freedom357.GitHub.io)
     * (6317660001) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/freedom357) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/freedom357) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-0858-412X")](https://orcid.org/0000-0003-0858-412X)
     * One-on-One - CTI, SOC
+    * [V1.2 Authentication Architectural Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V1.2-Authentication-Architectural-Requirements)
     * [DSV - phpMyAdmin](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/3-Easy-Steps-to-Verify-The-Digital-Signature--phpMyAdmin-) (#4)
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Soontorn-qr-code-2.png)
     * [TC : Authentication Architectural](https://ananboondamnoen.github.io/Authentication_Architectural_Requirements_TestCase)
