@@ -130,6 +130,7 @@
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Phureephat.png)
     * [Search vs. Browse](https://gitlab.com/NEIS0736/2020/-/wikis/KBs/Search-vs-Browse)
     * [TC : Cookie Expires Session](https://phureephats.github.io/cookietestcase)
+    * [V12.2 File Integrity Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V12.2-File-Integrity-Requirements)
 <a name="Piyawit"></a>
 1. [Piyawit Khumkrong](https://EsKoOnG.GitHub.io)
     * (6317810004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/EsKoOnG) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/EsKoOnG) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-5527-0233")](https://orcid.org/0000-0001-5527-0233)
