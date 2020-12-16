@@ -156,6 +156,7 @@
     * [V2.3 Authenticator Lifecycle Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V2.3-Authenticator-Lifecycle-Requirements)
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/sanchat-qr-code.png)
     * One-on-One - Phishing, ISO27001, Chemistry
+    * [TC : Authenticator Lifecycle](https://ph-sanchat.github.io/Authenticator-Lifecycle)
 <a name="Saran"></a>
 1. [Saran Kaewnang](https://ahictf.GitHub.io)
     * (6317810007) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ahictf) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/ahictf) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-1885-5448 ")](https://orcid.org/0000-0003-1885-5448)
@@ -238,6 +239,7 @@
     * (6317810014) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/XserieX) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/XserieX) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-7315-4049")](https://orcid.org/0000-0002-7315-4049)
     * One-on-One - CTI
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Conglatulation-Wasupol.png)
+    * [TC : Authenticator Lifecycle](https://ph-sanchat.github.io/Authenticator-Lifecycle)
 
 ---
 
