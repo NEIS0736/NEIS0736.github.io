@@ -569,6 +569,7 @@
 *  <del>Search vs. Browse</del>, *claimed by Khun Phureephat S.*
 *  [Amazon Lookout for Vision - Spot product defects using computer vision to automate quality inspection](https://aws.amazon.com/lookout-for-vision/)
 *  Planet earth with visualization of GitHub activity crossing the globe.
+*  10 Cool Error Messages
 
 ---
 ### [**80-20 Rule**]
