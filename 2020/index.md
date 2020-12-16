@@ -571,6 +571,7 @@
 *  [Amazon Lookout for Vision - Spot product defects using computer vision to automate quality inspection](https://aws.amazon.com/lookout-for-vision/)
 *  <del>Planet earth with visualization of GitHub activity crossing the globe</del>, *claimed by Khun Piyawit K.*
 *  10 Cool Error/Warning Messages
+*  Static Site Generators - SSGs
 
 ---
 ### [**80-20 Rule**]
