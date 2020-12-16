@@ -142,6 +142,7 @@
     * [DSV - Python](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Python) (#6)
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Piyawit.k-qr-code.png)
     * [TC : Data Encryption](https://eskoong.github.io/encryption_test_case)
+    * [Planet earth with visualization of GitHub activity crossing the globe](https://eskoong.github.io/cyber-threat-map)
 <a name="Sakarin"></a>
 1. [Sakarin Kaewsathitwong](https://Alfatoxin.GitHub.io)
     * (6217810002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Alfatoxin) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Alfatoxin) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-0519-6925")](https://orcid.org/0000-0002-0519-6925)
@@ -568,7 +569,7 @@
 *  <del>Technical Due Diligence</del>, *booked by Khun Shirassuda T.*
 *  <del>Search vs. Browse</del>, *claimed by Khun Phureephat S.*
 *  [Amazon Lookout for Vision - Spot product defects using computer vision to automate quality inspection](https://aws.amazon.com/lookout-for-vision/)
-*  Planet earth with visualization of GitHub activity crossing the globe.
+*  <del>Planet earth with visualization of GitHub activity crossing the globe</del>, *claimed by Khun Piyawit K.*
 *  10 Cool Error Messages
 
 ---
