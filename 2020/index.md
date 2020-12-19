@@ -6,7 +6,7 @@
 * [**MiSS**x***Talks***](#missxtalks-2-chances)
 * [**MiSS**x***Talks*** *Special*](https://docs.google.com/spreadsheets/d/1ZDCi1u_o0zAcjdhWipQv1CjWG6IRNOfgj9ogIgq1AFM) : **Jan 31, 2021** *(Confirmed)*
 * **[One-on-One](#OneOnOne)** Assessment : **Nov 29**, 2020
-* [Week 1](#week-1---sun-nov-22-2020), [Week 2](#week-2---sun-nov-29-2020), [Week 3](#week-3---sun-dec-6-2020), [Week 4](#week-4---sun-dec-13-2020), [Week 5](#week-5---sun-dec-20-2020-subjected-to-change), [Week 6](#week-6---sun-dec-27-2020), [Week 7](#week-7---sun-jan-3-2021-subjected-to-change) and [Semi-final Exam](#semi-final-examination)
+* [Week 1](#week-1---sun-nov-22-2020), [Week 2](#week-2---sun-nov-29-2020), [Week 3](#week-3---sun-dec-6-2020), [Week 4](#week-4---sun-dec-13-2020), [Week 5](#week-5---sun-dec-20-2020), [Week 6](#week-6---sun-dec-27-2020), [Week 7](#week-7---sun-jan-3-2021-subjected-to-change) and [Semi-final Exam](#semi-final-examination)
 * [Week 8](#week-8---sun-jan-24-2021), [Week 9](#week-9---sun-jan-31-2021), [Week 10](#week-10---sun-feb-7-2021-subjected-to-change), [Week 11](#week-11---sun-feb-14-2021), [Week 12](#week-12---sun-feb-21-2021), [Week 13](#week-13---sun-feb-28-2021), [Week 14](#week-14---sun-mar-7-2021), [Week 15](#week-15---sun-mar-14-2021) and [Final Exam](#final-examination---lec)
 * [Extra Point](#extra-point)
 * [7 (not 11) Groups](https://docs.google.com/spreadsheets/d/1UIOmHYdnGpVccp6i9bH2QgDPePinBAY5D5RklpE38V4)
@@ -415,7 +415,7 @@
       [Narunart](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Narunart-qr-code.png),
       [Nipitpon](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/QR-nipitpon.png)
       
-### [**Week 5**] - (Sun) **Dec 20,** 2020 *(subjected to change)*
+### [**Week 5**] - (Sun) **Dec 20,** 2020
 *  **MiSS**x***Talks***
    * **"System acquisition, development and maintenance in ISO27001"**, Khun Nantawan Sanpukdee
 * [Web Application Vulnerability Report 2019](https://www.acunetix.com/acunetix-web-application-vulnerability-report-2019/) \| [2020 Web Application Vulnerability Report](https://go.acunetix.com/2020-vulnerability-report) \| [Securing Web Application Technologies (SWAT) Checklist](https://www.newnettechnologies.com/posters/sans-securing-web-applications.pdf)
