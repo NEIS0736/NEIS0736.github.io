@@ -448,8 +448,8 @@
 
 ### [**Week 7**] - (Sun) **Jan 3,** 2021 *(subjected to change)*
 *  **MiSS**x***Talks***
-   * **"Blockchain and Smart Contract"**,	Khun Vuttawat Uyanont (Palm)
-   * *John Doe*
+   * **"Blockchain and Smart Contract"**, Khun Vuttawat Uyanont (Palm)
+   * **"SQL Injection"**, Khun Supattra & Khun Jaray
    * *John Doe*
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day7)** *by **John Doe***
 
