@@ -419,7 +419,8 @@
 *  **MiSS**x***Talks***
    * **"System acquisition, development and maintenance in ISO27001"**, Khun Nantawan Sanpukdee
 * [Web Application Vulnerability Report 2019](https://www.acunetix.com/acunetix-web-application-vulnerability-report-2019/) \| [2020 Web Application Vulnerability Report](https://go.acunetix.com/2020-vulnerability-report) \| [Securing Web Application Technologies (SWAT) Checklist](https://www.newnettechnologies.com/posters/sans-securing-web-applications.pdf)
-<!--*  Static Application Security Testing (SAST), Source Code Analysis
+
+<!-- * Static Application Security Testing (SAST), Source Code Analysis
    * [#HereWeFix](https://www.google.com/search?q=%23HereWeFix&rlz=1C9BKJA_enTH873TH874&hl=en-US&prmd=mivn&source=lnms&tbm=isch&sa=X&ved=2ahUKEwim0qX2ysftAhXyzzgGHbpwBl0Q_AUoAnoECAQQAg&biw=834&bih=997&dpr=2)
    * Do not hesitate to ask Khun Nipitpon.-->
 *  **Empathy**
