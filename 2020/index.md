@@ -44,6 +44,7 @@
     * [DSV - Python](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Python) (#6)
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Bhoomjit-qr-code.png)
     * [TC : Data Encryption](https://eskoong.github.io/encryption_test_case)
+    * [V-Key](https://eskoong.github.io/2FA-with-V-Key)
 <a name="Ekawut"></a>
 1. [Ekawut Chairat](https://inuax.GitHub.io)
     * (6217660002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/inuax) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/inuax) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-9674-9627")](https://orcid.org/0000-0002-9674-9627)
@@ -108,12 +109,14 @@
     * [DSV - PuTTY](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/putty) (#5)
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Narunart-qr-code.png)
     * [TC : Log Protection](https://devtech95.github.io/testcase-log-Protection)
+    * [Outlook](https://eitchy.github.io/Outlook_2_Factor_Authentication)
 <a name="Nattapong"></a>
 1. [Nattapong Ketkaew](https://nattapong007.GitHub.io)
     * (6317810011) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/nattapong007) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/nattapong007) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-xxxx-xxxx-xxxx")](https://orcid.org/0000-xxxx-xxxx-xxxx)
     * One-on-One - CTI, Log Monitoring
     * [DSV - Arduino IDE](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Arduino-IDE) (#8)
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Nattapong-Ketkaew-qr.png)
+    * [Outlook](https://eitchy.github.io/Outlook_2_Factor_Authentication)
 <a name="Nattawut"></a>
 1. [Nattawut Reungsap](https://omoomomx.GitHub.io)
     * (6217810013) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/omoomomx) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/omoomomx) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-6578-6583")](https://orcid.org/0000-0001-6578-6583)
@@ -151,6 +154,7 @@
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Piyawit.k-qr-code.png)
     * [TC : Data Encryption](https://eskoong.github.io/encryption_test_case)
     * [Planet earth with visualization of GitHub activity crossing the globe](https://eskoong.github.io/cyber-threat-map)
+    * [V-Key](https://eskoong.github.io/2FA-with-V-Key)
 <a name="Sakarin"></a>
 1. [Sakarin Kaewsathitwong](https://Alfatoxin.GitHub.io)
     * (6217810002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Alfatoxin) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Alfatoxin) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-0519-6925")](https://orcid.org/0000-0002-0519-6925)
