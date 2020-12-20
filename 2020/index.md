@@ -26,6 +26,7 @@
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Anan-qr-code.jpg)
     * [TC : Authentication Architectural](https://ananboondamnoen.github.io/Authentication_Architectural_Requirements_TestCase)
     * [V3.5 Token-based Session Management](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V3.5-Token-based-Session-Management)
+    * [Google](https://ananboondamnoen.github.io/Google_two_factor_authentication)
 <a name="Athiporn"></a>
 1. [Athiporn Phumnicom](https://AthipornP.GitHub.io)
     * (6217810016) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/AthipornP) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/AthipornP) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-0532-3733")](https://orcid.org/0000-0003-0532-3733)
@@ -195,6 +196,7 @@
     * [DSV - phpMyAdmin](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/3-Easy-Steps-to-Verify-The-Digital-Signature--phpMyAdmin-) (#4)
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Soontorn-qr-code-2.png)
     * [TC : Authentication Architectural](https://ananboondamnoen.github.io/Authentication_Architectural_Requirements_TestCase)
+    * [Google](https://ananboondamnoen.github.io/Google_two_factor_authentication)
 <a name="Suntisuk"></a>
 1. [Suntisuk Thepthong](https://icesuntisuk.GitHub.io)
     * (6217810015) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/icesuntisuk) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/icesuntisuk) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-5528-6005")](https://orcid.org/0000-0002-5528-6005)
