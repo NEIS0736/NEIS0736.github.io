@@ -116,6 +116,7 @@
     * [V4.1 General Access Control Design](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V4.1-General-Access-Control-Design)
     * [DSV - Kali](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Kali) (#3)
     * [TC : Authorization of the server resource](https://omoomomx.github.io/AuthorizationTestCase)
+    * [Firefox](https://omoomomx.github.io/FirefoxTwoFactorAuthentication)
 <a name="Nipitpon"></a>
 1. [Nipitpon Doungyai](https://itsGno.GitHub.io)
     * (6317810008) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/itsGno) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/itsGno) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-1681-1126")](https://orcid.org/0000-0003-1681-1126)
@@ -174,6 +175,7 @@
     * [DSV - Arduino IDE](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Arduino-IDE) (#8)
     * [V2.5 Credential Recovery Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V2.5-Credential-Recovery-Requirements)
     * [TC : File Upload](https://nongkon09.github.io/file_upload_requirement_testcase)
+    * [Firefox](https://omoomomx.github.io/FirefoxTwoFactorAuthentication)
 <a name="Soontorn"></a>
 1. [Soontorn Janphuk](https://freedom357.GitHub.io)
     * (6317660001) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/freedom357) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/freedom357) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-0858-412X")](https://orcid.org/0000-0003-0858-412X)
