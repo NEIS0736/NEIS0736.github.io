@@ -54,6 +54,7 @@
     * [DSV - Notepad++](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/NotepadPP) (#1)
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Ekawut-qr-code.png)
     * [TC : Log Content](https://inuax.github.io/Testcase-Log_Content_Requirements)
+    * [Microsoft](https://inuax.github.io/MicrosoftAuthenticator)
 <a name="Fareed"></a>
 1. [Fareed Marnleb](https://marukofar.GitHub.io)
     * (6317810012) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/marukofar) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/marukofar) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-6769-7453")](https://orcid.org/0000-0001-6769-7453)
@@ -71,6 +72,7 @@
     * [DSV - MySQL](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/MySQL) (#7)
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/QRtiger2.png)
     * [TC : Log Content](https://inuax.github.io/Testcase-Log_Content_Requirements)
+    * [Microsoft](https://inuax.github.io/MicrosoftAuthenticator)
 <a name="Jaray"></a>
 1. [Jaray Paensong](https://HiRayShi.GitHub.io)
     * (6317660006) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/HiRayShi) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/HiRayShi) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-4654-9157")](https://orcid.org/0000-0003-4654-9157)
