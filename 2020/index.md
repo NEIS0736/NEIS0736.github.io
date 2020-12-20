@@ -216,6 +216,7 @@
     * [DSV - Notepad++](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/NotepadPP) (#1)
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Thanakorn-qr-code.png)
     * [TC : File Upload](https://nongkon09.github.io/file_upload_requirement_testcase)
+    * [GitLab](https://nongkon09.github.io/GitlabEnable2FactorAuthentication)
 <a name="Theerapong"></a>
 1. [Theerapong Kanrawong](https://Devtech95.GitHub.io)
     * (6317810002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Devtech95) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Devtech95) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-6704-9069")](https://orcid.org/0000-0001-6704-9069)
@@ -231,6 +232,7 @@
     * One-on-One - IoT PenTest, DevOps, DevSecOps, Agile
     * [DSV - Kali](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Kali) (#3)
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Vatcharin-QR.png)
+    * [GitLab](https://nongkon09.github.io/GitlabEnable2FactorAuthentication)
 <a name="Vuttawat"></a>
 1. [Vuttawat Uyanont](https://Hyde4thHeaven.GitHub.io)
     * (6317810001) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Hyde4thHeaven) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Hyde4thHeaven) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-xxxx-xxxx-xxxx")](https://orcid.org/0000-xxxx-xxxx-xxxx)
