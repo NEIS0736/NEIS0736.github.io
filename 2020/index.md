@@ -81,6 +81,7 @@
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Jaray-qr-code.png)
     * [V2.2 General Authenticator Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V2.2-General-Authenticator-Requirements)
     * [SQL Injection, the well-known vulnerability ever (Part I)](/2020/MiSSxTalks/JarayP.jpg)
+    * [Twitter](https://marukofar.github.io/Twitter-Two-factor-authentication)
 <a name="Jaruspong"></a>
 1. [Jaruspong Tongboon](https://jaruspong4.GitHub.io)
     * (6217810004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/jaruspong4) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/jaruspong4)
@@ -188,7 +189,6 @@
     * [DSV - phpMyAdmin](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/3-Easy-Steps-to-Verify-The-Digital-Signature--phpMyAdmin-) (#4)
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Soontorn-qr-code-2.png)
     * [TC : Authentication Architectural](https://ananboondamnoen.github.io/Authentication_Architectural_Requirements_TestCase)
-    * [Twitter](https://marukofar.github.io/Twitter-Two-factor-authentication)
 <a name="Suntisuk"></a>
 1. [Suntisuk Thepthong](https://icesuntisuk.GitHub.io)
     * (6217810015) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/icesuntisuk) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/icesuntisuk) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-5528-6005")](https://orcid.org/0000-0002-5528-6005)
