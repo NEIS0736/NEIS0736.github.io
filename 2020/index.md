@@ -444,17 +444,17 @@
 ### [**Week 5**] - (Sun) **Dec 20,** 2020
 *  **MiSS**x***Talks***
    * **"System acquisition, development and maintenance in ISO27001"**, Khun Nantawan Sanpukdee
-* [Web Application Vulnerability Report 2019](https://www.acunetix.com/acunetix-web-application-vulnerability-report-2019/) \| [2020 Web Application Vulnerability Report](https://go.acunetix.com/2020-vulnerability-report) \| [Securing Web Application Technologies (SWAT) Checklist](https://www.newnettechnologies.com/posters/sans-securing-web-applications.pdf)
 
 <!-- * Static Application Security Testing (SAST), Source Code Analysis
-   * [#HereWeFix](https://www.google.com/search?q=%23HereWeFix&rlz=1C9BKJA_enTH873TH874&hl=en-US&prmd=mivn&source=lnms&tbm=isch&sa=X&ved=2ahUKEwim0qX2ysftAhXyzzgGHbpwBl0Q_AUoAnoECAQQAg&biw=834&bih=997&dpr=2)
-   * Do not hesitate to ask Khun Nipitpon.
-    *  [Schema.org](https://schema.org/) is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond.
-*  Twitter : **Login Alert**
-   * **Alert** : well known application/services
-   * Prep. for the Moments of **Celebration & Sharing**
-   * [OWASP Top 10 Security Fundamentals](https://codered.eccouncil.org/CourseDetails/owasp-top-10-security-fundamentals), Paulo Silva (14-day **FREE** trial)
-   * [When **Open Source** Came to Microsoft](https://www.codemag.com/Article/2009041/When-Open-Source-Came-to-Microsoft), [Richard Campbell](https://www.codemag.com/People/Bio/Richard.Campbell)
+    * [Web Application Vulnerability Report 2019](https://www.acunetix.com/acunetix-web-application-vulnerability-report-2019/) \| [2020 Web Application Vulnerability Report](https://go.acunetix.com/2020-vulnerability-report) \| [Securing Web Application Technologies (SWAT) Checklist](https://www.newnettechnologies.com/posters/sans-securing-web-applications.pdf)
+    * [#HereWeFix](https://www.google.com/search?q=%23HereWeFix&rlz=1C9BKJA_enTH873TH874&hl=en-US&prmd=mivn&source=lnms&tbm=isch&sa=X&ved=2ahUKEwim0qX2ysftAhXyzzgGHbpwBl0Q_AUoAnoECAQQAg&biw=834&bih=997&dpr=2)
+    * Do not hesitate to ask Khun Nipitpon.
+    * [Schema.org](https://schema.org/) is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond.
+    *  Twitter : **Login Alert**
+    * **Alert** : well known application/services
+    * Prep. for the Moments of **Celebration & Sharing**
+    * [OWASP Top 10 Security Fundamentals](https://codered.eccouncil.org/CourseDetails/owasp-top-10-security-fundamentals), Paulo Silva (14-day **FREE** trial)
+    * [When **Open Source** Came to Microsoft](https://www.codemag.com/Article/2009041/When-Open-Source-Came-to-Microsoft), [Richard Campbell](https://www.codemag.com/People/Bio/Richard.Campbell)
 -->
 
 *  **Empathy**
