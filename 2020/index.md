@@ -442,7 +442,8 @@
       [Nattawut](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Nattawut-qr-code.png)
       
 ### [**Week 5**] - (Sun) **Dec 20,** 2020
-*  **MiSS**x***Talks***
+*  **MNR Room**, Q Building
+*  **MiSS**x***Talks*** 
    * **"System acquisition, development and maintenance in ISO27001"**, Khun Nantawan Sanpukdee
 *  **Empathy**
    * Congrats Msg, TC
