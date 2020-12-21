@@ -597,6 +597,7 @@
 *  <del>Planet earth with visualization of GitHub activity crossing the globe</del>, *claimed by Khun Piyawit K.*
 *  10 Cool Error/Warning Messages
 *  <del>Static Site Generators - SSGs</del>, claimed by Khun Phureephat S.*
+*  Introspectable tunnels to localhost
 
 ---
 ### [**80-20 Rule**]
