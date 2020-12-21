@@ -466,6 +466,7 @@
 -->
 
 ### [**Week 6**] - (Sun) **Dec 27,** 2020
+*  **Online** ***(due to COVID-19)***
 *  X'Mas Aftermath: Moments of **Celebration & Sharing**
 *  [The **Twelve Factors**](https://12factor.net/) ([ไทย](https://12factor.net/th/))
 *  **MiSS**x***Talks***
@@ -475,6 +476,7 @@
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day6)** *by **John Doe***
 
 ### [**Week 7**] - (Sun) **Jan 3,** 2021
+*  **Online** ***(due to COVID-19)***
 *  **MiSS**x***Talks***
    * **"Blockchain and Smart Contract"**, Khun Vuttawat Uyanont (Palm)
    * **"SQL Injection"**, Khun Supattra & Khun Jaray
