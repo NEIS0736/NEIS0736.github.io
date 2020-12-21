@@ -410,7 +410,7 @@
 *  **Client**, **BA**, **Developer** *&* **Code** (**Tic-Tac-Toe**)
 *  [**Testable** Security **Requirements**](https://docs.google.com/document/d/1cSDcWqEIRgchNIMJ8XMc4VpjaG-7WOC7hQnSpWswiKA)
 *  **Test Case**, [ISTQB Glossary](https://glossary.istqb.org/en/search/test%20case)
-*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day4)** *by **John Doe***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day4)** *by **Jaray Paensong***
 *  Homework
    * Congratulations Messages \| [The new way to send a farewell\| group card](https://www.groupgreeting.com/)
       * 
@@ -448,20 +448,21 @@
 
 <!-- * Static Application Security Testing (SAST), Source Code Analysis
    * [#HereWeFix](https://www.google.com/search?q=%23HereWeFix&rlz=1C9BKJA_enTH873TH874&hl=en-US&prmd=mivn&source=lnms&tbm=isch&sa=X&ved=2ahUKEwim0qX2ysftAhXyzzgGHbpwBl0Q_AUoAnoECAQQAg&biw=834&bih=997&dpr=2)
-   * Do not hesitate to ask Khun Nipitpon.-->
-*  **Empathy**
-   * Congrats Msg, TC
-*  **Two factor authentication**
-*  [Schema.org](https://schema.org/) is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond.
+   * Do not hesitate to ask Khun Nipitpon.
+    *  [Schema.org](https://schema.org/) is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond.
 *  Twitter : **Login Alert**
-*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day5)** *by **John Doe***
-*  Say Congratz to ...
-*  Homework
    * **Alert** : well known application/services
    * Prep. for the Moments of **Celebration & Sharing**
    * [OWASP Top 10 Security Fundamentals](https://codered.eccouncil.org/CourseDetails/owasp-top-10-security-fundamentals), Paulo Silva (14-day **FREE** trial)
-   * **Two factor authentication** : well known application/services
    * [When **Open Source** Came to Microsoft](https://www.codemag.com/Article/2009041/When-Open-Source-Came-to-Microsoft), [Richard Campbell](https://www.codemag.com/People/Bio/Richard.Campbell)
+-->
+
+*  **Empathy**
+   * Congrats Msg, TC
+*  **Two factor authentication**
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day5)** *by **Nantawan Sanpukdee***
+*  Homework
+   * **Two factor authentication** : well known application/services
 
 ### [**Week 6**] - (Sun) **Dec 27,** 2020
 *  X'Mas Aftermath: Moments of **Celebration & Sharing**
