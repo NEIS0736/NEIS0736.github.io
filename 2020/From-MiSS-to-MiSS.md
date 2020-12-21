@@ -52,6 +52,8 @@
 
 ![](/2020/Congrats/QR-nipitpon.png "#NEIS0736, #NECS0736")
 
+![](/2020/Congrats/Nattawut-qr-code.png "#NEIS0736, #NECS0736")
+
 ![](/2020/Congrats/MaykinW.png "#NEIS0736, #NECS0736")
 
 ---

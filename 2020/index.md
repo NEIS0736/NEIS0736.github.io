@@ -438,7 +438,8 @@
       [Vatcharin](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Vatcharin-QR.png),
       [Nantawan](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Nantawan_qr-code.png),
       [Narunart](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Narunart-qr-code.png),
-      [Nipitpon](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/QR-nipitpon.png)
+      [Nipitpon](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/QR-nipitpon.png),
+      [Nattawut](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Nattawut-qr-code.png)
       
 ### [**Week 5**] - (Sun) **Dec 20,** 2020
 *  **MiSS**x***Talks***
