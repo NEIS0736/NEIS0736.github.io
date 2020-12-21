@@ -444,6 +444,13 @@
 ### [**Week 5**] - (Sun) **Dec 20,** 2020
 *  **MiSS**x***Talks***
    * **"System acquisition, development and maintenance in ISO27001"**, Khun Nantawan Sanpukdee
+*  **Empathy**
+   * Congrats Msg, TC
+*  **Two factor authentication**
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day5)** *by **Nantawan Sanpukdee***
+*  Homework
+   * **Two factor authentication** : well known application/services
+
 
 <!-- * Static Application Security Testing (SAST), Source Code Analysis
     * [Web Application Vulnerability Report 2019](https://www.acunetix.com/acunetix-web-application-vulnerability-report-2019/) \| [2020 Web Application Vulnerability Report](https://go.acunetix.com/2020-vulnerability-report) \| [Securing Web Application Technologies (SWAT) Checklist](https://www.newnettechnologies.com/posters/sans-securing-web-applications.pdf)
@@ -456,13 +463,6 @@
     * [OWASP Top 10 Security Fundamentals](https://codered.eccouncil.org/CourseDetails/owasp-top-10-security-fundamentals), Paulo Silva (14-day **FREE** trial)
     * [When **Open Source** Came to Microsoft](https://www.codemag.com/Article/2009041/When-Open-Source-Came-to-Microsoft), [Richard Campbell](https://www.codemag.com/People/Bio/Richard.Campbell)
 -->
-
-*  **Empathy**
-   * Congrats Msg, TC
-*  **Two factor authentication**
-*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day5)** *by **Nantawan Sanpukdee***
-*  Homework
-   * **Two factor authentication** : well known application/services
 
 ### [**Week 6**] - (Sun) **Dec 27,** 2020
 *  X'Mas Aftermath: Moments of **Celebration & Sharing**
