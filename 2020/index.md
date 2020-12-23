@@ -274,9 +274,6 @@
 
 ### **[MiSS**x***Talks*]** (2 chances) 
 * [**Book**](https://docs.google.com/spreadsheets/d/1NBZyw19XSU4rv0BdW0LQ2KAnSXwAGk1odZ9KhA6fbNc) your time slot
-* (Sun) **Dec 20,** 2020 *(subjected to change)*
-    * Slot A: **"System acquisition, development and maintenance in ISO27001"**, Khun Nantawan Sanpukdee 
-    * <del>Slot B: **"Dynamic Application Security Testing"**,	Khun Saran Kaewnang (**GOLF**)</del>(**Fai**)
 * (Sun) **Dec 27,** 2020
     * Slot A: **"Cyber-physical System"**, Khun Keaittisak Luithong (**Joke**)
     * Slot B: **"Threat Modeling, The first step towards security in SDLC"**, Khun Bhoomjit Bhoominath (**Luck**)
@@ -312,6 +309,9 @@
         * **"Secure Access Service Edge (SASE)"**, Khun Suntisuk Thepthong (**IceSuntisuk**)
     * (Sun) **Dec 13,** 2020
         * **"SQL Injection, the well-known vulnerability ever."**, Khun Jaray Paensong (**Ray**)
+    * (Sun) **Dec 20,** 2020
+        * **"System acquisition, development and maintenance in ISO27001"**, Khun Nantawan Sanpukdee (**Fai**)
+
         
 ---
 
@@ -468,7 +468,6 @@
 ### [**Week 6**] - (Sun) **Dec 27,** 2020
 *  **Online** ***(due to COVID-19)***
 *  X'Mas Aftermath: Moments of **Celebration & Sharing**
-*  [The **Twelve Factors**](https://12factor.net/) ([ไทย](https://12factor.net/th/))
 *  **MiSS**x***Talks***
    * *John Doe*
    * **"Threat Modeling to Explore Threats and Countermeasures"**, Khun Bhoomjit Bhoominath (Luck)
@@ -481,6 +480,7 @@
    * **"Blockchain and Smart Contract"**, Khun Vuttawat Uyanont (Palm)
    * **"SQL Injection"**, Khun Supattra & Khun Jaray
    * *John Doe*
+*  [The **Twelve Factors**](https://12factor.net/) ([ไทย](https://12factor.net/th/))
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day7)** *by **John Doe***
 
 ---
