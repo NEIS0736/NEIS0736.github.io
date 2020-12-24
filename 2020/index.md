@@ -608,7 +608,7 @@
 *  <del>Static Site Generators - SSGs</del>, claimed by Khun Phureephat S.*
 *  Introspectable tunnels to localhost
 *  [Distributed Load Testing on AWS](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-distributed-load-testing-v1-2/)
-*  [Homomorphic Encryption](https://www.ibm.com/security/services/homomorphic-encryption)
+*  [Homomorphic Encryption: Unlock value of sensitive data without decryption](https://www.ibm.com/security/digital-assets/fhe/unlock-value-of-sensitive-data-without-decryption/)
 
 ---
 ### [**80-20 Rule**]
