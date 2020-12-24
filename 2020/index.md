@@ -610,6 +610,7 @@
 *  Introspectable tunnels to localhost
 *  [Distributed Load Testing on AWS](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-distributed-load-testing-v1-2/)
 *  [Homomorphic Encryption: Unlock value of sensitive data without decryption](https://www.ibm.com/security/digital-assets/fhe/unlock-value-of-sensitive-data-without-decryption/)
+*  Software Supply-Chain Attack
 
 ---
 ### [**80-20 Rule**]
