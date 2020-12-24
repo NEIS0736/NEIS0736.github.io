@@ -107,6 +107,7 @@
     * [DSV - MySQL](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/MySQL) (#7)
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Nantawan_qr-code.png)
     * [TC : Login Authentication Limits](https://supattraboonkied.github.io/Login-Authentication-Limits)
+    * [MiSSxTalks - System acquisition, development and maintenance in ISO27001](/2020/MiSSxTalks/NantawanS.jpg)
     * [Instagram](https://fai00-s.github.io/Instagram)
 <a name="Narunart"></a>
 1. [Narunart Vongeium](https://EITCHY.GitHub.io)
