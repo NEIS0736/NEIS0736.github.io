@@ -487,6 +487,7 @@
 
 ### [**Semi-final Examination**]
 *  **Jan [10\|17], 2021 (AM)**
+*  [Keybase](https://keybase.io/) will save your day :)
 *  *Openbook (2 hours) + live debugging (1 Hour)*
 *  *Controlled environment (w/o communication devices)*
 *  Take the exam at the **same time**, **one item at a time**.
