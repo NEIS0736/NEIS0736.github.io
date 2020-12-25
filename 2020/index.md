@@ -409,6 +409,7 @@
    * "**SQL Injection, the well-known vulnerability ever**", Khun Jaray Paensong (Ray)
 *  [![](/Assets/ORCID_iD-20x20.png "ORCiD")](https://orcid.org/) [https://orcid.org/0000-0001-9855-1676](https://orcid.org/0000-0001-9855-1676)
 *  **Client**, **BA**, **Developer** *&* **Code** (**Tic-Tac-Toe**)
+*  [No bug is hard to catch with team work.](https://twitter.com/techindustan/status/1293464689133813760)
 *  [**Testable** Security **Requirements**](https://docs.google.com/document/d/1cSDcWqEIRgchNIMJ8XMc4VpjaG-7WOC7hQnSpWswiKA)
 *  **Test Case**, [ISTQB Glossary](https://glossary.istqb.org/en/search/test%20case)
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day4)** *by **Jaray Paensong***
