@@ -327,8 +327,9 @@
 *  **Course introduction**
     *  **Ground rules** (created and agreed by the people participating in the **1<sup>st</sup>** session)
     *  **Grading statistic &** [**policy**](#grading-policy)
+*  [**Git** - Why the Gauntlet didn't work?](https://twitter.com/techindustan/status/1144236458221420544)
 *  **MiSS**x***Talks***
-   * *Khun* **Vatcharin K.**
+    *  *Khun* **Vatcharin K.**
 *  **KEEP CALM** and **FUN with Git**
     *  **Bio**graphy
 *  **MiSS**x***Talks*** 
