@@ -613,6 +613,7 @@
 *  [Homomorphic Encryption: Unlock value of sensitive data without decryption](https://www.ibm.com/security/digital-assets/fhe/unlock-value-of-sensitive-data-without-decryption/)
 *  Software Supply-Chain Attack
 *  Golden SAML
+*  Zero Trust : Identity
 
 ---
 ### [**80-20 Rule**]
