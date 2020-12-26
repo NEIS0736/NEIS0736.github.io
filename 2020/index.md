@@ -473,7 +473,8 @@
 *  **Online** ***(due to COVID-19)***
    * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
    * [WinSCP](https://winscp.net/eng/download.php)
-   * [File](https://drive.google.com/drive/folders/1Qsz8NXA67WIJZ17mF_XH4LMqQ0C2KeJ3?usp=sharing) ***Ask for access***
+   * [#HereWeFix](https://drive.google.com/drive/folders/1Qsz8NXA67WIJZ17mF_XH4LMqQ0C2KeJ3?usp=sharing)
+   * [NetBeans](https://netbeans.org/downloads/8.2/rc/)
 *  X'Mas Aftermath: Moments of **Celebration & Sharing**
 *  **MiSS**x***Talks***
    * *John Doe*
