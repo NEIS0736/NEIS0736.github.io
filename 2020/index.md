@@ -482,7 +482,7 @@
 *  **Online** ***(due to COVID-19)***
    * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
    * [WinSCP](https://winscp.net/eng/download.php)
-   * [File](https://drive.google.com/drive/folders/1Qsz8NXA67WIJZ17mF_XH4LMqQ0C2KeJ3?usp=sharing)
+   * [File](https://drive.google.com/drive/folders/1Qsz8NXA67WIJZ17mF_XH4LMqQ0C2KeJ3?usp=sharing) ***Ask for access***
 *  **MiSS**x***Talks***
    * **"Blockchain and Smart Contract"**, Khun Vuttawat Uyanont (Palm)
    * **"SQL Injection"**, Khun Supattra & Khun Jaray
