@@ -500,7 +500,7 @@
    * *John Doe*
    * **"Threat Modeling to Explore Threats and Countermeasures"**, Khun Bhoomjit Bhoominath (Luck)
    * *John Doe*
-*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day6)** *by **John Doe***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day6)**
 
 ### [**Week 7**] - (Sun) **Jan 3,** 2021
 *  **Online** ***(due to COVID-19)***
