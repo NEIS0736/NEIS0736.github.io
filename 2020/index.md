@@ -485,7 +485,8 @@
    * PHP Code Injection - Athiporn / Phureephat
    * XSS - Reflected (PHP_SELF) - Thanakorn / Ekawut
    * SQL Injection (POST/Search) - Nantawan / Vuttawat
-   * Password Attacks - Theerapong / Narunart 
+   * Password Attacks - Theerapong / Narunart
+   * SQL Injection (GET/Select) - Shirassuda 
 *  X'Mas Aftermath: Moments of **Celebration & Sharing**
 *  **MiSS**x***Talks***
    * *John Doe*
