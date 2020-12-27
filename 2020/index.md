@@ -493,7 +493,7 @@
    * SQL Injection (POST/Search) - Nantawan / Vuttawat
    * Password Attacks - Theerapong / Narunart
    * SQL Injection (GET/Select) - Shirassuda
-   * LDAP Injection (Search) - Hachol / Nattawut
+   * XSS Reflex(JSON) - Hachol / Nattawut
    * SQL Injection - Blind - Time-Based - Anan / Soontorn
    * Unrestricted File Upload - Sanchat / Wasupol
    * SQL Injection (POST/Select) - Nattapong
