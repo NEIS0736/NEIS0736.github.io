@@ -172,6 +172,7 @@
     * [DSV - Kali](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Kali) (#3)
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Sakarin-QR-Code.png)
     * [GitHub](https://icesuntisuk.github.io/KB/2factorauthGitHub)
+    * [XSS- Reflected(GET)](https://icesuntisuk.github.io/KB/xss-reflected-get)
 <a name="Sanchat"></a>
 1. [Sanchat Phaisit](https://ph-sanchat.GitHub.io)
     * (6317810015) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ph-sanchat) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/ph-sanchat) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-4707-179X")](https://orcid.org/0000-0003-4707-179X) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/sanchatphaisit)
@@ -214,6 +215,7 @@
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Icesuntisuk-qr-code.png)
     * [TC : File Upload](https://nongkon09.github.io/file_upload_requirement_testcase)
     * [GitHub](https://icesuntisuk.github.io/KB/2factorauthGitHub)
+    * [XSS- Reflected(GET)](https://icesuntisuk.github.io/KB/xss-reflected-get)
 <a name="Sununta"></a>
 1. [Sununta Labaiusuh](https://sununta580.GitHub.io)
     * (6217810009) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/sununta580) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/sununta)
