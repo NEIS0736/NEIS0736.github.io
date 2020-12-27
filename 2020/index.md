@@ -140,6 +140,7 @@
     * [DSV - PuTTY](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/putty) (#5)
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/QR-nipitpon.png)
     * [TC : XSS](https://ahictf.github.io/xsstestcase/)
+    * [SQL Injection (GET/Search)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/SQL-Injection-GET-Search)
 <a name="Phureephat"></a>
 1. [Phureephat Sottiratanapan](https://PhureephatS.GitHub.io)
     * (6217810014) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/PhureephatS) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/PhureephatS) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-1300-8231")](https://orcid.org/0000-0003-1300-8231) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/phureephats)
@@ -188,6 +189,7 @@
     * One-on-One - VA, PT
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/SaranK-qr-cong.png)
     * [TC : XSS](https://ahictf.github.io/xsstestcase/)
+    * [SQL Injection (GET/Search)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/SQL-Injection-GET-Search)
 <a name="Shirassuda"></a>
 1. [Shirassuda Thongpakdhi](http://MyGitHubNEIS0736.github.io)
     * (6117810017) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/MyGitHubNEIS0736) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/MyGitHubNEIS0736) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-8272-0161")](https://orcid.org/0000-0002-8272-0161) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/shianeis0736)
@@ -480,7 +482,7 @@
 *  **#HereWeFix**
    * SQL Injection (Login Form/User) - Piyawit / Bhoomjit
    * [XSS- Reflected(GET)](https://icesuntisuk.github.io/KB/xss-reflected-get) - IceSuntisuk / Sakarin
-   * SQL Injection (GET/Search) - Saran / Nipitpon
+   * [SQL Injection (GET/Search)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/SQL-Injection-GET-Search) - Saran / Nipitpon
    * Information Disclosure - PHP version - Fareed / Jaray
    * PHP Code Injection - Athiporn / Phureephat
    * XSS - Reflected (PHP_SELF) - Thanakorn / Ekawut
