@@ -495,7 +495,7 @@
    * SQL Injection (GET/Select) - Shirassuda
    * LDAP Injection (Search) - Hachol / Nattawut
    * SQL Injection - Blind - Time-Based - Anan / Soontorn
-   * TBD - Sanchat / Wasupol
+   * Unrestricted File Upload - Sanchat / Wasupol
    * SQL Injection (POST/Select) - Nattapong
 *  <del>X'Mas Aftermath: Moments of **Celebration & Sharing**</del>
 *  **MiSS**x***Talks***
