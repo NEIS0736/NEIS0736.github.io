@@ -477,7 +477,7 @@
    * [NetBeans : PHP](https://netbeans.org/downloads/8.2/rc/)
 *  **#HereWeFix**
    * SQL Injection (Login Form/User) - Piyawit / Bhoomjit
-   * XSS- Reflected(GET) - IceSuntisuk / Sakarin
+   * [XSS- Reflected(GET)](https://icesuntisuk.github.io/KB/xss-reflected-get) - IceSuntisuk / Sakarin
    * SQL Injection (GET/Search) - Saran / Nipitpon
    * Information Disclosure - PHP version - Fareed / Jaray
    * PHP Code Injection - Athiporn / Phureephat
