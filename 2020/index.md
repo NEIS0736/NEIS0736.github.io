@@ -475,6 +475,15 @@
    * [WinSCP](https://winscp.net/eng/download.php)
    * [#HereWeFix](https://drive.google.com/drive/folders/1Qsz8NXA67WIJZ17mF_XH4LMqQ0C2KeJ3?usp=sharing)
    * [NetBeans : PHP](https://netbeans.org/downloads/8.2/rc/)
+*  **#HereWeFix**
+   * SQL Injection (Login Form/User) - Piyawit / Bhoomjit
+   * XSS- Reflected(GET) - IceSuntisuk / Sakarin
+   * SQL Injection (GET/Search) - Saran / Nipitpon
+   * Information Disclosure - PHP version - Fareed / Jaray
+   * PHP Code Injection - Athiporn / Phureephat
+   * XSS - Reflected (PHP_SELF) - Thanakorn / Ekawut
+   * SQL Injection (POST/Search) - Nantawan / Vuttawat
+   * Password Attacks - Theerapong / Narunart 
 *  X'Mas Aftermath: Moments of **Celebration & Sharing**
 *  **MiSS**x***Talks***
    * *John Doe*
