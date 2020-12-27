@@ -39,6 +39,7 @@
     * [TC : Cookie Expires Session](https://phureephats.github.io/cookietestcase)
     * [Facebook](https://athipornp.github.io/2020/12/20/FacebookAuthentication)
     * [Digital Signature Verification](https://athipornp.github.io/2020/12/26/DigitalSignatureVerification)
+    * [PHP Code Injection](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/PHPCodeInjection/PHPCodeInjection)
 <a name="Bhoomjit"></a>
 1. [Bhoomjit Bhoominath](https://peegonggoy.GitHub.io)
     * (6317660004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/peegonggoy) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/peegonggoy) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-9561-730X")](https://orcid.org/0000-0001-9561-730X) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/peegonggoy)
@@ -153,6 +154,7 @@
     * [V12.2 File Integrity Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V12.2-File-Integrity-Requirements)
     * [Static site generator: SSGs](https://gitlab.com/NEIS0736/2020/-/wikis/KBs/static-site-generator)
     * [Facebook](https://athipornp.github.io/2020/12/20/FacebookAuthentication)
+    * [PHP Code Injection](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/PHPCodeInjection/PHPCodeInjection)
 <a name="Piyawit"></a>
 1. [Piyawit Khumkrong](https://EsKoOnG.GitHub.io)
     * (6317810004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/EsKoOnG) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/EsKoOnG) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-5527-0233")](https://orcid.org/0000-0001-5527-0233) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/eskoong)
@@ -486,7 +488,7 @@
    * [XSS- Reflected(GET)](https://icesuntisuk.github.io/KB/xss-reflected-get) - IceSuntisuk / Sakarin
    * [SQL Injection (GET/Search)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/SQL-Injection-GET-Search) - Saran / Nipitpon
    * Information Disclosure - PHP version - Fareed / Jaray
-   * PHP Code Injection - Athiporn / Phureephat
+   * [PHP Code Injection](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/PHPCodeInjection/PHPCodeInjection) - Athiporn / Phureephat
    * [XSS - Reflected (PHP_SELF)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/xss-php-self) - Thanakorn / Ekawut
    * SQL Injection (POST/Search) - Nantawan / Vuttawat
    * Password Attacks - Theerapong / Narunart
