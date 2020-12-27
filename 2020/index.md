@@ -493,6 +493,7 @@
    * SQL Injection (GET/Select) - Shirassuda
    * LDAP Injection (Search) - Hachol / Nattawut
    * TBD - Anan / Soontorn
+   * TBD - Sanchat / Wasupol
 *  X'Mas Aftermath: Moments of **Celebration & Sharing**
 *  **MiSS**x***Talks***
    * *John Doe*
