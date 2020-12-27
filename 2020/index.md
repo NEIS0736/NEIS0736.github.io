@@ -633,13 +633,13 @@
 *  [Amazon Lookout for Vision - Spot product defects using computer vision to automate quality inspection](https://aws.amazon.com/lookout-for-vision/)
 *  <del>Planet earth with visualization of GitHub activity crossing the globe</del>, *claimed by Khun Piyawit K.*
 *  10 Cool Error/Warning Messages
-*  <del>Static Site Generators - SSGs</del>, claimed by Khun Phureephat S.*
+*  <del>Static Site Generators - SSGs</del>, *claimed by Khun Phureephat S.*
 *  Introspectable tunnels to localhost
 *  [Distributed Load Testing on AWS](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-distributed-load-testing-v1-2/)
 *  [Homomorphic Encryption: Unlock value of sensitive data without decryption](https://www.ibm.com/security/digital-assets/fhe/unlock-value-of-sensitive-data-without-decryption/)
 *  Software Supply-Chain Attack
 *  Golden SAML
-*  Zero Trust : Identity
+*  <del>Zero Trust : Identity</del>, *booked by Khun Ekawut C.*
 
 ---
 ### [**80-20 Rule**]
