@@ -491,6 +491,7 @@
    * SQL Injection (POST/Search) - Nantawan / Vuttawat
    * Password Attacks - Theerapong / Narunart
    * SQL Injection (GET/Select) - Shirassuda 
+   * TBD - Anan / Soontorn
 *  X'Mas Aftermath: Moments of **Celebration & Sharing**
 *  **MiSS**x***Talks***
    * *John Doe*
