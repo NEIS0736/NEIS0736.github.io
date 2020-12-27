@@ -492,9 +492,10 @@
    * Password Attacks - Theerapong / Narunart
    * SQL Injection (GET/Select) - Shirassuda
    * LDAP Injection (Search) - Hachol / Nattawut
-   * TBD - Anan / Soontorn
+   * SQL Injection - Blind - Time-Based - Anan / Soontorn
    * TBD - Sanchat / Wasupol
-*  X'Mas Aftermath: Moments of **Celebration & Sharing**
+   * SQL Injection (POST/Select) - Nattapong
+*  <del>X'Mas Aftermath: Moments of **Celebration & Sharing**</del>
 *  **MiSS**x***Talks***
    * *John Doe*
    * **"Threat Modeling to Explore Threats and Countermeasures"**, Khun Bhoomjit Bhoominath (Luck)
