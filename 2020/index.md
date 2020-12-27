@@ -60,6 +60,7 @@
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Ekawut-qr-code.png)
     * [TC : Log Content](https://inuax.github.io/Testcase-Log_Content_Requirements)
     * [Microsoft](https://inuax.github.io/MicrosoftAuthenticator)
+    * [XSS - Reflected (PHP_SELF)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/xss-php-self)
 <a name="Fareed"></a>
 1. [Fareed Marnleb](https://marukofar.GitHub.io)
     * (6317810012) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/marukofar) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/marukofar) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-6769-7453")](https://orcid.org/0000-0001-6769-7453) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/marukofar)
@@ -244,6 +245,7 @@
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Thanakorn-qr-code.png)
     * [TC : File Upload](https://nongkon09.github.io/file_upload_requirement_testcase)
     * [GitLab](https://nongkon09.github.io/GitlabEnable2FactorAuthentication)
+    * [XSS - Reflected (PHP_SELF)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/xss-php-self)
 <a name="Theerapong"></a>
 1. [Theerapong Kanrawong](https://Devtech95.GitHub.io)
     * (6317810002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Devtech95) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Devtech95) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-6704-9069")](https://orcid.org/0000-0001-6704-9069) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/theerapong)
@@ -485,7 +487,7 @@
    * [SQL Injection (GET/Search)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/SQL-Injection-GET-Search) - Saran / Nipitpon
    * Information Disclosure - PHP version - Fareed / Jaray
    * PHP Code Injection - Athiporn / Phureephat
-   * XSS - Reflected (PHP_SELF) - Thanakorn / Ekawut
+   * [XSS - Reflected (PHP_SELF)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/xss-php-self) - Thanakorn / Ekawut
    * SQL Injection (POST/Search) - Nantawan / Vuttawat
    * Password Attacks - Theerapong / Narunart
    * SQL Injection (GET/Select) - Shirassuda 
