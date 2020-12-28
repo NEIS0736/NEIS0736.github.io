@@ -499,7 +499,7 @@
    * [PHP Code Injection](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/PHPCodeInjection/PHPCodeInjection) - Athiporn / Phureephat
    * [XSS - Reflected (PHP_SELF)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/xss-php-self) - Thanakorn / Ekawut
    * [SQL Injection (POST/Search)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/sql-injection-POST-Search) - Nantawan / Vuttawat
-   * Password Attacks - Theerapong / Narunart
+   * HTML Injection - Reflected (GET) - Theerapong / Narunart
    * SQL Injection (GET/Select) - Shirassuda
    * XSS Reflex(JSON) - Hachol / Nattawut
    * [SQL Injection - Blind - Time-Based](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/SQL-Injection-Blind-TimeBased) - Anan / Soontorn
