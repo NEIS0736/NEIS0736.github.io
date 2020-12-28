@@ -479,8 +479,8 @@
 
 ### [**Week 6**] - (Sun) **Dec 27,** 2020
 *  **Online** ***(due to COVID-19)***
-   * [VirtualBox](https://www.virtualbox.org/wiki/Downloads) / [VMware Workstation Player]
-   * [WinSCP](https://winscp.net/eng/download.php)
+   * [VirtualBox](https://www.virtualbox.org/wiki/Downloads) / [VMware Workstation Player](https://www.vmware.com/go/downloadworkstationplayer)
+   * [WinSCP](https://winscp.net/eng/download.php) or any SCP client.
    * [#HereWeFix](https://drive.google.com/drive/folders/1Qsz8NXA67WIJZ17mF_XH4LMqQ0C2KeJ3?usp=sharing)
    * [NetBeans : PHP](https://netbeans.org/downloads/8.2/rc/)
 *  **#HereWeFix**
