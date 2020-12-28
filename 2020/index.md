@@ -482,7 +482,7 @@
    * [VirtualBox](https://www.virtualbox.org/wiki/Downloads) / [VMware Workstation Player](https://www.vmware.com/go/downloadworkstationplayer)
    * [WinSCP](https://winscp.net/eng/download.php) or any SCP client.
    * [#HereWeFix](https://drive.google.com/drive/folders/1Qsz8NXA67WIJZ17mF_XH4LMqQ0C2KeJ3?usp=sharing)
-   * [NetBeans : PHP](https://netbeans.org/downloads/8.2/rc/)
+   * [NetBeans : PHP](https://netbeans.org/downloads/8.2/rc/), [VS Code](https://code.visualstudio.com/download) with PHP Static Analysis extension
 *  **#HereWeFix**
    * SQL Injection (Login Form/User) - Piyawit / Bhoomjit
    * [XSS- Reflected(GET)](https://icesuntisuk.github.io/KB/xss-reflected-get) - IceSuntisuk / Sakarin
