@@ -82,7 +82,7 @@
     * [Microsoft](https://inuax.github.io/MicrosoftAuthenticator)
 <a name="Jaray"></a>
 1. [Jaray Paensong](https://HiRayShi.GitHub.io)
-    * (6317660006) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/HiRayShi) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/HiRayShi) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-4654-9157")](https://orcid.org/0000-0003-4654-9157)
+    * (6317660006) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/HiRayShi) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/HiRayShi) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-4654-9157")](https://orcid.org/0000-0003-4654-9157) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/jarray)
     * One-on-One - CTF, Gamification
     * [DSV - Apache](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Apache) (#9)
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Jaray-qr-code.png)
