@@ -475,6 +475,7 @@
     * Prep. for the Moments of **Celebration & Sharing**
     * [OWASP Top 10 Security Fundamentals](https://codered.eccouncil.org/CourseDetails/owasp-top-10-security-fundamentals), Paulo Silva (14-day **FREE** trial)
     * [When **Open Source** Came to Microsoft](https://www.codemag.com/Article/2009041/When-Open-Source-Came-to-Microsoft), [Richard Campbell](https://www.codemag.com/People/Bio/Richard.Campbell)
+   * **"Threat Modeling to Explore Threats and Countermeasures"**, Khun Bhoomjit Bhoominath (Luck)
 -->
 
 ### [**Week 6**] - (Sun) **Dec 27,** 2020
@@ -498,10 +499,7 @@
    * Unrestricted File Upload - Sanchat / Wasupol
    * SQL Injection (POST/Select) - Nattapong
 *  <del>X'Mas Aftermath: Moments of **Celebration & Sharing**</del>
-*  **MiSS**x***Talks***
-   * *John Doe*
-   * **"Threat Modeling to Explore Threats and Countermeasures"**, Khun Bhoomjit Bhoominath (Luck)
-   * *John Doe*
+*  <del>**MiSS**x***Talks***</del>
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day6)**
 
 ### [**Week 7**] - (Sun) **Jan 3,** 2021
