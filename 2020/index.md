@@ -130,6 +130,7 @@
     * [DSV - Arduino IDE](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Arduino-IDE) (#8)
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Nattapong-Ketkaew-qr.png)
     * [Outlook](https://eitchy.github.io/Outlook_2_Factor_Authentication)
+    * [SQL Injection (POST/Select)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/sql-injection-post-select)
 <a name="Nattawut"></a>
 1. [Nattawut Reungsap](https://omoomomx.GitHub.io)
     * (6217810013) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/omoomomx) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/omoomomx) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-6578-6583")](https://orcid.org/0000-0001-6578-6583) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/omoomomx)
@@ -503,7 +504,7 @@
    * XSS Reflex(JSON) - Hachol / Nattawut
    * [SQL Injection - Blind - Time-Based](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/SQL-Injection-Blind-TimeBased) - Anan / Soontorn
    * Unrestricted File Upload - Sanchat / Wasupol
-   * SQL Injection (POST/Select) - Nattapong
+   * [SQL Injection (POST/Select)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/sql-injection-post-select) - Nattapong
 *  <del>X'Mas Aftermath: Moments of **Celebration & Sharing**</del>
 *  <del>**MiSS**x***Talks***</del>
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day6)**
