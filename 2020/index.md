@@ -523,7 +523,7 @@
 ---
 
 ### [**Semi-final Examination**]
-*  **Jan [10\|17], 2021 (AM)**
+*  **Jan 10, 2021 (AM)**
 *  [Keybase](https://keybase.io/) will save your day :)
 *  *Openbook (2 hours) + live [debugging](https://twitter.com/techindustan/status/1272802707338747905) (1 Hour)*
 *  *Controlled environment (w/o communication devices)*
