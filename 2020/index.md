@@ -541,7 +541,7 @@
    * What is your favorite programming language?
 
 ### [**Week 10**] - (Sun) **Feb 7,** 2021 *(subjected to change)*
-*  **Code**4***Sec***[0], a week of code for security
+*  **Code**4***Sec***[0], a week of coding for security
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day10)** *by **John Doe***
 
 ### [**Week 11**] - (Sun) **Feb 14,** 2021
