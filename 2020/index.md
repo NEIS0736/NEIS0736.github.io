@@ -537,12 +537,11 @@
 ### [**Week 9**] - (Sun) **Jan 31,** 2021
 *  **Man of the Mi.....** Award
 *  **MiSS**x***Talks*** **Special**
+* Homework
+   * What is your favorite programming language?
 
 ### [**Week 10**] - (Sun) **Feb 7,** 2021 *(subjected to change)*
-*  **MiSS**x***Talks***
-   * *John Doe*
-   * *John Doe*
-   * *John Doe*
+*  **Code**4***Sec***[0], a week of code for security
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day10)** *by **John Doe***
 
 ### [**Week 11**] - (Sun) **Feb 14,** 2021
