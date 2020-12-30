@@ -608,8 +608,10 @@
 *  [Software Security:  Principles, Policies, and Protection](https://nebelwelt.net/SS3P/softsec.pdf), Payer 
 *  [OWASP Web Security Testing Guide v4.2](https://github.com/OWASP/wstg/releases/download/v4.2/wstg-v4.2.pdf)
 *  [Thailand Data Protection Guidelines v3.0](https://www.law.chula.ac.th/wp-content/uploads/2020/12/TDPG3.0-C5-20201208.pdf)
+*  [Guideline for Blockchain Technology Adoption in Financial Services](https://www.bot.or.th/Thai/Segmentation/Public/PublicHearing/Documents/Hearing_Blockchain.pdf)
 
 ---
+
 ### [**Official class meeting place**]
 ![](/2020/img/MII209B.jpg "#NEIS0736")
 
