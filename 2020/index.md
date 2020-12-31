@@ -502,7 +502,7 @@
 ### [**Week 7**] - (Sun) **Jan 3,** 2021
 *  **Online** ***(due to COVID-19)***
 *  What is your favorite programming language?
-*  **Code**4***Sec***[0], a week of coding for security
+*  #**Code**4***Sec***, a week of coding for security
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day7)** *by **John Doe***
 
 ---
