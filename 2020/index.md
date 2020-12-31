@@ -503,7 +503,7 @@
 *  **Online** ***(due to COVID-19)***
 *  What is your favorite programming language?
 *  #**Code**4***Sec***, a week of coding for security
-   * Public [[GitHub Pages](https://pages.github.com/)\|[GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/)\|[DEV](https://dev.to/)\|medium\|Wordpress\|Blogger]
+   * Public [[GitHub Pages](https://pages.github.com/)\|[GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/)\|[DEV](https://dev.to/)\|[Medium](https://medium.com/)\|[WordPress](https://wordpress.com/)\|[Blogger](https://www.blogger.com/)]
    * Shared [Facebook\|Twitter\|IG]
    * 7 continuous days
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day7)** *by **John Doe***
