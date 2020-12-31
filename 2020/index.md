@@ -293,31 +293,18 @@
 
 ### **[MiSS**x***Talks*]** (2 chances) 
 * [**Book**](https://docs.google.com/spreadsheets/d/1NBZyw19XSU4rv0BdW0LQ2KAnSXwAGk1odZ9KhA6fbNc) your time slot
-* (Sun) **Dec 27,** 2020
-    * Slot A: **"Cyber-physical System"**, Khun Keaittisak Luithong (**Joke**)
-    * Slot B: **"Threat Modeling, The first step towards security in SDLC"**, Khun Bhoomjit Bhoominath (**Luck**)
-    * Slot C: **"TBD"**, Khun Theerapong Kanrawong (**Pong**)
-    * Slot D: **"Static Application Security Testing"**, Khun Nipitpon Doungyai (**Geno**)
-* (Sun) **Jan 3,** 2021
-    * Slot A: **"Blockchain and Smart Contract"**,	Khun Vuttawat Uyanont (**Palm**)
-    * Slot B: **"SQL Injection"**, Khun Supattra & Khun Jaray
-* (Sun) **Jan 31,** 2021
-    * Slot A: **"TBD"**, Khun Anan Boondamnoen (**Nan**)
-    * Slot B: **"CTI"**, Khun Soontorn Janphuk (**Brad**)
-    * Slot C: **"IoT"**, Khun Fareed Marnleb (**Far**)
-* (Sun) **Feb 7,** 2021 *(subjected to change)*
-    * Slot A: ???
-    * Slot B: **"TBD"**, Khun Nattapong Ketkaew (**X**)
-    * Slot C: ???
-* (Sun) **Feb 14,** 2021
-    * Slot A: ???
-    * Slot B: ???
-    * Slot C: ???
-* (Sun) **Feb 21,** 2021
-    * Slot A: ???
-    * Slot B: **"TBD"** Khun Shirassuda Thongpakdhi (**Kad**)
-    * Slot C: ???
-
+* In queue
+    * **"Cyber-physical System"**, Khun Keaittisak Luithong (**Joke**)
+    * **"Threat Modeling, The first step towards security in SDLC"**, Khun Bhoomjit Bhoominath (**Luck**)
+    * **"Static Application Security Testing"**, Khun Nipitpon Doungyai (**Geno**)
+    * **"Blockchain and Smart Contract"**,	Khun Vuttawat Uyanont (**Palm**)
+    * **"SQL Injection"**, Khun Supattra & Khun Jaray
+    * **"TBD"**, Khun Theerapong Kanrawong (**Pong**)
+    * **"TBD"**, Khun Anan Boondamnoen (**Nan**)
+    * **"CTI"**, Khun Soontorn Janphuk (**Brad**)
+    * **"IoT"**, Khun Fareed Marnleb (**Far**)
+    * **"TBD"**, Khun Nattapong Ketkaew (**X**)
+    * **"TBD"** Khun Shirassuda Thongpakdhi (**Kad**)
 * **[Done]**
     * (Sun) **Nov 22,** 2020
         * **"Git"**, Khun Vatcharin Kongsakul
@@ -484,7 +471,7 @@
     * Prep. for the Moments of **Celebration & Sharing**
     * [OWASP Top 10 Security Fundamentals](https://codered.eccouncil.org/CourseDetails/owasp-top-10-security-fundamentals), Paulo Silva (14-day **FREE** trial)
     * [When **Open Source** Came to Microsoft](https://www.codemag.com/Article/2009041/When-Open-Source-Came-to-Microsoft), [Richard Campbell](https://www.codemag.com/People/Bio/Richard.Campbell)
-   * **"Threat Modeling to Explore Threats and Countermeasures"**, Khun Bhoomjit Bhoominath (Luck)
+
 -->
 
 ### [**Week 6**] - (Sun) **Dec 27,** 2020
@@ -513,10 +500,6 @@
 
 ### [**Week 7**] - (Sun) **Jan 3,** 2021
 *  **Online** ***(due to COVID-19)***
-*  **MiSS**x***Talks***
-   * **"Blockchain and Smart Contract"**, Khun Vuttawat Uyanont (Palm)
-   * **"SQL Injection"**, Khun Supattra & Khun Jaray
-   * *John Doe*
 *  [The **Twelve Factors**](https://12factor.net/) ([ไทย](https://12factor.net/th/))
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day7)** *by **John Doe***
 
