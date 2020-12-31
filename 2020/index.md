@@ -481,8 +481,7 @@
       * [WinSCP](https://winscp.net/eng/download.php) or any SCP client
       * [#HereWeFix](https://drive.google.com/drive/folders/1Qsz8NXA67WIJZ17mF_XH4LMqQ0C2KeJ3?usp=sharing), request access needed
       * [NetBeans : PHP](https://netbeans.org/downloads/8.2/rc/), [VS Code](https://code.visualstudio.com/download) with PHP Static Analysis extension
-*  **#HereWeFix**
-*  [#HereWeFix](https://www.google.com/search?q=%23HereWeFix&rlz=1C9BKJA_enTH873TH874&hl=en-US&prmd=mivn&source=lnms&tbm=isch&sa=X&ved=2ahUKEwim0qX2ysftAhXyzzgGHbpwBl0Q_AUoAnoECAQQAg&biw=834&bih=997&dpr=2)
+*  [**#HereWeFix**](https://www.google.com/search?q=%23HereWeFix&rlz=1C9BKJA_enTH873TH874&hl=en-US&prmd=mivn&source=lnms&tbm=isch&sa=X&ved=2ahUKEwim0qX2ysftAhXyzzgGHbpwBl0Q_AUoAnoECAQQAg&biw=834&bih=997&dpr=2)
    * [SQL Injection (Login Form/User)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/SQL-Injection-Login-Form) - Piyawit / Bhoomjit
    * [XSS- Reflected(GET)](https://icesuntisuk.github.io/KB/xss-reflected-get) - IceSuntisuk / Sakarin
    * [SQL Injection (GET/Search)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/SQL-Injection-GET-Search) - Saran / Nipitpon
