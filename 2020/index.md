@@ -300,12 +300,12 @@
     * **"Static Application Security Testing"**, Khun Nipitpon Doungyai (**Geno**)
     * **"Blockchain and Smart Contract"**,	Khun Vuttawat Uyanont (**Palm**)
     * **"SQL Injection"**, Khun Supattra & Khun Jaray
-    * **"TBD"**, Khun Theerapong Kanrawong (**Pong**)
+    * **"RPA Security for Privileged Credentials and Access"**, Khun Theerapong Kanrawong (**Pong**)
+    * **"Software Supply Chain Attack"**, Khun Nattapong Ketkaew (**X**)
+    * **"CI/CD Security Testing"** Khun Shirassuda Thongpakdhi (**Kad**)
     * **"TBD"**, Khun Anan Boondamnoen (**Nan**)
     * **"CTI"**, Khun Soontorn Janphuk (**Brad**)
     * **"IoT"**, Khun Fareed Marnleb (**Far**)
-    * **"TBD"**, Khun Nattapong Ketkaew (**X**)
-    * **"TBD"** Khun Shirassuda Thongpakdhi (**Kad**)
 * **[Done]**
     * (Sun) **Nov 22,** 2020
         * **"Git"**, Khun Vatcharin Kongsakul
@@ -528,7 +528,10 @@
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day9)** *by **John Doe***
 
 ### [**Week 10**] - (Sun) **Jan 24,** 2021
-*  **TBD**
+*  **MiSS**x***Talks***
+   * *John Doe*
+   * *John Doe*
+   * *John Doe*
 *  [The **Twelve Factors**](https://12factor.net/) ([ไทย](https://12factor.net/th/))
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day10)** *by **John Doe***
 
@@ -544,17 +547,17 @@
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day12)** *by **John Doe***
 
 ### [**Week 13**] - (Sun) **Feb 21,** 2021
-*  **MiSS**x***Talks***
-   * *John Doe*
-   * *John Doe*
-   * *John Doe*
-*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day13)** *by **John Doe***
-
-### [**Week 14**] - (Sun) **Feb 28,** 2021
 *  **Mini-Contest** ***(draw lots)***
     * Round 1
     * Round 2
     * Round 3
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day13)** *by **John Doe***
+
+### [**Week 14**] - (Sun) **Feb 28,** 2021
+*  **Group Project** Presentation ***(draw lots)***
+    * Group 1
+    * Group 2
+    * Group 3
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day14)** *by **John Doe***
 
 ### [**Week 15**] - (Sun) **Mar 7,** 2021
@@ -563,13 +566,6 @@
     * Group 2
     * Group 3
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day15)** *by **John Doe***
-
-### [**Week 16**] - (Sun) **Mar 14,** 2021
-*  **Group Project** Presentation ***(draw lots)***
-    * Group 4
-    * Group 5
-    * Group 6
-*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day16)** *by **John Doe***
 
 ### [**Final Examination**] - *(Lec)*
 *  **Mar [20\|21\|27\|28], 2021 ([A\|P]M)**
