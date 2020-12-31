@@ -501,7 +501,8 @@
 
 ### [**Week 7**] - (Sun) **Jan 3,** 2021
 *  **Online** ***(due to COVID-19)***
-*  [The **Twelve Factors**](https://12factor.net/) ([ไทย](https://12factor.net/th/))
+*  What is your favorite programming language?
+*  **Code**4***Sec***[0], a week of coding for security
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day7)** *by **John Doe***
 
 ---
@@ -515,54 +516,62 @@
 
 ---
 
-### [**Week 8**] - (Sun) **Jan 24,** 2021
-*  **N/A**
+### [**Week 8**] - (Sun) **Jan 10,** 2021
+*  **Online** ***(due to COVID-19)***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day8)** *by **John Doe***
 
-### [**Week 9**] - (Sun) **Jan 31,** 2021
+### [**Week 9**] - (Sun) **Jan 17,** 2021
+*  **Online** ***(due to COVID-19)***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day9)** *by **John Doe***
+
+### [**Week 10**] - (Sun) **Jan 24,** 2021
+*  **N/A**
+*  [The **Twelve Factors**](https://12factor.net/) ([ไทย](https://12factor.net/th/))
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day10)** *by **John Doe***
+
+### [**Week 11**] - (Sun) **Jan 31,** 2021
 *  **Man of the Mi.....** Award
 *  **MiSS**x***Talks*** **Special**
 * Homework
-   * What is your favorite programming language?
 
-### [**Week 10**] - (Sun) **Feb 7,** 2021 *(subjected to change)*
-*  **Code**4***Sec***[0], a week of coding for security
-*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day10)** *by **John Doe***
+### [**Week 12**] - (Sun) **Feb 7,** 2021 *(subjected to change)*
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day12)** *by **John Doe***
 
-### [**Week 11**] - (Sun) **Feb 14,** 2021
+### [**Week 13**] - (Sun) **Feb 14,** 2021
 *  **Valentine** *vs.* **Ovaltine** <!--Mini contest, organized by you-->
 *  **MiSS**x***Talks***
    * *John Doe*
    * *John Doe*
    * *John Doe*
-*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day11)** *by **John Doe***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day13)** *by **John Doe***
 
-### [**Week 12**] - (Sun) **Feb 21,** 2021
+### [**Week 14**] - (Sun) **Feb 21,** 2021
 *  **MiSS**x***Talks***
    * *John Doe*
    * *John Doe*
    * *John Doe*
-*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day12)** *by **John Doe***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day14)** *by **John Doe***
 
-### [**Week 13**] - (Sun) **Feb 28,** 2021
+### [**Week 15**] - (Sun) **Feb 28,** 2021
 *  **Mini-Contest** ***(draw lots)***
     * Round 1
     * Round 2
     * Round 3
-*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day13)** *by **John Doe***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day15)** *by **John Doe***
 
-### [**Week 14**] - (Sun) **Mar 7,** 2021
+### [**Week 16**] - (Sun) **Mar 7,** 2021
 *  **Group Project** Presentation ***(draw lots)***
     * Group 1
     * Group 2
     * Group 3
-*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day14)** *by **John Doe***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day16)** *by **John Doe***
 
-### [**Week 15**] - (Sun) **Mar 14,** 2021
+### [**Week 17**] - (Sun) **Mar 14,** 2021
 *  **Group Project** Presentation ***(draw lots)***
     * Group 4
     * Group 5
     * Group 6
-*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day15)** *by **John Doe***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day17)** *by **John Doe***
 
 ### [**Final Examination**] - *(Lec)*
 *  **Mar [20\|21\|27\|28], 2021 ([A\|P]M)**
