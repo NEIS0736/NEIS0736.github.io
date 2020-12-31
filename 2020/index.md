@@ -505,6 +505,7 @@
 *  #**Code**4***Sec***, a week of coding for security
    * Public [GitHub Pages\|GitLab Pages\|Dev.to\|medium\|Wordpress\|Blogger]
    * Shared [Facebook\|Twitter\|IG]
+   * 7 continuous days
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day7)** *by **John Doe***
 
 ---
