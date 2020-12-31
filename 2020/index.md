@@ -296,6 +296,7 @@
 * In queue
     * **"Cyber-physical System"**, Khun Keaittisak Luithong (**Joke**)
     * **"Threat Modeling, The first step towards security in SDLC"**, Khun Bhoomjit Bhoominath (**Luck**)
+    * **"Dynamic Application Security Testing"**, Khun Saran Kaewnang (**Golf**)
     * **"Static Application Security Testing"**, Khun Nipitpon Doungyai (**Geno**)
     * **"Blockchain and Smart Contract"**,	Khun Vuttawat Uyanont (**Palm**)
     * **"SQL Injection"**, Khun Supattra & Khun Jaray
@@ -461,9 +462,8 @@
    * **Two factor authentication** : well known application/services
 
 
-<!-- * Static Application Security Testing (SAST), Source Code Analysis
+<!-- 
     * [Web Application Vulnerability Report 2019](https://www.acunetix.com/acunetix-web-application-vulnerability-report-2019/) \| [2020 Web Application Vulnerability Report](https://go.acunetix.com/2020-vulnerability-report) \| [Securing Web Application Technologies (SWAT) Checklist](https://www.newnettechnologies.com/posters/sans-securing-web-applications.pdf)
-    * [#HereWeFix](https://www.google.com/search?q=%23HereWeFix&rlz=1C9BKJA_enTH873TH874&hl=en-US&prmd=mivn&source=lnms&tbm=isch&sa=X&ved=2ahUKEwim0qX2ysftAhXyzzgGHbpwBl0Q_AUoAnoECAQQAg&biw=834&bih=997&dpr=2)
     * Do not hesitate to ask Khun Nipitpon.
     * [Schema.org](https://schema.org/) is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond.
     *  Twitter : **Login Alert**
@@ -476,11 +476,13 @@
 
 ### [**Week 6**] - (Sun) **Dec 27,** 2020
 *  **Online** ***(due to COVID-19)***
-   * [VirtualBox](https://www.virtualbox.org/wiki/Downloads) / [VMware Workstation Player](https://www.vmware.com/go/downloadworkstationplayer)
-   * [WinSCP](https://winscp.net/eng/download.php) or any SCP client
-   * [#HereWeFix](https://drive.google.com/drive/folders/1Qsz8NXA67WIJZ17mF_XH4LMqQ0C2KeJ3?usp=sharing), request access needed
-   * [NetBeans : PHP](https://netbeans.org/downloads/8.2/rc/), [VS Code](https://code.visualstudio.com/download) with PHP Static Analysis extension
+   * Static Application Security Testing (SAST), Source Code Analysis
+      * [VirtualBox](https://www.virtualbox.org/wiki/Downloads) / [VMware Workstation Player](https://www.vmware.com/go/downloadworkstationplayer)
+      * [WinSCP](https://winscp.net/eng/download.php) or any SCP client
+      * [#HereWeFix](https://drive.google.com/drive/folders/1Qsz8NXA67WIJZ17mF_XH4LMqQ0C2KeJ3?usp=sharing), request access needed
+      * [NetBeans : PHP](https://netbeans.org/downloads/8.2/rc/), [VS Code](https://code.visualstudio.com/download) with PHP Static Analysis extension
 *  **#HereWeFix**
+*  [#HereWeFix](https://www.google.com/search?q=%23HereWeFix&rlz=1C9BKJA_enTH873TH874&hl=en-US&prmd=mivn&source=lnms&tbm=isch&sa=X&ved=2ahUKEwim0qX2ysftAhXyzzgGHbpwBl0Q_AUoAnoECAQQAg&biw=834&bih=997&dpr=2)
    * [SQL Injection (Login Form/User)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/SQL-Injection-Login-Form) - Piyawit / Bhoomjit
    * [XSS- Reflected(GET)](https://icesuntisuk.github.io/KB/xss-reflected-get) - IceSuntisuk / Sakarin
    * [SQL Injection (GET/Search)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/SQL-Injection-GET-Search) - Saran / Nipitpon
