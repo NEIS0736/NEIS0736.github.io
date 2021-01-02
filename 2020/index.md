@@ -503,7 +503,7 @@
 ### [**Week 7**] - (Sun) **Jan 3,** 2021
 *  **Online** ***(due to COVID-19)***
 *  What is your favorite programming language?
-*  #**Code**4***Sec***, a week of coding for security
+*  [#**Code**4***Sec***](https://docs.google.com/spreadsheets/d/193eb9nEBIR8jb6MMBX1cHrNORR2tloiFXNMcevtvmAg/edit?usp=sharing), a week of coding for security
    * Public [[GitHub Pages](https://pages.github.com/)\|[GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/)\|[DEV](https://dev.to/)\|[Medium](https://medium.com/)\|[WordPress](https://wordpress.com/)\|[Blogger](https://www.blogger.com/)]
    * Shared [Facebook\|Twitter\|IG], #Code4Sec #NEIS0736 #NECS0736
    * 7 continuous days
