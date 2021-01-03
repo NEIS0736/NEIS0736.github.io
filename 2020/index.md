@@ -640,6 +640,7 @@
 *  Golden SAML
 *  <del>Zero Trust : Identity</del>, *booked by Khun Ekawut C.*
 *  Business logic vulnerability
+*  Case Styles
 
 ---
 ### [**80-20 Rule**]
