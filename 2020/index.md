@@ -642,6 +642,7 @@
 *  <del>Zero Trust : Identity</del>, *booked by Khun Ekawut C.*
 *  Business logic vulnerability
 *  Case Styles
+*  Sandbox
 
 ---
 ### [**80-20 Rule**]
