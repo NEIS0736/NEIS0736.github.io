@@ -647,7 +647,7 @@
 *  Business logic vulnerability
 *  Case Styles
 *  Sandbox
-*  **Consent**: ***option*** **not** an ***obligation***
+*  <del>**Consent**: ***option*** **not** an ***obligation***</del>, *booked by Khun Nattawut R.*
 
 ---
 ### [**80-20 Rule**]
