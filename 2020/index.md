@@ -641,7 +641,7 @@
 *  [Distributed Load Testing on AWS](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-distributed-load-testing-v1-2/)
 *  [Homomorphic Encryption: Unlock value of sensitive data without decryption](https://www.ibm.com/security/digital-assets/fhe/unlock-value-of-sensitive-data-without-decryption/)
 *  <del>Software Supply-Chain Attack</del>, *booked by Khun Nattapong K.*
-*  Golden SAML
+*  <del>Golden SAML</del>, *booked by Khun Anan B.*
 *  <del>Zero Trust : Identity</del>, *booked by Khun Ekawut C.*
 *  Business logic vulnerability
 *  Case Styles
