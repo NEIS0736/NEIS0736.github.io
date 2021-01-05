@@ -647,6 +647,7 @@
 *  Business logic vulnerability
 *  Case Styles
 *  Sandbox
+*  Consent: option not an obligation.
 
 ---
 ### [**80-20 Rule**]
