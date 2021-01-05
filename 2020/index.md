@@ -542,15 +542,16 @@
 ---
 
 ### [**Week 8**] - (Sun) **Jan 10,** 2021
-*  **Online** ***(due to COVID-19)***
+*  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/zxv-teet-zuk)
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day8)** *by **John Doe***
 
 ### [**Week 9**] - (Sun) **Jan 17,** 2021
-*  **Online** ***(due to COVID-19)***
+*  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/cmm-dzag-def)
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day9)** *by **John Doe***
 
 ### [**Week 10**] - (Sun) **Jan 24,** 2021
-*  **MiSS**x***Talks***
+*  [![](img/video.png "Video")](https://meet.google.com/syx-xxzr-ytx)
+*  **MiSS**x***Talks*** 
    * *John Doe*
    * *John Doe*
    * *John Doe*
@@ -558,7 +559,7 @@
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day10)** *by **John Doe***
 
 ### [**Week 11**] - (Sun) **Jan 31,** 2021
-*  **MiSS**x***Talks*** **Special**
+*  [![](img/video.png "Video")](https://meet.google.com/fsd-code-jiw)
 
 ### [**Week 12**] - (Sun) **Feb 7,** 2021
 *  **Valentine** *vs.* **Ovaltine** <!--Mini contest, organized by you-->
