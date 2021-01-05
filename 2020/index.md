@@ -262,6 +262,8 @@
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/supattra_qr-code.png)
     * [TC : Login Authentication Limits](https://supattraboonkied.github.io/Login-Authentication-Limits)
     * [Instagram](https://fai00-s.github.io/Instagram)
+    * #Code4Sec
+      * [Day 1 : hashlib](https://twitter.com/pattra1994/status/1346493072679452672)
 <a name="Thanakorn"></a>
 1. [Thanakorn Prajuabkamon](https://nongkon09.GitHub.io)
     * (6217810017) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/nongkon09) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/nongkon09) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-3201-789X")](https://orcid.org/0000-0002-3201-789X) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/nongkon09)
@@ -523,8 +525,8 @@
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://drive.google.com/file/d/1Nq54b4sLfB_RdqbgFmrVgsLnBfFec8Ck)
 *  What is your favorite programming language?
 *  [#**Code**4***Sec***](https://docs.google.com/spreadsheets/d/193eb9nEBIR8jb6MMBX1cHrNORR2tloiFXNMcevtvmAg/edit?usp=sharing), a week of coding for security
-   * Public [[GitHub Pages](https://pages.github.com/)\|[GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/)\|[DEV](https://dev.to/)\|[Medium](https://medium.com/)\|[WordPress](https://wordpress.com/)\|[Blogger](https://www.blogger.com/)]
-   * Shared [Facebook\|Twitter\|IG], **#Code4Sec Week, DayX #NEIS0736 #NECS0736**
+   * Publish : [[GitHub Pages](https://pages.github.com/)\|[GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/)\|[DEV](https://dev.to/)\|[Medium](https://medium.com/)\|[WordPress](https://wordpress.com/)\|[Blogger](https://www.blogger.com/)]
+   * Share : [Facebook\|Twitter\|IG], **#Code4Sec Week, Day X #NEIS0736 #NECS0736**
    * 7 continuous days
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day7)**
 
