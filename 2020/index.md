@@ -91,7 +91,8 @@
     * (6317660006) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/HiRayShi) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/HiRayShi) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-4654-9157")](https://orcid.org/0000-0003-4654-9157) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/jarray)
     * One-on-One - CTF, Gamification
     * [DSV - Apache](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Apache) (#9)
-    * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Jaray-qr-code.png)
+    * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Jaray-qr-code.png)    
+    * [Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day4) of Day 4
     * [V2.2 General Authenticator Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V2.2-General-Authenticator-Requirements)
     * [SQL Injection, the well-known vulnerability ever (Part I)](/2020/MiSSxTalks/JarayP.jpg)
     * [Twitter](https://marukofar.github.io/Twitter-Two-factor-authentication)
