@@ -487,7 +487,7 @@
 
 -->
 
-### [**Week 6**] - (Sun) **Dec 27,** 2020
+### [**Week 6**] - (Sun) **Dec 27,** 2020 [](https://drive.google.com/file/d/1UpEXge7oPGw89haRPTURluVy9LP9ifD-)
 *  **Online** ***(due to COVID-19)***
    * Static Application Security Testing (SAST), Source Code Analysis
       * [VirtualBox](https://www.virtualbox.org/wiki/Downloads) / [VMware Workstation Player](https://www.vmware.com/go/downloadworkstationplayer)
