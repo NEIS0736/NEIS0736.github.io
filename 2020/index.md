@@ -525,8 +525,8 @@
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://drive.google.com/file/d/1Nq54b4sLfB_RdqbgFmrVgsLnBfFec8Ck)
 *  What is your favorite programming language?
 *  [#**Code**4***Sec***](https://docs.google.com/spreadsheets/d/193eb9nEBIR8jb6MMBX1cHrNORR2tloiFXNMcevtvmAg/edit?usp=sharing), a week of coding for security
-   * Public [[GitHub Pages](https://pages.github.com/)\|[GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/)\|[DEV](https://dev.to/)\|[Medium](https://medium.com/)\|[WordPress](https://wordpress.com/)\|[Blogger](https://www.blogger.com/)]
-   * Shared [Facebook\|Twitter\|IG], **#Code4Sec Week, DayX #NEIS0736 #NECS0736**
+   * Public : [[GitHub Pages](https://pages.github.com/)\|[GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/)\|[DEV](https://dev.to/)\|[Medium](https://medium.com/)\|[WordPress](https://wordpress.com/)\|[Blogger](https://www.blogger.com/)]
+   * Share : [Facebook\|Twitter\|IG], **#Code4Sec Week, Day X #NEIS0736 #NECS0736**
    * 7 continuous days
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day7)**
 
