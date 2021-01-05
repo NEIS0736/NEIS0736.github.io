@@ -615,7 +615,7 @@
 *  [Someone just searched for you on Google...](Extra/Searched-for-you-on-Google.png)
 *  [If you found it useful maybe consider buying us a coffee](Extra/buy-us-a-coffee.png)
 *  [Keybase](https://keybase.io/)
-*  Digital signature verification (e.g. [Tor Browser](https://www.torproject.org/download/))
+*  <del>Digital signature verification (e.g. [Tor Browser](https://www.torproject.org/download/))</del>
 *  [Tester Work](https://testerwork.com/), a crowdsourced testing
 *  Bug bounty/CTF write-ups
 *  <del>[Subresource Integrity](https://www.srihash.org/)</del>, *booked by Khun Fareed M.*
