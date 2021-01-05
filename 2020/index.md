@@ -544,7 +544,7 @@
 ### [**Week 11**] - (Sun) **Jan 31,** 2021
 *  **MiSS**x***Talks*** **Special**
 
-### [**Week 12**] - (Sun) **Feb 14,** 2021
+### [**Week 12**] - (Sun) **Feb 7,** 2021
 *  **Valentine** *vs.* **Ovaltine** <!--Mini contest, organized by you-->
 *  **MiSS**x***Talks***
    * *John Doe*
@@ -552,21 +552,21 @@
    * *John Doe*
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day12)** *by **John Doe***
 
-### [**Week 13**] - (Sun) **Feb 21,** 2021
+### [**Week 13**] - (Sun) **Feb 14,** 2021
 *  **Mini-Contest** ***(draw lots)***
     * Round 1
     * Round 2
     * Round 3
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day13)** *by **John Doe***
 
-### [**Week 14**] - (Sun) **Feb 28,** 2021
+### [**Week 14**] - (Sun) **Feb 21,** 2021
 *  **Group Project** Presentation ***(draw lots)***
     * Group 1
     * Group 2
     * Group 3
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day14)** *by **John Doe***
 
-### [**Week 15**] - (Sun) **Mar 7,** 2021
+### [**Week 15**] - (Sun) **Feb 28,** 2021
 *  **Group Project** Presentation ***(draw lots)***
     * Group 1
     * Group 2
