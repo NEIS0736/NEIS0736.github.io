@@ -138,6 +138,7 @@
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Nattapong-Ketkaew-qr.png)
     * [Outlook](https://eitchy.github.io/Outlook_2_Factor_Authentication)
     * [SQL Injection (POST/Select)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/sql-injection-post-select)
+    * [Software Supply-Chain Attack](https://gitlab.com/NEIS0736/2020/-/wikis/KBs/supply-chain-attack)
 <a name="Nattawut"></a>
 1. [Nattawut Reungsap](https://omoomomx.GitHub.io)
     * (6217810013) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/omoomomx) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/omoomomx) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-6578-6583")](https://orcid.org/0000-0001-6578-6583) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/omoomomx)
@@ -645,7 +646,7 @@
 *  Introspectable tunnels to localhost
 *  [Distributed Load Testing on AWS](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-distributed-load-testing-v1-2/)
 *  [Homomorphic Encryption: Unlock value of sensitive data without decryption](https://www.ibm.com/security/digital-assets/fhe/unlock-value-of-sensitive-data-without-decryption/)
-*  <del>Software Supply-Chain Attack</del>, *booked by Khun Nattapong K.*
+*  <del>Software Supply-Chain Attack</del>, *claimed by Khun Nattapong K.*
 *  <del>Golden SAML</del>, *booked by Khun Anan B.*
 *  <del>Zero Trust : Identity</del>, *booked by Khun Ekawut C.*
 *  Business logic vulnerability
