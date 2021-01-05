@@ -586,7 +586,7 @@
 |Individual assignments (#**MiSS**x***Talks***)                                       |      10     |
 |Completion of mandatory finger exercises                                             |	     5      |
 |Course project (or mini contest)                                                     |      10     |
-|Midterm exam	                                                                      |      15     |
+|Midterm exam (#Code4Sec Week)                                                        |      15     |
 |Final exam                                                                           |      35     |
 
 
