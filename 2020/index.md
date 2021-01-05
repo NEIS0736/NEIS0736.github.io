@@ -645,7 +645,7 @@
 *  <del>Golden SAML</del>, *booked by Khun Anan B.*
 *  <del>Zero Trust : Identity</del>, *booked by Khun Ekawut C.*
 *  Business logic vulnerability
-*  Case Styles
+*  <del>Case Styles</del>, *booked by Khun Vatcharin K.*
 *  Sandbox
 *  <del>**Consent**: ***option*** **not** an ***obligation***</del>, *booked by Khun Nattawut R.*
 
