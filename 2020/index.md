@@ -74,7 +74,7 @@
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Congrats-Fareed.png)
     * [TC : E-Mail Validation](https://marukofar.github.io/Test-Case-Email-Validation)
     * [Twitter](https://marukofar.github.io/Twitter-Two-factor-authentication)
-    * [XSS-Reflected User-Agent](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/XSS-Reflected_User-Agent)
+    * [XSS - Reflected (User-Agent)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/XSS-Reflected_User-Agent)
 <a name="Hachol"></a>
 1. [Hachol Dabthong](https://hacholda.GitHub.io)
     * (6217810010) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/hacholda) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/hacholda) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-7028-3742")](https://orcid.org/0000-0002-7028-3742) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/hacholda)
@@ -96,7 +96,7 @@
     * [SQL Injection, the well-known vulnerability ever (Part I)](/2020/MiSSxTalks/JarayP.jpg)
     * [Twitter](https://marukofar.github.io/Twitter-Two-factor-authentication)
     * [TC : Authentication Time Limit](https://hirayshi.github.io/Authentication_5_Time_fail)
-    * [XSS-Reflected User-Agent](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/XSS-Reflected_User-Agent)
+    * [XSS - Reflected (User-Agent)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/XSS-Reflected_User-Agent)
 <a name="Jaruspong"></a>
 1. [Jaruspong Tongboon](https://jaruspong4.GitHub.io)
     * (6217810004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/jaruspong4) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/jaruspong4)
@@ -488,9 +488,9 @@
       * [NetBeans : PHP](https://netbeans.org/downloads/8.2/rc/), [VS Code](https://code.visualstudio.com/download) with PHP Static Analysis extension
 *  [**#HereWeFix**](https://www.google.com/search?q=%23HereWeFix&rlz=1C9BKJA_enTH873TH874&hl=en-US&prmd=mivn&source=lnms&tbm=isch&sa=X&ved=2ahUKEwim0qX2ysftAhXyzzgGHbpwBl0Q_AUoAnoECAQQAg&biw=834&bih=997&dpr=2)
    * [SQL Injection (Login Form/User)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/SQL-Injection-Login-Form) - Piyawit / Bhoomjit
-   * [XSS-Reflected (GET)](https://icesuntisuk.github.io/KB/xss-reflected-get) - IceSuntisuk / Sakarin
+   * [XSS - Reflected (GET)](https://icesuntisuk.github.io/KB/xss-reflected-get) - IceSuntisuk / Sakarin
    * [SQL Injection (GET/Search)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/SQL-Injection-GET-Search) - Saran / Nipitpon
-   * [XSS-Reflected User-Agent](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/XSS-Reflected_User-Agent) - Fareed / Jaray
+   * [XSS - Reflected (User-Agent)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/XSS-Reflected_User-Agent) - Fareed / Jaray
    * [PHP Code Injection](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/PHPCodeInjection/PHPCodeInjection) - Athiporn / Phureephat
    * [XSS - Reflected (PHP_SELF)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/xss-php-self) - Thanakorn / Ekawut
    * [SQL Injection (POST/Search)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/sql-injection-POST-Search) - Nantawan / Vuttawat
