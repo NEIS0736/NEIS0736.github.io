@@ -586,8 +586,8 @@
 |Individual assignments (#**MiSS**x***Talks***)                                       |      10     |
 |Completion of mandatory finger exercises                                             |	     5      |
 |Course project (or mini contest)                                                     |      10     |
-|Midterm exam	                                                                      |      20     |
-|Final exam                                                                           |      30     |
+|Midterm exam	                                                                      |      15     |
+|Final exam                                                                           |      35     |
 
 
 ### [**Required Materials**]
