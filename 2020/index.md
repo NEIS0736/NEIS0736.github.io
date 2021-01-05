@@ -615,15 +615,15 @@
 
 
 ### [**Extra Point**]
-*  <del>[GitLab](https://gitlab.com/) Pages</del>, *claimed by Khun Vuttawat U.*
-*  <del>**GitLab** - **P**ersonal **A**ccess **T**oken</del>, *claimed by Khun Thanakorn P.*
+*  <del>[GitLab](https://gitlab.com/) Pages</del>, *claimed by Khun [Vuttawat U.](#Vuttawat)*
+*  <del>**GitLab** - **P**ersonal **A**ccess **T**oken</del>, *claimed by Khun [Thanakorn P.](#Thanakorn)*
 *  [Someone just searched for you on Google...](Extra/Searched-for-you-on-Google.png)
 *  [If you found it useful maybe consider buying us a coffee](Extra/buy-us-a-coffee.png)
 *  [Keybase](https://keybase.io/)
 *  <del>Digital signature verification (e.g. [Tor Browser](https://www.torproject.org/download/))</del>
 *  [Tester Work](https://testerwork.com/), a crowdsourced testing
 *  Bug bounty/CTF write-ups
-*  <del>[Subresource Integrity](https://www.srihash.org/)</del>, *booked by Khun Fareed M.*
+*  <del>[Subresource Integrity](https://www.srihash.org/)</del>, *booked by Khun [Fareed M.](#Fareed)*
 *  Publication[s] (e.g. [Coin Recovery](https://ieeexplore.ieee.org/abstract/document/8911915), [ECTI DAMT and NCON 2021](https://ict.up.ac.th/icdamt/2021/cfp.php))
 *  Community volunteering (e.g. [VolunteXTH](https://VolunteX.GitHub.io/), [Barcamp Bangkhen](https://www.facebook.com/Barcampbangkhen/posts/3695288630493546))
 *  Certification (e.g. [Professional Certificate in Secure Software Development Fundamentals](https://www.edx.org/professional-certificate/linuxfoundationx-secure-software-development-fundamentals))
@@ -633,24 +633,24 @@
     * "Insecure deserialization is such a common mistake in web applications that it is 2017 OWASP Top 10 #8 and 2019 CWE Top 25 #23. It is [CWE-502](https://cwe.mitre.org/data/definitions/502.html), Deserialization of Untrusted Data. Attackers may find such vulnerabilities harder to exploit, but once the vulnerability is found it can result in immediate compromise of an entire system, because it may provide complete control of the system to the attacker."
 *  <del>Warning: line endings have changed from 'LF' to 'CRLF'</del>, *claimed by Khun Piyawit K.*
 *  **C**yber **T**hreat **I**ntelligence - **API**. “**Threat intelligence” (TI)** is evidence-based knowledge — including context, mechanisms, indicators, implications and actionable advice — about an existing or emerging menace or hazard to IT or information assets. It can be used to inform decisions regarding the subject’s response to that menace or hazard. ***– Gartner***
-*  <del>What is a (computing/digital) **platform**?</del>, *booked by Khun Phureephat S.*
+*  <del>What is a (computing/digital) **platform**?</del>, *booked by Khun [Phureephat S.](#Phureephat)*
 *  **ar·chi·tec·ture** /ˈärkəˌtek(t)SHər/
-*  <del>[Data Governance](https://www.dga.or.th/th/profile/2108/)</del>, *claimed by Khun Bhoomjit Bh.*
-*  <del>Source Code **Escrow** Agreement</del>, *claimed by Khun Theerapong K.*
-*  <del>Technical Due Diligence</del>, *booked by Khun Shirassuda T.*
-*  <del>Search vs. Browse</del>, *claimed by Khun Phureephat S.*
+*  <del>[Data Governance](https://www.dga.or.th/th/profile/2108/)</del>, *claimed by Khun [Bhoomjit Bh.](#Bhoomjit)*
+*  <del>Source Code **Escrow** Agreement</del>, *claimed by Khun [Theerapong K.](#Theerapong)*
+*  <del>Technical Due Diligence</del>, *booked by Khun [Shirassuda T.](#Shirassuda)*
+*  <del>Search vs. Browse</del>, *claimed by Khun [Phureephat S.](#Phureephat)*
 *  [Amazon Lookout for Vision - Spot product defects using computer vision to automate quality inspection](https://aws.amazon.com/lookout-for-vision/)
-*  <del>Planet earth with visualization of GitHub activity crossing the globe</del>, *claimed by Khun Piyawit K.*
+*  <del>Planet earth with visualization of GitHub activity crossing the globe</del>, *claimed by Khun [Piyawit K.](#Piyawit)*
 *  10 Cool Error/Warning Messages
-*  <del>Static Site Generators - SSGs</del>, *claimed by Khun Phureephat S.*
+*  <del>Static Site Generators - SSGs</del>, *claimed by Khun [Phureephat S.](#Phureephat)*
 *  Introspectable tunnels to localhost
 *  [Distributed Load Testing on AWS](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-distributed-load-testing-v1-2/)
 *  [Homomorphic Encryption: Unlock value of sensitive data without decryption](https://www.ibm.com/security/digital-assets/fhe/unlock-value-of-sensitive-data-without-decryption/)
 *  <del>Software Supply-Chain Attack</del>, *claimed by Khun [Nattapong K.](#Nattapong)*
-*  <del>Golden SAML</del>, *booked by Khun Anan B.*
-*  <del>Zero Trust : Identity</del>, *booked by Khun Ekawut C.*
+*  <del>Golden SAML</del>, *booked by Khun [Anan B.](#Anan)*
+*  <del>Zero Trust : Identity</del>, *booked by Khun [Ekawut C.](#Ekawut)*
 *  Business logic vulnerability
-*  <del>Case Styles</del>, *booked by Khun Vatcharin K.*
+*  <del>Case Styles</del>, *booked by Khun [Vatcharin K.](#Vatcharin)*
 *  Sandbox
 *  <del>**Consent**: ***option*** **not** an ***obligation***</del>, *booked by Khun [Nattawut R.](#Nattawut)*
 
