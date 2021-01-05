@@ -85,7 +85,7 @@
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/QRtiger2.png)
     * [TC : Log Content](https://inuax.github.io/Testcase-Log_Content_Requirements)
     * [Microsoft](https://inuax.github.io/MicrosoftAuthenticator)
-    * [XSS Reflex(JSON)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/XSS-Reflexted(JSON))
+    * [XSS - Reflected (User-Agent)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/XSS-Reflexted(JSON))
 <a name="Jaray"></a>
 1. [Jaray Paensong](https://HiRayShi.GitHub.io)
     * (6317660006) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/HiRayShi) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/HiRayShi) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-4654-9157")](https://orcid.org/0000-0003-4654-9157) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/jarray)
@@ -145,7 +145,7 @@
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Nattawut-qr-code.png)
     * [TC : Authorization of the server resource](https://omoomomx.github.io/AuthorizationTestCase)
     * [Firefox](https://omoomomx.github.io/FirefoxTwoFactorAuthentication)
-    * [XSS Reflex(JSON)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/XSS-Reflexted(JSON))
+    * [XSS - Reflected (User-Agent)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/XSS-Reflexted(JSON))
 <a name="Nipitpon"></a>
 1. [Nipitpon Doungyai](https://itsGno.GitHub.io)
     * (6317810008) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/itsGno) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/itsGno) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-1681-1126")](https://orcid.org/0000-0003-1681-1126) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/ggasd)
@@ -496,7 +496,7 @@
    * [SQL Injection (POST/Search)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/sql-injection-POST-Search) - Nantawan / Vuttawat
    * HTML Injection - Reflected (GET) - Theerapong / Narunart
    * SQL Injection (GET/Select) - Shirassuda
-   * [XSS Reflex(JSON)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/XSS-Reflexted(JSON)) - Hachol / Nattawut
+   * [XSS - Reflected (User-Agent)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/XSS-Reflexted(JSON)) - Hachol / Nattawut
    * [SQL Injection - Blind - Time-Based](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/SQL-Injection-Blind-TimeBased) - Anan / Soontorn
    * Unrestricted File Upload - Sanchat / Wasupol
    * [SQL Injection (POST/Select)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/sql-injection-post-select) - Nattapong
