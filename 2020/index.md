@@ -215,7 +215,7 @@
     * [TC : XSS](https://ahictf.github.io/xsstestcase/)
     * [SQL Injection (GET/Search)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/SQL-Injection-GET-Search)
     * #Code4Sec
-      * [Day 1 : mysqli_real_escape_string()](https://www.facebook.com/SaranKaewnang/posts/3617391354981586)
+      * [Day 1 : mysqli_real_escape_string()](https://www.facebook.com/SaranKaewnang/posts/3617391354981586) - *Jan 5, 2021*
 <a name="Shirassuda"></a>
 1. [Shirassuda Thongpakdhi](http://MyGitHubNEIS0736.github.io)
     * (6117810017) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/MyGitHubNEIS0736) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/MyGitHubNEIS0736) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-8272-0161")](https://orcid.org/0000-0002-8272-0161) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/shianeis0736)
@@ -246,10 +246,10 @@
     * [GitHub](https://icesuntisuk.github.io/KB/2factorauthGitHub)
     * [XSS - Reflected (GET)](https://icesuntisuk.github.io/KB/xss-reflected-get)
     * #Code4Sec
-      * [Day 1 : request_safe](https://www.facebook.com/itvill/posts/3747948995256931)
-      * [Day 2 : uuid](https://www.facebook.com/itvill/posts/3750553271663170)
-      * [Day 3 : ntplib](https://www.facebook.com/itvill/posts/3752140454837785)
-      * [Day 4 : base64](https://www.facebook.com/itvill/posts/3754710871247410)
+      * [Day 1 : request_safe](https://www.facebook.com/itvill/posts/3747948995256931) - *Jan 3, 2021*
+      * [Day 2 : uuid](https://www.facebook.com/itvill/posts/3750553271663170) - *Jan 4, 2021*
+      * [Day 3 : ntplib](https://www.facebook.com/itvill/posts/3752140454837785) - *Jan 5, 2021*
+      * [Day 4 : base64](https://www.facebook.com/itvill/posts/3754710871247410) - *Jan 6, 2021*
 <a name="Sununta"></a>
 1. [Sununta Labaiusuh](https://sununta580.GitHub.io)
     * (6217810009) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/sununta580) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/sununta)
