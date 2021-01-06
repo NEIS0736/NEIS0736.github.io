@@ -248,6 +248,7 @@
       * [Day 1 : request_safe](https://www.facebook.com/itvill/posts/3747948995256931)
       * [Day 2 : uuid](https://www.facebook.com/itvill/posts/3750553271663170)
       * [Day 3 : ntplib](https://www.facebook.com/itvill/posts/3752140454837785)
+      * [Day 4 : base64](https://www.facebook.com/itvill/posts/3754710871247410)
 <a name="Sununta"></a>
 1. [Sununta Labaiusuh](https://sununta580.GitHub.io)
     * (6217810009) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/sununta580) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/sununta)
