@@ -212,9 +212,9 @@
     * One-on-One - VA, PT
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/SaranK-qr-cong.png)
     * [TC : XSS](https://ahictf.github.io/xsstestcase/)
-    * [SQL Injection (GET/Search)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/SQL-Injection-GET-Search
+    * [SQL Injection (GET/Search)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/SQL-Injection-GET-Search)
     * #Code4Sec
-      * [Day 1 : mysqli_real_escape_string()]https://www.facebook.com/SaranKaewnang/posts/3617391354981586
+      * [Day 1 : mysqli_real_escape_string()](https://www.facebook.com/SaranKaewnang/posts/3617391354981586)
 <a name="Shirassuda"></a>
 1. [Shirassuda Thongpakdhi](http://MyGitHubNEIS0736.github.io)
     * (6117810017) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/MyGitHubNEIS0736) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/MyGitHubNEIS0736) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-8272-0161")](https://orcid.org/0000-0002-8272-0161) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/shianeis0736)
@@ -544,15 +544,16 @@
 ---
 
 ### [**Week 8**] - (Sun) **Jan 10,** 2021
-*  **Online** ***(due to COVID-19)***
+*  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/zxv-teet-zuk)
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day8)** *by **John Doe***
 
 ### [**Week 9**] - (Sun) **Jan 17,** 2021
-*  **Online** ***(due to COVID-19)***
+*  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/cmm-dzag-def)
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day9)** *by **John Doe***
 
 ### [**Week 10**] - (Sun) **Jan 24,** 2021
-*  **MiSS**x***Talks***
+*  [![](img/video.png "Video")](https://meet.google.com/syx-xxzr-ytx)
+*  **MiSS**x***Talks*** 
    * *John Doe*
    * *John Doe*
    * *John Doe*
@@ -560,7 +561,7 @@
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day10)** *by **John Doe***
 
 ### [**Week 11**] - (Sun) **Jan 31,** 2021
-*  **MiSS**x***Talks*** **Special**
+*  [![](img/video.png "Video")](https://meet.google.com/fsd-code-jiw)
 
 ### [**Week 12**] - (Sun) **Feb 7,** 2021
 *  **Valentine** *vs.* **Ovaltine** <!--Mini contest, organized by you-->
