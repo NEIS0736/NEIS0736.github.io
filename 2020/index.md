@@ -705,4 +705,4 @@
 
 ---
 
-**"Improvement begins with I.", -- ***Arnold H. Glasow.***
+**"Improvement begins with I."**, -- ***Arnold H. Glasow.***
