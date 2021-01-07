@@ -693,6 +693,8 @@
 *  [GitHub Desktop](https://desktop.github.com/)
 *  [ReversoSpeller](https://www.reverso.net/spell-checker/english-spelling-grammar/)
 
+---
+
 ### Misc.
 *  [Web Framework Benchmarks](https://www.techempower.com/benchmarks/)
 *  [Practical Cryptography for Developers](https://cryptobook.nakov.com/)
