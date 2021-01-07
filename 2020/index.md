@@ -670,6 +670,7 @@
 *  [Amazon Lookout for Vision - Spot product defects using computer vision to automate quality inspection](https://aws.amazon.com/lookout-for-vision/)
 *  <del>Planet earth with visualization of GitHub activity crossing the globe</del>, *claimed by Khun [Piyawit K.](#Piyawit)*
 *  10 Cool Error/Warning Messages
+*  **lint**, or a **linter**
 *  <del>Static Site Generators - SSGs</del>, *claimed by Khun [Phureephat S.](#Phureephat)*
 *  Introspectable tunnels to localhost
 *  [Distributed Load Testing on AWS](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-distributed-load-testing-v1-2/)
@@ -681,7 +682,6 @@
 *  <del>Case Styles</del>, *booked by Khun [Vatcharin K.](#Vatcharin)*
 *  Sandbox
 *  <del>**Consent**: ***option*** **not** an ***obligation***</del>, *booked by Khun [Nattawut R.](#Nattawut)*
-*  **lint**, or a **linter**
 
 ---
 [Anan](#Anan), [Athiporn](#Athiporn), [Bhoomjit](#Bhoomjit), [Ekawut](#Ekawut), [Fareed](#Fareed), [Hachol](#Hachol), [Jaray](#Jaray), [Keaittisak](#Keaittisak), [Nantawan](#Nantawan), [Narunart](#Narunart), [Nattapong](#Nattapong), [Nattawut](#Nattawut), [Nipitpon](#Nipitpon), [Phureephat](#Phureephat), [Piyawit](#Piyawit), [Sakarin](#Sakarin), [Sanchat](#Sanchat), [Saran](#Saran), [Shirassuda](#Shirassuda), [Soontorn](#Soontorn), [Suntisuk](#Suntisuk), [Supattra](#Supattra), [Thanakorn](#Thanakorn), [Theerapong](#Theerapong), [Vatcharin](#Vatcharin), [Vuttawat](#Vuttawat), [Wasupol](#Wasupol)
