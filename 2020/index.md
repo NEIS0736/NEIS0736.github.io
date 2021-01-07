@@ -682,7 +682,7 @@
 *  <del>Case Styles</del>, *booked by Khun [Vatcharin K.](#Vatcharin)*
 *  Sandbox
 *  <del>**Consent**: ***option*** **not** an ***obligation***</del>, *booked by Khun [Nattawut R.](#Nattawut)*
-*  Tools calibration: why is it important?
+*  Tools **calibration**: why is it important?
 
 ---
 [Anan](#Anan), [Athiporn](#Athiporn), [Bhoomjit](#Bhoomjit), [Ekawut](#Ekawut), [Fareed](#Fareed), [Hachol](#Hachol), [Jaray](#Jaray), [Keaittisak](#Keaittisak), [Nantawan](#Nantawan), [Narunart](#Narunart), [Nattapong](#Nattapong), [Nattawut](#Nattawut), [Nipitpon](#Nipitpon), [Phureephat](#Phureephat), [Piyawit](#Piyawit), [Sakarin](#Sakarin), [Sanchat](#Sanchat), [Saran](#Saran), [Shirassuda](#Shirassuda), [Soontorn](#Soontorn), [Suntisuk](#Suntisuk), [Supattra](#Supattra), [Thanakorn](#Thanakorn), [Theerapong](#Theerapong), [Vatcharin](#Vatcharin), [Vuttawat](#Vuttawat), [Wasupol](#Wasupol)
