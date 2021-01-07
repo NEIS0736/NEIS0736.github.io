@@ -255,6 +255,7 @@
       * [Day 2 : uuid](https://www.facebook.com/itvill/posts/3750553271663170) - *Jan 4, 2021*
       * [Day 3 : ntplib](https://www.facebook.com/itvill/posts/3752140454837785) - *Jan 5, 2021*
       * [Day 4 : base64](https://www.facebook.com/itvill/posts/3754710871247410) - *Jan 6, 2021*
+      * [Day 5 : PasswordPolicy](https://www.facebook.com/itvill/posts/3757502590968238)
 <a name="Sununta"></a>
 1. [Sununta Labaiusuh](https://sununta580.GitHub.io)
     * (6217810009) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/sununta580) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/sununta)
@@ -274,7 +275,7 @@
     * #Code4Sec
       * [Day 1 : hashlib](https://twitter.com/pattra1994/status/1346493072679452672) - *Jan 5, 2021*
       * [Day 2 : cryptography.fernet](https://twitter.com/pattra1994/status/1346663296477249539) - *Jan 6, 2021*
-      * [Day 3 : passlib.hash](https://twitter.com/pattra1994/status/1347012388864749568)
+      * [Day 3 : passlib.hash](https://twitter.com/pattra1994/status/1347012388864749568) - *Jan 7, 2021*
 <a name="Thanakorn"></a>
 1. [Thanakorn Prajuabkamon](https://nongkon09.GitHub.io)
     * (6217810017) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/nongkon09) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/nongkon09) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-3201-789X")](https://orcid.org/0000-0002-3201-789X) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/nongkon09)
