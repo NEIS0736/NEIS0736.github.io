@@ -44,6 +44,7 @@
     * [PHP Code Injection](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/PHPCodeInjection/PHPCodeInjection)
     * #Code4Sec
       * [Day 1 : System.Text.RegularExpressions](https://www.facebook.com/1815463699/posts/10215246402232768) - *Jan 6, 2021*
+      * [Day 2 : TryValidateModel](https://www.facebook.com/1815463699/posts/10215250371211990) - *Jan 7, 2021*
 <a name="Bhoomjit"></a>
 1. [Bhoomjit Bhoominath](https://peegonggoy.GitHub.io)
     * (6317660004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/peegonggoy) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/peegonggoy) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-9561-730X")](https://orcid.org/0000-0001-9561-730X) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/peegonggoy)
