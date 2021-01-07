@@ -709,6 +709,7 @@
 *  [Why is XAMPP not suited for production?](https://stackoverflow.com/questions/26297731/)
 *  [Sensitive Data Exposed in GitHub](https://unit42.paloaltonetworks.com/github-data-exposed/)
 *  [Programiz](https://www.programiz.com/), Learn to Code for Free
+*  [AskPython](https://www.askpython.com/), Start your Python Journey from our top quality tutorials.
 
 ---
 
