@@ -712,6 +712,8 @@
 *  [AskPython](https://www.askpython.com/), Start your Python Journey from our top quality tutorials.
 *  [JournalDev](https://www.journaldev.com/)
 *  [The Python Package Index (PyPI)](https://pypi.org/)
+*  [The Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/), a web app for encryption, encoding, compression and data analysis
+*  [Golang Tutorial, Blog, Articles and Examples](https://www.golangprograms.com/)
 
 ---
 
