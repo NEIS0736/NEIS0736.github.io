@@ -632,6 +632,7 @@
 *  [Computer Security and the Internet:  Tools and Jewels](https://people.scs.carleton.ca/~paulv/toolsjewels.html), Paul C. van Oorschot
 *  [Software Security:  Principles, Policies, and Protection](https://nebelwelt.net/SS3P/softsec.pdf), Payer 
 *  [OWASP Web Security Testing Guide v4.2](https://github.com/OWASP/wstg/releases/download/v4.2/wstg-v4.2.pdf)
+*  [Web Application Security Standard v1.0](https://standard.etda.or.th/wp-content/uploads/2018/09/20150405-ER-WAS-V07-33-R1.pdf) by ETDA
 *  [Thailand Data Protection Guidelines v3.0](https://www.law.chula.ac.th/wp-content/uploads/2020/12/TDPG3.0-C5-20201208.pdf)
 *  [Guideline for Blockchain Technology Adoption in Financial Services](https://www.bot.or.th/Thai/Segmentation/Public/PublicHearing/Documents/Hearing_Blockchain.pdf)
 
