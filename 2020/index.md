@@ -560,6 +560,7 @@
 
 ### [**Week 8**] - (Sun) **Jan 10,** 2021
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/zxv-teet-zuk)
+*  Pairing for #CollabChallenge by [Random Team Generator](https://www.randomlists.com/team-generator)
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day8)** *by **John Doe***
 *  Homework
    * Prep. for the **#CollabChallenge**, 5 points per group
