@@ -282,6 +282,7 @@
       * [Day 1 : hashlib](https://twitter.com/pattra1994/status/1346493072679452672) - *Jan 5, 2021*
       * [Day 2 : cryptography.fernet](https://twitter.com/pattra1994/status/1346663296477249539) - *Jan 6, 2021*
       * [Day 3 : passlib.hash](https://twitter.com/pattra1994/status/1347012388864749568) - *Jan 7, 2021*
+      * [Day 4 : requests.get](https://twitter.com/pattra1994/status/1347382201017536513) - *Jan 8, 2021*
 <a name="Thanakorn"></a>
 1. [Thanakorn Prajuabkamon](https://nongkon09.GitHub.io)
     * (6217810017) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/nongkon09) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/nongkon09) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-3201-789X")](https://orcid.org/0000-0002-3201-789X) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/nongkon09)
