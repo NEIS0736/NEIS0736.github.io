@@ -743,6 +743,7 @@
 *  [The Python Package Index (PyPI)](https://pypi.org/)
 *  [The Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/), a web app for encryption, encoding, compression and data analysis
 *  [Golang Tutorial, Blog, Articles and Examples](https://www.golangprograms.com/)
+*  [Learn how a medium-sized business managed to successfully include web security testing in their SDLC processes](https://www.acunetix.com/wp-content/uploads/2020/10/Acunetix-Including-Web-Application-Security-in-an-Agile-SDLC.pdf), Acunetix
 
 ---
 
