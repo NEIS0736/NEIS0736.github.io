@@ -261,6 +261,7 @@
       * [Day 3 : ntplib](https://www.facebook.com/itvill/posts/3752140454837785) - *Jan 5, 2021*
       * [Day 4 : base64](https://www.facebook.com/itvill/posts/3754710871247410) - *Jan 6, 2021*
       * [Day 5 : PasswordPolicy](https://www.facebook.com/itvill/posts/3757502590968238) - *Jan 7, 2021*
+      * [Day 6 : threading](https://www.facebook.com/itvill/posts/3760084420710055) - *Jan 8, 2021*
 <a name="Sununta"></a>
 1. [Sununta Labaiusuh](https://sununta580.GitHub.io)
     * (6217810009) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/sununta580) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/sununta)
