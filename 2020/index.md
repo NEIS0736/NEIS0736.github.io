@@ -177,6 +177,7 @@
     * [SQL Injection (GET/Search)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/SQL-Injection-GET-Search)
     * #Code4Sec Week
       * [Day 1 : escape()](https://www.facebook.com/profiIe.info/posts/3694202620636799) - *Jan 7, 2021*
+      * [Day 2 : parseInt() kill eval()](https://www.facebook.com/profiIe.info/posts/3698243083566086) - *Jan 8, 2021*
 <a name="Phureephat"></a>
 1. [Phureephat Sottiratanapan](https://PhureephatS.GitHub.io)
     * (6217810014) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/PhureephatS) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/PhureephatS) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-1300-8231")](https://orcid.org/0000-0003-1300-8231) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/phureephats)
