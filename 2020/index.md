@@ -570,7 +570,20 @@
    
 ### [**Week 9**] - (Sun) **Jan 17,** 2021
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/cmm-dzag-def)
-*  **#CollabChallenge**, **#PairProgramming** the funny way **;P**
+*  **#CollabChallenge**, **#PairProgramming** the funny way **;P** ***(draw lots)***
+   1. Alice & Bob
+   1. Alice & Bob
+   1. Alice & Bob
+   1. Alice & Bob
+   1. Alice & Bob
+   1. Alice & Bob
+   1. Alice & Bob
+   1. Alice & Bob
+   1. Alice & Bob
+   1. Alice & Bob
+   1. Alice & Bob
+   1. Alice & Bob
+   1. Alice & Bob
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day9)** *by **John Doe***
 
 ### [**Week 10**] - (Sun) **Jan 24,** 2021
