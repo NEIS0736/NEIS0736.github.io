@@ -561,9 +561,12 @@
 ### [**Week 8**] - (Sun) **Jan 10,** 2021
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/zxv-teet-zuk)
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day8)** *by **John Doe***
-
+*  Homework
+   * Prep. for the **#CollabChallenge**, 5 points per group
+   
 ### [**Week 9**] - (Sun) **Jan 17,** 2021
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/cmm-dzag-def)
+*  #CollabChallenge, #PairProgramming the funny way ;P
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day9)** *by **John Doe***
 
 ### [**Week 10**] - (Sun) **Jan 24,** 2021
