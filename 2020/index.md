@@ -710,7 +710,8 @@
 *  Sandbox
 *  <del>**Consent**: ***option*** **not** an ***obligation***</del>, *booked by Khun [Nattawut R.](#Nattawut)*
 *  Tools **calibration**: why is it important?
-*  http://www3.weforum.org/docs/WEF_Next_Gen_Data_Sharing_Financial_Services.pdf
+*  [Using Privacy Enhancing Techniques to Unlock New Value](http://www3.weforum.org/docs/WEF_Next_Gen_Data_Sharing_Financial_Services.pdf), WEF
+*  If you don’t want to invest in SAST tools for all your languages
 
 ---
 [Anan](#Anan), [Athiporn](#Athiporn), [Bhoomjit](#Bhoomjit), [Ekawut](#Ekawut), [Fareed](#Fareed), [Hachol](#Hachol), [Jaray](#Jaray), [Keaittisak](#Keaittisak), [Nantawan](#Nantawan), [Narunart](#Narunart), [Nattapong](#Nattapong), [Nattawut](#Nattawut), [Nipitpon](#Nipitpon), [Phureephat](#Phureephat), [Piyawit](#Piyawit), [Sakarin](#Sakarin), [Sanchat](#Sanchat), [Saran](#Saran), [Shirassuda](#Shirassuda), [Soontorn](#Soontorn), [Suntisuk](#Suntisuk), [Supattra](#Supattra), [Thanakorn](#Thanakorn), [Theerapong](#Theerapong), [Vatcharin](#Vatcharin), [Vuttawat](#Vuttawat), [Wasupol](#Wasupol)
