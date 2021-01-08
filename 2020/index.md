@@ -104,10 +104,7 @@
     * [Microsoft](https://inuax.github.io/MicrosoftAuthenticator)
     * [XSS - Reflected (JSON)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/XSS-Reflexted(JSON))
     * #Code4Sec Week
-      * [Day 1 : jsonschema.validate()](#) - *Jan 8, 2021*
-    
-    
-    
+      * [Day 1 : jsonschema.validate()](#) - *Jan 8, 2021*      
 <a name="Jaray"></a>
 1. [Jaray Paensong](https://HiRayShi.GitHub.io)
     * (6317660006) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/HiRayShi) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/HiRayShi) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-4654-9157")](https://orcid.org/0000-0003-4654-9157) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/jarray)
