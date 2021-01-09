@@ -49,6 +49,7 @@
       * [Day 1 : System.Text.RegularExpressions](https://www.facebook.com/1815463699/posts/10215246402232768) - *Jan 6, 2021*
       * [Day 2 : TryValidateModel](https://www.facebook.com/1815463699/posts/10215250371211990) - *Jan 7, 2021*
       * [Day 3 : CookieOptions](https://www.facebook.com/1815463699/posts/10215257306465367/?d=n) - *Jan 8, 2021*
+      * [Day 4 : AuthorizeAttribute](https://www.facebook.com/1815463699/posts/10215266285929848) - *Jan 9, 2021*
 <a name="Bhoomjit"></a>
 1. [Bhoomjit Bhoominath](https://peegonggoy.GitHub.io)
     * (6317660004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/peegonggoy) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/peegonggoy) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-9561-730X")](https://orcid.org/0000-0001-9561-730X) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/peegonggoy)
@@ -214,7 +215,7 @@
     * [GitHub](https://icesuntisuk.github.io/KB/2factorauthGitHub)
     * [XSS - Reflected (GET)](https://icesuntisuk.github.io/KB/xss-reflected-get)
     * #Code4Sec Week
-      * [Day 1 : Steganography()](https://www.facebook.com/Sakarin.BooM/posts/10220457623894122)
+      * [Day 1 : Steganography()](https://www.facebook.com/Sakarin.BooM/posts/10220457623894122) - *Jan 9, 2021*
 <a name="Sanchat"></a>
 1. [Sanchat Phaisit](https://ph-sanchat.GitHub.io)
     * (6317810015) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ph-sanchat) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/ph-sanchat) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-4707-179X")](https://orcid.org/0000-0003-4707-179X) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/sanchatphaisit)
