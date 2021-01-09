@@ -588,7 +588,7 @@
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day8)** *by **John Doe***
 *  Homework
    * Prep. for the **#CollabChallenge**, ***5 points*** per group
-      *  You select 3 topics from the published #Code4Sec (by your friends), 1 will be chosen by the instructor.
+      *  You select 3 topics from the [published #Code4Sec](https://www.facebook.com/hashtag/Code4Sec) (by your friends), 1 will be chosen by the instructor.
       *  Take turn every 3 characters
    
 ### [**Week 9**] - (Sun) **Jan 17,** 2021
