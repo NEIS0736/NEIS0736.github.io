@@ -613,7 +613,7 @@
 *  Homework
    * Prep. for the **#CollabChallenge**, ***5 points*** per group
       *  You select 3 topics from the [published #Code4Sec](https://www.facebook.com/hashtag/Code4Sec) (by your friends), 1 will be chosen by the instructor.
-      *  Take turn every 3 characters
+      *  Take turn every 3 characters in 3 mins w/o talking together.
    
 ### [**Week 9**] - (Sun) **Jan 17,** 2021
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/cmm-dzag-def)
