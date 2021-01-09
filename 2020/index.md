@@ -604,7 +604,7 @@
    1. Alice & Bob
    1. Alice & Bob
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day9)** *by **John Doe***
-*  [EsKoOnG](https://repl.it/@EsKoOnG)
+*  [EsKoOnG](https://repl.it/@EsKoOnG), [Devtech95](https://repl.it/@Devtech95)
 
 ### [**Week 10**] - (Sun) **Jan 24,** 2021
 *  [![](img/video.png "Video")](https://meet.google.com/syx-xxzr-ytx)
