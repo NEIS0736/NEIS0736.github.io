@@ -583,12 +583,13 @@
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/zxv-teet-zuk)
 *  [Talk, learn, collab and **code together** right in your browser](https://repl.it/join/daowtxah-maeklong)
 *  Pairing for **#CollabChallenge** by [Random Team Generator](https://www.randomlists.com/team-generator)
-   *  You select 3 topics from the published #Code4Sec (by your friends), 1 will be chosen by the instructor.
-   *  Take turn every 3 characters
+   * @alice & @bob
 *  Review & Revise your published #Code4Sec
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day8)** *by **John Doe***
 *  Homework
    * Prep. for the **#CollabChallenge**, ***5 points*** per group
+      *  You select 3 topics from the published #Code4Sec (by your friends), 1 will be chosen by the instructor.
+      *  Take turn every 3 characters
    
 ### [**Week 9**] - (Sun) **Jan 17,** 2021
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/cmm-dzag-def)
