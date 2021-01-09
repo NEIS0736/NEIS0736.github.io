@@ -583,7 +583,9 @@
    [@PhureephatS](https://repl.it/@PhureephatS),
    [@omoomomx](https://repl.it/@omoomomx),
    [@sanchat13](https://repl.it/@sanchat13),
-   [@ryudokung](https://repl.it/@ryudokung)
+   [@ryudokung](https://repl.it/@ryudokung),
+   [@AnanBoondamnoen](https://repl.it/@AnanBoondamnoen),
+   [@jaray06](https://repl.it/@jaray06)
    
 ---
 
