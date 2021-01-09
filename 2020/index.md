@@ -777,6 +777,7 @@
 
 ### [**Misc.**]
 *  [SonarSource Rules](https://rules.sonarsource.com/)
+*  [CWE™, a community-developed list of software and hardware weakness types](http://cwe.mitre.org/)
 *  [Web Framework Benchmarks](https://www.techempower.com/benchmarks/)
 *  [Practical Cryptography for Developers](https://cryptobook.nakov.com/)
 *  [Why is XAMPP not suited for production?](https://stackoverflow.com/questions/26297731/)
