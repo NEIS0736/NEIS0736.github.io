@@ -593,7 +593,7 @@
    
 ### [**Week 9**] - (Sun) **Jan 17,** 2021
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/cmm-dzag-def)
-*  **#CollabChallenge**, **#PairProgramming** the funny way 😜 [***(draw lots)***](https://wheelofnames.com/)
+*  **#CollabChallenge**, **#PairProgramming** the funny way (Takeshi's Castle style) 😜 [***(draw lots)***](https://wheelofnames.com/)
    1. Alice & Bob
    1. Alice & Bob
    1. Alice & Bob
