@@ -196,6 +196,8 @@
     * [Static site generator: SSGs](https://gitlab.com/NEIS0736/2020/-/wikis/KBs/static-site-generator)
     * [Facebook](https://athipornp.github.io/2020/12/20/FacebookAuthentication)
     * [PHP Code Injection](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/PHPCodeInjection/PHPCodeInjection)
+    * #Code4Sec Week
+      * [Day 1 : htmlentities()](https://www.facebook.com/somesome.memory/posts/2086451181492391) - *Jan 10, 2021*
 <a name="Piyawit"></a>
 1. [Piyawit Khumkrong](https://EsKoOnG.GitHub.io)
     * (6317810004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/EsKoOnG) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/EsKoOnG) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-5527-0233")](https://orcid.org/0000-0001-5527-0233) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/eskoong)
