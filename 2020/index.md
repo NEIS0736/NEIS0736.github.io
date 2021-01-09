@@ -787,7 +787,7 @@
 *  [Sensitive Data Exposed in GitHub](https://unit42.paloaltonetworks.com/github-data-exposed/)
 *  [Programiz](https://www.programiz.com/), Learn to Code for Free
 *  [AskPython](https://www.askpython.com/), Start your Python Journey from our top quality tutorials.
-*  [JournalDev](https://www.journaldev.com/)
+*  [JournalDev - Java, Java EE, Android, Python, Web Development Tutorials](https://www.journaldev.com/)
 *  [The Python Package Index (PyPI)](https://pypi.org/)
 *  [PYnative - Tips & Tricks](https://pynative.com/useful-python-tips-and-tricks-every-programmer-should-know/)
 *  [The Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/), a web app for encryption, encoding, compression and data analysis
