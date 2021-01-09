@@ -580,7 +580,7 @@
 
 ### [**Week 8**] - (Sun) **Jan 10,** 2021
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/zxv-teet-zuk)
-*  **[Code, create, and learn together](https://repl.it/join/daowtxah-maeklong)
+*  **[Talk, create, learn and code right in your browser](https://repl.it/join/daowtxah-maeklong)
 *  Pairing for **#CollabChallenge** by [Random Team Generator](https://www.randomlists.com/team-generator)
    *  You select 3 topics from the published #Code4Sec (by your friends), 1 will be chosen by the instructor.
    *  Take turn every 3 characters
