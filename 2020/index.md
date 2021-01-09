@@ -586,7 +586,8 @@
    [@ryudokung](https://repl.it/@ryudokung),
    [@AnanBoondamnoen](https://repl.it/@AnanBoondamnoen),
    [@jaray06](https://repl.it/@jaray06),
-   [@fAi00S](https://repl.it/@fAi00S)
+   [@fAi00S](https://repl.it/@fAi00S),
+   [@freedom357](https://repl.it/@freedom357)
    
 ---
 
