@@ -778,7 +778,8 @@
 ### [**Misc.**]
 *  [SonarSource Rules](https://rules.sonarsource.com/)
 *  [Rules - SEI CERT Oracle Coding Standard for Java - Confluence](https://wiki.sei.cmu.edu/confluence/display/java/2+Rules)
-*  [CWE™, a community-developed list of software and hardware weakness types](http://cwe.mitre.org/)
+*  [CWE™, a community-developed list of software and hardware weakness types](http://cwe.mitre.org/)\
+*  [CWE/SANS TOP 25 Most Dangerous Software Errors](https://www.sans.org/top25-software-errors/)
 *  [Web Framework Benchmarks](https://www.techempower.com/benchmarks/)
 *  [Practical Cryptography for Developers](https://cryptobook.nakov.com/)
 *  [Why is XAMPP not suited for production?](https://stackoverflow.com/questions/26297731/)
