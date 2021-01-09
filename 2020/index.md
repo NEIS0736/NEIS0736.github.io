@@ -777,6 +777,7 @@
 
 ### [**Misc.**]
 *  [SonarSource Rules](https://rules.sonarsource.com/)
+*  [Rules - SEI CERT Oracle Coding Standard for Java - Confluence](https://wiki.sei.cmu.edu/confluence/display/java/2+Rules)
 *  [CWE™, a community-developed list of software and hardware weakness types](http://cwe.mitre.org/)
 *  [Web Framework Benchmarks](https://www.techempower.com/benchmarks/)
 *  [Practical Cryptography for Developers](https://cryptobook.nakov.com/)
