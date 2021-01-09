@@ -605,7 +605,7 @@
 
 ### [**Week 8**] - (Sun) **Jan 10,** 2021
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/zxv-teet-zuk)
-*  [Talk, learn, collab and **code together** right in your browser](https://repl.it/join/daowtxah-maeklong)
+*  Class check-in : [Talk, learn, collab and **code together** right in your browser](https://repl.it/join/daowtxah-maeklong)
 *  Pairing for **#CollabChallenge** by [Random Team Generator](https://www.randomlists.com/team-generator)
    * @alice & @bob
 *  Review & Revise your published #Code4Sec
