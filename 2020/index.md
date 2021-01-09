@@ -565,7 +565,7 @@
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day7)**
 *  Homework
    * [![](/Assets/video-youtube.png "Youtube") Repl.it](https://youtu.be/KuXVaCFCQiI?t=225) **6 min.** (3:45 - 9:45)
-   * [EsKoOnG](https://repl.it/@EsKoOnG), [Devtech95](https://repl.it/@Devtech95)
+   * [@EsKoOnG](https://repl.it/@EsKoOnG), [@Devtech95](https://repl.it/@Devtech95), [@supattraboonkie](https://repl.it/@supattraboonkie)
 
 ---
 
