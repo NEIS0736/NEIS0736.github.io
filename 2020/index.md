@@ -577,8 +577,8 @@
    [@peegonggoy](https://repl.it/@peegonggoy), 
    [@hacholda](https://repl.it/@hacholda), 
    [@NarunartVongeiu](https://repl.it/@NarunartVongeiu), 
-   [@icesuntisuk](https://repl.it/@icesuntisuk)
-
+   [@icesuntisuk](https://repl.it/@icesuntisuk),
+   [@@nongkon09](https://repl.it/@nongkon09)
 ---
 
 ### <del>[**Semi-final Examination**]</del>
