@@ -563,7 +563,7 @@
 *  [#**Code**4***Sec***](https://docs.google.com/spreadsheets/d/193eb9nEBIR8jb6MMBX1cHrNORR2tloiFXNMcevtvmAg/edit?usp=sharing), a week of coding for security
    * Publish : [[GitHub Pages](https://pages.github.com/)\|[GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/)\|[DEV](https://dev.to/)\|[Medium](https://medium.com/)\|[WordPress](https://wordpress.com/)\|[Blogger](https://www.blogger.com/)]
    * Share : [Facebook\|Twitter\|IG], **#Code4Sec Week, Day X #NEIS0736 #NECS0736**
-   * 7 continuous days
+   * **7 continuous days** within ***Jan 16, 2021***
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day7)**
 *  Homework
    * [![](/Assets/video-youtube.png "Youtube") Repl.it](https://youtu.be/KuXVaCFCQiI?t=225) **6 min.** (3:45 - 9:45)
