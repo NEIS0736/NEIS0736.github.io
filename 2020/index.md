@@ -587,7 +587,8 @@
    [@AnanBoondamnoen](https://repl.it/@AnanBoondamnoen),
    [@jaray06](https://repl.it/@jaray06),
    [@fAi00S](https://repl.it/@fAi00S),
-   [@freedom357](https://repl.it/@freedom357)
+   [@freedom357](https://repl.it/@freedom357),
+   [@ShiaNEIS0736](https://repl.it/@ShiaNEIS0736)
    
 ---
 
