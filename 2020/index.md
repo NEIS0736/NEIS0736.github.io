@@ -210,6 +210,8 @@
     * [Planet earth with visualization of GitHub activity crossing the globe](https://eskoong.github.io/cyber-threat-map)
     * [V-Key](https://eskoong.github.io/2FA-with-V-Key)
     * [SQL Injection (Login Form/User)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/SQL-Injection-Login-Form)
+    * #Code4Sec Week
+      * [Day 1 : Formatting SQL queries](https://www.facebook.com/anthony.es.schwind/posts/1776447505854692 - *Jan 9, 2021*
 <a name="Sakarin"></a>
 1. [Sakarin Kaewsathitwong](https://Alfatoxin.GitHub.io)
     * (6217810002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Alfatoxin) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Alfatoxin) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-0519-6925")](https://orcid.org/0000-0002-0519-6925) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/alfatoxin)
