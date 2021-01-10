@@ -84,6 +84,7 @@
       * [Day 3 : hashlib](https://www.facebook.com/455981291120401/posts/3757792040939293) - *Jan 7, 2021*
       * [Day 4 : ConfigParser](https://www.facebook.com/455981291120401/posts/3760587660659731) - *Jan 8, 2021*
       * [Day 5 : secrets](https://www.facebook.com/455981291120401/posts/3762775570440940) - *Jan 9, 2021*
+      * [Day 6 : CRSF protection](https://www.facebook.com/455981291120401/posts/3765888063463024) - *Jan 10, 2021*
 <a name="Fareed"></a>
 1. [Fareed Marnleb](https://marukofar.GitHub.io)
     * (6317810012) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/marukofar) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/marukofar) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-6769-7453")](https://orcid.org/0000-0001-6769-7453) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/marukofar)
