@@ -593,12 +593,10 @@
    1. [@fAi00S](https://repl.it/@fAi00S),
    1. [@freedom357](https://repl.it/@freedom357),
    1. [@ShiaNEIS0736](https://repl.it/@ShiaNEIS0736),
-   1. @VuttawatUyanont,
-   1. @NattapongKetkae,
-   1. @ahicft
-   1. @Pongpatrakdej
-   
-   *  https://www.randomlists.com/team-generator?grp=13&items=%40EsKoOnG%0A%40Devtech95%0A%40SupattraBoonkie%0A%40inuax%0A%40XserieX%0A%40marukofar%0A%40alfatoxin%0A%40AthipornPhumnic%0A%40peegonggoy%0A%40hacholda%0A%40NarunartVongeiu%0A%40icesuntisuk%0A%40nongkon09%0A%40PhureephatS%0A%40omoomomx%0A%40sanchat13%0A%40ryudokung%0A%40AnanBoondamnoen%0A%40jaray06%0A%40fAi00S%0A%40freedom357%0A%40ShiaNEIS0736%0A%40VuttawatUyanont%0A%40NattapongKetkae%0A%40ahicft%0A%40Pongpatrakdej
+   1. [@VuttawatUyanont](https://repl.it/@VuttawatUyanont),
+   1. [@NattapongKetkae](https://repl.it/@NattapongKetkae),
+   1. [@ahicft](https://repl.it/@ahicft),
+   1. [@Pongpatrakdej](https://repl.it/@Pongpatrakdej)
    
 ---
 
@@ -615,7 +613,7 @@
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/zxv-teet-zuk)
 *  Class check-in : [Talk, learn, collab and **code together** right in your browser](https://repl.it/join/daowtxah-maeklong)
 *  Pairing for **#CollabChallenge** by [Random Team Generator](https://www.randomlists.com/team-generator)
-   * @alice & @bob
+   * @VuttawatUyanont & @inuax
 *  Review & Revise your published #Code4Sec
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day8)** *by **John Doe***
 *  Homework
