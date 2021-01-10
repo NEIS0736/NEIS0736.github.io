@@ -624,7 +624,7 @@
    1. [@freedom357](https://repl.it/@freedom357) & [@nongkon09](https://repl.it/@nongkon09)
    1. [@icesuntisuk](https://repl.it/@icesuntisuk) & [@sanchat13](https://repl.it/@sanchat13)
    1. [@hacholda](https://repl.it/@hacholda) & [@ryudokung](https://repl.it/@ryudokung)
-   1. [@NattapongKetkae](https://repl.it/@NattapongKetkae) & [@Pongpatrakdej](https://repl.it/@Pongpatrakdej)
+   1. [@NattapongKetkae](https://repl.it/@NattapongKetkae) & [@Pongpatrakdej](https://repl.it/@Pongpatrakdej) (on behalf of GGASD)
    1. [@alfatoxin](https://repl.it/@alfatoxin) & [@jaray06](https://repl.it/@jaray06)   
 *  Review & Revise your published #Code4Sec
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day8)** *by **John Doe***
