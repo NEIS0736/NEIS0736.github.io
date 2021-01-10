@@ -150,6 +150,8 @@
     * [MiSSxTalks - System acquisition, development and maintenance in ISO27001](/2020/MiSSxTalks/NantawanS.jpg)
     * [Instagram](https://fai00-s.github.io/Instagram)
     * [SQL Injection (POST/Search)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/sql-injection-POST-Search)
+    * #Code4Sec Week
+      * [Day 1 : addslashs()](https://www.facebook.com/fai.nantawan/posts/10222317874848888) - *Jan 10, 2021*
 <a name="Narunart"></a>
 1. [Narunart Vongeium](https://EITCHY.GitHub.io)
     * (6317810006) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/EITCHY) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/EITCHY) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-1157-9412")](https://orcid.org/0000-0002-1157-9412) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/eitchy)
