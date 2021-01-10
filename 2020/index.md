@@ -347,6 +347,8 @@
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Theerapong-qr-code.png)
     * [TC : Log Protection](https://devtech95.github.io/testcase-log-Protection)
     * [HTML Injection - Reflected (GET)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/HTML-Injection-Reflected-GET)
+    * #Code4Sec Week
+      * [Day 1 : RegExp()](https://twitter.com/theerap94168677/status/1348199805294530561) - *Jan 10, 2021*
 <a name="Vatcharin"></a>
 1. [Vatcharin Kongsakul](https://ryudokung.GitHub.io)
     * (6217810003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ryudokung) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/ryudokun) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-5029-636X")](https://orcid.org/0000-0002-5029-636X) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/ryudokung)
