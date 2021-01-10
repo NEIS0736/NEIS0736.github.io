@@ -613,7 +613,19 @@
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/zxv-teet-zuk)
 *  Class check-in : [Talk, learn, collab and **code together** right in your browser](https://repl.it/join/daowtxah-maeklong)
 *  Pairing for **#CollabChallenge** by [Random Team Generator](https://www.randomlists.com/team-generator)
-   * @VuttawatUyanont & @inuax
+   1. [@VuttawatUyanont](https://repl.it/@VuttawatUyanont) & [@inuax](https://repl.it/@inuax)
+   1. [@AthipornPhumnic](https://repl.it/@AthipornPhumnic) & [@Devtech95](https://repl.it/@Devtech95)
+   1. [@EsKoOnG](https://repl.it/@EsKoOnG) & [@PhureephatS](https://repl.it/@PhureephatS)
+   1. [@fAi00S](https://repl.it/@fAi00S) & [@XserieX](https://repl.it/@XserieX)
+   1. [@ShiaNEIS0736](https://repl.it/@ShiaNEIS0736) & [@omoomomx](https://repl.it/@omoomomx)
+   1. [@AnanBoondamnoen](https://repl.it/@AnanBoondamnoen) & [@peegonggoy](https://repl.it/@peegonggoy)
+   1. [@SupattraBoonkie](https://repl.it/@supattraboonkie) & [@ahicft](https://repl.it/@ahicft)
+   1. [@marukofar](https://repl.it/@marukofar) & [@NarunartVongeiu](https://repl.it/@NarunartVongeiu)
+   1. [@freedom357](https://repl.it/@freedom357) & [@nongkon09](https://repl.it/@nongkon09)
+   1. [@icesuntisuk](https://repl.it/@icesuntisuk) & [@sanchat13](https://repl.it/@sanchat13)
+   1. [@hacholda](https://repl.it/@hacholda) & [@ryudokung](https://repl.it/@ryudokung)
+   1. [@NattapongKetkae](https://repl.it/@NattapongKetkae) & [@Pongpatrakdej](https://repl.it/@Pongpatrakdej)
+   1. [@alfatoxin](https://repl.it/@alfatoxin) & [@jaray06](https://repl.it/@jaray06)   
 *  Review & Revise your published #Code4Sec
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day8)** *by **John Doe***
 *  Homework
