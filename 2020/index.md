@@ -598,6 +598,8 @@
    1. @ahicft
    1. @Pongpatrakdej
    
+   *  https://www.randomlists.com/team-generator?grp=13&items=%40EsKoOnG%0A%40Devtech95%0A%40SupattraBoonkie%0A%40inuax%0A%40XserieX%0A%40marukofar%0A%40alfatoxin%0A%40AthipornPhumnic%0A%40peegonggoy%0A%40hacholda%0A%40NarunartVongeiu%0A%40icesuntisuk%0A%40nongkon09%0A%40PhureephatS%0A%40omoomomx%0A%40sanchat13%0A%40ryudokung%0A%40AnanBoondamnoen%0A%40jaray06%0A%40fAi00S%0A%40freedom357%0A%40ShiaNEIS0736%0A%40VuttawatUyanont%0A%40NattapongKetkae%0A%40ahicft%0A%40Pongpatrakdej
+   
 ---
 
 ### <del>[**Semi-final Examination**]</del>
