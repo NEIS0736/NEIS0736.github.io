@@ -347,7 +347,7 @@
     * [TC : E-Mail Validation](https://marukofar.github.io/Test-Case-Email-Validation)
     * [SQL Injection (POST/Search)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/sql-injection-POST-Search)
     * #Code4Sec Week 
-      * [Day 1 : xxx](https://www.facebook.com/palm.civilman/posts/3583080298396233) - *Jan 10, 2021*
+      * [Day 1 : compare_digest()](https://www.facebook.com/palm.civilman/posts/3583080298396233) - *Jan 10, 2021*
 <a name="Wasupol"></a>
 1. [Wasupol Chaisangasilp](https://XserieX.GitHub.io)
     * (6317810014) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/XserieX) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/XserieX) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-7315-4049")](https://orcid.org/0000-0002-7315-4049) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/wasupol)
