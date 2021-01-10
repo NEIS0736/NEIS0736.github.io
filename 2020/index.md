@@ -737,9 +737,9 @@
 | ----------------------------------------------------------------------------------- | :---------: |
 |In-class participation (#**MiSS**x***Talks*** special, Daily Scribe, KBs, homeworks) |      25     |
 |Individual assignments (#**MiSS**x***Talks***)                                       |      10     |
-|Completion of mandatory finger exercises                                             |	     5      |
+|Completion of mandatory finger exercises (**#CollabChallenge #CodeBattle**)          |	     5      |
 |Course project (or mini contest)                                                     |      10     |
-|Midterm exam (#Code4Sec Week)                                                        |      15     |
+|Midterm exam (**#Code4Sec** Week)                                                    |      15     |
 |Final exam                                                                           |      35     |
 
 
