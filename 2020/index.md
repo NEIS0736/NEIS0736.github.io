@@ -841,6 +841,7 @@
 *  [Why is XAMPP not suited for production?](https://stackoverflow.com/questions/26297731/)
 *  [Sensitive Data Exposed in GitHub](https://unit42.paloaltonetworks.com/github-data-exposed/)
 *  [Programiz](https://www.programiz.com/), Learn to Code for Free
+*  [PHP Manual](https://www.macs.hw.ac.uk/~hwloidl/docs/PHP/)
 *  [AskPython](https://www.askpython.com/), Start your Python Journey from our top quality tutorials.
 *  [JournalDev - Java, Java EE, Android, Python, Web Development Tutorials](https://www.journaldev.com/)
 *  [The Python Package Index (PyPI)](https://pypi.org/)
