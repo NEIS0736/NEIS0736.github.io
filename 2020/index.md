@@ -264,6 +264,8 @@
     * [V2.5 Credential Recovery Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V2.5-Credential-Recovery-Requirements)
     * [TC : File Upload](https://nongkon09.github.io/file_upload_requirement_testcase)
     * [Firefox](https://omoomomx.github.io/FirefoxTwoFactorAuthentication)
+    * #Code4Sec Week
+      * [Day 1 : bcrypt](https://twitter.com/OnggShia/status/1348121283297300484) - *Jan 10, 2021*
 <a name="Soontorn"></a>
 1. [Soontorn Janphuk](https://freedom357.GitHub.io)
     * (6317660001) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/freedom357) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/freedom357) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-0858-412X")](https://orcid.org/0000-0003-0858-412X) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/freedom357)
