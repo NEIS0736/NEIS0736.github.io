@@ -264,6 +264,7 @@
     * [V2.5 Credential Recovery Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V2.5-Credential-Recovery-Requirements)
     * [TC : File Upload](https://nongkon09.github.io/file_upload_requirement_testcase)
     * [Firefox](https://omoomomx.github.io/FirefoxTwoFactorAuthentication)
+    * [SQL Injection (GET/Select)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/SQL-Injection-GET-Select)
     * #Code4Sec Week
       * [Day 1 : bcrypt](https://twitter.com/OnggShia/status/1348121283297300484) - *Jan 10, 2021*
 <a name="Soontorn"></a>
@@ -575,7 +576,7 @@
    * [XSS - Reflected (PHP_SELF)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/xss-php-self) - Thanakorn / Ekawut
    * [SQL Injection (POST/Search)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/sql-injection-POST-Search) - Nantawan / Vuttawat
    * HTML Injection - Reflected (GET) - Theerapong / Narunart
-   * SQL Injection (GET/Select) - Shirassuda
+   * [SQL Injection (GET/Select)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/SQL-Injection-GET-Select) - Shirassuda
    * [XSS - Reflected (User-Agent)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/XSS-Reflexted(JSON)) - Hachol / Nattawut
    * [SQL Injection - Blind - Time-Based](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/SQL-Injection-Blind-TimeBased) - Anan / Soontorn
    * [XSS - Reflected (HREF)](https://gitlab.com/NEIS0736/2020/-/wikis/XSS---Reflected-(HREF)) - Sanchat / Wasupol
