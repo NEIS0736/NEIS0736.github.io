@@ -160,6 +160,7 @@
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Narunart-qr-code.png)
     * [TC : Log Protection](https://devtech95.github.io/testcase-log-Protection)
     * [Outlook](https://eitchy.github.io/Outlook_2_Factor_Authentication)
+    * [HTML Injection - Reflected (GET)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/HTML-Injection-Reflected-GET)
     * #Code4Sec Week
       * [Day 1 : Crypto.PublicKey](https://twitter.com/EIITCHY/status/1348124432955396097) - *Jan 10, 2021*
 <a name="Nattapong"></a>
@@ -345,6 +346,7 @@
     * [DSV - PuTTY](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/putty) (#5)
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Theerapong-qr-code.png)
     * [TC : Log Protection](https://devtech95.github.io/testcase-log-Protection)
+    * [HTML Injection - Reflected (GET)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/HTML-Injection-Reflected-GET)
 <a name="Vatcharin"></a>
 1. [Vatcharin Kongsakul](https://ryudokung.GitHub.io)
     * (6217810003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ryudokung) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/ryudokun) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-5029-636X")](https://orcid.org/0000-0002-5029-636X) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/ryudokung)
@@ -579,7 +581,7 @@
    * [PHP Code Injection](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/PHPCodeInjection/PHPCodeInjection) - Athiporn / Phureephat
    * [XSS - Reflected (PHP_SELF)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/xss-php-self) - Thanakorn / Ekawut
    * [SQL Injection (POST/Search)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/sql-injection-POST-Search) - Nantawan / Vuttawat
-   * HTML Injection - Reflected (GET) - Theerapong / Narunart
+   * [HTML Injection - Reflected (GET)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/HTML-Injection-Reflected-GET) - Theerapong / Narunart
    * [SQL Injection (GET/Select)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/SQL-Injection-GET-Select) - Shirassuda
    * [XSS - Reflected (User-Agent)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/XSS-Reflexted(JSON)) - Hachol / Nattawut
    * [SQL Injection - Blind - Time-Based](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/SQL-Injection-Blind-TimeBased) - Anan / Soontorn
