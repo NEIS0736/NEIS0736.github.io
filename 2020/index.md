@@ -661,7 +661,7 @@
    1. [@NattapongKetkae](https://repl.it/@NattapongKetkae) & [@Pongpatrakdej](https://repl.it/@Pongpatrakdej) (on behalf of GGASD)
    1. [@alfatoxin](https://repl.it/@alfatoxin) & [@jaray06](https://repl.it/@jaray06)   
 *  Review & Revise your published #Code4Sec
-*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day8)** *by **John Doe***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day8)**
 *  Homework
    * Prep. for the **#CollabChallenge**, ***5 points*** per group
       *  You select 3 topics from the [published #Code4Sec](https://www.facebook.com/hashtag/Code4Sec) (by your friends), 1 will be chosen by the instructor.
