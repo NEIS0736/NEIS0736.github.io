@@ -252,6 +252,8 @@
     * [TC : Authenticator Lifecycle](https://ph-sanchat.github.io/Authenticator-Lifecycle)
     * [LINE](https://ph-sanchat.github.io/Line-Application-Authentication)
     * [XSS - Reflected (HREF)](https://gitlab.com/NEIS0736/2020/-/wikis/XSS---Reflected-(HREF))
+    * #Code4Sec Week
+      * [Day 1 : Tempfile.NamedTemporaryFile()](https://www.facebook.com/permalink.php?story_fbid=3427376880718084&id=100003374168414) - *Jan 10, 2021*
 <a name="Saran"></a>
 1. [Saran Kaewnang](https://ahictf.GitHub.io)
     * (6317810007) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ahictf) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/ahictf) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-1885-5448 ")](https://orcid.org/0000-0003-1885-5448) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/ahiahi)
