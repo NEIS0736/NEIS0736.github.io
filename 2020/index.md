@@ -284,6 +284,7 @@
     * [SQL Injection - Blind - Time-Based](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/SQL-Injection-Blind-TimeBased)
     * #Code4Sec Week
       * [Day 1 : mysql_escape_string](https://www.facebook.com/sj.freedom.9/posts/399667751291442) - *Jan 9, 2021*
+      * [Day 2 : strpos()](https://www.facebook.com/sj.freedom.9/posts/400259994565551) - *Jan 10, 2021*
 <a name="Suntisuk"></a>
 1. [Suntisuk Thepthong](https://icesuntisuk.GitHub.io)
     * (6217810015) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/icesuntisuk) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/icesuntisuk) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-5528-6005")](https://orcid.org/0000-0002-5528-6005) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/icesuntisuk)
