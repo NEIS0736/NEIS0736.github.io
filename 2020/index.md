@@ -406,6 +406,7 @@
     * [XSS - Reflected (HREF)](https://gitlab.com/NEIS0736/2020/-/wikis/XSS---Reflected-(HREF))
     * #Code4Sec Week
       * [Day 1 : prepare()](https://www.facebook.com/permalink.php?story_fbid=2299162826896016&id=100004069626150) - *Jan 10, 2021*
+      * [Day 2 : hash()](https://www.facebook.com/permalink.php?story_fbid=2300580406754258&id=100004069626150) - *Jan 11, 2021*
 
 ---
 
