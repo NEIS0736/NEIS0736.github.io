@@ -66,6 +66,7 @@
     * [SQL Injection (Login Form/User)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/SQL-Injection-Login-Form)
     * #Code4Sec Week
       * [Day 1 : session_start()](https://www.facebook.com/bhoomjit.bhoominath/posts/4106239382741788) - *Jan 10, 2021*
+      * [Day 2 : session_destroy()](https://www.facebook.com/bhoomjit.bhoominath/posts/4109034502462276) - *Jan 11, 2021*
 <a name="Ekawut"></a>
 1. [Ekawut Chairat](https://inuax.GitHub.io)
     * (6217660002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/inuax) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/inuax) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-9674-9627")](https://orcid.org/0000-0002-9674-9627) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/inuax)
@@ -117,6 +118,7 @@
       * [Day 1 : jsonschema.validate()](https://www.facebook.com/hachol/posts/3539486029420241) - *Jan 8, 2021*
       * [Day 2 : Logging.basicConfig()](https://www.facebook.com/hachol/posts/3540939679274876) - *Jan 9, 2021*
       * [Day 3 : FILTER_SANITIZE_URL()](https://www.facebook.com/hachol/posts/3543105935724917) - *Jan 10, 2021*
+      * [Day 4 : ]
 <a name="Jaray"></a>
 1. [Jaray Paensong](https://HiRayShi.GitHub.io)
     * (6317660006) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/HiRayShi) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/HiRayShi) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-4654-9157")](https://orcid.org/0000-0003-4654-9157) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/jarray)
