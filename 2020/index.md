@@ -53,6 +53,7 @@
       * [Day 3 : CookieOptions](https://www.facebook.com/1815463699/posts/10215257306465367/?d=n) - *Jan 8, 2021*
       * [Day 4 : AuthorizeAttribute](https://www.facebook.com/1815463699/posts/10215266285929848) - *Jan 9, 2021*
       * [Day 5 : IdentityOptions](https://www.facebook.com/1815463699/posts/10215274313850541) - *Jan 10, 2021*
+      * [Day 6 : Assembly.Load()](https://www.facebook.com/1815463699/posts/10215280135996091) - *Jan 11, 2021*
 <a name="Bhoomjit"></a>
 1. [Bhoomjit Bhoominath](https://peegonggoy.GitHub.io)
     * (6317660004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/peegonggoy) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/peegonggoy) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-9561-730X")](https://orcid.org/0000-0001-9561-730X) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/peegonggoy)
