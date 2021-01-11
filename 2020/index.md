@@ -820,6 +820,7 @@
 *  Tools **calibration**: why is it important?
 *  [Using Privacy Enhancing Techniques to Unlock New Value](http://www3.weforum.org/docs/WEF_Next_Gen_Data_Sharing_Financial_Services.pdf), WEF
 *  If you don’t want to invest in SAST tools for all your languages
+*  **Geohash**
 
 ---
 [Anan](#Anan), [Athiporn](#Athiporn), [Bhoomjit](#Bhoomjit), [Ekawut](#Ekawut), [Fareed](#Fareed), [Hachol](#Hachol), [Jaray](#Jaray), [Jaruspong](#Jaruspong), [Keaittisak](#Keaittisak), [Nantawan](#Nantawan), [Narunart](#Narunart), [Nattapong](#Nattapong), [Nattawut](#Nattawut), [Nipitpon](#Nipitpon), [Phureephat](#Phureephat), [Piyawit](#Piyawit), [Sakarin](#Sakarin), [Sanchat](#Sanchat), [Saran](#Saran), [Shirassuda](#Shirassuda), [Soontorn](#Soontorn), [Suntisuk](#Suntisuk), [Sununta](#Sununta), [Supattra](#Supattra), [Thanakorn](#Thanakorn), [Theerapong](#Theerapong), [Vatcharin](#Vatcharin), [Vuttawat](#Vuttawat), [Wasupol](#Wasupol)
