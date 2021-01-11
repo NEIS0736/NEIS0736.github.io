@@ -381,6 +381,7 @@
       * [Day 1 : input validation](https://www.facebook.com/itvill/posts/3753126431405854) - *Jan 5, 2021*
       * [Day 2 : CORS HTTP allow methods](https://www.facebook.com/itvill/posts/3763549273696903) - *Jan 9, 2021*
       * [Day 3 : bcrypt](https://www.facebook.com/itvill/posts/3765586290159868) - *Jan 10, 2021*
+      * [Day 4 : HTTP Server](https://www.facebook.com/itvill/posts/3769148213137009) - *Jan 11, 2021*
 <a name="Vuttawat"></a>
 1. [Vuttawat Uyanont](https://Hyde4thHeaven.GitHub.io)
     * (6317810001) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Hyde4thHeaven) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Hyde4thHeaven) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-5620-9028")](https://orcid.org/0000-0002-5620-9028) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/civilman)
