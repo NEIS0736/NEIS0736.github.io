@@ -177,6 +177,8 @@
     * [HTML Injection - Reflected (GET)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/HTML-Injection-Reflected-GET)
     * #Code4Sec Week
       * [Day 1 : Crypto.PublicKey](https://twitter.com/EIITCHY/status/1348124432955396097) - *Jan 10, 2021*
+      * [Day 2 : pyAesCrypt (AES256-CBC)](https://twitter.com/EIITCHY/status/1348495691274805252) - *Jan 11, 2021*
+      * [Day 3 : urlendcode, urldecode](https://twitter.com/EIITCHY/status/1348835093419159555) - *Jan 12, 2021*
 <a name="Nattapong"></a>
 1. [Nattapong Ketkaew](https://nattapong007.GitHub.io)
     * (6317810011) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/nattapong007) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/nattapong007) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-0018-4431")](https://orcid.org/0000-0002-0018-4431) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/nattapong007)
