@@ -420,6 +420,7 @@
     * #Code4Sec Week
       * [Day 1 : prepare()](https://www.facebook.com/permalink.php?story_fbid=2299162826896016&id=100004069626150) - *Jan 10, 2021*
       * [Day 2 : hash()](https://www.facebook.com/permalink.php?story_fbid=2300580406754258&id=100004069626150) - *Jan 11, 2021*
+      * [Day 3 : session_regenerate_id](https://www.facebook.com/permalink.php?story_fbid=2301250283353937&id=100004069626150) - *Jan 12, 2021*
 
 ---
 
