@@ -265,7 +265,7 @@
       * [Day 1 : Steganography()](https://www.facebook.com/Sakarin.BooM/posts/10220457623894122) - *Jan 9, 2021*
       * [Day 2 : CryptographyHelper.EncryptString()](https://www.facebook.com/Sakarin.BooM/posts/10220464791953319) - *Jan 10, 2021*
       * [Day 3 : PASSWORD()](https://www.facebook.com/Sakarin.BooM/posts/10220472291100793) - *Jan 11, 2021*
-      * [Day 4 : sha1](https://web.facebook.com/Sakarin.BooM/posts/10220478952827332) - *Jan 12, 2021*
+      * [Day 4 : sha1()](https://web.facebook.com/Sakarin.BooM/posts/10220478952827332) - *Jan 12, 2021*
 <a name="Sanchat"></a>
 1. [Sanchat Phaisit](https://ph-sanchat.GitHub.io)
     * (6317810015) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ph-sanchat) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/ph-sanchat) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-4707-179X")](https://orcid.org/0000-0003-4707-179X) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/sanchatphaisit)
