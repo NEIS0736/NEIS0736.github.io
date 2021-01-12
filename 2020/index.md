@@ -36,6 +36,7 @@
     * #Code4Sec Week
       * [Day 1 : isalpha()](https://www.facebook.com/nanziiiii/posts/4988614784513436) - *Jan 10, 2021*
       * [Day 2 : isalnum()](https://www.facebook.com/nanziiiii/posts/4994353457272902) - *Jan 11, 2021*
+      * [Day 3 : preg_match()](https://www.facebook.com/nanziiiii/posts/4998790980162483) - *Jan 12, 2021*
 <a name="Athiporn"></a>
 1. [Athiporn Phumnicom](https://AthipornP.GitHub.io)
     * (6217810016) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/AthipornP) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/AthipornP) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-0532-3733")](https://orcid.org/0000-0003-0532-3733) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/athiporn)
