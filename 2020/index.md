@@ -211,6 +211,7 @@
       * [Day 2 : basename()](https://www.facebook.com/omo.mx/posts/3687645607960479) - *Jan 10, 2021*
       * [Day 3 : ingres_escape_string()](https://www.facebook.com/omo.mx/posts/3690203024371404) - *Jan 11, 2021*
       * [Day 4 : escape_shell_cmd()](https://web.facebook.com/omo.mx/posts/3692912420767131) - *Jan 12, 2021*
+      * [Day 5 : pathinfo()](https://www.facebook.com/omo.mx/posts/3695448953846811) - *Jan 13, 2021*
 <a name="Nipitpon"></a>
 1. [Nipitpon Doungyai](https://itsGno.GitHub.io)
     * (6317810008) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/itsGno) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/itsGno) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-1681-1126")](https://orcid.org/0000-0003-1681-1126) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/ggasd)
