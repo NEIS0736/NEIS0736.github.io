@@ -855,6 +855,7 @@
 *  <del>Software Supply-Chain Attack</del>, *claimed by Khun [Nattapong K.](#Nattapong)*
 *  <del>Golden SAML</del>, *booked by Khun [Anan B.](#Anan)*
 *  <del>Zero Trust : Identity</del>, *booked by Khun [Ekawut C.](#Ekawut)*
+*  [SSI: Self Sovereign Identity](https://www.pwc.com/it/it/publications/assets/docs/blockchain-and-digital-identity.pdf)
 *  Business logic vulnerability
 *  <del>Case Styles</del>, *booked by Khun [Vatcharin K.](#Vatcharin)*
 *  Sandbox
