@@ -129,6 +129,7 @@
       * [Day 3 : FILTER_SANITIZE_URL()](https://www.facebook.com/hachol/posts/3543105935724917) - *Jan 10, 2021*
       * [Day 4 : socket.inet_pton()](https://www.facebook.com/hachol/posts/3545785112123666) - *Jan 11, 2021*
       * [Day 5 : substr_replace()](https://www.facebook.com/hachol/posts/3548305558538288) - *Jan 12, 2021*
+      * [Day 6 : FILTER_VALIDATE_INT()](https://www.facebook.com/hachol/posts/3552054098163434) - *Jan 13, 2021*
 <a name="Jaray"></a>
 1. [Jaray Paensong](https://HiRayShi.GitHub.io)
     * (6317660006) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/HiRayShi) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/HiRayShi) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-4654-9157")](https://orcid.org/0000-0003-4654-9157) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/jarray)
