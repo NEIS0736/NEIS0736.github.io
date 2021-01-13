@@ -408,6 +408,7 @@
       * [Day 1 : RegExp()](https://twitter.com/theerap94168677/status/1348199805294530561) - *Jan 10, 2021*
       * [Day 2 : encodeURIComponent()](https://twitter.com/theerap94168677/status/1348611269180358657) - *Jan 11, 2021*
       * [Day 3 : Base64](https://twitter.com/theerap94168677/status/1348952534250000387) - *Jan 12, 2021*
+      * [Day 4 : ](https://twitter.com/theerap94168677/status/1349369356673638400) - *Jan 13, 2021*
 <a name="Vatcharin"></a>
 1. [Vatcharin Kongsakul](https://ryudokung.GitHub.io)
     * (6217810003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ryudokung) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/ryudokun) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-5029-636X")](https://orcid.org/0000-0002-5029-636X) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/ryudokung)
@@ -695,6 +696,7 @@
    [@VuttawatUyanont](https://repl.it/@VuttawatUyanont),
    [@NattapongKetkae](https://repl.it/@NattapongKetkae),
    [@ahicft](https://repl.it/@ahicft),
+   [@GenoGN](https://repl.it/@GenoGN),
    [@Pongpatrakdej](https://repl.it/@Pongpatrakdej)
    
 ---
@@ -723,7 +725,7 @@
    1. [@freedom357](https://repl.it/@freedom357) & [@nongkon09](https://repl.it/@nongkon09)
    1. [@icesuntisuk](https://repl.it/@icesuntisuk) & [@sanchat13](https://repl.it/@sanchat13)
    1. [@hacholda](https://repl.it/@hacholda) & [@ryudokung](https://repl.it/@ryudokung)
-   1. [@NattapongKetkae](https://repl.it/@NattapongKetkae) & [@PongpatRakdej](https://repl.it/@PongpatRakdej) (on behalf of GGASD)
+   1. [@NattapongKetkae](https://repl.it/@NattapongKetkae) & [@GenoGN](https://repl.it/@GenoGN)
    1. [@alfatoxin](https://repl.it/@alfatoxin) & [@jaray06](https://repl.it/@jaray06)   
 *  Review & Revise your published #Code4Sec
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day8)**
