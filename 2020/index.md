@@ -737,7 +737,7 @@
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day9)** *by **John Doe***
 
 ### [**Week 10**] - (Sun) **Jan 24,** 2021
-*  [![](img/video.png "Video")](https://meet.google.com/syx-xxzr-ytx)
+*  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/syx-xxzr-ytx)
 *  **MiSS**x***Talks*** 
    * *John Doe*
    * *John Doe*
@@ -746,7 +746,7 @@
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day10)** *by **John Doe***
 
 ### [**Week 11**] - (Sun) **Jan 31,** 2021
-*  [![](img/video.png "Video")](https://meet.google.com/fsd-code-jiw)
+*  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/fsd-code-jiw)
 
 ### [**Week 12**] - (Sun) **Feb 7,** 2021
 *  **Valentine** *vs.* **Ovaltine** <!--Mini contest, organized by you-->
