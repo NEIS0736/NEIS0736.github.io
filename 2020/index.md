@@ -199,7 +199,9 @@
     * [Software Supply-Chain Attack](https://gitlab.com/NEIS0736/2020/-/wikis/KBs/supply-chain-attack)
     * #Code4Sec Week
       * [Day 1 : preg_quote()](https://www.facebook.com/permalink.php?story_fbid=3892628230757375&id=100000307097053) - *Jan 10, 2021*
-      * [Day 2 : imagestring()](https://www.facebook.com/permalink.php?story_fbid=3896497310370467&id=100000307097053) - *Jan 11, 2011*
+      * [Day 2 : imagestring()](https://www.facebook.com/permalink.php?story_fbid=3896497310370467&id=100000307097053) - *Jan 11, 2021*
+      * [Day 3 : exec()](https://www.facebook.com/permalink.php?story_fbid=3899714050048793&id=100000307097053) - *Jan 12, 2021*
+      * [Day 4 : xxx]()
 <a name="Nattawut"></a>
 1. [Nattawut Reungsap](https://omoomomx.GitHub.io)
     * (6217810013) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/omoomomx) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/omoomomx) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-6578-6583")](https://orcid.org/0000-0001-6578-6583) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/omoomomx)
