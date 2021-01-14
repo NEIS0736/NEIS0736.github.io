@@ -74,6 +74,7 @@
       * [Day 2 : session_destroy()](https://www.facebook.com/bhoomjit.bhoominath/posts/4109034502462276) - *Jan 11, 2021*
       * [Day 3 : error_reporting()](https://www.facebook.com/bhoomjit.bhoominath/posts/4111688548863538) - *Jan 12, 2021*
       * [Day 4 : $_GET VS $_POST](https://www.facebook.com/bhoomjit.bhoominath/posts/4114416231924103) - *Jan 13, 2021*
+      * [Day 5 : readpassword()](https://www.facebook.com/bhoomjit.bhoominath/posts/4117168058315587) - *Jan 14, 2021*
 <a name="Ekawut"></a>
 1. [Ekawut Chairat](https://inuax.GitHub.io)
     * (6217660002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/inuax) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/inuax) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-9674-9627")](https://orcid.org/0000-0002-9674-9627) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/inuax)
