@@ -218,6 +218,8 @@
       * [Day 3 : ingres_escape_string()](https://www.facebook.com/omo.mx/posts/3690203024371404) - *Jan 11, 2021*
       * [Day 4 : escape_shell_cmd()](https://web.facebook.com/omo.mx/posts/3692912420767131) - *Jan 12, 2021*
       * [Day 5 : pathinfo()](https://www.facebook.com/omo.mx/posts/3695448953846811) - *Jan 13, 2021*
+      * [Day 6 : input validation](https://www.facebook.com/omo.mx/posts/3698208530237520) - *Jan 14, 2021*
+    * [**Consent**: ***option*** **not** an ***obligation***](https://gitlab.com/NEIS0736/2020/-/wikis/KBs/ConsentPDPA)
 <a name="Nipitpon"></a>
 1. [Nipitpon Doungyai](https://itsGno.GitHub.io)
     * (6317810008) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/itsGno) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/itsGno) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-1681-1126")](https://orcid.org/0000-0003-1681-1126) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/ggasd)
@@ -872,7 +874,7 @@
 *  Business logic vulnerability
 *  <del>Case Styles</del>, *booked by Khun [Vatcharin K.](#Vatcharin)*
 *  Sandbox
-*  <del>**Consent**: ***option*** **not** an ***obligation***</del>, *booked by Khun [Nattawut R.](#Nattawut)*
+*  <del>**Consent**: ***option*** **not** an ***obligation***</del>, *claimed by Khun [Nattawut R.](#Nattawut)*
 *  Tools **calibration**: why is it important?
 *  [Using Privacy Enhancing Techniques to Unlock New Value](http://www3.weforum.org/docs/WEF_Next_Gen_Data_Sharing_Financial_Services.pdf), WEF
 *  If you don’t want to invest in SAST tools for all your languages
