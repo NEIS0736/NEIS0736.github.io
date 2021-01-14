@@ -436,6 +436,7 @@
       * [Day 4 : HTTP Server](https://www.facebook.com/itvill/posts/3769148213137009) - *Jan 11, 2021*
       * [Day 5 : gofiber Error Handling](https://www.facebook.com/itvill/posts/3772016732850157) - *Jan 12, 2021*
       * [Day 6 : gofiber CSRF](https://www.facebook.com/itvill/posts/3774409895944174) - *Jan 13, 2021*
+      * [Day 6.2 : limiter](https://www.facebook.com/itvill/posts/3777148649003632) - *Jan 14, 2021*
 <a name="Vuttawat"></a>
 1. [Vuttawat Uyanont](https://Hyde4thHeaven.GitHub.io)
     * (6317810001) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Hyde4thHeaven) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Hyde4thHeaven) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-5620-9028")](https://orcid.org/0000-0002-5620-9028) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/civilman)
