@@ -315,6 +315,7 @@
       * [Day 3 : os.environ.get()](https://www.facebook.com/permalink.php?story_fbid=3432139543575151&id=100003374168414) - *Jan 12, 2021*
       * [Day 4 : re.escape()](https://www.facebook.com/permalink.php?story_fbid=3435164066606032&id=100003374168414) - *Jan 13, 2021*
       * [Day 5 : urllib.parse.urlparse()](https://www.facebook.com/permalink.php?story_fbid=3437879039667868&id=100003374168414) - *Jan 14, 2021*
+      * [Day 6 : isalnum()](https://www.facebook.com/permalink.php?story_fbid=3440189622770143&id=100003374168414) - *Jan 15, 2021*
 <a name="Saran"></a>
 1. [Saran Kaewnang](https://ahictf.GitHub.io)
     * (6317810007) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ahictf) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/ahictf) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-1885-5448 ")](https://orcid.org/0000-0003-1885-5448) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/ahiahi)
