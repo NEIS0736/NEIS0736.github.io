@@ -228,7 +228,7 @@
       * [Day 4 : escape_shell_cmd()](https://web.facebook.com/omo.mx/posts/3692912420767131) - *Jan 12, 2021*
       * [Day 5 : pathinfo()](https://www.facebook.com/omo.mx/posts/3695448953846811) - *Jan 13, 2021*
       * [Day 6 : input validation](https://www.facebook.com/omo.mx/posts/3698208530237520) - *Jan 14, 2021*
-      * [Day 6.2 : os.path.basename()](https://www.facebook.com/omo.mx/posts/3700851376639902) - *Jan 15, 2021*
+      * [Day 7 : os.path.basename()](https://www.facebook.com/omo.mx/posts/3700851376639902) - *Jan 15, 2021*
     * [**Consent**: ***option*** **not** an ***obligation***](https://gitlab.com/NEIS0736/2020/-/wikis/KBs/ConsentPDPA)
 <a name="Nipitpon"></a>
 1. [Nipitpon Doungyai](https://itsGno.GitHub.io)
