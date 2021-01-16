@@ -218,6 +218,7 @@
       * [Day 3 : exec()](https://www.facebook.com/permalink.php?story_fbid=3899714050048793&id=100000307097053) - *Jan 12, 2021*
       * [Day 4 : authentication](https://www.facebook.com/permalink.php?story_fbid=3903063413047190&id=100000307097053) - *Jan 13, 2021*
       * [Day 5 : ctype_alnum()](https://www.facebook.com/permalink.php?story_fbid=3905842476102617&id=100000307097053) - *Jan 14, 2021*
+      * [Day 6 : memset_s](https://www.facebook.com/permalink.php?story_fbid=3908173515869513&id=100000307097053) - *Jan 15, 2021*
       * [Day 7 : javax.crypto.Cipher](https://www.facebook.com/permalink.php?story_fbid=3911423938877804&id=100000307097053) - *Jan 16, 2021*
 <a name="Nattawut"></a>
 1. [Nattawut Reungsap](https://omoomomx.GitHub.io)
