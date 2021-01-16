@@ -198,6 +198,7 @@
       * [Day 2 : pyAesCrypt (AES256-CBC)](https://twitter.com/EIITCHY/status/1348495691274805252) - *Jan 11, 2021*
       * [Day 3 : urllib.parse](https://twitter.com/EIITCHY/status/1348835093419159555) - *Jan 12, 2021*
       * [Day 4 : hmac](https://twitter.com/EIITCHY/status/1349208595590647810) - *Jan 13, 2021*
+      * [Day 6 : input is_numeric()](https://twitter.com/EIITCHY/status/1350017799826022411) - *Jan 15, 2021*
       * [Day 7 : hash_equals()](https://twitter.com/EIITCHY/status/1350278337923452930) - *Jan 16, 2021*
 <a name="Nattapong"></a>
 1. [Nattapong Ketkaew](https://nattapong007.GitHub.io)
