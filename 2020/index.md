@@ -187,6 +187,7 @@
       * [Day 4 : openssl_encrypt()](https://www.facebook.com/fai.nantawan/posts/10222341489439238) - *Jan 13, 2021*
       * [Day 5 : bcrypt()](https://www.facebook.com/fai.nantawan/posts/10222347909559737) - *Jan 14, 2021*
       * [Day 6 : mcrypt_encrypt()](https://www.facebook.com/fai.nantawan/posts/10222355088619209) - *Jan 15, 2021*
+      * [Day 7 : openssl_public_encrypt()](https://www.facebook.com/fai.nantawan/posts/10222362094874361) - *Jan 16, 2021*
 <a name="Narunart"></a>
 1. [Narunart Vongeium](https://EITCHY.GitHub.io)
     * (6317810006) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/EITCHY) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/EITCHY) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-1157-9412")](https://orcid.org/0000-0002-1157-9412) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/eitchy)
