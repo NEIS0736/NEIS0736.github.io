@@ -445,7 +445,10 @@
       * [Day 1 : RegExp()](https://twitter.com/theerap94168677/status/1348199805294530561) - *Jan 10, 2021*
       * [Day 2 : encodeURIComponent()](https://twitter.com/theerap94168677/status/1348611269180358657) - *Jan 11, 2021*
       * [Day 3 : Base64](https://twitter.com/theerap94168677/status/1348952534250000387) - *Jan 12, 2021*
-      * [Day 4 : https.request()](https://twitter.com/theerap94168677/status/1349369356673638400) - *Jan 13, 2021*
+      * [Day 4.1 : https.request()](https://twitter.com/theerap94168677/status/1349369356673638400) - *Jan 13, 2021*
+      * [Day 4.2 : xxx](https://twitter.com/theerap94168677/status/1349524797638668289) - *Jan 14, 2021*
+      * [Day 5 : regex](https://twitter.com/theerap94168677/status/1349726321853624321) - *Jan 15, 2021*
+      * [Day 6 : xxx]() - *Jan 16, 2021*
 <a name="Vatcharin"></a>
 1. [Vatcharin Kongsakul](https://ryudokung.GitHub.io)
     * (6217810003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ryudokung) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/ryudokun) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-5029-636X")](https://orcid.org/0000-0002-5029-636X) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/ryudokung)
