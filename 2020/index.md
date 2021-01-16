@@ -446,7 +446,7 @@
       * [Day 2 : encodeURIComponent()](https://twitter.com/theerap94168677/status/1348611269180358657) - *Jan 11, 2021*
       * [Day 3 : Base64](https://twitter.com/theerap94168677/status/1348952534250000387) - *Jan 12, 2021*
       * [Day 4.1 : https.request()](https://twitter.com/theerap94168677/status/1349369356673638400) - *Jan 13, 2021*
-      * [Day 4.2 : xxx](https://twitter.com/theerap94168677/status/1349524797638668289) - *Jan 14, 2021*
+      * [Day 4.2 : https.request()](https://twitter.com/theerap94168677/status/1349524797638668289) - *Jan 14, 2021*
       * [Day 5 : regex](https://twitter.com/theerap94168677/status/1349726321853624321) - *Jan 15, 2021*
       * [Day 6 : hash function](https://twitter.com/theerap94168677/status/1350116513567678464) - *Jan 16, 2021*
 <a name="Vatcharin"></a>
