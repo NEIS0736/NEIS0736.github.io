@@ -796,6 +796,11 @@
    1. Alice & Bob
    1. Alice & Bob
    1. Alice & Bob
+*  Collaborative Coding
+   * [Visual Studio Code](https://code.visualstudio.com/download)
+   * Extention(s)
+     * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+     * [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day9)** *by **John Doe***
 
 ### [**Week 10**] - (Sun) **Jan 24,** 2021
