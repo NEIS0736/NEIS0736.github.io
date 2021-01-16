@@ -300,6 +300,7 @@
       * [Day 4 : sha1()](https://web.facebook.com/Sakarin.BooM/posts/10220478952827332) - *Jan 12, 2021*
       * [Day 5 : java.security.MessageDigest()](https://www.facebook.com/Sakarin.BooM/posts/10220487012588821) - *Jan 13, 2021*
       * [Day 6 : sha256.Sum256()](https://www.facebook.com/Sakarin.BooM/posts/10220493505111130) - *Jan 14, 2021*
+      * [Day 7 : empty(), isset() & isnull()](https://www.facebook.com/Sakarin.BooM/posts/10220501750437258) - *Jan 15, 2021*
 <a name="Sanchat"></a>
 1. [Sanchat Phaisit](https://ph-sanchat.GitHub.io)
     * (6317810015) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ph-sanchat) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/ph-sanchat) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-4707-179X")](https://orcid.org/0000-0003-4707-179X) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/sanchatphaisit)
