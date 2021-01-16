@@ -350,7 +350,7 @@
       * [Day 2 : getpass](https://twitter.com/OnggShia/status/1348476454187589638) - *Jan 11, 2021*
       * [Day 3 : sha256_crypt](https://twitter.com/OnggShia/status/1348983326627926016) - *Jan 12, 2021*
       * [Day 4 : Hazmat Module](https://twitter.com/OnggShia/status/1349355271701757955) - *Jan 13, 2021*
-      * [Day 5 : xxxx]() - *Jan 14, 2021*
+      * [Day 5 : hashlib.sha256()](https://twitter.com/OnggShia/status/1349753711015256064) - *Jan 14, 2021*
       * [Day 6 : getuser()](https://twitter.com/OnggShia/status/1350124600366039041) - *Jan 15, 2021*
 <a name="Soontorn"></a>
 1. [Soontorn Janphuk](https://freedom357.GitHub.io)
