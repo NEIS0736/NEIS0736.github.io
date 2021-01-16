@@ -184,6 +184,7 @@
       * [Day 2 : md5()](https://www.facebook.com/fai.nantawan/posts/10222327234722879) - *Jan 11, 2021*
       * [Day 3 : sha1()](https://www.facebook.com/fai.nantawan/posts/10222334427262688) - *Jan 12, 2021*
       * [Day 4 : openssl_encrypt()](https://www.facebook.com/fai.nantawan/posts/10222341489439238) - *Jan 13, 2021*
+      * [Day 5 : bcrypt()](https://www.facebook.com/fai.nantawan/posts/10222347909559737) - *Jan 14, 2021*
       * [Day 6 : mcrypt_encrypt()](https://www.facebook.com/fai.nantawan/posts/10222355088619209) - *Jan 15, 2021*
 <a name="Narunart"></a>
 1. [Narunart Vongeium](https://EITCHY.GitHub.io)
