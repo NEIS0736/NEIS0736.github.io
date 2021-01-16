@@ -481,6 +481,7 @@
       * [Day 3 : yaml.safe_load()](https://www.facebook.com/100000828953445/posts/3590614537642809/) - *Jan 12, 2021*
       * [Day 4 : Deserialize Data from Untrusted Sources](https://www.facebook.com/palm.civilman/posts/3593285464042383) - *Jan 13, 2021*
       * [Day 5 : generate_private_key()](https://www.facebook.com/palm.civilman/posts/3595922273778702) - *Jan 14, 2021*
+      * [Day 6 : eval()](https://www.facebook.com/palm.civilman/posts/3598609633509966) - *Jan 15, 2021*
 <a name="Wasupol"></a>
 1. [Wasupol Chaisangasilp](https://XserieX.GitHub.io)
     * (6317810014) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/XserieX) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/XserieX) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-7315-4049")](https://orcid.org/0000-0002-7315-4049) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/wasupol)
