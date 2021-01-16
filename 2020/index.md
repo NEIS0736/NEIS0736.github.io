@@ -154,7 +154,7 @@
       * [Day 4 : chmod, fchmod](https://www.facebook.com/jaray.paensong/posts/2821887874752500) - *Jan 13, 2021*
       * [Day 5 : clear-text protocols](https://www.facebook.com/jaray.paensong/posts/2823187404622547) - *Jan 14, 2021*
       * [Day 6 : changing working directories](https://www.facebook.com/jaray.paensong/posts/2823447784596509) - *Jan 15, 2021*
-      * [Day 7 :archive files without controlling resource consumption](https://www.facebook.com/jaray.paensong/posts/2824153494525938) - *Jan 16, 2021*
+      * [Day 7 : archive files without controlling resource consumption](https://www.facebook.com/jaray.paensong/posts/2824153494525938) - *Jan 16, 2021*
 <a name="Jaruspong"></a>
 1. [Jaruspong Tongboon](https://jaruspong4.GitHub.io)
     * (6217810004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/jaruspong4) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/jaruspong4)
