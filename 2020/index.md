@@ -355,6 +355,7 @@
       * [Day 4 : Hazmat Module](https://twitter.com/OnggShia/status/1349355271701757955) - *Jan 13, 2021*
       * [Day 5 : hashlib.sha256()](https://twitter.com/OnggShia/status/1349753711015256064) - *Jan 14, 2021*
       * [Day 6 : getuser()](https://twitter.com/OnggShia/status/1350124600366039041) - *Jan 15, 2021*
+      * [Day 7 : passlib.hash.scrypt](https://twitter.com/OnggShia/status/1350498941465366528) - *Jan 16, 2021*
 <a name="Soontorn"></a>
 1. [Soontorn Janphuk](https://freedom357.GitHub.io)
     * (6317660001) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/freedom357) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/freedom357) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-0858-412X")](https://orcid.org/0000-0003-0858-412X) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/freedom357)
