@@ -262,6 +262,7 @@
       * [Day 4 : convert_uuencode()](https://www.facebook.com/somesome.memory/posts/2089362691201240) - *Jan 13, 2021*
       * [Day 5 : SHA256Hash.ComputeHash()](https://www.facebook.com/somesome.memory/posts/2090048354466007) - *Jan 14, 2021*
       * [Day 6 : System.Net.NetworkInformation](https://www.facebook.com/somesome.memory/posts/2090920207712155) - *Jan 15, 2021*
+      * [Day 7 : java.util.Base64](https://www.facebook.com/somesome.memory/posts/2091253124345530) - *Jan 16, 2021*
 <a name="Piyawit"></a>
 1. [Piyawit Khumkrong](https://EsKoOnG.GitHub.io)
     * (6317810004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/EsKoOnG) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/EsKoOnG) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-5527-0233")](https://orcid.org/0000-0001-5527-0233) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/eskoong)
