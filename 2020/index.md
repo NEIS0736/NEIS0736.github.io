@@ -478,6 +478,7 @@
       * [Day 3 : session_regenerate_id](https://www.facebook.com/permalink.php?story_fbid=2301250283353937&id=100004069626150) - *Jan 12, 2021*
       * [Day 4 : random_int()](https://www.facebook.com/permalink.php?story_fbid=2302181436594155&id=100004069626150) - *Jan 13, 2021*
       * [Day 5 : crypto.createCipheriv()](https://www.facebook.com/permalink.php?story_fbid=2302951256517173&id=100004069626150) - *Jan 14, 2021*
+      * [Day 6 : HttpUtility.HtmlEncode](https://www.facebook.com/permalink.php?story_fbid=2303796783099287&id=100004069626150) - *Jan 15, 2021*
 
 ---
 
