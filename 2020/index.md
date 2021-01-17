@@ -788,7 +788,7 @@
       *  Take turn every 3 characters in 3 mins w/o talking together.
    
 ### [**Week 9**] - (Sun) **Jan 17,** 2021
-*  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/cmm-dzag-def)
+*  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://drive.google.com/file/d/11_pqmXk6jJ_CPrVHRWB1XMiO2cqjTcL2)
 *  **#CollabChallenge**, **#PairProgramming** the funny way (**Takeshi's Castle** style) 😜 [***(draw lots)***](https://wheelofnames.com/)
    1. [@AnanBoondamnoen](https://repl.it/@AnanBoondamnoen) & [@peegonggoy](https://repl.it/@peegonggoy)
    1. [@marukofar](https://repl.it/@marukofar) & [@NarunartVongeiu](https://repl.it/@NarunartVongeiu)
@@ -824,6 +824,7 @@
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/fsd-code-jiw)
 
 ### [**Week 12**] - (Sun) **Feb 7,** 2021
+<!-- https://meet.google.com/cmm-dzag-def -->
 *  **Valentine** *vs.* **Ovaltine** <!--Mini contest, organized by you-->
 *  **MiSS**x***Talks***
    * *John Doe*
