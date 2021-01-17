@@ -506,7 +506,7 @@
 
 ---
 
-### **[MiSS**x***Talks*]** (2 chances) 
+### **[MiSS**x***Talks*]** <del>(2 chances)</del> 
 * [**Book**](https://docs.google.com/spreadsheets/d/1NBZyw19XSU4rv0BdW0LQ2KAnSXwAGk1odZ9KhA6fbNc) your time slot
 * In queue
     * **"Dynamic Application Security Testing"**, Khun Saran Kaewnang (**Golf**)
