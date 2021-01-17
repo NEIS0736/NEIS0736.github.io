@@ -814,9 +814,15 @@
 ### [**Week 10**] - (Sun) **Jan 24,** 2021
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/syx-xxzr-ytx)
 *  **MiSS**x***Talks*** 
-   * *John Doe*
-   * *John Doe*
-   * *John Doe*
+   1. *John Doe*
+   1. *John Doe*
+   1. *John Doe*
+   1. *John Doe*
+   1. *John Doe*
+   1. *John Doe*
+   1. *John Doe*
+   1. *John Doe*
+   1. *John Doe*
 *  [The **Twelve Factors**](https://12factor.net/) ([ไทย](https://12factor.net/th/))
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day10)** *by **John Doe***
 
