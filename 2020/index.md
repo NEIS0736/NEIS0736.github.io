@@ -790,8 +790,8 @@
 ### [**Week 9**] - (Sun) **Jan 17,** 2021
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/cmm-dzag-def)
 *  **#CollabChallenge**, **#PairProgramming** the funny way (**Takeshi's Castle** style) 😜 [***(draw lots)***](https://wheelofnames.com/)
-   1. [@AnanBoondamnoen](https://repl.it/@AnanBoondamnoen) & [@peegonggoy](https://repl.it/@peegonggoy)
-   1. [@marukofar](https://repl.it/@marukofar) & [@NarunartVongeiu](https://repl.it/@NarunartVongeiu)
+   1. [@AnanBoondamnoen](https://repl.it/@AnanBoondamnoen) & [@peegonggoy](https://repl.it/@peegonggoy) - list
+   1. [@marukofar](https://repl.it/@marukofar) & [@NarunartVongeiu](https://repl.it/@NarunartVongeiu) - UTF-16
    1. [@freedom357](https://repl.it/@freedom357) & [@nongkon09](https://repl.it/@nongkon09)
    1. Alice & Bob
    1. Alice & Bob
