@@ -803,13 +803,13 @@
    1. [@EsKoOnG](https://repl.it/@EsKoOnG) & [@PhureephatS](https://repl.it/@PhureephatS)
    1. [@AthipornPhumnic](https://repl.it/@AthipornPhumnic) & [@Devtech95](https://repl.it/@Devtech95)
    1. [@ShiaNEIS0736](https://repl.it/@ShiaNEIS0736) & [@omoomomx](https://repl.it/@omoomomx)
-*  Collaborative Coding
-   * [Visual Studio Code](https://code.visualstudio.com/download)
-   * Extention(s)
-     * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
-     * [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
-   * Test **Live Share** w/ your pair.
-*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day9)** *by **John Doe***
+*  Homework
+   * Collaborative Coding
+     * [Visual Studio Code](https://code.visualstudio.com/download)
+     * Extention(s)
+       * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+       * [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+     * Test **Live Share** w/ your pair.
 
 ### [**Week 10**] - (Sun) **Jan 24,** 2021
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/syx-xxzr-ytx)
@@ -833,6 +833,7 @@
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day12)** *by **John Doe***
 
 ### [**Week 13**] - (Sun) **Feb 14,** 2021
+<!-- https://meet.google.com/zxv-teet-zuk -->
 *  **Mini-Contest** ***(draw lots)***
     * Round 1
     * Round 2
