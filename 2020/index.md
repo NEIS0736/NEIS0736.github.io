@@ -521,6 +521,10 @@
     * **"TBD"**, Khun Anan Boondamnoen (**Nan**)
     * **"CTI"**, Khun Soontorn Janphuk (**Brad**)
     * **"IoT"**, Khun Fareed Marnleb (**Far**)
+* (Sun) **Jan 24,** 2021
+    1. xxx
+    1. xxx
+    1. xxx
 * **[Done]**
     * (Sun) **Nov 22,** 2020
         * **"Git"**, Khun Vatcharin Kongsakul
