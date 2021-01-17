@@ -798,6 +798,8 @@
    1. [@fAi00S](https://repl.it/@fAi00S) & [@XserieX](https://repl.it/@XserieX)
    1. [@SupattraBoonkie](https://repl.it/@supattraboonkie) & [@ahicft](https://repl.it/@ahicft)
    1. [@NattapongKetkae](https://repl.it/@NattapongKetkae) & [@GenoGN](https://repl.it/@GenoGN)
+   1. [@VuttawatUyanont](https://repl.it/@VuttawatUyanont) & [@inuax](https://repl.it/@inuax)
+   1. [@icesuntisuk](https://repl.it/@icesuntisuk) & [@sanchat13](https://repl.it/@sanchat13)
 *  Collaborative Coding
    * [Visual Studio Code](https://code.visualstudio.com/download)
    * Extention(s)
