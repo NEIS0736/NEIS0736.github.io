@@ -509,22 +509,20 @@
 ### **[MiSS**x***Talks*]** (2 chances) 
 * [**Book**](https://docs.google.com/spreadsheets/d/1NBZyw19XSU4rv0BdW0LQ2KAnSXwAGk1odZ9KhA6fbNc) your time slot
 * In queue
-    * **"Cyber-physical System"**, Khun Keaittisak Luithong (**Joke**)
-    * **"Threat Modeling, The first step towards security in SDLC"**, Khun Bhoomjit Bhoominath (**Luck**)
     * **"Dynamic Application Security Testing"**, Khun Saran Kaewnang (**Golf**)
     * **"Static Application Security Testing"**, Khun Nipitpon Doungyai (**Geno**)
-    * **"Blockchain and Smart Contract"**,	Khun Vuttawat Uyanont (**Palm**)
     * **"SQL Injection"**, Khun Supattra & Khun Jaray
     * **"RPA Security for Privileged Credentials and Access"**, Khun Theerapong Kanrawong (**Pong**)
-    * **"Software Supply Chain Attack"**, Khun Nattapong Ketkaew (**X**)
     * **"CI/CD Security Testing"** Khun Shirassuda Thongpakdhi (**Kad**)
-    * **"TBD"**, Khun Anan Boondamnoen (**Nan**)
-    * **"CTI"**, Khun Soontorn Janphuk (**Brad**)
-    * **"IoT"**, Khun Fareed Marnleb (**Far**)
 * (Sun) **Jan 24,** 2021
+    1. **"Threat Modeling, The first step towards security in SDLC"**, Khun Bhoomjit Bhoominath (**Luck**)
+    1. **"Blockchain and Smart Contract"**,	Khun Vuttawat Uyanont (**Palm**)
     1. xxx
     1. xxx
-    1. xxx
+    1. **"CTI"**, Khun Soontorn Janphuk (**Brad**)
+    1. **"Software Supply Chain Attack"**, Khun Nattapong Ketkaew (**X**)
+    1. **"IoT"**, Khun Fareed Marnleb (**Far**)
+    1. **"TBD"**, Khun Anan Boondamnoen (**Nan**)
 * **[Done]**
     * (Sun) **Nov 22,** 2020
         * **"Git"**, Khun Vatcharin Kongsakul
