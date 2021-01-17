@@ -517,8 +517,12 @@
 * (Sun) **Jan 24,** 2021
     1. **"Threat Modeling, The first step towards security in SDLC"**, Khun Bhoomjit Bhoominath (**Luck**)
     1. **"Blockchain and Smart Contract"**,	Khun Vuttawat Uyanont (**Palm**)
-    1. xxx
-    1. xxx
+    1. TBA
+    1. TBA
+    1. **"TBD"**, Khun Ekawut Chairat (**Nua**)
+    1. TBA
+    1. TBA
+    1. TBA
     1. **"CTI"**, Khun Soontorn Janphuk (**Brad**)
     1. **"Software Supply Chain Attack"**, Khun Nattapong Ketkaew (**X**)
     1. **"IoT"**, Khun Fareed Marnleb (**Far**)
