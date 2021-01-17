@@ -805,6 +805,7 @@
    * Extention(s)
      * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
      * [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+   * Test **Live Share** w/ your pair.
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day9)** *by **John Doe***
 
 ### [**Week 10**] - (Sun) **Jan 24,** 2021
