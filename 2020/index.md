@@ -527,6 +527,7 @@
     1. **"Software Supply Chain Attack"**, Khun Nattapong Ketkaew (**X**)
     1. **"IoT"**, Khun Fareed Marnleb (**Far**)
     1. **"TBD"**, Khun Anan Boondamnoen (**Nan**)
+    1. TBA
 * **[Done]**
     * (Sun) **Nov 22,** 2020
         * **"Git"**, Khun Vatcharin Kongsakul
