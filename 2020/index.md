@@ -34,13 +34,13 @@
     * [Google](https://ananboondamnoen.github.io/Google_two_factor_authentication)
     * [SQL Injection - Blind - Time-Based](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/SQL-Injection-Blind-TimeBased)
     * #Code4Sec Week
-      * [Day 1 : isalpha()](https://www.facebook.com/nanziiiii/posts/4988614784513436) - *Jan 10, 2021*
-      * [Day 2 : isalnum()](https://www.facebook.com/nanziiiii/posts/4994353457272902) - *Jan 11, 2021*
-      * [Day 3 : preg_match()](https://www.facebook.com/nanziiiii/posts/4998790980162483) - *Jan 12, 2021*
-      * [Day 4 : password_verify()](https://www.facebook.com/nanziiiii/posts/5003341516374096) - *Jan 13, 2021*
-      * [Day 5 : crypt()](https://www.facebook.com/nanziiiii/posts/5006661619375419) - *Jan 14, 2021*
-      * [Day 6 : display_errors()](https://www.facebook.com/nanziiiii/posts/5010272119014369) - *Jan 15, 2021*
-      * [Day 7 : isdigit()](https://www.facebook.com/nanziiiii/posts/5016311865077061) - *Jan 16, 2021*
+        * [Day 1 : isalpha()](https://www.facebook.com/nanziiiii/posts/4988614784513436) - *Jan 10, 2021*
+        * [Day 2 : isalnum()](https://www.facebook.com/nanziiiii/posts/4994353457272902) - *Jan 11, 2021*
+        * [Day 3 : preg_match()](https://www.facebook.com/nanziiiii/posts/4998790980162483) - *Jan 12, 2021*
+        * [Day 4 : password_verify()](https://www.facebook.com/nanziiiii/posts/5003341516374096) - *Jan 13, 2021*
+        * [Day 5 : crypt()](https://www.facebook.com/nanziiiii/posts/5006661619375419) - *Jan 14, 2021*
+        * [Day 6 : display_errors()](https://www.facebook.com/nanziiiii/posts/5010272119014369) - *Jan 15, 2021*
+        * [Day 7 : isdigit()](https://www.facebook.com/nanziiiii/posts/5016311865077061) - *Jan 16, 2021*
 <a name="Athiporn"></a>
 1. [Athiporn Phumnicom](https://AthipornP.GitHub.io)
     * (6217810016) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/AthipornP) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/AthipornP) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-0532-3733")](https://orcid.org/0000-0003-0532-3733) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/athiporn)
@@ -54,13 +54,13 @@
     * [Digital Signature Verification](https://athipornp.github.io/2020/12/26/DigitalSignatureVerification)
     * [PHP Code Injection](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/PHPCodeInjection/PHPCodeInjection)
     * #Code4Sec Week
-      * [Day 1 : System.Text.RegularExpressions](https://www.facebook.com/1815463699/posts/10215246402232768) - *Jan 6, 2021*
-      * [Day 2 : TryValidateModel](https://www.facebook.com/1815463699/posts/10215250371211990) - *Jan 7, 2021*
-      * [Day 3 : CookieOptions](https://www.facebook.com/1815463699/posts/10215257306465367/?d=n) - *Jan 8, 2021*
-      * [Day 4 : AuthorizeAttribute](https://www.facebook.com/1815463699/posts/10215266285929848) - *Jan 9, 2021*
-      * [Day 5 : IdentityOptions](https://www.facebook.com/1815463699/posts/10215274313850541) - *Jan 10, 2021*
-      * [Day 6 : Assembly.Load()](https://www.facebook.com/1815463699/posts/10215280135996091) - *Jan 11, 2021*
-      * [Day 7 : ProtectedMemory.Protect()](https://www.facebook.com/athiporn.phumnicom/posts/10215284387742382) - *Jan 12, 2021*
+        * [Day 1 : System.Text.RegularExpressions](https://www.facebook.com/1815463699/posts/10215246402232768) - *Jan 6, 2021*
+        * [Day 2 : TryValidateModel](https://www.facebook.com/1815463699/posts/10215250371211990) - *Jan 7, 2021*
+        * [Day 3 : CookieOptions](https://www.facebook.com/1815463699/posts/10215257306465367/?d=n) - *Jan 8, 2021*
+        * [Day 4 : AuthorizeAttribute](https://www.facebook.com/1815463699/posts/10215266285929848) - *Jan 9, 2021*
+        * [Day 5 : IdentityOptions](https://www.facebook.com/1815463699/posts/10215274313850541) - *Jan 10, 2021*
+        * [Day 6 : Assembly.Load()](https://www.facebook.com/1815463699/posts/10215280135996091) - *Jan 11, 2021*
+        * [Day 7 : ProtectedMemory.Protect()](https://www.facebook.com/athiporn.phumnicom/posts/10215284387742382) - *Jan 12, 2021*
 <a name="Bhoomjit"></a>
 1. [Bhoomjit Bhoominath](https://peegonggoy.GitHub.io)
     * (6317660004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/peegonggoy) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/peegonggoy) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-9561-730X")](https://orcid.org/0000-0001-9561-730X) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/peegonggoy)
@@ -73,13 +73,13 @@
     * [V-Key](https://eskoong.github.io/2FA-with-V-Key)
     * [SQL Injection (Login Form/User)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/SQL-Injection-Login-Form)
     * #Code4Sec Week
-      * [Day 1 : session_start()](https://www.facebook.com/bhoomjit.bhoominath/posts/4106239382741788) - *Jan 10, 2021*
-      * [Day 2 : session_destroy()](https://www.facebook.com/bhoomjit.bhoominath/posts/4109034502462276) - *Jan 11, 2021*
-      * [Day 3 : error_reporting()](https://www.facebook.com/bhoomjit.bhoominath/posts/4111688548863538) - *Jan 12, 2021*
-      * [Day 4 : $_GET VS $_POST](https://www.facebook.com/bhoomjit.bhoominath/posts/4114416231924103) - *Jan 13, 2021*
-      * [Day 5 : readpassword()](https://www.facebook.com/bhoomjit.bhoominath/posts/4117168058315587) - *Jan 14, 2021*
-      * [Day 6 : URLEncoder](https://www.facebook.com/bhoomjit.bhoominath/posts/4119973681368358) - *Jan 15, 2021*
-      * [Day 7 : hashCode()](https://www.facebook.com/bhoomjit.bhoominath/posts/4122768927755500) - *Jan 16, 2021*
+        * [Day 1 : session_start()](https://www.facebook.com/bhoomjit.bhoominath/posts/4106239382741788) - *Jan 10, 2021*
+        * [Day 2 : session_destroy()](https://www.facebook.com/bhoomjit.bhoominath/posts/4109034502462276) - *Jan 11, 2021*
+        * [Day 3 : error_reporting()](https://www.facebook.com/bhoomjit.bhoominath/posts/4111688548863538) - *Jan 12, 2021*
+        * [Day 4 : $_GET VS $_POST](https://www.facebook.com/bhoomjit.bhoominath/posts/4114416231924103) - *Jan 13, 2021*
+        * [Day 5 : readpassword()](https://www.facebook.com/bhoomjit.bhoominath/posts/4117168058315587) - *Jan 14, 2021*
+        * [Day 6 : URLEncoder](https://www.facebook.com/bhoomjit.bhoominath/posts/4119973681368358) - *Jan 15, 2021*
+        * [Day 7 : hashCode()](https://www.facebook.com/bhoomjit.bhoominath/posts/4122768927755500) - *Jan 16, 2021*
 <a name="Ekawut"></a>
 1. [Ekawut Chairat](https://inuax.GitHub.io)
     * (6217660002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/inuax) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/inuax) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-9674-9627")](https://orcid.org/0000-0002-9674-9627) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/inuax)
@@ -93,13 +93,13 @@
     * [Microsoft](https://inuax.github.io/MicrosoftAuthenticator)
     * [XSS - Reflected (PHP_SELF)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/xss-php-self)
     * #Code4Sec Week
-      * [Day 1 : shelex.split()](https://www.facebook.com/455981291120401/posts/3752318118153352) - *Jan 5, 2021*
-      * [Day 2 : wolfcrypt.ciphers.Aes()](https://www.facebook.com/itvill/posts/3755434261175071) - *Jan 6, 2021*
-      * [Day 3 : hashlib](https://www.facebook.com/455981291120401/posts/3757792040939293) - *Jan 7, 2021*
-      * [Day 4 : ConfigParser](https://www.facebook.com/455981291120401/posts/3760587660659731) - *Jan 8, 2021*
-      * [Day 5 : secrets](https://www.facebook.com/455981291120401/posts/3762775570440940) - *Jan 9, 2021*
-      * [Day 6 : CRSF protection](https://www.facebook.com/455981291120401/posts/3765888063463024) - *Jan 10, 2021*
-      * [Day 7 : ftplib](https://www.facebook.com/455981291120401/posts/3768523129866184) - *Jan 11, 2021*
+        * [Day 1 : shelex.split()](https://www.facebook.com/455981291120401/posts/3752318118153352) - *Jan 5, 2021*
+        * [Day 2 : wolfcrypt.ciphers.Aes()](https://www.facebook.com/itvill/posts/3755434261175071) - *Jan 6, 2021*
+        * [Day 3 : hashlib](https://www.facebook.com/455981291120401/posts/3757792040939293) - *Jan 7, 2021*
+        * [Day 4 : ConfigParser](https://www.facebook.com/455981291120401/posts/3760587660659731) - *Jan 8, 2021*
+        * [Day 5 : secrets](https://www.facebook.com/455981291120401/posts/3762775570440940) - *Jan 9, 2021*
+        * [Day 6 : CRSF protection](https://www.facebook.com/455981291120401/posts/3765888063463024) - *Jan 10, 2021*
+        * [Day 7 : ftplib](https://www.facebook.com/455981291120401/posts/3768523129866184) - *Jan 11, 2021*
 <a name="Fareed"></a>
 1. [Fareed Marnleb](https://marukofar.GitHub.io)
     * (6317810012) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/marukofar) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/marukofar) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-6769-7453")](https://orcid.org/0000-0001-6769-7453) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/marukofar)
@@ -111,13 +111,13 @@
     * [Twitter](https://marukofar.github.io/Twitter-Two-factor-authentication)
     * [XSS - Reflected (User-Agent)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/XSS-Reflected_User-Agent)
     * #Code4Sec Week
-      * [Day 1 : encode()](https://www.facebook.com/marukofar/posts/5451424434875109) - *Jan 5, 2021*
-      * [Day 2 : isdigit()](https://www.facebook.com/marukofar/posts/5454906371193582) - *Jan 6, 2021*
-      * [Day 3 : password_hash()](https://www.facebook.com/marukofar/posts/5459312050753014) - *Jan 7, 2021*
-      * [Day 4 : preg_replace()](https://www.facebook.com/marukofar/posts/5463643133653239) - *Jan 8, 2021*
-      * [Day 5 : filter_var()](https://www.facebook.com/marukofar/posts/5468105719873647) - *Jan 9, 2021*
-      * [Day 6 : error_reporting()](https://www.facebook.com/marukofar/posts/5473020279382191) - *Jan 10, 2021*
-      * [Day 7 : pg_escape_string()](https://www.facebook.com/marukofar/posts/5477804788903740) - *Jan 11, 2021*
+        * [Day 1 : encode()](https://www.facebook.com/marukofar/posts/5451424434875109) - *Jan 5, 2021*
+        * [Day 2 : isdigit()](https://www.facebook.com/marukofar/posts/5454906371193582) - *Jan 6, 2021*
+        * [Day 3 : password_hash()](https://www.facebook.com/marukofar/posts/5459312050753014) - *Jan 7, 2021*
+        * [Day 4 : preg_replace()](https://www.facebook.com/marukofar/posts/5463643133653239) - *Jan 8, 2021*
+        * [Day 5 : filter_var()](https://www.facebook.com/marukofar/posts/5468105719873647) - *Jan 9, 2021*
+        * [Day 6 : error_reporting()](https://www.facebook.com/marukofar/posts/5473020279382191) - *Jan 10, 2021*
+        * [Day 7 : pg_escape_string()](https://www.facebook.com/marukofar/posts/5477804788903740) - *Jan 11, 2021*
 <a name="Hachol"></a>
 1. [Hachol Dabthong](https://hacholda.GitHub.io)
     * (6217810010) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/hacholda) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/hacholda) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-7028-3742")](https://orcid.org/0000-0002-7028-3742) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/hacholda)
@@ -130,13 +130,13 @@
     * [Microsoft](https://inuax.github.io/MicrosoftAuthenticator)
     * [XSS - Reflected (JSON)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/XSS-Reflexted(JSON))
     * #Code4Sec Week
-      * [Day 1 : jsonschema.validate()](https://www.facebook.com/hachol/posts/3539486029420241) - *Jan 8, 2021*
-      * [Day 2 : Logging.basicConfig()](https://www.facebook.com/hachol/posts/3540939679274876) - *Jan 9, 2021*
-      * [Day 3 : FILTER_SANITIZE_URL()](https://www.facebook.com/hachol/posts/3543105935724917) - *Jan 10, 2021*
-      * [Day 4 : socket.inet_pton()](https://www.facebook.com/hachol/posts/3545785112123666) - *Jan 11, 2021*
-      * [Day 5 : substr_replace()](https://www.facebook.com/hachol/posts/3548305558538288) - *Jan 12, 2021*
-      * [Day 6 : FILTER_VALIDATE_INT()](https://www.facebook.com/hachol/posts/3552054098163434) - *Jan 13, 2021*
-      * [Day 7 : os.system()](https://www.facebook.com/hachol/posts/3554694784566032) - *Jan 14, 2021*
+        * [Day 1 : jsonschema.validate()](https://www.facebook.com/hachol/posts/3539486029420241) - *Jan 8, 2021*
+        * [Day 2 : Logging.basicConfig()](https://www.facebook.com/hachol/posts/3540939679274876) - *Jan 9, 2021*
+        * [Day 3 : FILTER_SANITIZE_URL()](https://www.facebook.com/hachol/posts/3543105935724917) - *Jan 10, 2021*
+        * [Day 4 : socket.inet_pton()](https://www.facebook.com/hachol/posts/3545785112123666) - *Jan 11, 2021*
+        * [Day 5 : substr_replace()](https://www.facebook.com/hachol/posts/3548305558538288) - *Jan 12, 2021*
+        * [Day 6 : FILTER_VALIDATE_INT()](https://www.facebook.com/hachol/posts/3552054098163434) - *Jan 13, 2021*
+        * [Day 7 : os.system()](https://www.facebook.com/hachol/posts/3554694784566032) - *Jan 14, 2021*
 <a name="Jaray"></a>
 1. [Jaray Paensong](https://HiRayShi.GitHub.io)
     * (6317660006) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/HiRayShi) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/HiRayShi) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-4654-9157")](https://orcid.org/0000-0003-4654-9157) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/jarray)
@@ -150,13 +150,13 @@
     * [TC : Authentication Time Limit](https://hirayshi.github.io/Authentication_5_Time_fail)
     * [XSS - Reflected (User-Agent)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/XSS-Reflected_User-Agent)
     * #Code4Sec Week
-      * [Day 1 : fchmod](https://www.facebook.com/jaray.paensong/posts/2820402878234333) - *Jan 10, 2021*
-      * [Day 2 : tmpnam, tmpnam_s, tmpnam_r](https://www.facebook.com/jaray.paensong/posts/2820661434875144) - *Jan 11, 2021*
-      * [Day 3 : “strncpy” or “wcsncpy” is security-sensitive](https://www.facebook.com/jaray.paensong/posts/2821792734762014) - *Jan 12, 2021*
-      * [Day 4 : chmod, fchmod](https://www.facebook.com/jaray.paensong/posts/2821887874752500) - *Jan 13, 2021*
-      * [Day 5 : clear-text protocols](https://www.facebook.com/jaray.paensong/posts/2823187404622547) - *Jan 14, 2021*
-      * [Day 6 : changing working directories](https://www.facebook.com/jaray.paensong/posts/2823447784596509) - *Jan 15, 2021*
-      * [Day 7 : archive files without controlling resource consumption](https://www.facebook.com/jaray.paensong/posts/2824153494525938) - *Jan 16, 2021*
+        * [Day 1 : fchmod](https://www.facebook.com/jaray.paensong/posts/2820402878234333) - *Jan 10, 2021*
+        * [Day 2 : tmpnam, tmpnam_s, tmpnam_r](https://www.facebook.com/jaray.paensong/posts/2820661434875144) - *Jan 11, 2021*
+        * [Day 3 : “strncpy” or “wcsncpy” is security-sensitive](https://www.facebook.com/jaray.paensong/posts/2821792734762014) - *Jan 12, 2021*
+        * [Day 4 : chmod, fchmod](https://www.facebook.com/jaray.paensong/posts/2821887874752500) - *Jan 13, 2021*
+        * [Day 5 : clear-text protocols](https://www.facebook.com/jaray.paensong/posts/2823187404622547) - *Jan 14, 2021*
+        * [Day 6 : changing working directories](https://www.facebook.com/jaray.paensong/posts/2823447784596509) - *Jan 15, 2021*
+        * [Day 7 : archive files without controlling resource consumption](https://www.facebook.com/jaray.paensong/posts/2824153494525938) - *Jan 16, 2021*
 <a name="Jaruspong"></a>
 1. [Jaruspong Tongboon](https://jaruspong4.GitHub.io)
     * (6217810004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/jaruspong4) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/jaruspong4)
@@ -181,13 +181,13 @@
     * [Instagram](https://fai00-s.github.io/Instagram)
     * [SQL Injection (POST/Search)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/sql-injection-POST-Search)
     * #Code4Sec Week
-      * [Day 1 : addslashs()](https://www.facebook.com/fai.nantawan/posts/10222317874848888) - *Jan 10, 2021*
-      * [Day 2 : md5()](https://www.facebook.com/fai.nantawan/posts/10222327234722879) - *Jan 11, 2021*
-      * [Day 3 : sha1()](https://www.facebook.com/fai.nantawan/posts/10222334427262688) - *Jan 12, 2021*
-      * [Day 4 : openssl_encrypt()](https://www.facebook.com/fai.nantawan/posts/10222341489439238) - *Jan 13, 2021*
-      * [Day 5 : bcrypt()](https://www.facebook.com/fai.nantawan/posts/10222347909559737) - *Jan 14, 2021*
-      * [Day 6 : mcrypt_encrypt()](https://www.facebook.com/fai.nantawan/posts/10222355088619209) - *Jan 15, 2021*
-      * [Day 7 : openssl_public_encrypt()](https://www.facebook.com/fai.nantawan/posts/10222362094874361) - *Jan 16, 2021*
+        * [Day 1 : addslashs()](https://www.facebook.com/fai.nantawan/posts/10222317874848888) - *Jan 10, 2021*
+        * [Day 2 : md5()](https://www.facebook.com/fai.nantawan/posts/10222327234722879) - *Jan 11, 2021*
+        * [Day 3 : sha1()](https://www.facebook.com/fai.nantawan/posts/10222334427262688) - *Jan 12, 2021*
+        * [Day 4 : openssl_encrypt()](https://www.facebook.com/fai.nantawan/posts/10222341489439238) - *Jan 13, 2021*
+        * [Day 5 : bcrypt()](https://www.facebook.com/fai.nantawan/posts/10222347909559737) - *Jan 14, 2021*
+        * [Day 6 : mcrypt_encrypt()](https://www.facebook.com/fai.nantawan/posts/10222355088619209) - *Jan 15, 2021*
+        * [Day 7 : openssl_public_encrypt()](https://www.facebook.com/fai.nantawan/posts/10222362094874361) - *Jan 16, 2021*
 <a name="Narunart"></a>
 1. [Narunart Vongeium](https://EITCHY.GitHub.io)
     * (6317810006) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/EITCHY) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/EITCHY) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-1157-9412")](https://orcid.org/0000-0002-1157-9412) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/eitchy)
@@ -198,13 +198,13 @@
     * [Outlook](https://eitchy.github.io/Outlook_2_Factor_Authentication)
     * [HTML Injection - Reflected (GET)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/HTML-Injection-Reflected-GET)
     * #Code4Sec Week
-      * [Day 1 : Crypto.PublicKey](https://twitter.com/EIITCHY/status/1348124432955396097) - *Jan 10, 2021*
-      * [Day 2 : pyAesCrypt (AES256-CBC)](https://twitter.com/EIITCHY/status/1348495691274805252) - *Jan 11, 2021*
-      * [Day 3 : urllib.parse](https://twitter.com/EIITCHY/status/1348835093419159555) - *Jan 12, 2021*
-      * [Day 4 : hmac](https://twitter.com/EIITCHY/status/1349208595590647810) - *Jan 13, 2021*
-      * [Day 5 : strip_tags()](https://twitter.com/EIITCHY/status/1349627623765262336) - *Jan 14, 2021*
-      * [Day 6 : input is_numeric()](https://twitter.com/EIITCHY/status/1350017799826022411) - *Jan 15, 2021*
-      * [Day 7 : hash_equals()](https://twitter.com/EIITCHY/status/1350278337923452930) - *Jan 16, 2021*
+        * [Day 1 : Crypto.PublicKey](https://twitter.com/EIITCHY/status/1348124432955396097) - *Jan 10, 2021*
+        * [Day 2 : pyAesCrypt (AES256-CBC)](https://twitter.com/EIITCHY/status/1348495691274805252) - *Jan 11, 2021*
+        * [Day 3 : urllib.parse](https://twitter.com/EIITCHY/status/1348835093419159555) - *Jan 12, 2021*
+        * [Day 4 : hmac](https://twitter.com/EIITCHY/status/1349208595590647810) - *Jan 13, 2021*
+        * [Day 5 : strip_tags()](https://twitter.com/EIITCHY/status/1349627623765262336) - *Jan 14, 2021*
+        * [Day 6 : input is_numeric()](https://twitter.com/EIITCHY/status/1350017799826022411) - *Jan 15, 2021*
+        * [Day 7 : hash_equals()](https://twitter.com/EIITCHY/status/1350278337923452930) - *Jan 16, 2021*
 <a name="Nattapong"></a>
 1. [Nattapong Ketkaew](https://nattapong007.GitHub.io)
     * (6317810011) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/nattapong007) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/nattapong007) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-0018-4431")](https://orcid.org/0000-0002-0018-4431) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/nattapong007)
@@ -215,13 +215,13 @@
     * [SQL Injection (POST/Select)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/sql-injection-post-select)
     * [Software Supply-Chain Attack](https://gitlab.com/NEIS0736/2020/-/wikis/KBs/supply-chain-attack)
     * #Code4Sec Week
-      * [Day 1 : preg_quote()](https://www.facebook.com/permalink.php?story_fbid=3892628230757375&id=100000307097053) - *Jan 10, 2021*
-      * [Day 2 : imagestring()](https://www.facebook.com/permalink.php?story_fbid=3896497310370467&id=100000307097053) - *Jan 11, 2021*
-      * [Day 3 : exec()](https://www.facebook.com/permalink.php?story_fbid=3899714050048793&id=100000307097053) - *Jan 12, 2021*
-      * [Day 4 : authentication](https://www.facebook.com/permalink.php?story_fbid=3903063413047190&id=100000307097053) - *Jan 13, 2021*
-      * [Day 5 : ctype_alnum()](https://www.facebook.com/permalink.php?story_fbid=3905842476102617&id=100000307097053) - *Jan 14, 2021*
-      * [Day 6 : memset_s](https://www.facebook.com/permalink.php?story_fbid=3908173515869513&id=100000307097053) - *Jan 15, 2021*
-      * [Day 7 : javax.crypto.Cipher](https://www.facebook.com/permalink.php?story_fbid=3911423938877804&id=100000307097053) - *Jan 16, 2021*
+        * [Day 1 : preg_quote()](https://www.facebook.com/permalink.php?story_fbid=3892628230757375&id=100000307097053) - *Jan 10, 2021*
+        * [Day 2 : imagestring()](https://www.facebook.com/permalink.php?story_fbid=3896497310370467&id=100000307097053) - *Jan 11, 2021*
+        * [Day 3 : exec()](https://www.facebook.com/permalink.php?story_fbid=3899714050048793&id=100000307097053) - *Jan 12, 2021*
+        * [Day 4 : authentication](https://www.facebook.com/permalink.php?story_fbid=3903063413047190&id=100000307097053) - *Jan 13, 2021*
+        * [Day 5 : ctype_alnum()](https://www.facebook.com/permalink.php?story_fbid=3905842476102617&id=100000307097053) - *Jan 14, 2021*
+        * [Day 6 : memset_s](https://www.facebook.com/permalink.php?story_fbid=3908173515869513&id=100000307097053) - *Jan 15, 2021*
+        * [Day 7 : javax.crypto.Cipher](https://www.facebook.com/permalink.php?story_fbid=3911423938877804&id=100000307097053) - *Jan 16, 2021*
 <a name="Nattawut"></a>
 1. [Nattawut Reungsap](https://omoomomx.GitHub.io)
     * (6217810013) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/omoomomx) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/omoomomx) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-6578-6583")](https://orcid.org/0000-0001-6578-6583) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/omoomomx)
@@ -233,13 +233,13 @@
     * [Firefox](https://omoomomx.github.io/FirefoxTwoFactorAuthentication)
     * [XSS - Reflected (JSON)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/XSS-Reflexted(JSON))
     * #Code4Sec Week
-      * [Day 1 : highlight_string()](https://www.facebook.com/omo.mx/posts/3685031868221853) - *Jan 9, 2021*
-      * [Day 2 : basename()](https://www.facebook.com/omo.mx/posts/3687645607960479) - *Jan 10, 2021*
-      * [Day 3 : ingres_escape_string()](https://www.facebook.com/omo.mx/posts/3690203024371404) - *Jan 11, 2021*
-      * [Day 4 : escape_shell_cmd()](https://web.facebook.com/omo.mx/posts/3692912420767131) - *Jan 12, 2021*
-      * [Day 5 : pathinfo()](https://www.facebook.com/omo.mx/posts/3695448953846811) - *Jan 13, 2021*
-      * [Day 6 : input validation](https://www.facebook.com/omo.mx/posts/3698208530237520) - *Jan 14, 2021*
-      * [Day 7 : os.path.basename()](https://www.facebook.com/omo.mx/posts/3700851376639902) - *Jan 15, 2021*
+        * [Day 1 : highlight_string()](https://www.facebook.com/omo.mx/posts/3685031868221853) - *Jan 9, 2021*
+        * [Day 2 : basename()](https://www.facebook.com/omo.mx/posts/3687645607960479) - *Jan 10, 2021*
+        * [Day 3 : ingres_escape_string()](https://www.facebook.com/omo.mx/posts/3690203024371404) - *Jan 11, 2021*
+        * [Day 4 : escape_shell_cmd()](https://web.facebook.com/omo.mx/posts/3692912420767131) - *Jan 12, 2021*
+        * [Day 5 : pathinfo()](https://www.facebook.com/omo.mx/posts/3695448953846811) - *Jan 13, 2021*
+        * [Day 6 : input validation](https://www.facebook.com/omo.mx/posts/3698208530237520) - *Jan 14, 2021*
+        * [Day 7 : os.path.basename()](https://www.facebook.com/omo.mx/posts/3700851376639902) - *Jan 15, 2021*
     * [**Consent**: ***option*** **not** an ***obligation***](https://gitlab.com/NEIS0736/2020/-/wikis/KBs/ConsentPDPA)
 <a name="Nipitpon"></a>
 1. [Nipitpon Doungyai](https://itsGno.GitHub.io)
@@ -250,9 +250,9 @@
     * [TC : XSS](https://ahictf.github.io/xsstestcase/)
     * [SQL Injection (GET/Search)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/SQL-Injection-GET-Search)
     * #Code4Sec Week
-      * [Day 1 : escape()](https://www.facebook.com/profiIe.info/posts/3694202620636799) - *Jan 7, 2021*
-      * [Day 2 : parseInt()](https://www.facebook.com/profiIe.info/posts/3698243083566086) - *Jan 8, 2021*
-      * [Day 3 : bcrypt.hashSync()](https://www.facebook.com/profiIe.info/posts/3703400003050394) - *Jan 10, 2021*
+        * [Day 1 : escape()](https://www.facebook.com/profiIe.info/posts/3694202620636799) - *Jan 7, 2021*
+        * [Day 2 : parseInt()](https://www.facebook.com/profiIe.info/posts/3698243083566086) - *Jan 8, 2021*
+        * [Day 3 : bcrypt.hashSync()](https://www.facebook.com/profiIe.info/posts/3703400003050394) - *Jan 10, 2021*
 <a name="Phureephat"></a>
 1. [Phureephat Sottiratanapan](https://PhureephatS.GitHub.io)
     * (6217810014) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/PhureephatS) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/PhureephatS) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-1300-8231")](https://orcid.org/0000-0003-1300-8231) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/phureephats)
@@ -266,13 +266,13 @@
     * [Facebook](https://athipornp.github.io/2020/12/20/FacebookAuthentication)
     * [PHP Code Injection](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/PHPCodeInjection/PHPCodeInjection)
     * #Code4Sec Week
-      * [Day 1 : htmlentities()](https://www.facebook.com/somesome.memory/posts/2086451181492391) - *Jan 10, 2021*
-      * [Day 2 : crc32()](https://www.facebook.com/somesome.memory/posts/2087965128007663) - *Jan 11, 2021*
-      * [Day 3 : setcookie()](https://www.facebook.com/somesome.memory/posts/2088794191258090) - *Jan 12, 2021*
-      * [Day 4 : convert_uuencode()](https://www.facebook.com/somesome.memory/posts/2089362691201240) - *Jan 13, 2021*
-      * [Day 5 : SHA256Hash.ComputeHash()](https://www.facebook.com/somesome.memory/posts/2090048354466007) - *Jan 14, 2021*
-      * [Day 6 : System.Net.NetworkInformation](https://www.facebook.com/somesome.memory/posts/2090920207712155) - *Jan 15, 2021*
-      * [Day 7 : java.util.Base64](https://www.facebook.com/somesome.memory/posts/2091253124345530) - *Jan 16, 2021*
+        * [Day 1 : htmlentities()](https://www.facebook.com/somesome.memory/posts/2086451181492391) - *Jan 10, 2021*
+        * [Day 2 : crc32()](https://www.facebook.com/somesome.memory/posts/2087965128007663) - *Jan 11, 2021*
+        * [Day 3 : setcookie()](https://www.facebook.com/somesome.memory/posts/2088794191258090) - *Jan 12, 2021*
+        * [Day 4 : convert_uuencode()](https://www.facebook.com/somesome.memory/posts/2089362691201240) - *Jan 13, 2021*
+        * [Day 5 : SHA256Hash.ComputeHash()](https://www.facebook.com/somesome.memory/posts/2090048354466007) - *Jan 14, 2021*
+        * [Day 6 : System.Net.NetworkInformation](https://www.facebook.com/somesome.memory/posts/2090920207712155) - *Jan 15, 2021*
+        * [Day 7 : java.util.Base64](https://www.facebook.com/somesome.memory/posts/2091253124345530) - *Jan 16, 2021*
     * [Collaborative Coding](Collab/No3.jpg)
 <a name="Piyawit"></a>
 1. [Piyawit Khumkrong](https://EsKoOnG.GitHub.io)
@@ -289,13 +289,13 @@
     * [V-Key](https://eskoong.github.io/2FA-with-V-Key)
     * [SQL Injection (Login Form/User)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/SQL-Injection-Login-Form)
     * #Code4Sec Week
-      * [Day 1 : Formatting SQL queries](https://www.facebook.com/anthony.es.schwind/posts/1776447505854692) - *Jan 9, 2021*
-      * [Day 2 : Environment Variables](https://www.facebook.com/anthony.es.schwind/posts/1776865762479533) - *Jan 10, 2021*
-      * [Day 3 : crypto.getRandomValues()](https://www.facebook.com/anthony.es.schwind/posts/1777811652384944) - *Jan 11, 2021*
-      * [Day 4 : libxmljs](https://www.facebook.com/anthony.es.schwind/posts/1778468392319270) - *Jan 12, 2021*
-      * [Day 5 : publicly writable directories](https://www.facebook.com/anthony.es.schwind/posts/1779070485592394) - *Jan 13, 2021*
-      * [Day 6 : XSS](https://www.facebook.com/anthony.es.schwind/posts/1779555868877189) - *Jan 14, 2021*
-      * [Day 7 : csurf](https://www.facebook.com/anthony.es.schwind/posts/1780248195474623) - *Jan 15, 2021*
+        * [Day 1 : Formatting SQL queries](https://www.facebook.com/anthony.es.schwind/posts/1776447505854692) - *Jan 9, 2021*
+        * [Day 2 : Environment Variables](https://www.facebook.com/anthony.es.schwind/posts/1776865762479533) - *Jan 10, 2021*
+        * [Day 3 : crypto.getRandomValues()](https://www.facebook.com/anthony.es.schwind/posts/1777811652384944) - *Jan 11, 2021*
+        * [Day 4 : libxmljs](https://www.facebook.com/anthony.es.schwind/posts/1778468392319270) - *Jan 12, 2021*
+        * [Day 5 : publicly writable directories](https://www.facebook.com/anthony.es.schwind/posts/1779070485592394) - *Jan 13, 2021*
+        * [Day 6 : XSS](https://www.facebook.com/anthony.es.schwind/posts/1779555868877189) - *Jan 14, 2021*
+        * [Day 7 : csurf](https://www.facebook.com/anthony.es.schwind/posts/1780248195474623) - *Jan 15, 2021*
     * [Collaborative Coding](Collab/No3.jpg)
 <a name="Sakarin"></a>
 1. [Sakarin Kaewsathitwong](https://Alfatoxin.GitHub.io)
@@ -307,13 +307,13 @@
     * [GitHub](https://icesuntisuk.github.io/KB/2factorauthGitHub)
     * [XSS - Reflected (GET)](https://icesuntisuk.github.io/KB/xss-reflected-get)
     * #Code4Sec Week
-      * [Day 1 : Steganography()](https://www.facebook.com/Sakarin.BooM/posts/10220457623894122) - *Jan 9, 2021*
-      * [Day 2 : CryptographyHelper.EncryptString()](https://www.facebook.com/Sakarin.BooM/posts/10220464791953319) - *Jan 10, 2021*
-      * [Day 3 : PASSWORD()](https://www.facebook.com/Sakarin.BooM/posts/10220472291100793) - *Jan 11, 2021*
-      * [Day 4 : sha1()](https://web.facebook.com/Sakarin.BooM/posts/10220478952827332) - *Jan 12, 2021*
-      * [Day 5 : java.security.MessageDigest()](https://www.facebook.com/Sakarin.BooM/posts/10220487012588821) - *Jan 13, 2021*
-      * [Day 6 : sha256.Sum256()](https://www.facebook.com/Sakarin.BooM/posts/10220493505111130) - *Jan 14, 2021*
-      * [Day 7 : empty(), isset() & isnull()](https://www.facebook.com/Sakarin.BooM/posts/10220501750437258) - *Jan 15, 2021*
+        * [Day 1 : Steganography()](https://www.facebook.com/Sakarin.BooM/posts/10220457623894122) - *Jan 9, 2021*
+        * [Day 2 : CryptographyHelper.EncryptString()](https://www.facebook.com/Sakarin.BooM/posts/10220464791953319) - *Jan 10, 2021*
+        * [Day 3 : PASSWORD()](https://www.facebook.com/Sakarin.BooM/posts/10220472291100793) - *Jan 11, 2021*
+        * [Day 4 : sha1()](https://web.facebook.com/Sakarin.BooM/posts/10220478952827332) - *Jan 12, 2021*
+        * [Day 5 : java.security.MessageDigest()](https://www.facebook.com/Sakarin.BooM/posts/10220487012588821) - *Jan 13, 2021*
+        * [Day 6 : sha256.Sum256()](https://www.facebook.com/Sakarin.BooM/posts/10220493505111130) - *Jan 14, 2021*
+        * [Day 7 : empty(), isset() & isnull()](https://www.facebook.com/Sakarin.BooM/posts/10220501750437258) - *Jan 15, 2021*
 <a name="Sanchat"></a>
 1. [Sanchat Phaisit](https://ph-sanchat.GitHub.io)
     * (6317810015) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ph-sanchat) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/ph-sanchat) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-4707-179X")](https://orcid.org/0000-0003-4707-179X) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/sanchatphaisit)
@@ -325,13 +325,13 @@
     * [LINE](https://ph-sanchat.github.io/Line-Application-Authentication)
     * [XSS - Reflected (HREF)](https://gitlab.com/NEIS0736/2020/-/wikis/XSS---Reflected-(HREF))
     * #Code4Sec Week
-      * [Day 1 : Tempfile.NamedTemporaryFile()](https://www.facebook.com/permalink.php?story_fbid=3427376880718084&id=100003374168414) - *Jan 10, 2021*
-      * [Day 2 : Casting to safe types](https://www.facebook.com/permalink.php?story_fbid=3429836043805501&id=100003374168414) - *Jan 11, 2021*
-      * [Day 3 : os.environ.get()](https://www.facebook.com/permalink.php?story_fbid=3432139543575151&id=100003374168414) - *Jan 12, 2021*
-      * [Day 4 : re.escape()](https://www.facebook.com/permalink.php?story_fbid=3435164066606032&id=100003374168414) - *Jan 13, 2021*
-      * [Day 5 : urllib.parse.urlparse()](https://www.facebook.com/permalink.php?story_fbid=3437879039667868&id=100003374168414) - *Jan 14, 2021*
-      * [Day 6 : isalnum()](https://www.facebook.com/permalink.php?story_fbid=3440189622770143&id=100003374168414) - *Jan 15, 2021*
-      * [Day 7 : OS commands](https://www.facebook.com/permalink.php?story_fbid=3442878285834610&id=100003374168414) - *Jan 16, 2021*
+        * [Day 1 : Tempfile.NamedTemporaryFile()](https://www.facebook.com/permalink.php?story_fbid=3427376880718084&id=100003374168414) - *Jan 10, 2021*
+        * [Day 2 : Casting to safe types](https://www.facebook.com/permalink.php?story_fbid=3429836043805501&id=100003374168414) - *Jan 11, 2021*
+        * [Day 3 : os.environ.get()](https://www.facebook.com/permalink.php?story_fbid=3432139543575151&id=100003374168414) - *Jan 12, 2021*
+        * [Day 4 : re.escape()](https://www.facebook.com/permalink.php?story_fbid=3435164066606032&id=100003374168414) - *Jan 13, 2021*
+        * [Day 5 : urllib.parse.urlparse()](https://www.facebook.com/permalink.php?story_fbid=3437879039667868&id=100003374168414) - *Jan 14, 2021*
+        * [Day 6 : isalnum()](https://www.facebook.com/permalink.php?story_fbid=3440189622770143&id=100003374168414) - *Jan 15, 2021*
+        * [Day 7 : OS commands](https://www.facebook.com/permalink.php?story_fbid=3442878285834610&id=100003374168414) - *Jan 16, 2021*
 <a name="Saran"></a>
 1. [Saran Kaewnang](https://ahictf.GitHub.io)
     * (6317810007) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ahictf) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/ahictf) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-1885-5448 ")](https://orcid.org/0000-0003-1885-5448) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/ahiahi)
@@ -340,7 +340,7 @@
     * [TC : XSS](https://ahictf.github.io/xsstestcase/)
     * [SQL Injection (GET/Search)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/SQL-Injection-GET-Search)
     * #Code4Sec Week
-      * [Day 1 : mysqli_real_escape_string()](https://www.facebook.com/SaranKaewnang/posts/3617391354981586) - *Jan 5, 2021*
+        * [Day 1 : mysqli_real_escape_string()](https://www.facebook.com/SaranKaewnang/posts/3617391354981586) - *Jan 5, 2021*
 <a name="Shirassuda"></a>
 1. [Shirassuda Thongpakdhi](http://MyGitHubNEIS0736.github.io)
     * (6117810017) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/MyGitHubNEIS0736) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/MyGitHubNEIS0736) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-8272-0161")](https://orcid.org/0000-0002-8272-0161) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/shianeis0736)
@@ -351,13 +351,13 @@
     * [Firefox](https://omoomomx.github.io/FirefoxTwoFactorAuthentication)
     * [SQL Injection (GET/Select)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/SQL-Injection-GET-Select)
     * #Code4Sec Week
-      * [Day 1 : bcrypt](https://twitter.com/OnggShia/status/1348121283297300484) - *Jan 10, 2021*
-      * [Day 2 : getpass](https://twitter.com/OnggShia/status/1348476454187589638) - *Jan 11, 2021*
-      * [Day 3 : sha256_crypt](https://twitter.com/OnggShia/status/1348983326627926016) - *Jan 12, 2021*
-      * [Day 4 : Hazmat Module](https://twitter.com/OnggShia/status/1349355271701757955) - *Jan 13, 2021*
-      * [Day 5 : hashlib.sha256()](https://twitter.com/OnggShia/status/1349753711015256064) - *Jan 14, 2021*
-      * [Day 6 : getuser()](https://twitter.com/OnggShia/status/1350124600366039041) - *Jan 15, 2021*
-      * [Day 7 : passlib.hash.scrypt](https://twitter.com/OnggShia/status/1350498941465366528) - *Jan 16, 2021*
+        * [Day 1 : bcrypt](https://twitter.com/OnggShia/status/1348121283297300484) - *Jan 10, 2021*
+        * [Day 2 : getpass](https://twitter.com/OnggShia/status/1348476454187589638) - *Jan 11, 2021*
+        * [Day 3 : sha256_crypt](https://twitter.com/OnggShia/status/1348983326627926016) - *Jan 12, 2021*
+        * [Day 4 : Hazmat Module](https://twitter.com/OnggShia/status/1349355271701757955) - *Jan 13, 2021*
+        * [Day 5 : hashlib.sha256()](https://twitter.com/OnggShia/status/1349753711015256064) - *Jan 14, 2021*
+        * [Day 6 : getuser()](https://twitter.com/OnggShia/status/1350124600366039041) - *Jan 15, 2021*
+        * [Day 7 : passlib.hash.scrypt](https://twitter.com/OnggShia/status/1350498941465366528) - *Jan 16, 2021*
 <a name="Soontorn"></a>
 1. [Soontorn Janphuk](https://freedom357.GitHub.io)
     * (6317660001) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/freedom357) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/freedom357) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-0858-412X")](https://orcid.org/0000-0003-0858-412X) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/freedom357)
@@ -369,13 +369,13 @@
     * [Google](https://ananboondamnoen.github.io/Google_two_factor_authentication)
     * [SQL Injection - Blind - Time-Based](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/SQL-Injection-Blind-TimeBased)
     * #Code4Sec Week
-      * [Day 1 : mysql_escape_string](https://www.facebook.com/sj.freedom.9/posts/399667751291442) - *Jan 9, 2021*
-      * [Day 2 : strpos()](https://www.facebook.com/sj.freedom.9/posts/400259994565551) - *Jan 10, 2021*
-      * [Day 3 : urldecode()](https://www.facebook.com/sj.freedom.9/posts/400747204516830) - *Jan 11, 2021*
-      * [Day 4 : hexdec()](https://www.facebook.com/sj.freedom.9/posts/401415191116698) - *Jan 12, 2021*
-      * [Day 5 : htmlentities](https://www.facebook.com/sj.freedom.9/posts/402089737715910) - *Jan 13, 2021*
-      * [Day 6 : dirname()](https://www.facebook.com/sj.freedom.9/posts/402171884374362) - *Jan 14, 2021*
-      * [Day 7 : in_array()](https://www.facebook.com/sj.freedom.9/posts/402660964325454) - *Jan 15, 2021*
+        * [Day 1 : mysql_escape_string](https://www.facebook.com/sj.freedom.9/posts/399667751291442) - *Jan 9, 2021*
+        * [Day 2 : strpos()](https://www.facebook.com/sj.freedom.9/posts/400259994565551) - *Jan 10, 2021*
+        * [Day 3 : urldecode()](https://www.facebook.com/sj.freedom.9/posts/400747204516830) - *Jan 11, 2021*
+        * [Day 4 : hexdec()](https://www.facebook.com/sj.freedom.9/posts/401415191116698) - *Jan 12, 2021*
+        * [Day 5 : htmlentities](https://www.facebook.com/sj.freedom.9/posts/402089737715910) - *Jan 13, 2021*
+        * [Day 6 : dirname()](https://www.facebook.com/sj.freedom.9/posts/402171884374362) - *Jan 14, 2021*
+        * [Day 7 : in_array()](https://www.facebook.com/sj.freedom.9/posts/402660964325454) - *Jan 15, 2021*
 <a name="Suntisuk"></a>
 1. [Suntisuk Thepthong](https://icesuntisuk.GitHub.io)
     * (6217810015) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/icesuntisuk) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/icesuntisuk) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-5528-6005")](https://orcid.org/0000-0002-5528-6005) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/icesuntisuk)
@@ -388,13 +388,13 @@
     * [GitHub](https://icesuntisuk.github.io/KB/2factorauthGitHub)
     * [XSS - Reflected (GET)](https://icesuntisuk.github.io/KB/xss-reflected-get)
     * #Code4Sec Week
-      * [Day 1 : request_safe](https://www.facebook.com/itvill/posts/3747948995256931) - *Jan 3, 2021*
-      * [Day 2 : uuid](https://www.facebook.com/itvill/posts/3750553271663170) - *Jan 4, 2021*
-      * [Day 3 : ntplib](https://www.facebook.com/itvill/posts/3752140454837785) - *Jan 5, 2021*
-      * [Day 4 : base64](https://www.facebook.com/itvill/posts/3754710871247410) - *Jan 6, 2021*
-      * [Day 5 : PasswordPolicy](https://www.facebook.com/itvill/posts/3757502590968238) - *Jan 7, 2021*
-      * [Day 6 : threading](https://www.facebook.com/itvill/posts/3760084420710055) - *Jan 8, 2021*
-      * [Day 7 : http.server](https://www.facebook.com/itvill/posts/3762706590447838) - *Jan 9, 2021*
+        * [Day 1 : request_safe](https://www.facebook.com/itvill/posts/3747948995256931) - *Jan 3, 2021*
+        * [Day 2 : uuid](https://www.facebook.com/itvill/posts/3750553271663170) - *Jan 4, 2021*
+        * [Day 3 : ntplib](https://www.facebook.com/itvill/posts/3752140454837785) - *Jan 5, 2021*
+        * [Day 4 : base64](https://www.facebook.com/itvill/posts/3754710871247410) - *Jan 6, 2021*
+        * [Day 5 : PasswordPolicy](https://www.facebook.com/itvill/posts/3757502590968238) - *Jan 7, 2021*
+        * [Day 6 : threading](https://www.facebook.com/itvill/posts/3760084420710055) - *Jan 8, 2021*
+        * [Day 7 : http.server](https://www.facebook.com/itvill/posts/3762706590447838) - *Jan 9, 2021*
 <a name="Sununta"></a>
 1. [Sununta Labaiusuh](https://sununta580.GitHub.io)
     * (6217810009) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/sununta580) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/sununta)
@@ -412,13 +412,13 @@
     * [TC : Login Authentication Limits](https://supattraboonkied.github.io/Login-Authentication-Limits)
     * [Instagram](https://fai00-s.github.io/Instagram)
     * #Code4Sec Week
-      * [Day 1 : hashlib](https://twitter.com/pattra1994/status/1346493072679452672) - *Jan 5, 2021*
-      * [Day 2 : cryptography.fernet](https://twitter.com/pattra1994/status/1346663296477249539) - *Jan 6, 2021*
-      * [Day 3 : passlib.hash](https://twitter.com/pattra1994/status/1347012388864749568) - *Jan 7, 2021*
-      * [Day 4 : requests.get](https://twitter.com/pattra1994/status/1347382201017536513) - *Jan 8, 2021*
-      * [Day 5 : socket, ssl](https://twitter.com/pattra1994/status/1347743438259720194) - *Jan 9, 2021*
-      * [Day 6 : sockets](https://twitter.com/pattra1994/status/1348116752060743680) - *Jan 10, 2021*
-      * [Day 7 : pickle](https://twitter.com/pattra1994/status/1348518785678856192) - *Jan 11, 2021*
+        * [Day 1 : hashlib](https://twitter.com/pattra1994/status/1346493072679452672) - *Jan 5, 2021*
+        * [Day 2 : cryptography.fernet](https://twitter.com/pattra1994/status/1346663296477249539) - *Jan 6, 2021*
+        * [Day 3 : passlib.hash](https://twitter.com/pattra1994/status/1347012388864749568) - *Jan 7, 2021*
+        * [Day 4 : requests.get](https://twitter.com/pattra1994/status/1347382201017536513) - *Jan 8, 2021*
+        * [Day 5 : socket, ssl](https://twitter.com/pattra1994/status/1347743438259720194) - *Jan 9, 2021*
+        * [Day 6 : sockets](https://twitter.com/pattra1994/status/1348116752060743680) - *Jan 10, 2021*
+        * [Day 7 : pickle](https://twitter.com/pattra1994/status/1348518785678856192) - *Jan 11, 2021*
 <a name="Thanakorn"></a>
 1. [Thanakorn Prajuabkamon](https://nongkon09.GitHub.io)
     * (6217810017) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/nongkon09) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/nongkon09) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-3201-789X")](https://orcid.org/0000-0002-3201-789X) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/nongkon09)
@@ -431,13 +431,13 @@
     * [GitLab](https://nongkon09.github.io/GitlabEnable2FactorAuthentication)
     * [XSS - Reflected (PHP_SELF)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/xss-php-self)
     * #Code4Sec Week
-      * [Day 1 : shlex.quote()](https://www.facebook.com/tanakonp/posts/10158269714213995) - *Jan 10, 2021*
-      * [Day 2 : filehash()](https://www.facebook.com/tanakonp/posts/10158272169233995) - *Jan 11, 2021*
-      * [Day 3 : re](https://www.facebook.com/tanakonp/posts/10158274224138995) - *Jan 12, 2021*
-      * [Day 4 : PasswordGenerator](https://www.facebook.com/tanakonp/posts/10158276307803995) - *Jan 13, 2021*
-      * [Day 5 : pysftp](https://www.facebook.com/tanakonp/posts/10158278624048995) - *Jan 14, 2021*
-      * [Day 6 : smtplib](https://www.facebook.com/tanakonp/posts/10158280891073995) - *Jan 15, 2021*
-      * [Day 7 : pyminizip](https://www.facebook.com/tanakonp/posts/10158283329303995) - *Jan 16, 2021*
+        * [Day 1 : shlex.quote()](https://www.facebook.com/tanakonp/posts/10158269714213995) - *Jan 10, 2021*
+        * [Day 2 : filehash()](https://www.facebook.com/tanakonp/posts/10158272169233995) - *Jan 11, 2021*
+        * [Day 3 : re](https://www.facebook.com/tanakonp/posts/10158274224138995) - *Jan 12, 2021*
+        * [Day 4 : PasswordGenerator](https://www.facebook.com/tanakonp/posts/10158276307803995) - *Jan 13, 2021*
+        * [Day 5 : pysftp](https://www.facebook.com/tanakonp/posts/10158278624048995) - *Jan 14, 2021*
+        * [Day 6 : smtplib](https://www.facebook.com/tanakonp/posts/10158280891073995) - *Jan 15, 2021*
+        * [Day 7 : pyminizip](https://www.facebook.com/tanakonp/posts/10158283329303995) - *Jan 16, 2021*
 <a name="Theerapong"></a>
 1. [Theerapong Kanrawong](https://Devtech95.GitHub.io)
     * (6317810002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Devtech95) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Devtech95) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-6704-9069")](https://orcid.org/0000-0001-6704-9069) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/theerapong)
@@ -448,14 +448,14 @@
     * [TC : Log Protection](https://devtech95.github.io/testcase-log-Protection)
     * [HTML Injection - Reflected (GET)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/HTML-Injection-Reflected-GET)
     * #Code4Sec Week
-      * [Day 1 : RegExp()](https://twitter.com/theerap94168677/status/1348199805294530561) - *Jan 10, 2021*
-      * [Day 2 : encodeURIComponent()](https://twitter.com/theerap94168677/status/1348611269180358657) - *Jan 11, 2021*
-      * [Day 3 : Base64](https://twitter.com/theerap94168677/status/1348952534250000387) - *Jan 12, 2021*
-      * [Day 4.1 : https.request()](https://twitter.com/theerap94168677/status/1349369356673638400) - *Jan 13, 2021*
-      * [Day 4.2 : https.request()](https://twitter.com/theerap94168677/status/1349524797638668289) - *Jan 14, 2021*
-      * [Day 5 : regex](https://twitter.com/theerap94168677/status/1349726321853624321) - *Jan 15, 2021*
-      * [Day 6 : hash function](https://twitter.com/theerap94168677/status/1350116513567678464) - *Jan 16, 2021*
-      * [Day 7 : AES encryption](https://twitter.com/theerap94168677/status/1350440704477077508) - *Jan 16, 2021*
+        * [Day 1 : RegExp()](https://twitter.com/theerap94168677/status/1348199805294530561) - *Jan 10, 2021*
+        * [Day 2 : encodeURIComponent()](https://twitter.com/theerap94168677/status/1348611269180358657) - *Jan 11, 2021*
+        * [Day 3 : Base64](https://twitter.com/theerap94168677/status/1348952534250000387) - *Jan 12, 2021*
+        * [Day 4.1 : https.request()](https://twitter.com/theerap94168677/status/1349369356673638400) - *Jan 13, 2021*
+        * [Day 4.2 : https.request()](https://twitter.com/theerap94168677/status/1349524797638668289) - *Jan 14, 2021*
+        * [Day 5 : regex](https://twitter.com/theerap94168677/status/1349726321853624321) - *Jan 15, 2021*
+        * [Day 6 : hash function](https://twitter.com/theerap94168677/status/1350116513567678464) - *Jan 16, 2021*
+        * [Day 7 : AES encryption](https://twitter.com/theerap94168677/status/1350440704477077508) - *Jan 16, 2021*
 <a name="Vatcharin"></a>
 1. [Vatcharin Kongsakul](https://ryudokung.GitHub.io)
     * (6217810003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ryudokung) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/ryudokun) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-5029-636X")](https://orcid.org/0000-0002-5029-636X) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/ryudokung)
@@ -465,13 +465,13 @@
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Vatcharin-QR.png)
     * [GitLab](https://nongkon09.github.io/GitlabEnable2FactorAuthentication)
     * #Code4Sec Week 
-      * [Day 1 : input validation](https://www.facebook.com/itvill/posts/3753126431405854) - *Jan 5, 2021*
-      * [Day 2 : CORS HTTP allow methods](https://www.facebook.com/itvill/posts/3763549273696903) - *Jan 9, 2021*
-      * [Day 3 : bcrypt](https://www.facebook.com/itvill/posts/3765586290159868) - *Jan 10, 2021*
-      * [Day 4 : HTTP Server](https://www.facebook.com/itvill/posts/3769148213137009) - *Jan 11, 2021*
-      * [Day 5 : gofiber Error Handling](https://www.facebook.com/itvill/posts/3772016732850157) - *Jan 12, 2021*
-      * [Day 6 : gofiber CSRF](https://www.facebook.com/itvill/posts/3774409895944174) - *Jan 13, 2021*
-      * [Day 7 : limiter](https://www.facebook.com/itvill/posts/3777148649003632) - *Jan 14, 2021*
+        * [Day 1 : input validation](https://www.facebook.com/itvill/posts/3753126431405854) - *Jan 5, 2021*
+        * [Day 2 : CORS HTTP allow methods](https://www.facebook.com/itvill/posts/3763549273696903) - *Jan 9, 2021*
+        * [Day 3 : bcrypt](https://www.facebook.com/itvill/posts/3765586290159868) - *Jan 10, 2021*
+        * [Day 4 : HTTP Server](https://www.facebook.com/itvill/posts/3769148213137009) - *Jan 11, 2021*
+        * [Day 5 : gofiber Error Handling](https://www.facebook.com/itvill/posts/3772016732850157) - *Jan 12, 2021*
+        * [Day 6 : gofiber CSRF](https://www.facebook.com/itvill/posts/3774409895944174) - *Jan 13, 2021*
+        * [Day 7 : limiter](https://www.facebook.com/itvill/posts/3777148649003632) - *Jan 14, 2021*
 <a name="Vuttawat"></a>
 1. [Vuttawat Uyanont](https://Hyde4thHeaven.GitHub.io)
     * (6317810001) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Hyde4thHeaven) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Hyde4thHeaven) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-5620-9028")](https://orcid.org/0000-0002-5620-9028) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/civilman)
@@ -483,13 +483,13 @@
     * [TC : E-Mail Validation](https://marukofar.github.io/Test-Case-Email-Validation)
     * [SQL Injection (POST/Search)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/sql-injection-POST-Search)
     * #Code4Sec Week 
-      * [Day 1 : compare_digest()](https://www.facebook.com/palm.civilman/posts/3583080298396233) - *Jan 10, 2021*
-      * [Day 2 : TemporaryFile() and mkstemp()](https://www.facebook.com/palm.civilman/posts/3588047744566155) - *Jan 11, 2021*
-      * [Day 3 : yaml.safe_load()](https://www.facebook.com/100000828953445/posts/3590614537642809/) - *Jan 12, 2021*
-      * [Day 4 : Deserialize Data from Untrusted Sources](https://www.facebook.com/palm.civilman/posts/3593285464042383) - *Jan 13, 2021*
-      * [Day 5 : generate_private_key()](https://www.facebook.com/palm.civilman/posts/3595922273778702) - *Jan 14, 2021*
-      * [Day 6 : eval()](https://www.facebook.com/palm.civilman/posts/3598609633509966) - *Jan 15, 2021*
-      * [Day 7 : Auto-Escaping](https://www.facebook.com/palm.civilman/posts/3601281329909463) - *Jan 16, 2021*
+        * [Day 1 : compare_digest()](https://www.facebook.com/palm.civilman/posts/3583080298396233) - *Jan 10, 2021*
+        * [Day 2 : TemporaryFile() and mkstemp()](https://www.facebook.com/palm.civilman/posts/3588047744566155) - *Jan 11, 2021*
+        * [Day 3 : yaml.safe_load()](https://www.facebook.com/100000828953445/posts/3590614537642809/) - *Jan 12, 2021*
+        * [Day 4 : Deserialize Data from Untrusted Sources](https://www.facebook.com/palm.civilman/posts/3593285464042383) - *Jan 13, 2021*
+        * [Day 5 : generate_private_key()](https://www.facebook.com/palm.civilman/posts/3595922273778702) - *Jan 14, 2021*
+        * [Day 6 : eval()](https://www.facebook.com/palm.civilman/posts/3598609633509966) - *Jan 15, 2021*
+        * [Day 7 : Auto-Escaping](https://www.facebook.com/palm.civilman/posts/3601281329909463) - *Jan 16, 2021*
 <a name="Wasupol"></a>
 1. [Wasupol Chaisangasilp](https://XserieX.GitHub.io)
     * (6317810014) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/XserieX) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/XserieX) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-7315-4049")](https://orcid.org/0000-0002-7315-4049) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/wasupol)
@@ -498,13 +498,13 @@
     * [TC : Authenticator Lifecycle](https://ph-sanchat.github.io/Authenticator-Lifecycle)
     * [XSS - Reflected (HREF)](https://gitlab.com/NEIS0736/2020/-/wikis/XSS---Reflected-(HREF))
     * #Code4Sec Week
-      * [Day 1 : prepare()](https://www.facebook.com/permalink.php?story_fbid=2299162826896016&id=100004069626150) - *Jan 10, 2021*
-      * [Day 2 : hash()](https://www.facebook.com/permalink.php?story_fbid=2300580406754258&id=100004069626150) - *Jan 11, 2021*
-      * [Day 3 : session_regenerate_id](https://www.facebook.com/permalink.php?story_fbid=2301250283353937&id=100004069626150) - *Jan 12, 2021*
-      * [Day 4 : random_int()](https://www.facebook.com/permalink.php?story_fbid=2302181436594155&id=100004069626150) - *Jan 13, 2021*
-      * [Day 5 : crypto.createCipheriv()](https://www.facebook.com/permalink.php?story_fbid=2302951256517173&id=100004069626150) - *Jan 14, 2021*
-      * [Day 6 : HttpUtility.HtmlEncode](https://www.facebook.com/permalink.php?story_fbid=2303796783099287&id=100004069626150) - *Jan 15, 2021*
-      * [Day 7 : sleep()](https://www.facebook.com/permalink.php?story_fbid=2304733789672253&id=100004069626150) - *Jan 16, 2021*
+        * [Day 1 : prepare()](https://www.facebook.com/permalink.php?story_fbid=2299162826896016&id=100004069626150) - *Jan 10, 2021*
+        * [Day 2 : hash()](https://www.facebook.com/permalink.php?story_fbid=2300580406754258&id=100004069626150) - *Jan 11, 2021*
+        * [Day 3 : session_regenerate_id](https://www.facebook.com/permalink.php?story_fbid=2301250283353937&id=100004069626150) - *Jan 12, 2021*
+        * [Day 4 : random_int()](https://www.facebook.com/permalink.php?story_fbid=2302181436594155&id=100004069626150) - *Jan 13, 2021*
+        * [Day 5 : crypto.createCipheriv()](https://www.facebook.com/permalink.php?story_fbid=2302951256517173&id=100004069626150) - *Jan 14, 2021*
+        * [Day 6 : HttpUtility.HtmlEncode](https://www.facebook.com/permalink.php?story_fbid=2303796783099287&id=100004069626150) - *Jan 15, 2021*
+        * [Day 7 : sleep()](https://www.facebook.com/permalink.php?story_fbid=2304733789672253&id=100004069626150) - *Jan 16, 2021*
 
 ---
 
@@ -554,23 +554,23 @@
 ---
 
 ### [**Week 1**] - (Sun) **Nov 22,** 2020
-*  **Course introduction**
-    *  **Ground rules** (created and agreed by the people participating in the **1<sup>st</sup>** session)
-    *  **Grading statistic &** [**policy**](#grading-policy)
-*  [**Git** - Why the Gauntlet didn't work?](https://twitter.com/techindustan/status/1144236458221420544)
-*  **MiSS**x***Talks***
-    *  *Khun* **Vatcharin K.**
+* **Course introduction**
+    * **Ground rules** (created and agreed by the people participating in the **1<sup>st</sup>** session)
+    * **Grading statistic &** [**policy**](#grading-policy)
+* [**Git** - Why the Gauntlet didn't work?](https://twitter.com/techindustan/status/1144236458221420544)
+* **MiSS**x***Talks***
+    * *Khun* **Vatcharin K.**
 *  **KEEP CALM** and **FUN with Git**
-    *  **Bio**graphy
+    * **Bio**graphy
 *  **MiSS**x***Talks*** 
-    *  [CSSLP Ex. Outline](https://www.isc2.org/-/media/ISC2/Certifications/Exam-Outlines/CSSLP-Exam-Outline-Sept2020.ashx)
-    *  [Extra Point](#extra-point)
+    * [CSSLP Ex. Outline](https://www.isc2.org/-/media/ISC2/Certifications/Exam-Outlines/CSSLP-Exam-Outline-Sept2020.ashx)
+    * [Extra Point](#extra-point)
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day1)** *by **Ekawut Chairat***
 *  **Homeworks**
-    *  [**Bruce Schneier: The Security Mindset**](https://www.youtube.com/watch?v=eZNzMKS7zjo) - *only* ***7:32*** *min.*
-    *  [5 Reasons Why **Software Security Is More Critical** Than Ever](https://resources.checkmarx.com/why-appsec-now/infographic), Checkmarx
-    *  ["**Security**"](https://www.depa.or.th/storage/app/media/file/Second%20Deliverable%20RevVer%20EN%20V12%20140819%20FIN.pdf), Thailand Digital Technology **Foresight 2035**
-    *  Prep. for the [**One-on-One**](#OneOnOne) Assessment
+    * [**Bruce Schneier: The Security Mindset**](https://www.youtube.com/watch?v=eZNzMKS7zjo) - *only* ***7:32*** *min.*
+    * [5 Reasons Why **Software Security Is More Critical** Than Ever](https://resources.checkmarx.com/why-appsec-now/infographic), Checkmarx
+    * ["**Security**"](https://www.depa.or.th/storage/app/media/file/Second%20Deliverable%20RevVer%20EN%20V12%20140819%20FIN.pdf), Thailand Digital Technology **Foresight 2035**
+    * Prep. for the [**One-on-One**](#OneOnOne) Assessment
         * **Background** check
         * Security **mindset**
         * Reasons why **#SWSec is more critical**
@@ -875,7 +875,7 @@
 ---
 ### [**Grading Policy**]
  A weighted grade average will be calculated as follows:
- 
+
 |       ACTIVITIES	                                                                  | PERCENTAGES |
 | ----------------------------------------------------------------------------------- | :---------: |
 |In-class participation (#**MiSS**x***Talks*** special, Daily Scribe, KBs, homeworks) |      25     |
