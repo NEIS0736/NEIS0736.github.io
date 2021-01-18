@@ -821,6 +821,8 @@
        * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
        * [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
      * Test **Live Share** w/ your pair.
+       * [Piyawit vs. Phureephat](Collab/No3.jpg)
+       * [Athiporn vs. Theerapong](Collab/No3.jpg)
 
 ### [**Week 10**] - (Sun) **Jan 24,** 2021
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/syx-xxzr-ytx)
