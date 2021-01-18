@@ -830,19 +830,15 @@
    1. *John Doe*
    1. *John Doe*
    1. *John Doe*
-   1. *John Doe*
-   1. *John Doe*
-   1. *John Doe*
-   1. *John Doe*
-   1. *John Doe*
-   1. *John Doe*
 *  [The **Twelve Factors**](https://12factor.net/) ([ไทย](https://12factor.net/th/))
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day10)** *by **John Doe***
 
 ### [**Week 11**] - (Sun) **Jan 31,** 2021
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/fsd-code-jiw)
 
-### [**Week 12**] - (Sun) **Feb 7,** 2021
+### **Class Cancelled** (Sun) **Feb 7,** 2021
+
+### [**Week 12**] - (Sun) **Feb 14,** 2021
 <!-- https://meet.google.com/cmm-dzag-def -->
 *  **Valentine** *vs.* **Ovaltine** <!--Mini contest, organized by you-->
 *  **MiSS**x***Talks***
@@ -851,7 +847,7 @@
    * *John Doe*
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day12)** *by **John Doe***
 
-### [**Week 13**] - (Sun) **Feb 14,** 2021
+### [**Week 13**] - (Sun) **Feb 21,** 2021
 <!-- https://meet.google.com/zxv-teet-zuk -->
 *  **Mini-Contest** ***(draw lots)***
     * Round 1
@@ -859,14 +855,14 @@
     * Round 3
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day13)** *by **John Doe***
 
-### [**Week 14**] - (Sun) **Feb 21,** 2021
+### [**Week 14**] - (Sun) **Feb 28,** 2021
 *  **Group Project** Presentation ***(draw lots)***
     * Group 1
     * Group 2
     * Group 3
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day14)** *by **John Doe***
 
-### [**Week 15**] - (Sun) **Feb 28,** 2021
+### [**Week 15**] - (Sun) **Mar 7,** 2021
 *  **Group Project** Presentation ***(draw lots)***
     * Group 1
     * Group 2
