@@ -830,11 +830,11 @@
    1. *John Doe*
    1. *John Doe*
    1. *John Doe*
-*  [The **Twelve Factors**](https://12factor.net/) ([ไทย](https://12factor.net/th/))
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day10)** *by **John Doe***
 
 ### [**Week 11**] - (Sun) **Jan 31,** 2021
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/fsd-code-jiw)
+*  [The **Twelve Factors**](https://12factor.net/) ([ไทย](https://12factor.net/th/))
 
 ### **Class Cancelled** (Sun) **Feb 7,** 2021
 
