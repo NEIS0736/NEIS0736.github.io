@@ -832,6 +832,8 @@
        * [Soontorn vs. Thanakorn](Collab/No9.jpg) - *Jan 19, 2021*
        * [Nattapong vs. Nipitpon](Collab/No12.jpg) - *Jan 20, 2021*
        * [Fareed vs. Narunart](Collab/No8.jpg) - *Jan 20, 2021*
+       * [Vuttawat vs. Ekawut](Collab/No1.jpg) - *Jan 20, 2021*
+       * [Suntisuk vs. Sanchat](Collab/No10.jpg) - *Jan 20, 2021*
 
 ### [**Week 10**] - (Sun) **Jan 24,** 2021
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/syx-xxzr-ytx)
