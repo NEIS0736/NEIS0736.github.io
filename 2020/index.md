@@ -101,7 +101,7 @@
         * [Day 5 : secrets](https://www.facebook.com/455981291120401/posts/3762775570440940) - *Jan 9, 2021*
         * [Day 6 : CRSF protection](https://www.facebook.com/455981291120401/posts/3765888063463024) - *Jan 10, 2021*
         * [Day 7 : ftplib](https://www.facebook.com/455981291120401/posts/3768523129866184) - *Jan 11, 2021*
-    * [Collaborative Coding](Collab/No1.jpg)
+    * [Collaborative Coding](Collab/No1.png)
 <a name="Fareed"></a>
 1. [Fareed Marnleb](https://marukofar.GitHub.io)
     * (6317810012) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/marukofar) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/marukofar) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-6769-7453")](https://orcid.org/0000-0001-6769-7453) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/marukofar)
@@ -501,7 +501,7 @@
         * [Day 5 : generate_private_key()](https://www.facebook.com/palm.civilman/posts/3595922273778702) - *Jan 14, 2021*
         * [Day 6 : eval()](https://www.facebook.com/palm.civilman/posts/3598609633509966) - *Jan 15, 2021*
         * [Day 7 : Auto-Escaping](https://www.facebook.com/palm.civilman/posts/3601281329909463) - *Jan 16, 2021*
-    * [Collaborative Coding](Collab/No1.jpg)
+    * [Collaborative Coding](Collab/No1.png)
 <a name="Wasupol"></a>
 1. [Wasupol Chaisangasilp](https://XserieX.GitHub.io)
     * (6317810014) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/XserieX) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/XserieX) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-7315-4049")](https://orcid.org/0000-0002-7315-4049) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/wasupol)
@@ -836,7 +836,7 @@
        * [Soontorn vs. Thanakorn](Collab/No9.jpg) - *Jan 19, 2021*
        * [Nattapong vs. Nipitpon](Collab/No12.jpg) - *Jan 20, 2021*
        * [Fareed vs. Narunart](Collab/No8.jpg) - *Jan 20, 2021*
-       * [Vuttawat vs. Ekawut](Collab/No1.jpg) - *Jan 20, 2021*
+       * [Vuttawat vs. Ekawut](Collab/No1.png) - *Jan 20, 2021*
        * [Suntisuk vs. Sanchat](Collab/No10.jpg) - *Jan 20, 2021*
 
 ### [**Week 10**] - (Sun) **Jan 24,** 2021
