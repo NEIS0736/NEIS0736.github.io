@@ -223,6 +223,7 @@
         * [Day 5 : ctype_alnum()](https://www.facebook.com/permalink.php?story_fbid=3905842476102617&id=100000307097053) - *Jan 14, 2021*
         * [Day 6 : memset_s](https://www.facebook.com/permalink.php?story_fbid=3908173515869513&id=100000307097053) - *Jan 15, 2021*
         * [Day 7 : javax.crypto.Cipher](https://www.facebook.com/permalink.php?story_fbid=3911423938877804&id=100000307097053) - *Jan 16, 2021*
+    * [Collaborative Coding](Collab/No12.jpg)
 <a name="Nattawut"></a>
 1. [Nattawut Reungsap](https://omoomomx.GitHub.io)
     * (6217810013) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/omoomomx) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/omoomomx) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-6578-6583")](https://orcid.org/0000-0001-6578-6583) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/omoomomx)
@@ -254,6 +255,7 @@
         * [Day 1 : escape()](https://www.facebook.com/profiIe.info/posts/3694202620636799) - *Jan 7, 2021*
         * [Day 2 : parseInt()](https://www.facebook.com/profiIe.info/posts/3698243083566086) - *Jan 8, 2021*
         * [Day 3 : bcrypt.hashSync()](https://www.facebook.com/profiIe.info/posts/3703400003050394) - *Jan 10, 2021*
+    * [Collaborative Coding](Collab/No12.jpg)
 <a name="Phureephat"></a>
 1. [Phureephat Sottiratanapan](https://PhureephatS.GitHub.io)
     * (6217810014) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/PhureephatS) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/PhureephatS) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-1300-8231")](https://orcid.org/0000-0003-1300-8231) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/phureephats)
@@ -826,6 +828,7 @@
        * [Piyawit vs. Phureephat](Collab/No3.jpg) - *Jan 17, 2021*
        * [Athiporn vs. Theerapong](Collab/No2.jpg) - *Jan 18, 2021*
        * [Soontorn vs. Thanakorn](Collab/No9.jpg) - *Jan 19, 2021*
+       * [Collaborative Coding](Collab/No12.jpg) - *Jan 20, 2021*
 
 ### [**Week 10**] - (Sun) **Jan 24,** 2021
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/syx-xxzr-ytx)
