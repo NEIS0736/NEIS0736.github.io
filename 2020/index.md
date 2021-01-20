@@ -119,6 +119,7 @@
         * [Day 5 : filter_var()](https://www.facebook.com/marukofar/posts/5468105719873647) - *Jan 9, 2021*
         * [Day 6 : error_reporting()](https://www.facebook.com/marukofar/posts/5473020279382191) - *Jan 10, 2021*
         * [Day 7 : pg_escape_string()](https://www.facebook.com/marukofar/posts/5477804788903740) - *Jan 11, 2021*
+    * [Collaborative Coding](Collab/No8.jpg)
 <a name="Hachol"></a>
 1. [Hachol Dabthong](https://hacholda.GitHub.io)
     * (6217810010) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/hacholda) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/hacholda) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-7028-3742")](https://orcid.org/0000-0002-7028-3742) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/hacholda)
@@ -206,6 +207,7 @@
         * [Day 5 : strip_tags()](https://twitter.com/EIITCHY/status/1349627623765262336) - *Jan 14, 2021*
         * [Day 6 : input is_numeric()](https://twitter.com/EIITCHY/status/1350017799826022411) - *Jan 15, 2021*
         * [Day 7 : hash_equals()](https://twitter.com/EIITCHY/status/1350278337923452930) - *Jan 16, 2021*
+    * [Collaborative Coding](Collab/No8.jpg)
 <a name="Nattapong"></a>
 1. [Nattapong Ketkaew](https://nattapong007.GitHub.io)
     * (6317810011) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/nattapong007) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/nattapong007) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-0018-4431")](https://orcid.org/0000-0002-0018-4431) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/nattapong007)
@@ -829,6 +831,7 @@
        * [Athiporn vs. Theerapong](Collab/No2.jpg) - *Jan 18, 2021*
        * [Soontorn vs. Thanakorn](Collab/No9.jpg) - *Jan 19, 2021*
        * [Nattapong vs. Nipitpon](Collab/No12.jpg) - *Jan 20, 2021*
+       * [Fareed vs. Narunart](Collab/No8.jpg) - *Jan 20, 2021*
 
 ### [**Week 10**] - (Sun) **Jan 24,** 2021
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/syx-xxzr-ytx)
