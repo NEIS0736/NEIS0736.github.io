@@ -828,7 +828,7 @@
        * [Piyawit vs. Phureephat](Collab/No3.jpg) - *Jan 17, 2021*
        * [Athiporn vs. Theerapong](Collab/No2.jpg) - *Jan 18, 2021*
        * [Soontorn vs. Thanakorn](Collab/No9.jpg) - *Jan 19, 2021*
-       * [Collaborative Coding](Collab/No12.jpg) - *Jan 20, 2021*
+       * [Nattapong vs. Nipitpon](Collab/No12.jpg) - *Jan 20, 2021*
 
 ### [**Week 10**] - (Sun) **Jan 24,** 2021
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/syx-xxzr-ytx)
