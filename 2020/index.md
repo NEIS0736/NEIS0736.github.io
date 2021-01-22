@@ -101,6 +101,7 @@
         * [Day 5 : secrets](https://www.facebook.com/455981291120401/posts/3762775570440940) - *Jan 9, 2021*
         * [Day 6 : CRSF protection](https://www.facebook.com/455981291120401/posts/3765888063463024) - *Jan 10, 2021*
         * [Day 7 : ftplib](https://www.facebook.com/455981291120401/posts/3768523129866184) - *Jan 11, 2021*
+    * [Collaborative Coding](Collab/No1.png)
 <a name="Fareed"></a>
 1. [Fareed Marnleb](https://marukofar.GitHub.io)
     * (6317810012) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/marukofar) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/marukofar) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-6769-7453")](https://orcid.org/0000-0001-6769-7453) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/marukofar)
@@ -119,6 +120,7 @@
         * [Day 5 : filter_var()](https://www.facebook.com/marukofar/posts/5468105719873647) - *Jan 9, 2021*
         * [Day 6 : error_reporting()](https://www.facebook.com/marukofar/posts/5473020279382191) - *Jan 10, 2021*
         * [Day 7 : pg_escape_string()](https://www.facebook.com/marukofar/posts/5477804788903740) - *Jan 11, 2021*
+    * [Collaborative Coding](Collab/No8.png)
 <a name="Hachol"></a>
 1. [Hachol Dabthong](https://hacholda.GitHub.io)
     * (6217810010) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/hacholda) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/hacholda) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-7028-3742")](https://orcid.org/0000-0002-7028-3742) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/hacholda)
@@ -206,6 +208,7 @@
         * [Day 5 : strip_tags()](https://twitter.com/EIITCHY/status/1349627623765262336) - *Jan 14, 2021*
         * [Day 6 : input is_numeric()](https://twitter.com/EIITCHY/status/1350017799826022411) - *Jan 15, 2021*
         * [Day 7 : hash_equals()](https://twitter.com/EIITCHY/status/1350278337923452930) - *Jan 16, 2021*
+    * [Collaborative Coding](Collab/No8.png)
 <a name="Nattapong"></a>
 1. [Nattapong Ketkaew](https://nattapong007.GitHub.io)
     * (6317810011) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/nattapong007) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/nattapong007) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-0018-4431")](https://orcid.org/0000-0002-0018-4431) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/nattapong007)
@@ -223,6 +226,7 @@
         * [Day 5 : ctype_alnum()](https://www.facebook.com/permalink.php?story_fbid=3905842476102617&id=100000307097053) - *Jan 14, 2021*
         * [Day 6 : memset_s](https://www.facebook.com/permalink.php?story_fbid=3908173515869513&id=100000307097053) - *Jan 15, 2021*
         * [Day 7 : javax.crypto.Cipher](https://www.facebook.com/permalink.php?story_fbid=3911423938877804&id=100000307097053) - *Jan 16, 2021*
+    * [Collaborative Coding](Collab/No12.jpg)
 <a name="Nattawut"></a>
 1. [Nattawut Reungsap](https://omoomomx.GitHub.io)
     * (6217810013) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/omoomomx) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/omoomomx) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-6578-6583")](https://orcid.org/0000-0001-6578-6583) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/omoomomx)
@@ -254,6 +258,7 @@
         * [Day 1 : escape()](https://www.facebook.com/profiIe.info/posts/3694202620636799) - *Jan 7, 2021*
         * [Day 2 : parseInt()](https://www.facebook.com/profiIe.info/posts/3698243083566086) - *Jan 8, 2021*
         * [Day 3 : bcrypt.hashSync()](https://www.facebook.com/profiIe.info/posts/3703400003050394) - *Jan 10, 2021*
+    * [Collaborative Coding](Collab/No12.jpg)
 <a name="Phureephat"></a>
 1. [Phureephat Sottiratanapan](https://PhureephatS.GitHub.io)
     * (6217810014) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/PhureephatS) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/PhureephatS) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-1300-8231")](https://orcid.org/0000-0003-1300-8231) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/phureephats)
@@ -333,6 +338,7 @@
         * [Day 5 : urllib.parse.urlparse()](https://www.facebook.com/permalink.php?story_fbid=3437879039667868&id=100003374168414) - *Jan 14, 2021*
         * [Day 6 : isalnum()](https://www.facebook.com/permalink.php?story_fbid=3440189622770143&id=100003374168414) - *Jan 15, 2021*
         * [Day 7 : OS commands](https://www.facebook.com/permalink.php?story_fbid=3442878285834610&id=100003374168414) - *Jan 16, 2021*
+    * [Collaborative Coding](Collab/No10.jpg)
 <a name="Saran"></a>
 1. [Saran Kaewnang](https://ahictf.GitHub.io)
     * (6317810007) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ahictf) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/ahictf) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-1885-5448 ")](https://orcid.org/0000-0003-1885-5448) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/ahiahi)
@@ -397,6 +403,7 @@
         * [Day 5 : PasswordPolicy](https://www.facebook.com/itvill/posts/3757502590968238) - *Jan 7, 2021*
         * [Day 6 : threading](https://www.facebook.com/itvill/posts/3760084420710055) - *Jan 8, 2021*
         * [Day 7 : http.server](https://www.facebook.com/itvill/posts/3762706590447838) - *Jan 9, 2021*
+    * [Collaborative Coding](Collab/No10.jpg)
 <a name="Sununta"></a>
 1. [Sununta Labaiusuh](https://sununta580.GitHub.io)
     * (6217810009) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/sununta580) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/sununta)
@@ -494,6 +501,7 @@
         * [Day 5 : generate_private_key()](https://www.facebook.com/palm.civilman/posts/3595922273778702) - *Jan 14, 2021*
         * [Day 6 : eval()](https://www.facebook.com/palm.civilman/posts/3598609633509966) - *Jan 15, 2021*
         * [Day 7 : Auto-Escaping](https://www.facebook.com/palm.civilman/posts/3601281329909463) - *Jan 16, 2021*
+    * [Collaborative Coding](Collab/No1.png)
 <a name="Wasupol"></a>
 1. [Wasupol Chaisangasilp](https://XserieX.GitHub.io)
     * (6317810014) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/XserieX) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/XserieX) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-7315-4049")](https://orcid.org/0000-0002-7315-4049) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/wasupol)
@@ -826,6 +834,10 @@
        * [Piyawit vs. Phureephat](Collab/No3.jpg) - *Jan 17, 2021*
        * [Athiporn vs. Theerapong](Collab/No2.jpg) - *Jan 18, 2021*
        * [Soontorn vs. Thanakorn](Collab/No9.jpg) - *Jan 19, 2021*
+       * [Nattapong vs. Nipitpon](Collab/No12.jpg) - *Jan 20, 2021*
+       * [Fareed vs. Narunart](Collab/No8.png) - *Jan 20, 2021*
+       * [Vuttawat vs. Ekawut](Collab/No1.png) - *Jan 20, 2021*
+       * [Suntisuk vs. Sanchat](Collab/No10.jpg) - *Jan 20, 2021*
 
 ### [**Week 10**] - (Sun) **Jan 24,** 2021
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/syx-xxzr-ytx)
@@ -982,6 +994,7 @@
 *  [CWE™, a community-developed list of software and hardware weakness types](http://cwe.mitre.org/)
 *  [CWE/SANS TOP 25 Most Dangerous Software Errors](https://www.sans.org/top25-software-errors/)
 *  [Bugs Patterns, The complete list of descriptions given when FindBugs identify potential weaknesses](https://find-sec-bugs.github.io/bugs.htm)
+*  [OAuth and OpenID Connect](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc), David Neal
 *  [Web Framework Benchmarks](https://www.techempower.com/benchmarks/)
 *  [Practical Cryptography for Developers](https://cryptobook.nakov.com/)
 *  [Why is XAMPP not suited for production?](https://stackoverflow.com/questions/26297731/)
