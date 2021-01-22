@@ -994,6 +994,7 @@
 *  [CWE™, a community-developed list of software and hardware weakness types](http://cwe.mitre.org/)
 *  [CWE/SANS TOP 25 Most Dangerous Software Errors](https://www.sans.org/top25-software-errors/)
 *  [Bugs Patterns, The complete list of descriptions given when FindBugs identify potential weaknesses](https://find-sec-bugs.github.io/bugs.htm)
+*  [OAuth and OpenID Connect](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc)
 *  [Web Framework Benchmarks](https://www.techempower.com/benchmarks/)
 *  [Practical Cryptography for Developers](https://cryptobook.nakov.com/)
 *  [Why is XAMPP not suited for production?](https://stackoverflow.com/questions/26297731/)
