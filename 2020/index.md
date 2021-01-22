@@ -191,6 +191,7 @@
         * [Day 5 : bcrypt()](https://www.facebook.com/fai.nantawan/posts/10222347909559737) - *Jan 14, 2021*
         * [Day 6 : mcrypt_encrypt()](https://www.facebook.com/fai.nantawan/posts/10222355088619209) - *Jan 15, 2021*
         * [Day 7 : openssl_public_encrypt()](https://www.facebook.com/fai.nantawan/posts/10222362094874361) - *Jan 16, 2021*
+    * [Collaborative Coding](Collab/No4.jpg)
 <a name="Narunart"></a>
 1. [Narunart Vongeium](https://EITCHY.GitHub.io)
     * (6317810006) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/EITCHY) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/EITCHY) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-1157-9412")](https://orcid.org/0000-0002-1157-9412) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/eitchy)
@@ -517,7 +518,8 @@
         * [Day 5 : crypto.createCipheriv()](https://www.facebook.com/permalink.php?story_fbid=2302951256517173&id=100004069626150) - *Jan 14, 2021*
         * [Day 6 : HttpUtility.HtmlEncode](https://www.facebook.com/permalink.php?story_fbid=2303796783099287&id=100004069626150) - *Jan 15, 2021*
         * [Day 7 : sleep()](https://www.facebook.com/permalink.php?story_fbid=2304733789672253&id=100004069626150) - *Jan 16, 2021*
-
+    * [Collaborative Coding](Collab/No4.jpg)
+    
 ---
 
 ### **[MiSS**x***Talks*]** <del>(2 chances)</del> 
@@ -838,6 +840,7 @@
        * [Fareed vs. Narunart](Collab/No8.png) - *Jan 20, 2021*
        * [Vuttawat vs. Ekawut](Collab/No1.png) - *Jan 20, 2021*
        * [Suntisuk vs. Sanchat](Collab/No10.jpg) - *Jan 20, 2021*
+       * [Nantawan vs. Wasupol](Collab/No4.jpg) - *Jan 22, 2021*
 
 ### [**Week 10**] - (Sun) **Jan 24,** 2021
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/syx-xxzr-ytx)
