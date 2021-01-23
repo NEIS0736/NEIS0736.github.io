@@ -543,7 +543,8 @@
     1. **"Software Supply Chain Attack"**, Khun Nattapong Ketkaew (**X**)
     1. **"The Vulnerability of IoTs"**, Khun Fareed Marnleb (**Far**)
     1. **"Golden SAML"**, Khun Anan Boondamnoen (**Nan**)
-    1.  TBA
+    1. **"SQL Injection"**, Khun Supattra Boonkied (**Noy**) + (**Jaray**)
+    1. **"Secure Software Concepts : Core Concepts"**,	Khun Phureephat Sottiratanapan (**Farn**)
 * **[Done]**
     * (Sun) **Nov 22,** 2020
         * **"Git"**, Khun Vatcharin Kongsakul
@@ -861,6 +862,8 @@
     * **"Software Supply Chain Attack"**, Khun Nattapong Ketkaew
     * **"The Vulnerability of IoTs"**, Khun Fareed Marnleb
     * **"Golden SAML"**, Khun Anan Boondamnoen
+    * **"SQL Injection"**, Khun Supattra Boonkied & Khun Jaray #2
+    * **"Secure Software Concepts : Core Concepts"**,	Khun Phureephat Sottiratanapan
 
 ### [**Week 11**] - (Sun) **Jan 31,** 2021
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/fsd-code-jiw)
