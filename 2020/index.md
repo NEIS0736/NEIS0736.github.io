@@ -849,7 +849,6 @@
 ### [**Week 10**] - (Sun) **Jan 24,** 2021
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/syx-xxzr-ytx)
 *  **MiSS**x***Talks***
-    * **"System acquisition, development and maintenance in ISO27001"**, Khun Nantawan Sanpukdee
     * **"Threat Modeling, The first step towards security in SDLC"**, Khun Bhoomjit Bhoominath
     * **"Blockchain and Smart Contract"**,	Khun Vuttawat Uyanont
     * **"What is Container Security?"**, Khun Shirassuda Thongpakdhi
