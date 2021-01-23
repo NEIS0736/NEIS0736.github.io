@@ -846,7 +846,7 @@
        * [Suntisuk vs. Sanchat](Collab/No10.jpg) - *Jan 20, 2021*
        * [Nantawan vs. Wasupol](Collab/No4.jpg) - *Jan 22, 2021*
        * [Hachol vs. Vatcharin](Collab/No11.jpg) - *Jan 23, 2021*
-       * [Bhoomjit vs. Anan](Collab/No11.jpg) - *Jan 23, 2021*
+       * [Bhoomjit vs. Anan](Collab/No6.jpg) - *Jan 23, 2021*
 
 
 ### [**Week 10**] - (Sun) **Jan 24,** 2021
