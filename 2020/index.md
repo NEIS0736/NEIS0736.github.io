@@ -538,7 +538,7 @@
     1. **"Software Defined Network: When software become to network"**, Khun Ekawut Chairat (**Nua**)
     1. **"Secret management in software development"**, Khun Thanakorn Prajuabkamon (**Korn**)
     1. **"Personal Data Protection Act"**, Khun Nattawut Reungsap (**Meaw**)
-    1. TBA
+    1. **"3 Pillars Of Observability"**, Khun Narunart Vongeium (**Eit**)
     1. **"CTI"**, Khun Soontorn Janphuk (**Brad**)
     1. **"Software Supply Chain Attack"**, Khun Nattapong Ketkaew (**X**)
     1.  **"IoT"**, Khun Fareed Marnleb (**Far**)
@@ -856,6 +856,7 @@
     * **"Software Defined Network: When software become to network"**, Khun Ekawut Chairat
     * **"Secret management in software development"**, Khun Thanakorn Prajuabkamon
     * **"Personal Data Protection Act"**, Khun Nattawut Reungsap
+    * **"3 Pillars Of Observability"**, Khun Narunart Vongeium
 
 ### [**Week 11**] - (Sun) **Jan 31,** 2021
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/fsd-code-jiw)
