@@ -535,7 +535,7 @@
     1. **"Blockchain and Smart Contract"**,	Khun Vuttawat Uyanont (**Palm**)
     1. **"What is Container Security?"**, Khun Shirassuda Thongpakdhi (**Kad**)
     1. **"Implement Software Supply Chain Risk Management"**, Khun Theerapong Kanrawong (**Pong**)
-    1. **"TBD"**, Khun Ekawut Chairat (**Nua**)
+    1. **"Software Defined Network: When software become to network"**, Khun Ekawut Chairat (**Nua**)
     1. TBA
     1. TBA
     1. TBA
@@ -853,6 +853,7 @@
     * **"Blockchain and Smart Contract"**,	Khun Vuttawat Uyanont
     * **"What is Container Security?"**, Khun Shirassuda Thongpakdhi
     * **"Implement Software Supply Chain Risk Management"**, Khun Theerapong Kanrawong
+    * **"Software Defined Network: When software become to network"**, Khun Ekawut Chairat
 
 ### [**Week 11**] - (Sun) **Jan 31,** 2021
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/fsd-code-jiw)
