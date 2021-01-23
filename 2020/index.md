@@ -545,6 +545,9 @@
     1. **"Golden SAML"**, Khun Anan Boondamnoen (**Nan**)
     1. **"SQL Injection"**, Khun Supattra Boonkied (**Noy**) + (**Jaray**)
     1. **"Secure Software Concepts : Core Concepts"**,	Khun Phureephat Sottiratanapan (**Farn**)
+    1. **"Static Application Security Testing"**, Khun Nipitpon Doungyai (**Geno**)
+    1. **"Dynamic Application Security Testing"**, Khun Saran Kaewnang (**Golf**)
+
 * **[Done]**
     * (Sun) **Nov 22,** 2020
         * **"Git"**, Khun Vatcharin Kongsakul
@@ -864,6 +867,8 @@
     * **"Golden SAML"**, Khun Anan Boondamnoen
     * **"SQL Injection"**, Khun Supattra Boonkied & Khun Jaray #2
     * **"Secure Software Concepts : Core Concepts"**,	Khun Phureephat Sottiratanapan
+    * **"Static Application Security Testing"**, Khun Nipitpon Doungyai
+    * **"Dynamic Application Security Testing"**, Khun Saran Kaewnang
 
 ### [**Week 11**] - (Sun) **Jan 31,** 2021
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/fsd-code-jiw)
