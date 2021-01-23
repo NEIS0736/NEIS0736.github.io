@@ -537,7 +537,7 @@
     1. **"Implement Software Supply Chain Risk Management"**, Khun Theerapong Kanrawong (**Pong**)
     1. **"Software Defined Network: When software become to network"**, Khun Ekawut Chairat (**Nua**)
     1. **"Secret management in software development"**, Khun Thanakorn Prajuabkamon (**Korn**)
-    1. TBA
+    1. **"Personal Data Protection Act"**, Khun Nattawut Reungsap (**Meaw**)
     1. TBA
     1. **"CTI"**, Khun Soontorn Janphuk (**Brad**)
     1. **"Software Supply Chain Attack"**, Khun Nattapong Ketkaew (**X**)
@@ -855,6 +855,7 @@
     * **"Implement Software Supply Chain Risk Management"**, Khun Theerapong Kanrawong
     * **"Software Defined Network: When software become to network"**, Khun Ekawut Chairat
     * **"Secret management in software development"**, Khun Thanakorn Prajuabkamon
+    * **"Personal Data Protection Act"**, Khun Nattawut Reungsap
 
 ### [**Week 11**] - (Sun) **Jan 31,** 2021
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/fsd-code-jiw)
