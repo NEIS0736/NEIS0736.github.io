@@ -943,7 +943,7 @@
 ---
 
 ### [**Official class meeting place**]
-![](/2020/img/MII209B.jpg "#NEIS0736")
+![](/2020/img/MII209B.jpg "#NEIS0736 #NECS0736 #SoftwareSecurity")
 
 
 ### [**Extra Point**]
