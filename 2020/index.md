@@ -530,16 +530,10 @@
 
 ### **[MiSS**x***Talks*]** <del>(2 chances)</del> 
 * [**Book**](https://docs.google.com/spreadsheets/d/1NBZyw19XSU4rv0BdW0LQ2KAnSXwAGk1odZ9KhA6fbNc) your time slot
-* In queue
-    * **"Dynamic Application Security Testing"**, Khun Saran Kaewnang (**Golf**)
-    * **"Static Application Security Testing"**, Khun Nipitpon Doungyai (**Geno**)
-    * **"SQL Injection"**, Khun Supattra & Khun Jaray
-    * **"RPA Security for Privileged Credentials and Access"**, Khun Theerapong Kanrawong (**Pong**)
-    * **"CI/CD Security Testing"** Khun Shirassuda Thongpakdhi (**Kad**)
 * (Sun) **Jan 24,** 2021
     1. **"Threat Modeling, The first step towards security in SDLC"**, Khun Bhoomjit Bhoominath (**Luck**)
     1. **"Blockchain and Smart Contract"**,	Khun Vuttawat Uyanont (**Palm**)
-    1. TBA
+    1. **"What is Container Security?"**, Khun Shirassuda Thongpakdhi (**Kad**)
     1. TBA
     1. **"TBD"**, Khun Ekawut Chairat (**Nua**)
     1. TBA
