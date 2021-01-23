@@ -163,6 +163,7 @@
         * [Day 5 : clear-text protocols](https://www.facebook.com/jaray.paensong/posts/2823187404622547) - *Jan 14, 2021*
         * [Day 6 : changing working directories](https://www.facebook.com/jaray.paensong/posts/2823447784596509) - *Jan 15, 2021*
         * [Day 7 : archive files without controlling resource consumption](https://www.facebook.com/jaray.paensong/posts/2824153494525938) - *Jan 16, 2021*
+    * [Collaborative Coding](Collab/No13.jpg)
 <a name="Jaruspong"></a>
 1. [Jaruspong Tongboon](https://jaruspong4.GitHub.io)
     * (6217810004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/jaruspong4) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/jaruspong4)
@@ -324,6 +325,7 @@
         * [Day 5 : java.security.MessageDigest()](https://www.facebook.com/Sakarin.BooM/posts/10220487012588821) - *Jan 13, 2021*
         * [Day 6 : sha256.Sum256()](https://www.facebook.com/Sakarin.BooM/posts/10220493505111130) - *Jan 14, 2021*
         * [Day 7 : empty(), isset() & isnull()](https://www.facebook.com/Sakarin.BooM/posts/10220501750437258) - *Jan 15, 2021*
+    * [Collaborative Coding](Collab/No13.jpg)
 <a name="Sanchat"></a>
 1. [Sanchat Phaisit](https://ph-sanchat.GitHub.io)
     * (6317810015) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ph-sanchat) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/ph-sanchat) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-4707-179X")](https://orcid.org/0000-0003-4707-179X) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/sanchatphaisit)
@@ -847,6 +849,7 @@
        * [Nantawan vs. Wasupol](Collab/No4.jpg) - *Jan 22, 2021*
        * [Hachol vs. Vatcharin](Collab/No11.jpg) - *Jan 23, 2021*
        * [Bhoomjit vs. Anan](Collab/No6.jpg) - *Jan 23, 2021*
+       * [Sakarin vs. Jaray](Collab/No13.jpg) - *Jan 23, 2021*
 
 
 ### [**Week 10**] - (Sun) **Jan 24,** 2021
