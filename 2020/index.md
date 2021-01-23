@@ -541,9 +541,9 @@
     1. TBA
     1. **"CTI"**, Khun Soontorn Janphuk (**Brad**)
     1. **"Software Supply Chain Attack"**, Khun Nattapong Ketkaew (**X**)
-    1. **"IoT"**, Khun Fareed Marnleb (**Far**)
+    1.  **"IoT"**, Khun Fareed Marnleb (**Far**)
     1. **"TBD"**, Khun Anan Boondamnoen (**Nan**)
-    1. TBA
+    1.  TBA
 * **[Done]**
     * (Sun) **Nov 22,** 2020
         * **"Git"**, Khun Vatcharin Kongsakul
@@ -848,11 +848,11 @@
 
 ### [**Week 10**] - (Sun) **Jan 24,** 2021
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/syx-xxzr-ytx)
-*  **MiSS**x***Talks*** 
-   1. *John Doe*
-   1. *John Doe*
-   1. *John Doe*
-*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day10)** *by **John Doe***
+*  **MiSS**x***Talks***
+    * **"System acquisition, development and maintenance in ISO27001"**, Khun Nantawan Sanpukdee
+    * **"Threat Modeling, The first step towards security in SDLC"**, Khun Bhoomjit Bhoominath
+    * **"Blockchain and Smart Contract"**,	Khun Vuttawat Uyanont
+    * **"What is Container Security?"**, Khun Shirassuda Thongpakdhi
 
 ### [**Week 11**] - (Sun) **Jan 31,** 2021
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/fsd-code-jiw)
