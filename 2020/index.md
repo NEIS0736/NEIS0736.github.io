@@ -858,6 +858,7 @@
     * **"Personal Data Protection Act"**, Khun Nattawut Reungsap
     * **"3 Pillars Of Observability"**, Khun Narunart Vongeium
     * **"Cyber Threat Intelligence"**, Khun Soontorn Janphuk
+    * **"Software Supply Chain Attack"**, Khun Nattapong Ketkaew
 
 ### [**Week 11**] - (Sun) **Jan 31,** 2021
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/fsd-code-jiw)
