@@ -536,7 +536,7 @@
     1. **"What is Container Security?"**, Khun Shirassuda Thongpakdhi (**Kad**)
     1. **"Implement Software Supply Chain Risk Management"**, Khun Theerapong Kanrawong (**Pong**)
     1. **"Software Defined Network: When software become to network"**, Khun Ekawut Chairat (**Nua**)
-    1. TBA
+    1. **"Secret management in software development"**, Khun Thanakorn Prajuabkamon (**Korn**)
     1. TBA
     1. TBA
     1. **"CTI"**, Khun Soontorn Janphuk (**Brad**)
@@ -854,6 +854,7 @@
     * **"What is Container Security?"**, Khun Shirassuda Thongpakdhi
     * **"Implement Software Supply Chain Risk Management"**, Khun Theerapong Kanrawong
     * **"Software Defined Network: When software become to network"**, Khun Ekawut Chairat
+    * **"Secret management in software development"**, Khun Thanakorn Prajuabkamon
 
 ### [**Week 11**] - (Sun) **Jan 31,** 2021
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/fsd-code-jiw)
