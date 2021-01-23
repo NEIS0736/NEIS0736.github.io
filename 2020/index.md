@@ -541,7 +541,7 @@
     1. **"3 Pillars Of Observability"**, Khun Narunart Vongeium (**Eit**)
     1. **"Cyber Threat Intelligence"**, Khun Soontorn Janphuk (**Brad**)
     1. **"Software Supply Chain Attack"**, Khun Nattapong Ketkaew (**X**)
-    1.  **"IoT"**, Khun Fareed Marnleb (**Far**)
+    1. **"The Vulnerability of IoTs"**, Khun Fareed Marnleb (**Far**)
     1. **"TBD"**, Khun Anan Boondamnoen (**Nan**)
     1.  TBA
 * **[Done]**
@@ -859,6 +859,7 @@
     * **"3 Pillars Of Observability"**, Khun Narunart Vongeium
     * **"Cyber Threat Intelligence"**, Khun Soontorn Janphuk
     * **"Software Supply Chain Attack"**, Khun Nattapong Ketkaew
+    * **"The Vulnerability of IoTs"**, Khun Fareed Marnleb
 
 ### [**Week 11**] - (Sun) **Jan 31,** 2021
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/fsd-code-jiw)
