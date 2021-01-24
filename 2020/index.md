@@ -1003,7 +1003,7 @@
 *  Tools **calibration**: why is it important?
 *  [Using Privacy Enhancing Techniques to Unlock New Value](http://www3.weforum.org/docs/WEF_Next_Gen_Data_Sharing_Financial_Services.pdf), WEF
 *  If you don’t want to invest in SAST tools for all your languages
-*  **Geohash**
+*  <del>**Geohash**</del>, *booked by Khun [Hachol D.](#Hachol)*
 *  [Microsoft Security Code Analysis](https://secdevtools.azurewebsites.net/)
 
 ---
