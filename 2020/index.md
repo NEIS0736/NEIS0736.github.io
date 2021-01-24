@@ -256,7 +256,7 @@
         * [Day 7 : os.path.basename()](https://www.facebook.com/omo.mx/posts/3700851376639902) - *Jan 15, 2021*
     * [**Consent**: ***option*** **not** an ***obligation***](https://gitlab.com/NEIS0736/2020/-/wikis/KBs/ConsentPDPA)
     * [Collaborative Coding](Collab/No5.jpg)
-    * MiSSxTalks : Personal Data Protection Act
+    * [MiSSxTalks : Personal Data Protection Act](https://twitter.com/maeklong/status/1353229216565714945)
 <a name="Nipitpon"></a>
 1. [Nipitpon Doungyai](https://itsGno.GitHub.io)
     * (6317810008) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/itsGno) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/itsGno) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-1681-1126")](https://orcid.org/0000-0003-1681-1126) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/ggasd)
