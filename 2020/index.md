@@ -518,7 +518,7 @@
         * [Day 6 : eval()](https://www.facebook.com/palm.civilman/posts/3598609633509966) - *Jan 15, 2021*
         * [Day 7 : Auto-Escaping](https://www.facebook.com/palm.civilman/posts/3601281329909463) - *Jan 16, 2021*
     * [Collaborative Coding](Collab/No1.png)
-    * MiSSxTalks : Blockchain and Smart Contract
+    * [MiSSxTalks : Blockchain and Smart Contract](https://twitter.com/maeklong/status/1353235825836756992)
 <a name="Wasupol"></a>
 1. [Wasupol Chaisangasilp](https://XserieX.GitHub.io)
     * (6317810014) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/XserieX) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/XserieX) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-7315-4049")](https://orcid.org/0000-0002-7315-4049) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/wasupol)
