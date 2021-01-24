@@ -861,7 +861,7 @@
        * [Nattawut vs. Shirassuda](Collab/No5.jpg) - *Jan 24, 2021*
 
 ### [**Week 10**] - (Sun) **Jan 24,** 2021
-*  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/syx-xxzr-ytx)
+*  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://drive.google.com/file/d/1k8STmYrKiHZEjEjKP-UIxJTVHI1JSfSv)
 *  **MiSS**x***Talks***
     * **"Threat Modeling, The first step towards security in SDLC"**, Khun Bhoomjit Bhoominath
     * **"Blockchain and Smart Contract"**,	Khun Vuttawat Uyanont
@@ -905,6 +905,7 @@
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day13)** *by **John Doe***
 
 ### [**Week 14**] - (Sun) **Feb 28,** 2021
+<!-- (https://meet.google.com/syx-xxzr-ytx) -->
 *  **Group Project** Presentation ***(draw lots)***
     * Group 1
     * Group 2
