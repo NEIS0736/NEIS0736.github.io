@@ -871,6 +871,7 @@
     * **"3 Pillars Of Observability"**, Khun Narunart Vongeium
     * **"Cyber Threat Intelligence"**, Khun Soontorn Janphuk
     * **"Software Supply Chain Attack"**, Khun Nattapong Ketkaew
+*  [SysAdminDay 2020](https://sysadminday.github.io/2020/VirtualEvent)
     
 ### [**Week 11**] - (Sun) **Jan 31,** 2021
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/fsd-code-jiw)
