@@ -855,23 +855,24 @@
 *  **MiSS**x***Talks***
     * **"Threat Modeling, The first step towards security in SDLC"**, Khun Bhoomjit Bhoominath
     * **"Blockchain and Smart Contract"**,	Khun Vuttawat Uyanont
-    * **"What is Container Security?"**, Khun Shirassuda Thongpakdhi
-    * **"Implement Software Supply Chain Risk Management"**, Khun Theerapong Kanrawong
     * **"Software Defined Network: When software become to network"**, Khun Ekawut Chairat
     * **"Secret management in software development"**, Khun Thanakorn Prajuabkamon
     * **"Personal Data Protection Act"**, Khun Nattawut Reungsap
     * **"3 Pillars Of Observability"**, Khun Narunart Vongeium
     * **"Cyber Threat Intelligence"**, Khun Soontorn Janphuk
     * **"Software Supply Chain Attack"**, Khun Nattapong Ketkaew
+    
+### [**Week 11**] - (Sun) **Jan 31,** 2021
+*  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/fsd-code-jiw)
+*  **MiSS**x***Talks***
+    * **"What is Container Security?"**, Khun Shirassuda Thongpakdhi
+    * **"Implement Software Supply Chain Risk Management"**, Khun Theerapong Kanrawong
     * **"The Vulnerability of IoTs"**, Khun Fareed Marnleb
     * **"Golden SAML"**, Khun Anan Boondamnoen
     * **"SQL Injection"**, Khun Supattra Boonkied & Khun Jaray #2
     * **"Secure Software Concepts : Core Concepts"**,	Khun Phureephat Sottiratanapan
     * **"Static Application Security Testing"**, Khun Nipitpon Doungyai
     * **"Dynamic Application Security Testing"**, Khun Saran Kaewnang
-
-### [**Week 11**] - (Sun) **Jan 31,** 2021
-*  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/fsd-code-jiw)
 *  [The **Twelve Factors**](https://12factor.net/) ([ไทย](https://12factor.net/th/))
 
 ### **Class Cancelled** (Sun) **Feb 7,** 2021
