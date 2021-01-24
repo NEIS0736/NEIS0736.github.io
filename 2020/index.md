@@ -868,7 +868,7 @@
     * **"Software Defined Network: When software become to network"**, Khun Ekawut Chairat
     * **"Secret management in software development"**, Khun Thanakorn Prajuabkamon
     * **"Personal Data Protection Act"**, Khun Nattawut Reungsap
-    * **"3 Pillars Of Observability"**, Khun Narunart Vongeium
+    * **"3 Pillars of Observability"**, Khun Narunart Vongeium
     * **"Cyber Threat Intelligence"**, Khun Soontorn Janphuk
     * **"Software Supply Chain Attack"**, Khun Nattapong Ketkaew
 *  [SysAdminDay 2020](https://sysadminday.github.io/2020/VirtualEvent)
