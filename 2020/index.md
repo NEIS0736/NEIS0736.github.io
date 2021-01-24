@@ -105,7 +105,7 @@
         * [Day 6 : CRSF protection](https://www.facebook.com/455981291120401/posts/3765888063463024) - *Jan 10, 2021*
         * [Day 7 : ftplib](https://www.facebook.com/455981291120401/posts/3768523129866184) - *Jan 11, 2021*
     * [Collaborative Coding](Collab/No1.png)
-    * MiSSxTalks : Software Defined Network: When software become to network
+    * [MiSSxTalks : Software Defined Network: When software become to network](https://twitter.com/maeklong/status/1353218479931887618)
 <a name="Fareed"></a>
 1. [Fareed Marnleb](https://marukofar.GitHub.io)
     * (6317810012) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/marukofar) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/marukofar) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-6769-7453")](https://orcid.org/0000-0001-6769-7453) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/marukofar)
