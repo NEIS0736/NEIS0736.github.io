@@ -216,7 +216,7 @@
         * [Day 6 : input is_numeric()](https://twitter.com/EIITCHY/status/1350017799826022411) - *Jan 15, 2021*
         * [Day 7 : hash_equals()](https://twitter.com/EIITCHY/status/1350278337923452930) - *Jan 16, 2021*
     * [Collaborative Coding](Collab/No8.png)
-    * MiSSxTalks : 3 Pillars of Observability
+    * [MiSSxTalks : 3 Pillars of Observability](https://twitter.com/maeklong/status/1353220816930922496)
 <a name="Nattapong"></a>
 1. [Nattapong Ketkaew](https://nattapong007.GitHub.io)
     * (6317810011) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/nattapong007) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/nattapong007) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-0018-4431")](https://orcid.org/0000-0002-0018-4431) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/nattapong007)
