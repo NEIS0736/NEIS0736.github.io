@@ -462,7 +462,7 @@
         * [Day 6 : smtplib](https://www.facebook.com/tanakonp/posts/10158280891073995) - *Jan 15, 2021*
         * [Day 7 : pyminizip](https://www.facebook.com/tanakonp/posts/10158283329303995) - *Jan 16, 2021*
     * [Collaborative Coding](Collab/No9.jpg)
-    * MiSSxTalks : Secret management in software development
+    * [MiSSxTalks : Secret management in software development](https://twitter.com/maeklong/status/1353232609514381391)
 <a name="Theerapong"></a>
 1. [Theerapong Kanrawong](https://Devtech95.GitHub.io)
     * (6317810002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Devtech95) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Devtech95) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-6704-9069")](https://orcid.org/0000-0001-6704-9069) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/theerapong)
