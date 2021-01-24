@@ -540,7 +540,7 @@
 
 ### **[MiSS**x***Talks*]** <del>(2 chances)</del> 
 * [**Book**](https://docs.google.com/spreadsheets/d/1NBZyw19XSU4rv0BdW0LQ2KAnSXwAGk1odZ9KhA6fbNc) your time slot
-* (Sun) in-Q
+* (Sun) **Jan 31,** 2021
     1. **"What is Container Security?"**, Khun Shirassuda Thongpakdhi (**Kad**)
     1. **"Implement Software Supply Chain Risk Management"**, Khun Theerapong Kanrawong (**Pong**)
     1. **"The Vulnerability of IoTs"**, Khun Fareed Marnleb (**Far**)
