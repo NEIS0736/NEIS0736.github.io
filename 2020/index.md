@@ -83,6 +83,7 @@
         * [Day 6 : URLEncoder](https://www.facebook.com/bhoomjit.bhoominath/posts/4119973681368358) - *Jan 15, 2021*
         * [Day 7 : hashCode()](https://www.facebook.com/bhoomjit.bhoominath/posts/4122768927755500) - *Jan 16, 2021*
     * [Collaborative Coding](Collab/No6.jpg)
+    * MiSSxTalks : Threat Modeling, The first step towards security in SDLC
 <a name="Ekawut"></a>
 1. [Ekawut Chairat](https://inuax.GitHub.io)
     * (6217660002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/inuax) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/inuax) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-9674-9627")](https://orcid.org/0000-0002-9674-9627) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/inuax)
@@ -104,6 +105,7 @@
         * [Day 6 : CRSF protection](https://www.facebook.com/455981291120401/posts/3765888063463024) - *Jan 10, 2021*
         * [Day 7 : ftplib](https://www.facebook.com/455981291120401/posts/3768523129866184) - *Jan 11, 2021*
     * [Collaborative Coding](Collab/No1.png)
+    * MiSSxTalks : Software Defined Network: When software become to network
 <a name="Fareed"></a>
 1. [Fareed Marnleb](https://marukofar.GitHub.io)
     * (6317810012) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/marukofar) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/marukofar) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-6769-7453")](https://orcid.org/0000-0001-6769-7453) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/marukofar)
@@ -214,6 +216,7 @@
         * [Day 6 : input is_numeric()](https://twitter.com/EIITCHY/status/1350017799826022411) - *Jan 15, 2021*
         * [Day 7 : hash_equals()](https://twitter.com/EIITCHY/status/1350278337923452930) - *Jan 16, 2021*
     * [Collaborative Coding](Collab/No8.png)
+    * MiSSxTalks : 3 Pillars Of Observability
 <a name="Nattapong"></a>
 1. [Nattapong Ketkaew](https://nattapong007.GitHub.io)
     * (6317810011) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/nattapong007) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/nattapong007) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-0018-4431")](https://orcid.org/0000-0002-0018-4431) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/nattapong007)
@@ -232,6 +235,7 @@
         * [Day 6 : memset_s](https://www.facebook.com/permalink.php?story_fbid=3908173515869513&id=100000307097053) - *Jan 15, 2021*
         * [Day 7 : javax.crypto.Cipher](https://www.facebook.com/permalink.php?story_fbid=3911423938877804&id=100000307097053) - *Jan 16, 2021*
     * [Collaborative Coding](Collab/No12.jpg)
+    * MiSSxTalks : Software Supply Chain Attack
 <a name="Nattawut"></a>
 1. [Nattawut Reungsap](https://omoomomx.GitHub.io)
     * (6217810013) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/omoomomx) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/omoomomx) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-6578-6583")](https://orcid.org/0000-0001-6578-6583) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/omoomomx)
@@ -252,6 +256,7 @@
         * [Day 7 : os.path.basename()](https://www.facebook.com/omo.mx/posts/3700851376639902) - *Jan 15, 2021*
     * [**Consent**: ***option*** **not** an ***obligation***](https://gitlab.com/NEIS0736/2020/-/wikis/KBs/ConsentPDPA)
     * [Collaborative Coding](Collab/No5.jpg)
+    * MiSSxTalks : Personal Data Protection Act
 <a name="Nipitpon"></a>
 1. [Nipitpon Doungyai](https://itsGno.GitHub.io)
     * (6317810008) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/itsGno) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/itsGno) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-1681-1126")](https://orcid.org/0000-0003-1681-1126) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/ggasd)
@@ -392,6 +397,7 @@
         * [Day 6 : dirname()](https://www.facebook.com/sj.freedom.9/posts/402171884374362) - *Jan 14, 2021*
         * [Day 7 : in_array()](https://www.facebook.com/sj.freedom.9/posts/402660964325454) - *Jan 15, 2021*
     * [Collaborative Coding](Collab/No9.jpg)
+    * MiSSxTalks : Cyber Threat Intelligence
 <a name="Suntisuk"></a>
 1. [Suntisuk Thepthong](https://icesuntisuk.GitHub.io)
     * (6217810015) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/icesuntisuk) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/icesuntisuk) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-5528-6005")](https://orcid.org/0000-0002-5528-6005) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/icesuntisuk)
@@ -456,6 +462,7 @@
         * [Day 6 : smtplib](https://www.facebook.com/tanakonp/posts/10158280891073995) - *Jan 15, 2021*
         * [Day 7 : pyminizip](https://www.facebook.com/tanakonp/posts/10158283329303995) - *Jan 16, 2021*
     * [Collaborative Coding](Collab/No9.jpg)
+    * MiSSxTalks : Secret management in software development
 <a name="Theerapong"></a>
 1. [Theerapong Kanrawong](https://Devtech95.GitHub.io)
     * (6317810002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Devtech95) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Devtech95) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-6704-9069")](https://orcid.org/0000-0001-6704-9069) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/theerapong)
@@ -511,6 +518,7 @@
         * [Day 6 : eval()](https://www.facebook.com/palm.civilman/posts/3598609633509966) - *Jan 15, 2021*
         * [Day 7 : Auto-Escaping](https://www.facebook.com/palm.civilman/posts/3601281329909463) - *Jan 16, 2021*
     * [Collaborative Coding](Collab/No1.png)
+    * MiSSxTalks : Blockchain and Smart Contract
 <a name="Wasupol"></a>
 1. [Wasupol Chaisangasilp](https://XserieX.GitHub.io)
     * (6317810014) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/XserieX) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/XserieX) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-7315-4049")](https://orcid.org/0000-0002-7315-4049) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/wasupol)
