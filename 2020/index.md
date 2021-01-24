@@ -870,7 +870,7 @@
     * **"The Vulnerability of IoTs"**, Khun Fareed Marnleb
     * **"Golden SAML"**, Khun Anan Boondamnoen
     * **"SQL Injection"**, Khun Supattra Boonkied & Khun Jaray #2
-    * **"Secure Software Concepts : Core Concepts"**,	Khun Phureephat Sottiratanapan
+    * **"Secure Software Concepts : Core Concepts"**, Khun Phureephat Sottiratanapan
     * **"Static Application Security Testing"**, Khun Nipitpon Doungyai
     * **"Dynamic Application Security Testing"**, Khun Saran Kaewnang
 *  [The **Twelve Factors**](https://12factor.net/) ([ไทย](https://12factor.net/th/))
