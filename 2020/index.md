@@ -47,7 +47,7 @@
     * (6217810016) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/AthipornP) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/AthipornP) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-0532-3733")](https://orcid.org/0000-0003-0532-3733) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/athiporn)
     * One-on-One - Authentication, OpenID
     * [V3.4 Cookie based Session Management](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V3.4-Cookie-based-Session-Management)
-    * [Keep Calm and Sign your Strong Name Assemblies](/2020/MiSSxTalks/AthipornP.jpg)
+    * [MiSSxTalks - Keep Calm and Sign your Strong Name Assemblies](/2020/MiSSxTalks/AthipornP.jpg)
     * [DSV - Gpg4win](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Gpg4win/Gpg4win) (#2)
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Athiporn-qr-code.png)
     * [TC : Cookie Expires Session](https://phureephats.github.io/cookietestcase)
@@ -866,7 +866,7 @@
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/fsd-code-jiw)
 *  **MiSS**x***Talks***
     * **"What is Container Security?"**, Khun Shirassuda Thongpakdhi
-    * **"Implement Software Supply Chain Risk Management"**, Khun Theerapong Kanrawong
+    * **"TBA"**, Khun Theerapong Kanrawong
     * **"The Vulnerability of IoTs"**, Khun Fareed Marnleb
     * **"Golden SAML"**, Khun Anan Boondamnoen
     * **"SQL Injection"**, Khun Supattra Boonkied & Khun Jaray #2
