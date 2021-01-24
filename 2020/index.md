@@ -235,7 +235,7 @@
         * [Day 6 : memset_s](https://www.facebook.com/permalink.php?story_fbid=3908173515869513&id=100000307097053) - *Jan 15, 2021*
         * [Day 7 : javax.crypto.Cipher](https://www.facebook.com/permalink.php?story_fbid=3911423938877804&id=100000307097053) - *Jan 16, 2021*
     * [Collaborative Coding](Collab/No12.jpg)
-    * MiSSxTalks : Software Supply Chain Attack
+    * [MiSSxTalks : Software Supply Chain Attack](https://twitter.com/maeklong/status/1353226643335114752)
 <a name="Nattawut"></a>
 1. [Nattawut Reungsap](https://omoomomx.GitHub.io)
     * (6217810013) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/omoomomx) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/omoomomx) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-6578-6583")](https://orcid.org/0000-0001-6578-6583) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/omoomomx)
