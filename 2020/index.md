@@ -530,17 +530,9 @@
 
 ### **[MiSS**x***Talks*]** <del>(2 chances)</del> 
 * [**Book**](https://docs.google.com/spreadsheets/d/1NBZyw19XSU4rv0BdW0LQ2KAnSXwAGk1odZ9KhA6fbNc) your time slot
-* (Sun) **Jan 24,** 2021
-    1. **"Threat Modeling, The first step towards security in SDLC"**, Khun Bhoomjit Bhoominath (**Luck**)
-    1. **"Blockchain and Smart Contract"**,	Khun Vuttawat Uyanont (**Palm**)
+* (Sun) in-Q
     1. **"What is Container Security?"**, Khun Shirassuda Thongpakdhi (**Kad**)
     1. **"Implement Software Supply Chain Risk Management"**, Khun Theerapong Kanrawong (**Pong**)
-    1. **"Software Defined Network: When software become to network"**, Khun Ekawut Chairat (**Nua**)
-    1. **"Secret management in software development"**, Khun Thanakorn Prajuabkamon (**Korn**)
-    1. **"Personal Data Protection Act"**, Khun Nattawut Reungsap (**Meaw**)
-    1. **"3 Pillars Of Observability"**, Khun Narunart Vongeium (**Eit**)
-    1. **"Cyber Threat Intelligence"**, Khun Soontorn Janphuk (**Brad**)
-    1. **"Software Supply Chain Attack"**, Khun Nattapong Ketkaew (**X**)
     1. **"The Vulnerability of IoTs"**, Khun Fareed Marnleb (**Far**)
     1. **"Golden SAML"**, Khun Anan Boondamnoen (**Nan**)
     1. **"SQL Injection"**, Khun Supattra Boonkied (**Noy**) + (**Jaray**)
@@ -560,8 +552,16 @@
         * **"SQL Injection, the well-known vulnerability ever."**, Khun Jaray Paensong (**Ray**)
     * (Sun) **Dec 20,** 2020
         * **"System acquisition, development and maintenance in ISO27001"**, Khun Nantawan Sanpukdee (**Fai**)
-
-        
+    * (Sun) **Jan 24,** 2021
+        * **"Threat Modeling, The first step towards security in SDLC"**, Khun Bhoomjit Bhoominath (**Luck**)
+        * **"Blockchain and Smart Contract"**,	Khun Vuttawat Uyanont (**Palm**)
+        * **"Software Defined Network: When software become to network"**, Khun Ekawut Chairat (**Nua**)
+        * **"Secret management in software development"**, Khun Thanakorn Prajuabkamon (**Korn**)
+        * **"Personal Data Protection Act"**, Khun Nattawut Reungsap (**Meaw**)
+        * **"3 Pillars Of Observability"**, Khun Narunart Vongeium (**Eit**)
+        * **"Cyber Threat Intelligence"**, Khun Soontorn Janphuk (**Brad**)
+        * **"Software Supply Chain Attack"**, Khun Nattapong Ketkaew (**X**)
+    
 ---
 
 ### **[Instructor]**
