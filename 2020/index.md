@@ -83,7 +83,7 @@
         * [Day 6 : URLEncoder](https://www.facebook.com/bhoomjit.bhoominath/posts/4119973681368358) - *Jan 15, 2021*
         * [Day 7 : hashCode()](https://www.facebook.com/bhoomjit.bhoominath/posts/4122768927755500) - *Jan 16, 2021*
     * [Collaborative Coding](Collab/No6.jpg)
-    * MiSSxTalks : Threat Modeling, The first step towards security in SDLC
+    * [MiSSxTalks : Threat Modeling, The first step towards security in SDLC](https://twitter.com/maeklong/status/1353216304824504320)
 <a name="Ekawut"></a>
 1. [Ekawut Chairat](https://inuax.GitHub.io)
     * (6217660002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/inuax) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/inuax) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-9674-9627")](https://orcid.org/0000-0002-9674-9627) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/inuax)
