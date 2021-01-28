@@ -360,6 +360,7 @@
     * [SQL Injection (GET/Search)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/SQL-Injection-GET-Search)
     * #Code4Sec Week
         * [Day 1 : mysqli_real_escape_string()](https://www.facebook.com/SaranKaewnang/posts/3617391354981586) - *Jan 5, 2021*
+    * [Collaborative Coding](Collab/No7.jpg)
 <a name="Shirassuda"></a>
 1. [Shirassuda Thongpakdhi](http://MyGitHubNEIS0736.github.io)
     * (6117810017) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/MyGitHubNEIS0736) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/MyGitHubNEIS0736) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-8272-0161")](https://orcid.org/0000-0002-8272-0161) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/shianeis0736)
@@ -442,6 +443,7 @@
         * [Day 5 : socket, ssl](https://twitter.com/pattra1994/status/1347743438259720194) - *Jan 9, 2021*
         * [Day 6 : sockets](https://twitter.com/pattra1994/status/1348116752060743680) - *Jan 10, 2021*
         * [Day 7 : pickle](https://twitter.com/pattra1994/status/1348518785678856192) - *Jan 11, 2021*
+    * [Collaborative Coding](Collab/No7.jpg)
 <a name="Thanakorn"></a>
 1. [Thanakorn Prajuabkamon](https://nongkon09.GitHub.io)
     * (6217810017) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/nongkon09) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/nongkon09) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-3201-789X")](https://orcid.org/0000-0002-3201-789X) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/nongkon09)
@@ -859,6 +861,7 @@
        * [Bhoomjit vs. Anan](Collab/No6.jpg) - *Jan 23, 2021*
        * [Sakarin vs. Jaray](Collab/No13.jpg) - *Jan 23, 2021*
        * [Nattawut vs. Shirassuda](Collab/No5.jpg) - *Jan 24, 2021*
+       * [Saran vs. Supattra](Collab/No7.jpg) - *Jan 28, 2021*
 
 ### [**Week 10**] - (Sun) **Jan 24,** 2021
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://drive.google.com/file/d/1k8STmYrKiHZEjEjKP-UIxJTVHI1JSfSv)
