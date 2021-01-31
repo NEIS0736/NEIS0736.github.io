@@ -273,7 +273,7 @@
         * [Day 2 : parseInt()](https://www.facebook.com/profiIe.info/posts/3698243083566086) - *Jan 8, 2021*
         * [Day 3 : bcrypt.hashSync()](https://www.facebook.com/profiIe.info/posts/3703400003050394) - *Jan 10, 2021*
     * [Collaborative Coding](Collab/No12.jpg)
-    * [MiSSxTalks : xxx](https://twitter.com/maeklong/status/1355807476763901953)
+    * [MiSSxTalks : Static Application Security Testing](https://twitter.com/maeklong/status/1355807476763901953)
 <a name="Phureephat"></a>
 1. [Phureephat Sottiratanapan](https://PhureephatS.GitHub.io)
     * (6217810014) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/PhureephatS) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/PhureephatS) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-1300-8231")](https://orcid.org/0000-0003-1300-8231) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/phureephats)
