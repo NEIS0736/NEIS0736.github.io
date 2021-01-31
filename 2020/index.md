@@ -42,6 +42,7 @@
         * [Day 6 : display_errors()](https://www.facebook.com/nanziiiii/posts/5010272119014369) - *Jan 15, 2021*
         * [Day 7 : isdigit()](https://www.facebook.com/nanziiiii/posts/5016311865077061) - *Jan 16, 2021*
     * [Collaborative Coding](Collab/No6.jpg)
+    * [MiSSxTalks : Golden SAML](https://twitter.com/maeklong/status/1355799798322892802)
 <a name="Athiporn"></a>
 1. [Athiporn Phumnicom](https://AthipornP.GitHub.io)
     * (6217810016) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/AthipornP) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/AthipornP) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-0532-3733")](https://orcid.org/0000-0003-0532-3733) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/athiporn)
