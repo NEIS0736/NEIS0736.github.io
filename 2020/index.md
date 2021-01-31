@@ -544,15 +544,10 @@
 
 ### **[MiSS**x***Talks*]** <del>(2 chances)</del> 
 * [**Book**](https://docs.google.com/spreadsheets/d/1NBZyw19XSU4rv0BdW0LQ2KAnSXwAGk1odZ9KhA6fbNc) your time slot
-* (Sun) **Jan 31,** 2021
-    1. **"What is Container Security?"**, Khun Shirassuda Thongpakdhi (**Kad**)
-    1. **"Implement Software Supply Chain Risk Management"**, Khun Theerapong Kanrawong (**Pong**)
-    1. **"The Vulnerability of IoTs"**, Khun Fareed Marnleb (**Far**)
-    1. **"Golden SAML"**, Khun Anan Boondamnoen (**Nan**)
-    1. **"SQL Injection"**, Khun Supattra Boonkied (**Noy**) + (**Jaray**)
-    1. **"Secure Software Concepts : Core Concepts"**,	Khun Phureephat Sottiratanapan (**Farn**)
-    1. **"Static Application Security Testing"**, Khun Nipitpon Doungyai (**Geno**)
+* (Sun) **Feb 14,** 2021
     1. **"Dynamic Application Security Testing"**, Khun Saran Kaewnang (**Golf**)
+    2. **"Implement Software Supply Chain Risk Management"**, Khun Theerapong Kanrawong (**Pong**)
+    3. **"SQL Injection"**, Khun Supattra Boonkied (**Noy**) + (**Jaray**)
 
 * **[Done]**
     * (Sun) **Nov 22,** 2020
@@ -575,6 +570,13 @@
         * **"3 Pillars Of Observability"**, Khun Narunart Vongeium (**Eit**)
         * **"Cyber Threat Intelligence"**, Khun Soontorn Janphuk (**Brad**)
         * **"Software Supply Chain Attack"**, Khun Nattapong Ketkaew (**X**)
+    * (Sun) **Jan 31,** 2021
+        * **"What is Container Security?"**, Khun Shirassuda Thongpakdhi (**Kad**)
+        * **"The Vulnerability of IoTs"**, Khun Fareed Marnleb (**Far**)
+        * **"Golden SAML"**, Khun Anan Boondamnoen (**Nan**)
+        * **"SQL Injection"**, Khun Supattra Boonkied (**Noy**) + (**Jaray**)
+        * **"Secure Software Concepts : Core Concepts"**,	Khun Phureephat Sottiratanapan (**Farn**)
+        * **"Static Application Security Testing"**, Khun Nipitpon Doungyai (**Geno**)
     
 ---
 
