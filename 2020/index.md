@@ -155,7 +155,7 @@
     * [Congrats Msg](https://gitlab.com/NEIS0736/2020/-/wikis/Congrats/Jaray-qr-code.png)    
     * [Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day4) of Day 4
     * [V2.2 General Authenticator Requirements](https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V2.2-General-Authenticator-Requirements)
-    * [SQL Injection, the well-known vulnerability ever (Part I)](/2020/MiSSxTalks/JarayP.jpg)
+    * [MiSSxTalks : SQL Injection, the well-known vulnerability ever (Part I)](/2020/MiSSxTalks/JarayP.jpg)
     * [Twitter](https://marukofar.github.io/Twitter-Two-factor-authentication)
     * [TC : Authentication Time Limit](https://hirayshi.github.io/Authentication_5_Time_fail)
     * [XSS - Reflected (User-Agent)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/XSS-Reflected_User-Agent)
@@ -168,6 +168,7 @@
         * [Day 6 : changing working directories](https://www.facebook.com/jaray.paensong/posts/2823447784596509) - *Jan 15, 2021*
         * [Day 7 : archive files without controlling resource consumption](https://www.facebook.com/jaray.paensong/posts/2824153494525938) - *Jan 16, 2021*
     * [Collaborative Coding](Collab/No13.jpg)
+    * [MiSSxTalks : SQL Injection](https://twitter.com/maeklong/status/1355802992063045633)
 <a name="Jaruspong"></a>
 1. [Jaruspong Tongboon](https://jaruspong4.GitHub.io)
     * (6217810004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/jaruspong4) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/jaruspong4)
@@ -448,6 +449,7 @@
         * [Day 6 : sockets](https://twitter.com/pattra1994/status/1348116752060743680) - *Jan 10, 2021*
         * [Day 7 : pickle](https://twitter.com/pattra1994/status/1348518785678856192) - *Jan 11, 2021*
     * [Collaborative Coding](Collab/No7.jpg)
+    * [MiSSxTalks : SQL Injection](https://twitter.com/maeklong/status/1355802992063045633)
 <a name="Thanakorn"></a>
 1. [Thanakorn Prajuabkamon](https://nongkon09.GitHub.io)
     * (6217810017) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/nongkon09) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/nongkon09) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-3201-789X")](https://orcid.org/0000-0002-3201-789X) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/nongkon09)
