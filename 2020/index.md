@@ -883,11 +883,8 @@
     * **"What is Container Security?"**, Khun Shirassuda Thongpakdhi
     * **"The Vulnerability of IoTs"**, Khun Fareed Marnleb
     * **"Golden SAML"**, Khun Anan Boondamnoen
-    * **"SQL Injection"**, Khun Supattra Boonkied & Khun Jaray #2
     * **"Secure Software Concepts : Core Concepts"**, Khun Phureephat Sottiratanapan
     * **"Static Application Security Testing"**, Khun Nipitpon Doungyai
-    * **"Dynamic Application Security Testing"**, Khun Saran Kaewnang
-    * **"TBA"**, Khun Theerapong Kanrawong
 *  [The **Twelve Factors**](https://12factor.net/) ([ไทย](https://12factor.net/th/))
 
 ### **Class Cancelled** (Sun) **Feb 7,** 2021
@@ -896,9 +893,9 @@
 <!-- https://meet.google.com/cmm-dzag-def -->
 *  **Valentine** *vs.* **Ovaltine** <!--Mini contest, organized by you-->
 *  **MiSS**x***Talks***
-   * *John Doe*
-   * *John Doe*
-   * *John Doe*
+    * **"Dynamic Application Security Testing"**, Khun Saran Kaewnang
+    * **"TBA"**, Khun Theerapong Kanrawong
+    * **"SQL Injection"**, Khun Supattra Boonkied & Khun Jaray #2
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day12)** *by **John Doe***
 
 ### [**Week 13**] - (Sun) **Feb 21,** 2021
