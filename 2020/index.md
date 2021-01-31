@@ -878,7 +878,7 @@
 *  [SysAdminDay 2020](https://sysadminday.github.io/2020/VirtualEvent)
     
 ### [**Week 11**] - (Sun) **Jan 31,** 2021
-*  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/fsd-code-jiw)
+*  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://drive.google.com/file/d/1vB7fdtIoAEvMvJjGk6X16qDkYBO_KDC6)
 *  **MiSS**x***Talks***
     * **"What is Container Security?"**, Khun Shirassuda Thongpakdhi
     * **"The Vulnerability of IoTs"**, Khun Fareed Marnleb
@@ -918,6 +918,7 @@
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day14)** *by **John Doe***
 
 ### [**Week 15**] - (Sun) **Mar 7,** 2021
+<!-- (https://meet.google.com/fsd-code-jiw) -->
 *  **Group Project** Presentation ***(draw lots)***
     * Group 1
     * Group 2
