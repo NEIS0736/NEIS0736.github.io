@@ -125,6 +125,7 @@
         * [Day 6 : error_reporting()](https://www.facebook.com/marukofar/posts/5473020279382191) - *Jan 10, 2021*
         * [Day 7 : pg_escape_string()](https://www.facebook.com/marukofar/posts/5477804788903740) - *Jan 11, 2021*
     * [Collaborative Coding](Collab/No8.png)
+    * [MiSSxTalks : The Vulnerability of IoTs](https://twitter.com/maeklong/status/1355798104813969408)
 <a name="Hachol"></a>
 1. [Hachol Dabthong](https://hacholda.GitHub.io)
     * (6217810010) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/hacholda) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/hacholda) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-7028-3742")](https://orcid.org/0000-0002-7028-3742) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/hacholda)
