@@ -881,13 +881,13 @@
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/fsd-code-jiw)
 *  **MiSS**x***Talks***
     * **"What is Container Security?"**, Khun Shirassuda Thongpakdhi
-    * **"TBA"**, Khun Theerapong Kanrawong
     * **"The Vulnerability of IoTs"**, Khun Fareed Marnleb
     * **"Golden SAML"**, Khun Anan Boondamnoen
     * **"SQL Injection"**, Khun Supattra Boonkied & Khun Jaray #2
     * **"Secure Software Concepts : Core Concepts"**, Khun Phureephat Sottiratanapan
     * **"Static Application Security Testing"**, Khun Nipitpon Doungyai
     * **"Dynamic Application Security Testing"**, Khun Saran Kaewnang
+    * **"TBA"**, Khun Theerapong Kanrawong
 *  [The **Twelve Factors**](https://12factor.net/) ([ไทย](https://12factor.net/th/))
 
 ### **Class Cancelled** (Sun) **Feb 7,** 2021
