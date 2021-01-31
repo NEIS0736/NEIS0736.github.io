@@ -883,6 +883,7 @@
     * **"What is Container Security?"**, Khun Shirassuda Thongpakdhi
     * **"The Vulnerability of IoTs"**, Khun Fareed Marnleb
     * **"Golden SAML"**, Khun Anan Boondamnoen
+    * **"SQL Injection"**, Khun Supattra Boonkied & Khun Jaray Paensong
     * **"Secure Software Concepts : Core Concepts"**, Khun Phureephat Sottiratanapan
     * **"Static Application Security Testing"**, Khun Nipitpon Doungyai
 *  [The **Twelve Factors**](https://12factor.net/) ([ไทย](https://12factor.net/th/))
@@ -895,7 +896,7 @@
 *  **MiSS**x***Talks***
     * **"Dynamic Application Security Testing"**, Khun Saran Kaewnang
     * **"TBA"**, Khun Theerapong Kanrawong
-    * **"SQL Injection"**, Khun Supattra Boonkied & Khun Jaray #2
+    * **"SQL Injection"**, Khun Supattra Boonkied & Khun Jaray Paensong
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day12)** *by **John Doe***
 
 ### [**Week 13**] - (Sun) **Feb 21,** 2021
