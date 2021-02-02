@@ -147,6 +147,7 @@
         * [Day 6 : FILTER_VALIDATE_INT()](https://www.facebook.com/hachol/posts/3552054098163434) - *Jan 13, 2021*
         * [Day 7 : os.system()](https://www.facebook.com/hachol/posts/3554694784566032) - *Jan 14, 2021*
     * [Collaborative Coding](Collab/No11.jpg)
+    * [Geohash](https://gitlab.com/NEIS0736/2020/-/wikis/KBs/geohash)
 <a name="Jaray"></a>
 1. [Jaray Paensong](https://HiRayShi.GitHub.io)
     * (6317660006) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/HiRayShi) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/HiRayShi) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-4654-9157")](https://orcid.org/0000-0003-4654-9157) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/jarray)
@@ -1015,7 +1016,7 @@
 *  Tools **calibration**: why is it important?
 *  [Using Privacy Enhancing Techniques to Unlock New Value](http://www3.weforum.org/docs/WEF_Next_Gen_Data_Sharing_Financial_Services.pdf), WEF
 *  If you don’t want to invest in SAST tools for all your languages
-*  <del>**Geohash**</del>, *booked by Khun [Hachol D.](#Hachol)*
+*  <del>**Geohash**</del>, *claimed by Khun [Hachol D.](#Hachol)*
 *  [Microsoft Security Code Analysis](https://secdevtools.azurewebsites.net/)
 *  [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
 
