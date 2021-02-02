@@ -43,6 +43,7 @@
         * [Day 7 : isdigit()](https://www.facebook.com/nanziiiii/posts/5016311865077061) - *Jan 16, 2021*
     * [Collaborative Coding](Collab/No6.jpg)
     * [MiSSxTalks : Golden SAML](https://twitter.com/maeklong/status/1355799798322892802)
+    * [Golden SAML](https://gitlab.com/NEIS0736/2020/-/wikis/KBs/Golden-SAML)
 <a name="Athiporn"></a>
 1. [Athiporn Phumnicom](https://AthipornP.GitHub.io)
     * (6217810016) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/AthipornP) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/AthipornP) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-0532-3733")](https://orcid.org/0000-0003-0532-3733) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/athiporn)
@@ -1006,7 +1007,7 @@
 *  [Distributed Load Testing on AWS](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-distributed-load-testing-v1-2/)
 *  [Homomorphic Encryption: Unlock value of sensitive data without decryption](https://www.ibm.com/security/digital-assets/fhe/unlock-value-of-sensitive-data-without-decryption/)
 *  <del>Software Supply-Chain Attack</del>, *claimed by Khun [Nattapong K.](#Nattapong)*
-*  <del>Golden SAML</del>, *booked by Khun [Anan B.](#Anan)*
+*  <del>Golden SAML</del>, *claimed by Khun [Anan B.](#Anan)*
 *  <del>Zero Trust : Identity</del>, *booked by Khun [Ekawut C.](#Ekawut)*
 *  [SSI: Self Sovereign Identity](https://www.pwc.com/it/it/publications/assets/docs/blockchain-and-digital-identity.pdf)
 *  Business logic vulnerability
