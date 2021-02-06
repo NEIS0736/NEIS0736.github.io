@@ -900,7 +900,7 @@
 *  The **Perfect Match**, CSSLP exam outline
     * Khun Piyawit & Khun Vuttawat : **File Integrity Monitoring (FIM)**, ***4.3 Implement Security Controls***
     * Khun Bhoomjit & Khun Soontorn : **Data Anonymization**, ***2.4 Identify and Analyze Privacy Requirements***
-    * Khun Theerapong & Khun Jaray : **xxx**, ***xxx***
+    * Khun Theerapong & Khun Jaray : **Logging**, ***1.1 Core Concepts : Accountability***
 
 ### **Class Cancelled** (Sun) **Feb 7,** 2021
 
