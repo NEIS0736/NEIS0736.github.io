@@ -897,7 +897,8 @@
     * **"SQL Injection"**, Khun Supattra Boonkied & Khun Jaray Paensong
     * **"Secure Software Concepts : Core Concepts"**, Khun Phureephat Sottiratanapan
     * **"Static Application Security Testing"**, Khun Nipitpon Doungyai
-*  [The **Twelve Factors**](https://12factor.net/) ([ไทย](https://12factor.net/th/))
+*  The **Perfect Match**
+    * Khun Piyawit & Khun Vuttawat
 
 ### **Class Cancelled** (Sun) **Feb 7,** 2021
 
@@ -908,6 +909,7 @@
     * **"Dynamic Application Security Testing"**, Khun Saran Kaewnang
     * **"TBA"**, Khun Theerapong Kanrawong
     * **"SQL Injection"**, Khun Supattra Boonkied & Khun Jaray Paensong
+*  [The **Twelve Factors**](https://12factor.net/) ([ไทย](https://12factor.net/th/))
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day12)** *by **John Doe***
 
 ### [**Week 13**] - (Sun) **Feb 21,** 2021
