@@ -897,7 +897,7 @@
     * **"SQL Injection"**, Khun Supattra Boonkied & Khun Jaray Paensong
     * **"Secure Software Concepts : Core Concepts"**, Khun Phureephat Sottiratanapan
     * **"Static Application Security Testing"**, Khun Nipitpon Doungyai
-*  The **Perfect Match**, CSSLP exam outline
+*  The **Perfect Match**, [CSSLP exam outline](https://www.isc2.org/-/media/ISC2/Certifications/Exam-Outlines/CSSLP-Exam-Outline-Sept2020.ashx)
     * Khun Piyawit & Khun Vuttawat : **File Integrity Monitoring (FIM)**, ***4.3 Implement Security Controls***
     * Khun Bhoomjit & Khun Soontorn : **Data Anonymization**, ***2.4 Identify and Analyze Privacy Requirements***
     * Khun Theerapong & Khun Jaray : **Logging**, ***1.1 Core Concepts : Accountability***
