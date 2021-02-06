@@ -902,7 +902,7 @@
 ### **Class Cancelled** (Sun) **Feb 7,** 2021
 
 ### [**Week 12**] - (Sun) **Feb 14,** 2021
-<!-- https://meet.google.com/cmm-dzag-def -->
+*  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://meet.google.com/cmm-dzag-def)
 *  **Valentine** *vs.* **Ovaltine** <!--Mini contest, organized by you-->
 *  **MiSS**x***Talks***
     * **"Dynamic Application Security Testing"**, Khun Saran Kaewnang
