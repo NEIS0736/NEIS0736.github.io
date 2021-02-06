@@ -899,6 +899,7 @@
     * **"Static Application Security Testing"**, Khun Nipitpon Doungyai
 *  The **Perfect Match**, CSSLP exam outline
     * Khun Piyawit & Khun Vuttawat : **File Integrity Monitoring (FIM)**, ***4.3 Implement Security Controls***
+    * Khun Bhoomjit & Khun Soontorn : **Data Anonymization**, ***2.4 Identify and Analyze Privacy Requirements***
 
 ### **Class Cancelled** (Sun) **Feb 7,** 2021
 
