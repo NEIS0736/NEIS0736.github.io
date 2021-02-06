@@ -897,8 +897,8 @@
     * **"SQL Injection"**, Khun Supattra Boonkied & Khun Jaray Paensong
     * **"Secure Software Concepts : Core Concepts"**, Khun Phureephat Sottiratanapan
     * **"Static Application Security Testing"**, Khun Nipitpon Doungyai
-*  The **Perfect Match**
-    * Khun Piyawit & Khun Vuttawat
+*  The **Perfect Match**, CSSLP exam outline
+    * Khun Piyawit & Khun Vuttawat : **File Integrity Monitoring (FIM)**, ***4.3 Implement Security Controls***
 
 ### **Class Cancelled** (Sun) **Feb 7,** 2021
 
