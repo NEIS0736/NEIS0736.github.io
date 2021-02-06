@@ -917,26 +917,17 @@
 
 ### [**Week 13**] - (Sun) **Feb 21,** 2021
 <!-- https://meet.google.com/zxv-teet-zuk -->
-*  **Mini-Contest** ***(draw lots)***
-    * Round 1
-    * Round 2
-    * Round 3
+*  **The Perfect Pitch**
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day13)** *by **John Doe***
 
 ### [**Week 14**] - (Sun) **Feb 28,** 2021
 <!-- (https://meet.google.com/syx-xxzr-ytx) -->
-*  **Group Project** Presentation ***(draw lots)***
-    * Group 1
-    * Group 2
-    * Group 3
+*  **The Perfect Pitch**
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day14)** *by **John Doe***
 
 ### [**Week 15**] - (Sun) **Mar 7,** 2021
 <!-- (https://meet.google.com/fsd-code-jiw) -->
-*  **Group Project** Presentation ***(draw lots)***
-    * Group 1
-    * Group 2
-    * Group 3
+*  **The Perfect Pitch**
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day15)** *by **John Doe***
 
 ### [**Final Examination**] - *(Lec)*
