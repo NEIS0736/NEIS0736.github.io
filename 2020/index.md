@@ -899,7 +899,7 @@
     * **"Static Application Security Testing"**, Khun Nipitpon Doungyai
 *  The **Perfect Match**, [CSSLP exam outline](https://www.isc2.org/-/media/ISC2/Certifications/Exam-Outlines/CSSLP-Exam-Outline-Sept2020.ashx)
     1. Khun Piyawit & Khun Vuttawat : **File Integrity Monitoring (FIM)**, *4.3 Implement Security Controls*
-    1. Khun Bhoomjit & Khun Soontorn : **Data Anonymization**, *2.4 Identify and Analyze Privacy Requirements*
+    1. [Khun Bhoomjit & Khun Soontorn : **Data Anonymization**, *2.4 Identify and Analyze Privacy Requirements*](https://drive.google.com/file/d/1bcHcZSwjCFXR1NPJMUwtxyaMkP8ivyBN) #1
     1. Khun Theerapong & Khun Jaray : **Logging**, *1.1 Core Concepts : Accountability*
     1. Khun Thanakorn & Khun Suntisuk : **TBA**
     1. Khun Hachol & Khun Sakarin : **Digitally-signed component**, *8.3 Verify Pedigree and Provenance*
