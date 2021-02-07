@@ -593,6 +593,7 @@
 ### **[Instructor]**
 * [Maykin Warasart](https://fb.me/maeklong)  [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/maeklong) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/maeklong) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-9855-1676")](https://orcid.org/0000-0001-9855-1676) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/maykin)
 * [Pongpat Rakdej](https://fb.me/pongpatrakdej) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/pp717) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/pp717) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-3381-1796")](https://orcid.org/0000-0002-3381-1796) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/popz)
+  * [Basic Buffer Overflow : Case gets() in C Language](https://pongpatrakdej.medium.com/basic-buffer-overflow-case-gets-in-c-language-1f8f262ffcda)
 * [Pemika Limpittaya](https://fb.me/tourlek.fisho) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/fisho)
 
 ---
