@@ -904,7 +904,7 @@
     1. Khun Thanakorn & Khun Suntisuk : **TBA**
     1. Khun Hachol & Khun Sakarin : **Digitally-signed component**, *8.3 Verify Pedigree and Provenance*
     1. Khun Nattawut & Khun Athiporn : **Error and exception handling**, *4.1 Adhere to Relevant Secure Coding Practices*
-    1. Khun Fareed & Khun Anan : **TBA**
+    1. Khun Fareed & Khun Anan : **Memory Management**, *4.1 Adhere to Relevant Secure Coding Practices*
 
 ### **Class Cancelled** (Sun) **Feb 7,** 2021
 
