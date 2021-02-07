@@ -924,7 +924,8 @@
 
 ### [**Week 14**] - (Sun) **Feb 28,** 2021
 <!-- (https://meet.google.com/syx-xxzr-ytx) -->
-*  **The Perfect Pitch**
+*  **Coding Interview**
+   * Choose three, play only one
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day14)** *by **John Doe***
 
 ### [**Week 15**] - (Sun) **Mar 7,** 2021
