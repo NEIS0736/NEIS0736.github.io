@@ -929,7 +929,7 @@
 
 ### [**Week 15**] - (Sun) **Mar 7,** 2021
 <!-- (https://meet.google.com/fsd-code-jiw) -->
-*  **The Last Pitch**
+*  **The Last Pitch : Constructive Criticism**
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day15)** *by **John Doe***
 
 ### [**Final Examination**] - *(Lec)*
