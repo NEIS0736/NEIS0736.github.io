@@ -903,6 +903,7 @@
     1. Khun Theerapong & Khun Jaray : **Logging**, *1.1 Core Concepts : Accountability*
     1. Khun Thanakorn & Khun Suntisuk : **TBA**
     1. Khun Hachol & Khun Sakarin : **Digitally-signed component**, *8.3 Verify Pedigree and Provenance*
+    1. Khun Nattawut & Khun Athiporn : **Error and exception handling**, *Adhere to Relevant Secure Coding Practices*
 
 ### **Class Cancelled** (Sun) **Feb 7,** 2021
 
