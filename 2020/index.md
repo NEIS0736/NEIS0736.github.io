@@ -65,6 +65,7 @@
         * [Day 6 : Assembly.Load()](https://www.facebook.com/1815463699/posts/10215280135996091) - *Jan 11, 2021*
         * [Day 7 : ProtectedMemory.Protect()](https://www.facebook.com/athiporn.phumnicom/posts/10215284387742382) - *Jan 12, 2021*
     * [Collaborative Coding](Collab/No2.jpg)
+    * [The Perfect Match : **Error and exception handling**, *4.1 Adhere to Relevant Secure Coding Practices*](https://drive.google.com/file/d/1FX8hAyzdCjrZmpBod8N9g3xdpKftsW__)
 <a name="Bhoomjit"></a>
 1. [Bhoomjit Bhoominath](https://peegonggoy.GitHub.io)
     * (6317660004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/peegonggoy) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/peegonggoy) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-9561-730X")](https://orcid.org/0000-0001-9561-730X) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/peegonggoy)
@@ -264,6 +265,7 @@
     * [**Consent**: ***option*** **not** an ***obligation***](https://gitlab.com/NEIS0736/2020/-/wikis/KBs/ConsentPDPA)
     * [Collaborative Coding](Collab/No5.jpg)
     * [MiSSxTalks : Personal Data Protection Act](https://twitter.com/maeklong/status/1353229216565714945)
+    * [The Perfect Match : **Error and exception handling**, *4.1 Adhere to Relevant Secure Coding Practices*](https://drive.google.com/file/d/1FX8hAyzdCjrZmpBod8N9g3xdpKftsW__)
 <a name="Nipitpon"></a>
 1. [Nipitpon Doungyai](https://itsGno.GitHub.io)
     * (6317810008) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/itsGno) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/itsGno) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-1681-1126")](https://orcid.org/0000-0003-1681-1126) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/ggasd)
@@ -906,10 +908,10 @@
 *  The **Perfect Match**, [CSSLP exam outline](https://www.isc2.org/-/media/ISC2/Certifications/Exam-Outlines/CSSLP-Exam-Outline-Sept2020.ashx)
     1. [Khun Bhoomjit & Khun Soontorn : **Data Anonymization**, *2.4 Identify and Analyze Privacy Requirements*](https://drive.google.com/file/d/1bcHcZSwjCFXR1NPJMUwtxyaMkP8ivyBN) - Feb 7, 2021
     1. [Khun Piyawit & Khun Vuttawat : **File Integrity Monitoring (FIM)**, *4.3 Implement Security Controls*](https://drive.google.com/file/d/1zb7eGOeYb4GZVVPQzzMBzT3l1kj8vATm) - Feb 8, 2021
+    1. [Khun Nattawut & Khun Athiporn : **Error and exception handling**, *4.1 Adhere to Relevant Secure Coding Practices*](https://drive.google.com/file/d/1FX8hAyzdCjrZmpBod8N9g3xdpKftsW__) - Feb 10, 2021
     1. Khun Theerapong & Khun Jaray : **Logging**, *1.1 Core Concepts : Accountability*
     1. Khun Thanakorn & Khun Suntisuk : **TBA**
     1. Khun Hachol & Khun Sakarin : **Digitally-signed component**, *8.3 Verify Pedigree and Provenance*
-    1. Khun Nattawut & Khun Athiporn : **Error and exception handling**, *4.1 Adhere to Relevant Secure Coding Practices*
     1. Khun Fareed & Khun Anan : **Memory Management**, *4.1 Adhere to Relevant Secure Coding Practices*
     1. Khun Phureephat & Khun Nantawan : **Type Safety**, *4.1 Adhere to Relevant Secure Coding Practices*
 
