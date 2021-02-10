@@ -129,6 +129,7 @@
         * [Day 7 : pg_escape_string()](https://www.facebook.com/marukofar/posts/5477804788903740) - *Jan 11, 2021*
     * [Collaborative Coding](Collab/No8.png)
     * [MiSSxTalks : The Vulnerability of IoTs](https://twitter.com/maeklong/status/1355798104813969408)
+    * [Subresource Integrity (SRI)](https://gitlab.com/NEIS0736/2020/-/wikis/KBs/SRI)
 <a name="Hachol"></a>
 1. [Hachol Dabthong](https://hacholda.GitHub.io)
     * (6217810010) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/hacholda) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/hacholda) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-7028-3742")](https://orcid.org/0000-0002-7028-3742) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/hacholda)
@@ -987,7 +988,7 @@
 *  <del>Digital signature verification (e.g. [Tor Browser](https://www.torproject.org/download/))</del>
 *  [Tester Work](https://testerwork.com/), a crowdsourced testing. [You're ready to test!](TesterWork/MaykinW.png)
 *  Bug bounty/CTF write-ups
-*  <del>[Subresource Integrity](https://www.srihash.org/)</del>, *booked by Khun [Fareed M.](#Fareed)*
+*  <del>[Subresource Integrity](https://www.srihash.org/)</del>, *claimed by Khun [Fareed M.](#Fareed)*
 *  Publication[s] (e.g. [Coin Recovery](https://ieeexplore.ieee.org/abstract/document/8911915), [ECTI DAMT and NCON 2021](https://ict.up.ac.th/icdamt/2021/cfp.php))
 *  Community volunteering (e.g. [VolunteXTH](https://VolunteX.GitHub.io/), [Barcamp Bangkhen](https://www.facebook.com/Barcampbangkhen/posts/3695288630493546))
 *  Certification (e.g. [Professional Certificate in Secure Software Development Fundamentals](https://www.edx.org/professional-certificate/linuxfoundationx-secure-software-development-fundamentals))
