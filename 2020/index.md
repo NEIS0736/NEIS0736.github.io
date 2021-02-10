@@ -44,6 +44,7 @@
     * [Collaborative Coding](Collab/No6.jpg)
     * [MiSSxTalks : Golden SAML](https://twitter.com/maeklong/status/1355799798322892802)
     * [Golden SAML](https://gitlab.com/NEIS0736/2020/-/wikis/KBs/Golden-SAML)
+    * [The Perfect Match : **Memory Management**, *4.1 Adhere to Relevant Secure Coding Practices*](https://drive.google.com/file/d/17kLKvyxTHERRFNK3Yz-gy6k3Vak5K7LX)
 <a name="Athiporn"></a>
 1. [Athiporn Phumnicom](https://AthipornP.GitHub.io)
     * (6217810016) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/AthipornP) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/AthipornP) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-0532-3733")](https://orcid.org/0000-0003-0532-3733) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/athiporn)
@@ -131,6 +132,7 @@
     * [Collaborative Coding](Collab/No8.png)
     * [MiSSxTalks : The Vulnerability of IoTs](https://twitter.com/maeklong/status/1355798104813969408)
     * [Subresource Integrity (SRI)](https://gitlab.com/NEIS0736/2020/-/wikis/KBs/SRI)
+    * [The Perfect Match : **Memory Management**, *4.1 Adhere to Relevant Secure Coding Practices*](https://drive.google.com/file/d/17kLKvyxTHERRFNK3Yz-gy6k3Vak5K7LX)
 <a name="Hachol"></a>
 1. [Hachol Dabthong](https://hacholda.GitHub.io)
     * (6217810010) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/hacholda) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/hacholda) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-7028-3742")](https://orcid.org/0000-0002-7028-3742) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/hacholda)
@@ -909,10 +911,10 @@
     1. [Khun Bhoomjit & Khun Soontorn : **Data Anonymization**, *2.4 Identify and Analyze Privacy Requirements*](https://drive.google.com/file/d/1bcHcZSwjCFXR1NPJMUwtxyaMkP8ivyBN) - Feb 7, 2021
     1. [Khun Piyawit & Khun Vuttawat : **File Integrity Monitoring (FIM)**, *4.3 Implement Security Controls*](https://drive.google.com/file/d/1zb7eGOeYb4GZVVPQzzMBzT3l1kj8vATm) - Feb 8, 2021
     1. [Khun Nattawut & Khun Athiporn : **Error and exception handling**, *4.1 Adhere to Relevant Secure Coding Practices*](https://drive.google.com/file/d/1FX8hAyzdCjrZmpBod8N9g3xdpKftsW__) - Feb 10, 2021
+    1. [Khun Fareed & Khun Anan : **Memory Management**, *4.1 Adhere to Relevant Secure Coding Practices*](https://drive.google.com/file/d/17kLKvyxTHERRFNK3Yz-gy6k3Vak5K7LX) - Feb 11, 2021
     1. Khun Theerapong & Khun Jaray : **Logging**, *1.1 Core Concepts : Accountability*
     1. Khun Thanakorn & Khun Suntisuk : **TBA**
     1. Khun Hachol & Khun Sakarin : **Digitally-signed component**, *8.3 Verify Pedigree and Provenance*
-    1. Khun Fareed & Khun Anan : **Memory Management**, *4.1 Adhere to Relevant Secure Coding Practices*
     1. Khun Phureephat & Khun Nantawan : **Type Safety**, *4.1 Adhere to Relevant Secure Coding Practices*
 
 ### **Class Cancelled** (Sun) **Feb 7,** 2021
