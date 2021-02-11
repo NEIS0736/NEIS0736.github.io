@@ -436,6 +436,7 @@
         * [Day 6 : threading](https://www.facebook.com/itvill/posts/3760084420710055) - *Jan 8, 2021*
         * [Day 7 : http.server](https://www.facebook.com/itvill/posts/3762706590447838) - *Jan 9, 2021*
     * [Collaborative Coding](Collab/No10.jpg)
+    * [The Perfect Match : **Platform as a Service (PaaS)**, *3.2 Define the Security Architecture*](https://drive.google.com/file/d/1J9--oqN7nF1gTF9TPxkhab7o24KcxHaC)
 <a name="Sununta"></a>
 1. [Sununta Labaiusuh](https://sununta580.GitHub.io)
     * (6217810009) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/sununta580) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/sununta)
@@ -483,6 +484,7 @@
         * [Day 7 : pyminizip](https://www.facebook.com/tanakonp/posts/10158283329303995) - *Jan 16, 2021*
     * [Collaborative Coding](Collab/No9.jpg)
     * [MiSSxTalks : Secret management in software development](https://twitter.com/maeklong/status/1353232609514381391)
+    * [The Perfect Match : **Platform as a Service (PaaS)**, *3.2 Define the Security Architecture*](https://drive.google.com/file/d/1J9--oqN7nF1gTF9TPxkhab7o24KcxHaC)
 <a name="Theerapong"></a>
 1. [Theerapong Kanrawong](https://Devtech95.GitHub.io)
     * (6317810002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Devtech95) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Devtech95) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-6704-9069")](https://orcid.org/0000-0001-6704-9069) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/theerapong)
@@ -912,8 +914,8 @@
     1. [Khun Piyawit & Khun Vuttawat : **File Integrity Monitoring (FIM)**, *4.3 Implement Security Controls*](https://drive.google.com/file/d/1zb7eGOeYb4GZVVPQzzMBzT3l1kj8vATm) - Feb 8, 2021
     1. [Khun Nattawut & Khun Athiporn : **Error and exception handling**, *4.1 Adhere to Relevant Secure Coding Practices*](https://drive.google.com/file/d/1FX8hAyzdCjrZmpBod8N9g3xdpKftsW__) - Feb 10, 2021
     1. [Khun Fareed & Khun Anan : **Memory Management**, *4.1 Adhere to Relevant Secure Coding Practices*](https://drive.google.com/file/d/17kLKvyxTHERRFNK3Yz-gy6k3Vak5K7LX) - Feb 11, 2021
+    1. [Khun Thanakorn & Khun Suntisuk : **Platform as a Service (PaaS)**, *3.2 Define the Security Architecture*](https://drive.google.com/file/d/1J9--oqN7nF1gTF9TPxkhab7o24KcxHaC) - Feb 11, 2021
     1. Khun Theerapong & Khun Jaray : **Logging**, *1.1 Core Concepts : Accountability*
-    1. Khun Thanakorn & Khun Suntisuk : **TBA**
     1. Khun Hachol & Khun Sakarin : **Digitally-signed component**, *8.3 Verify Pedigree and Provenance*
     1. Khun Phureephat & Khun Nantawan : **Type Safety**, *4.1 Adhere to Relevant Secure Coding Practices*
 
