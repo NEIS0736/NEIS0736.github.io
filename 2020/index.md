@@ -931,8 +931,14 @@
     * **"Dynamic Application Security Testing"**, Khun Saran Kaewnang
     * **"TBA"**, Khun Theerapong Kanrawong
     * **"SQL Injection"**, Khun Supattra Boonkied & Khun Jaray Paensong
-*  [The **Twelve Factors**](https://12factor.net/) ([ไทย](https://12factor.net/th/))
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day12)** *by **John Doe***
+*  Homework
+   * Prep. for the Band Battle : The War is On.
+     * **Old School** : Athiporn, Ekawut, Hachol, Nantawan, Nattawut, Phureephat, Piyawit, Sakarin, Shirassuda, Suntisuk, Thanakorn, Vatcharin
+     * **New School** : Anan, Bhoomjit, Fareed, Jaray, Narunart, Nattapong, Nipitpon, Sanchat, Saran, Soontorn, Supattra, Theerapong, Vuttawat, Wasupol
+
+   
+   * Prep. for the Last Pitch.
 
 ### [**Week 13**] - (Sun) **Feb 21,** 2021
 <!-- https://meet.google.com/zxv-teet-zuk -->
@@ -941,13 +947,14 @@
 
 ### [**Week 14**] - (Sun) **Feb 28,** 2021
 <!-- (https://meet.google.com/syx-xxzr-ytx) -->
-*  **Coding Interview**
-   * Choose three, play only one
+*  Band Battle : The War is On
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day14)** *by **John Doe***
 
 ### [**Week 15**] - (Sun) **Mar 7,** 2021
 <!-- (https://meet.google.com/fsd-code-jiw) -->
 *  **The Last Pitch : Constructive Criticism**
+   * **Coding Interview**
+   * Choose three, play only one
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day15)** *by **John Doe***
 
 ### [**Final Examination**] - *(Lec)*
@@ -982,6 +989,7 @@
 *  [Thailand Data Protection Guidelines v3.0](https://www.law.chula.ac.th/wp-content/uploads/2020/12/TDPG3.0-C5-20201208.pdf)
 *  [Guideline for Blockchain Technology Adoption in Financial Services](https://www.bot.or.th/Thai/Segmentation/Public/PublicHearing/Documents/Hearing_Blockchain.pdf)
 *  [Cloud Controls Matrix v4](https://cloudsecurityalliance.org/artifacts/cloud-controls-matrix-v4/)
+*  [The **Twelve Factors**](https://12factor.net/) ([ไทย](https://12factor.net/th/))
 
 ---
 
