@@ -941,7 +941,7 @@
 
 ### [**Week 13**] - (Sun) **Feb 21,** 2021
 <!-- https://meet.google.com/zxv-teet-zuk -->
-*  Band Battle : The War is On
+*  Band Battle : The War is On (#CodeBattle)
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day13)** *by **John Doe***
 
 ### [**Week 14**] - (Sun) **Feb 28,** 2021
