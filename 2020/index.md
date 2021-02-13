@@ -939,9 +939,8 @@
    * Prep. for the Last Pitch.
 
 ### [**Week 13**] - (Sun) **Feb 21,** 2021
-*  Band Battle : The War is On
 <!-- https://meet.google.com/zxv-teet-zuk -->
-*  
+*  Band Battle : The War is On
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day13)** *by **John Doe***
 
 ### [**Week 14**] - (Sun) **Feb 28,** 2021
