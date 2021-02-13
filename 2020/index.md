@@ -939,20 +939,22 @@
    * Prep. for the Last Pitch.
 
 ### [**Week 13**] - (Sun) **Feb 21,** 2021
+*  Band Battle : The War is On
 <!-- https://meet.google.com/zxv-teet-zuk -->
-*  **Are You Ready to Fly Solo?**
+*  
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day13)** *by **John Doe***
 
 ### [**Week 14**] - (Sun) **Feb 28,** 2021
 <!-- (https://meet.google.com/syx-xxzr-ytx) -->
-*  Band Battle : The War is On
+*  Are You Ready to Fly Solo? -- **The Last Pitch**
+   * **Coding Interview**
+   * Choose three, play only one
+   * Constructive Criticism
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day14)** *by **John Doe***
 
 ### [**Week 15**] - (Sun) **Mar 7,** 2021
 <!-- (https://meet.google.com/fsd-code-jiw) -->
-*  **The Last Pitch : Constructive Criticism**
-   * **Coding Interview**
-   * Choose three, play only one
+*  End of Course Summary
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day15)** *by **John Doe***
 
 ### [**Final Examination**] - *(Lec)*
