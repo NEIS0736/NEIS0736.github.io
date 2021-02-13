@@ -949,12 +949,13 @@
 *  Are You Ready to Fly Solo? -- **The Last Pitch**
    * **Coding Interview**
    * Choose three, play only one
-   * Constructive Criticism
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day14)** *by **John Doe***
 
 ### [**Week 15**] - (Sun) **Mar 7,** 2021
 <!-- (https://meet.google.com/fsd-code-jiw) -->
 *  End of Course Summary
+*  Feedback for improving the KBs
+   * Constructive Criticism for KBs
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day15)** *by **John Doe***
 
 ### [**Final Examination**] - *(Lec)*
