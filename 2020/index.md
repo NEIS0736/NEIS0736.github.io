@@ -931,6 +931,7 @@
     * **"Dynamic Application Security Testing"**, Khun Saran Kaewnang
     * **"TBA"**, Khun Theerapong Kanrawong
     * **"SQL Injection"**, Khun Supattra Boonkied & Khun Jaray Paensong
+*  Are we all on the same page with the final examination?
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day12)** *by **John Doe***
 *  Homework
    * Prep. for the Band Battle : The War is On.
