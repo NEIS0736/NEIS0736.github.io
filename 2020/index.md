@@ -920,6 +920,7 @@
     1. [Khun Theerapong & Khun Jaray : **Logging**, *1.1 Core Concepts : Accountability*](https://drive.google.com/file/d/1BNcEDIkDbivXhM9fyzpw6FMfcAIyZb9t) - Feb 12, 2021
     1. Khun Hachol & Khun Sakarin : **Digitally-signed component**, *8.3 Verify Pedigree and Provenance*
     1. Khun Phureephat & Khun Nantawan : **Type Safety**, *4.1 Adhere to Relevant Secure Coding Practices*
+    1. Khun Vatcharin & Khun Ekawut : **Cloud architectures - Infrastructure as a Service (IaaS)**, *3.2 Define the Security Architecture*
 
 ### **Class Cancelled** (Sun) **Feb 7,** 2021
 
