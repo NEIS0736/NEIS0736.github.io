@@ -955,6 +955,7 @@
 *  End of Course Summary
 *  Feedback for improving the KBs
    * Constructive Criticism for KBs
+*  Final Exam Guidelines
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day15)** *by **John Doe***
 
 ### [**Final Examination**] - *(Lec)*
