@@ -368,6 +368,7 @@
         * [Day 6 : isalnum()](https://www.facebook.com/permalink.php?story_fbid=3440189622770143&id=100003374168414) - *Jan 15, 2021*
         * [Day 7 : OS commands](https://www.facebook.com/permalink.php?story_fbid=3442878285834610&id=100003374168414) - *Jan 16, 2021*
     * [Collaborative Coding](Collab/No10.jpg)
+    * The Twelve-Factor App : [(**Backing services**)] (https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/4-BackingServices.pdf)
 <a name="Saran"></a>
 1. [Saran Kaewnang](https://ahictf.GitHub.io)
     * (6317810007) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ahictf) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/ahictf) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-1885-5448 ")](https://orcid.org/0000-0003-1885-5448) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/ahiahi)
@@ -397,6 +398,7 @@
         * [Day 7 : passlib.hash.scrypt](https://twitter.com/OnggShia/status/1350498941465366528) - *Jan 16, 2021*
     * [Collaborative Coding](Collab/No5.jpg)
     * [MiSSxTalks : What is Container Security?](https://twitter.com/maeklong/status/1355794129809076226)
+    * The Twelve-Factor App : [(**Config**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/3-Config.pdf)
 <a name="Soontorn"></a>
 1. [Soontorn Janphuk](https://freedom357.GitHub.io)
     * (6317660001) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/freedom357) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/freedom357) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-0858-412X")](https://orcid.org/0000-0003-0858-412X) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/freedom357)
@@ -489,6 +491,7 @@
     * [Collaborative Coding](Collab/No9.jpg)
     * [MiSSxTalks : Secret management in software development](https://twitter.com/maeklong/status/1353232609514381391)
     * [The Perfect Match : **Platform as a Service (PaaS)**, *3.2 Define the Security Architecture*](https://drive.google.com/file/d/1J9--oqN7nF1gTF9TPxkhab7o24KcxHaC)
+    * The Twelve-Factor App : [(**Config**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/3-Config.pdf)
 <a name="Theerapong"></a>
 1. [Theerapong Kanrawong](https://Devtech95.GitHub.io)
     * (6317810002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Devtech95) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Devtech95) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-6704-9069")](https://orcid.org/0000-0001-6704-9069) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/theerapong)
@@ -509,6 +512,7 @@
         * [Day 7 : AES encryption](https://twitter.com/theerap94168677/status/1350440704477077508) - *Jan 16, 2021*
     * [Collaborative Coding](Collab/No2.jpg)
     * [The Perfect Match : **Logging**, *1.1 Core Concepts : Accountability*](https://drive.google.com/file/d/1BNcEDIkDbivXhM9fyzpw6FMfcAIyZb9t)
+    * The Twelve-Factor App : [(**Backing services**)] (https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/4-BackingServices.pdf)
 <a name="Vatcharin"></a>
 1. [Vatcharin Kongsakul](https://ryudokung.GitHub.io)
     * (6217810003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ryudokung) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/ryudokun) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-5029-636X")](https://orcid.org/0000-0002-5029-636X) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/ryudokung)
@@ -939,8 +943,8 @@
 *  **The Twelve-Factor App**
     1. Khun Bhoomjit & Khun Vuttawat [(**Codebase**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/1-Codebase.png)
     1. Khun Suntisuk & Khun Jaray [(**Dependencies**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/2-Dependencies.pdf)
-    1. Khun Thanakorn & Khun Shirassuda (**Config**)
-    1. Khun Theerapong & Khun Sanchat (**Backing services**)
+    1. Khun Thanakorn & Khun Shirassuda [(**Config**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/3-Config.pdf)
+    1. Khun Theerapong & Khun Sanchat [(**Backing services**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/4-BackingServices.pdf)
     1. Khun Nantawan & Khun Ekawut (**Build, release, run**)
     1. Khun Saran & Khun Phureephat (**Processes**)
     1. Khun Fareed & Khun Vatcharin (**Port binding**)
