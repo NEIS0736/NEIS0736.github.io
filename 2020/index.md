@@ -956,7 +956,7 @@
     1. Khun Nipitpon & Khun Nattawut [(**Disposability**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/9-Disposability.pdf)
     1. Khun Soontorn & Khun Athiporn [(**Dev/prod parity**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/10-DevProdParity.pdf)
     1. Khun Piyawit & Khun Supattra [(**Logs**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/11-Logs.pdf)
-    1. Khun Hachol & Khun Narunart (**Admin processes**)
+    1. Khun Hachol & Khun Narunart [(**Admin processes**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/12-AdminProcesses.pdf)
 *  Homework
    * Prep. for the **Band Battle : The War is On**
      * **Old School** : Athiporn, Ekawut, Hachol, Nantawan, Nattawut, Phureephat, Piyawit, Sakarin, Shirassuda, Suntisuk, Thanakorn, Vatcharin
