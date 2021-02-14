@@ -932,7 +932,25 @@
     * **"Define the cloud architecture"**, Khun Theerapong Kanrawong
     * **"SQL Injection"**, Khun Supattra Boonkied & Khun Jaray Paensong
 *  Are we all on the same page with the final examination?
+*  The Twelve-Factor App
+    1. Bhoomjit, Vuttawat
+    1. Suntisuk, Jaray
+    1. Thanakorn, Shirassuda
+    1. Theerapong, Sanchat
+    1. Nantawan, Ekawut
+    1. Saran, Phureephat
+    1. Faris, Vatcharin
+    1. Anan, Wasupol
+    1. Nipitpon, Nattawut
+    1. Soontorn, Athiporn
+    1. Piyawit, Supattra
+    1. Hachol, Narunart
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day12)** *by **John Doe***
+*  Homework
+   * Prep. for the Band Battle : The War is On.
+     * **Old School** : Athiporn, Ekawut, Hachol, Nantawan, Nattawut, Phureephat, Piyawit, Sakarin, Shirassuda, Suntisuk, Thanakorn, Vatcharin
+     * **New School** : Anan, Bhoomjit, Fareed, Jaray, Narunart, Nattapong, Nipitpon, Sanchat, Saran, Soontorn, Supattra, Theerapong, Vuttawat, Wasupol
+   * Prep. for the Last Pitch.
 
 ### [**Week 13**] - (Sun) **Feb 21,** 2021
 <!-- https://meet.google.com/zxv-teet-zuk -->
