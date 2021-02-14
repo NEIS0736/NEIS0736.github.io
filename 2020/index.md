@@ -933,19 +933,18 @@
     * **"SQL Injection"**, Khun Supattra Boonkied & Khun Jaray Paensong
 *  Are we all on the same page with the final examination?
 *  **The Twelve-Factor App**
-    1. Khun Bhoomjit, Khun Vuttawat (**Codebase**)
-    1. Khun Suntisuk, Khun Jaray (**Dependencies**)
-    1. Khun Thanakorn, Khun Shirassuda (**Config**)
-    1. Khun Theerapong, Khun Sanchat (**Backing services**)
-    1. Khun Nantawan, Khun Ekawut (**Build, release, run**)
-    1. Khun Saran, Khun Phureephat (**Processes**)
-    1. Khun Fareed, Khun Vatcharin (**Port binding**)
-    1. Khun Anan, Khun Wasupol (**Concurrency**)
-    1. Khun Nipitpon, Khun Nattawut (**Disposability**)
-    1. Khun Soontorn, Khun Athiporn (**Dev/prod parity**)
-    1. Khun Piyawit, Khun Supattra (**Logs**)
-    1. Khun Hachol, Khun Narunart (**Admin processes**)
-*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day12)** *by **John Doe***
+    1. Khun Bhoomjit & Khun Vuttawat (**Codebase**)
+    1. Khun Suntisuk & Khun Jaray (**Dependencies**)
+    1. Khun Thanakorn & Khun Shirassuda (**Config**)
+    1. Khun Theerapong & Khun Sanchat (**Backing services**)
+    1. Khun Nantawan & Khun Ekawut (**Build, release, run**)
+    1. Khun Saran & Khun Phureephat (**Processes**)
+    1. Khun Fareed & Khun Vatcharin (**Port binding**)
+    1. Khun Anan & Khun Wasupol (**Concurrency**)
+    1. Khun Nipitpon & Khun Nattawut (**Disposability**)
+    1. Khun Soontorn & Khun Athiporn (**Dev/prod parity**)
+    1. Khun Piyawit & Khun Supattra (**Logs**)
+    1. Khun Hachol & Khun Narunart (**Admin processes**)
 *  Homework
    * Prep. for the Band Battle : The War is On.
      * **Old School** : Athiporn, Ekawut, Hachol, Nantawan, Nattawut, Phureephat, Piyawit, Sakarin, Shirassuda, Suntisuk, Thanakorn, Vatcharin
