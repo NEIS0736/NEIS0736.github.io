@@ -157,6 +157,7 @@
         * [Day 7 : os.system()](https://www.facebook.com/hachol/posts/3554694784566032) - *Jan 14, 2021*
     * [Collaborative Coding](Collab/No11.jpg)
     * [Geohash](https://gitlab.com/NEIS0736/2020/-/wikis/KBs/geohash)
+    * The Twelve-Factor App : [(**Admin processes**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/12-AdminProcesses.pdf)
 <a name="Jaray"></a>
 1. [Jaray Paensong](https://HiRayShi.GitHub.io)
     * (6317660006) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/HiRayShi) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/HiRayShi) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-4654-9157")](https://orcid.org/0000-0003-4654-9157) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/jarray)
@@ -233,6 +234,7 @@
         * [Day 7 : hash_equals()](https://twitter.com/EIITCHY/status/1350278337923452930) - *Jan 16, 2021*
     * [Collaborative Coding](Collab/No8.png)
     * [MiSSxTalks : 3 Pillars of Observability](https://twitter.com/maeklong/status/1353220816930922496)
+    * The Twelve-Factor App : [(**Admin processes**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/12-AdminProcesses.pdf)
 <a name="Nattapong"></a>
 1. [Nattapong Ketkaew](https://nattapong007.GitHub.io)
     * (6317810011) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/nattapong007) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/nattapong007) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-0018-4431")](https://orcid.org/0000-0002-0018-4431) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/nattapong007)
