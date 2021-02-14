@@ -588,7 +588,7 @@
 ### **[MiSS**x***Talks*]** <del>(2 chances)</del> 
 * [**Book**](https://docs.google.com/spreadsheets/d/1NBZyw19XSU4rv0BdW0LQ2KAnSXwAGk1odZ9KhA6fbNc) your time slot
 * (Sun) **Feb 21,** 2021
-    1. **"TBD"**, Khun Sakarin
+    1. **"TBD"**, Khun SakarinPrep. for the Last Pitch
 
 * **[Done]**
     * (Sun) **Nov 22,** 2020
@@ -973,11 +973,17 @@
    * Prep. for the **Band Battle : The War is On**
      * **Old School** : Athiporn, Ekawut, Hachol, Nantawan, Nattawut, Phureephat, Piyawit, Sakarin, Shirassuda, Suntisuk, Thanakorn, Vatcharin
      * **New School** : Anan, Bhoomjit, Fareed, Jaray, Narunart, Nattapong, Nipitpon, Sanchat, Saran, Soontorn, Supattra, Theerapong, Vuttawat, Wasupol
-   * Prep. for the Last Pitch.
+   * Prep. for the **Last Pitch**
 
 ### [**Week 13**] - (Sun) **Feb 21,** 2021
 <!-- https://meet.google.com/zxv-teet-zuk -->
 *  Band Battle : The War is On (#CodeBattle)
+   
+   |xxx|ab,cd|
+   |xxx|ef,gh|
+   
+   * **Old School** : Athiporn, Ekawut, Hachol, Nantawan, Nattawut, Phureephat, Piyawit, Sakarin, Shirassuda, Suntisuk, Thanakorn, Vatcharin
+   * **New School** : Anan, Bhoomjit, Fareed, Jaray, Narunart, Nattapong, Nipitpon, Sanchat, Saran, Soontorn, Supattra, Theerapong, Vuttawat, Wasupol
 *  There's something about number.
    * version
    * factor
