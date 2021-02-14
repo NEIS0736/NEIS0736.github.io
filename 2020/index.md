@@ -979,17 +979,14 @@
 <!-- https://meet.google.com/zxv-teet-zuk -->
 *  Band Battle : The War is On (#CodeBattle)
    
-   |xxx|ab,cd|
-   |xxx|ef,gh|
+   |**Old School**|Athiporn, Ekawut, Hachol, Nantawan, Nattawut, Phureephat, Piyawit, Sakarin, Shirassuda, Suntisuk, Thanakorn, Vatcharin|
+   |**New School**|Anan, Bhoomjit, Fareed, Jaray, Narunart, Nattapong, Nipitpon, Sanchat, Saran, Soontorn, Supattra, Theerapong, Vuttawat, Wasupol|
    
    |xxx|yyy|
    |---|---|
    |ab|ef|
    |cd|gh|
-   
-   
-   * **Old School** : Athiporn, Ekawut, Hachol, Nantawan, Nattawut, Phureephat, Piyawit, Sakarin, Shirassuda, Suntisuk, Thanakorn, Vatcharin
-   * **New School** : Anan, Bhoomjit, Fareed, Jaray, Narunart, Nattapong, Nipitpon, Sanchat, Saran, Soontorn, Supattra, Theerapong, Vuttawat, Wasupol
+
 *  There's something about number.
    * version
    * factor
