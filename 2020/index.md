@@ -935,8 +935,8 @@
     * **"SQL Injection"**, Khun Supattra Boonkied & Khun Jaray Paensong
 *  Are we all on the same page with the **final examination**?
 *  **The Twelve-Factor App**
-    1. Khun Bhoomjit & Khun Vuttawat ([**Codebase**](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/1-Codebase.png))
-    1. Khun Suntisuk & Khun Jaray (**Dependencies**)
+    1. Khun Bhoomjit & Khun Vuttawat [(**Codebase**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/1-Codebase.png)
+    1. Khun Suntisuk & Khun Jaray [(**Dependencies**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/2-Dependencies.pdf)
     1. Khun Thanakorn & Khun Shirassuda (**Config**)
     1. Khun Theerapong & Khun Sanchat (**Backing services**)
     1. Khun Nantawan & Khun Ekawut (**Build, release, run**)
