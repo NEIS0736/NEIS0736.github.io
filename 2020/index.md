@@ -89,6 +89,7 @@
     * [Collaborative Coding](Collab/No6.jpg)
     * [MiSSxTalks : Threat Modeling, The first step towards security in SDLC](https://twitter.com/maeklong/status/1353216304824504320)
     * [The Perfect Match : **Data Anonymization**, 2.4 Identify and Analyze Privacy Requirements](https://drive.google.com/file/d/1bcHcZSwjCFXR1NPJMUwtxyaMkP8ivyBN)
+    * The Twelve-Factor App : ([**Codebase**](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/1-Codebase.png))
 <a name="Ekawut"></a>
 1. [Ekawut Chairat](https://inuax.GitHub.io)
     * (6217660002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/inuax) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/inuax) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-9674-9627")](https://orcid.org/0000-0002-9674-9627) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/inuax)
@@ -544,6 +545,7 @@
     * [Collaborative Coding](Collab/No1.png)
     * [MiSSxTalks : Blockchain and Smart Contract](https://twitter.com/maeklong/status/1353235825836756992)
     * [The Perfect Match : **File Integrity Monitoring (FIM)**, *4.3 Implement Security Controls*](https://drive.google.com/file/d/1zb7eGOeYb4GZVVPQzzMBzT3l1kj8vATm)
+    * The Twelve-Factor App : ([**Codebase**](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/1-Codebase.png))
 <a name="Wasupol"></a>
 1. [Wasupol Chaisangasilp](https://XserieX.GitHub.io)
     * (6317810014) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/XserieX) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/XserieX) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-7315-4049")](https://orcid.org/0000-0002-7315-4049) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/wasupol)
