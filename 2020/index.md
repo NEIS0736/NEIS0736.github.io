@@ -931,7 +931,7 @@
     * **"Dynamic Application Security Testing"**, Khun Saran Kaewnang
     * **"Define the cloud architecture"**, Khun Theerapong Kanrawong
     * **"SQL Injection"**, Khun Supattra Boonkied & Khun Jaray Paensong
-*  Are we all on the same page with the final examination?
+*  Are we all on the same page with the **final examination**?
 *  **The Twelve-Factor App**
     1. Khun Bhoomjit & Khun Vuttawat (**Codebase**)
     1. Khun Suntisuk & Khun Jaray (**Dependencies**)
