@@ -928,7 +928,7 @@
 *  **Valentine** *vs.* **Ovaltine** <!--Mini contest, organized by you-->
 *  **MiSS**x***Talks***
     * **"Dynamic Application Security Testing"**, Khun Saran Kaewnang
-    * **"TBA"**, Khun Theerapong Kanrawong
+    * **"Define the cloud architecture"**, Khun Theerapong Kanrawong
     * **"SQL Injection"**, Khun Supattra Boonkied & Khun Jaray Paensong
 *  [The **Twelve Factors**](https://12factor.net/) ([ไทย](https://12factor.net/th/))
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day12)** *by **John Doe***
