@@ -45,6 +45,7 @@
     * [MiSSxTalks : Golden SAML](https://twitter.com/maeklong/status/1355799798322892802)
     * [Golden SAML](https://gitlab.com/NEIS0736/2020/-/wikis/KBs/Golden-SAML)
     * [The Perfect Match : **Memory Management**, *4.1 Adhere to Relevant Secure Coding Practices*](https://drive.google.com/file/d/17kLKvyxTHERRFNK3Yz-gy6k3Vak5K7LX)
+    * The Twelve-Factor App : [(**Concurrency**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/8-Concurrency.pdf)
 <a name="Athiporn"></a>
 1. [Athiporn Phumnicom](https://AthipornP.GitHub.io)
     * (6217810016) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/AthipornP) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/AthipornP) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-0532-3733")](https://orcid.org/0000-0003-0532-3733) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/athiporn)
@@ -67,6 +68,7 @@
         * [Day 7 : ProtectedMemory.Protect()](https://www.facebook.com/athiporn.phumnicom/posts/10215284387742382) - *Jan 12, 2021*
     * [Collaborative Coding](Collab/No2.jpg)
     * [The Perfect Match : **Error and exception handling**, *4.1 Adhere to Relevant Secure Coding Practices*](https://drive.google.com/file/d/1FX8hAyzdCjrZmpBod8N9g3xdpKftsW__)
+    * The Twelve-Factor App [(**Dev/prod parity**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/10-DevProdParity.pdf)
 <a name="Bhoomjit"></a>
 1. [Bhoomjit Bhoominath](https://peegonggoy.GitHub.io)
     * (6317660004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/peegonggoy) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/peegonggoy) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-9561-730X")](https://orcid.org/0000-0001-9561-730X) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/peegonggoy)
@@ -276,6 +278,7 @@
     * [Collaborative Coding](Collab/No5.jpg)
     * [MiSSxTalks : Personal Data Protection Act](https://twitter.com/maeklong/status/1353229216565714945)
     * [The Perfect Match : **Error and exception handling**, *4.1 Adhere to Relevant Secure Coding Practices*](https://drive.google.com/file/d/1FX8hAyzdCjrZmpBod8N9g3xdpKftsW__)
+    * The Twelve-Factor App : [(**Disposability**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/9-Disposability.pdf)
 <a name="Nipitpon"></a>
 1. [Nipitpon Doungyai](https://itsGno.GitHub.io)
     * (6317810008) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/itsGno) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/itsGno) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-1681-1126")](https://orcid.org/0000-0003-1681-1126) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/ggasd)
@@ -290,6 +293,7 @@
         * [Day 3 : bcrypt.hashSync()](https://www.facebook.com/profiIe.info/posts/3703400003050394) - *Jan 10, 2021*
     * [Collaborative Coding](Collab/No12.jpg)
     * [MiSSxTalks : Static Application Security Testing](https://twitter.com/maeklong/status/1355807476763901953)
+    * The Twelve-Factor App : [(**Disposability**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/9-Disposability.pdf)
 <a name="Phureephat"></a>
 1. [Phureephat Sottiratanapan](https://PhureephatS.GitHub.io)
     * (6217810014) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/PhureephatS) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/PhureephatS) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-1300-8231")](https://orcid.org/0000-0003-1300-8231) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/phureephats)
@@ -336,6 +340,7 @@
         * [Day 7 : csurf](https://www.facebook.com/anthony.es.schwind/posts/1780248195474623) - *Jan 15, 2021*
     * [Collaborative Coding](Collab/No3.jpg)
     * [The Perfect Match : **File Integrity Monitoring (FIM)**, *4.3 Implement Security Controls*](https://drive.google.com/file/d/1zb7eGOeYb4GZVVPQzzMBzT3l1kj8vATm)
+    * The Twelve-Factor App : [(**Logs**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/11-Logs.pdf)
 <a name="Sakarin"></a>
 1. [Sakarin Kaewsathitwong](https://Alfatoxin.GitHub.io)
     * (6217810002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Alfatoxin) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Alfatoxin) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-0519-6925")](https://orcid.org/0000-0002-0519-6925) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/alfatoxin)
@@ -426,6 +431,7 @@
     * [MiSSxTalks : Cyber Threat Intelligence](https://twitter.com/maeklong/status/1353230627286339584)
     * [Indicator of compromise (IoC)](https://freedom357.github.io/Indicator_of_compromise)
     * [The Perfect Match : **Data Anonymization**, 2.4 Identify and Analyze Privacy Requirements](https://drive.google.com/file/d/1bcHcZSwjCFXR1NPJMUwtxyaMkP8ivyBN)
+    * The Twelve-Factor App [(**Dev/prod parity**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/10-DevProdParity.pdf)
 <a name="Suntisuk"></a>
 1. [Suntisuk Thepthong](https://icesuntisuk.GitHub.io)
     * (6217810015) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/icesuntisuk) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/icesuntisuk) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-5528-6005")](https://orcid.org/0000-0002-5528-6005) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/icesuntisuk)
@@ -474,6 +480,7 @@
         * [Day 7 : pickle](https://twitter.com/pattra1994/status/1348518785678856192) - *Jan 11, 2021*
     * [Collaborative Coding](Collab/No7.jpg)
     * [MiSSxTalks : SQL Injection](https://twitter.com/maeklong/status/1355802992063045633)
+    * The Twelve-Factor App : [(**Logs**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/11-Logs.pdf)
 <a name="Thanakorn"></a>
 1. [Thanakorn Prajuabkamon](https://nongkon09.GitHub.io)
     * (6217810017) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/nongkon09) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/nongkon09) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-3201-789X")](https://orcid.org/0000-0002-3201-789X) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/nongkon09)
@@ -574,15 +581,14 @@
         * [Day 6 : HttpUtility.HtmlEncode](https://www.facebook.com/permalink.php?story_fbid=2303796783099287&id=100004069626150) - *Jan 15, 2021*
         * [Day 7 : sleep()](https://www.facebook.com/permalink.php?story_fbid=2304733789672253&id=100004069626150) - *Jan 16, 2021*
     * [Collaborative Coding](Collab/No4.jpg)
+    * The Twelve-Factor App : [(**Concurrency**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/8-Concurrency.pdf)
     
 ---
 
 ### **[MiSS**x***Talks*]** <del>(2 chances)</del> 
 * [**Book**](https://docs.google.com/spreadsheets/d/1NBZyw19XSU4rv0BdW0LQ2KAnSXwAGk1odZ9KhA6fbNc) your time slot
-* (Sun) **Feb 14,** 2021
-    1. **"Dynamic Application Security Testing"**, Khun Saran Kaewnang (**Golf**)
-    2. **"Define the cloud architecture"**, Khun Theerapong Kanrawong (**Pong**)
-    3. **"SQL Injection"**, Khun Supattra Boonkied (**Noy**) + (**Jaray**)
+* (Sun) **Feb 21,** 2021
+    1. **"TBD"**, Khun Sakarin
 
 * **[Done]**
     * (Sun) **Nov 22,** 2020
@@ -612,7 +618,11 @@
         * **"SQL Injection"**, Khun Supattra Boonkied (**Noy**) + (**Jaray**)
         * **"Secure Software Concepts : Core Concepts"**,	Khun Phureephat Sottiratanapan (**Farn**)
         * **"Static Application Security Testing"**, Khun Nipitpon Doungyai (**Geno**)
-    
+    * (Sun) **Feb 14,** 2021
+        * **"Dynamic Application Security Testing"**, Khun Saran Kaewnang (**Golf**)
+        * **"Define the cloud architecture"**, Khun Theerapong Kanrawong (**Pong**)
+        * **"SQL Injection"**, Khun Supattra Boonkied (**Noy**) + (**Jaray**)
+
 ---
 
 ### **[Instructor]**
