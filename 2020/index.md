@@ -178,6 +178,7 @@
     * [Collaborative Coding](Collab/No13.jpg)
     * [MiSSxTalks : SQL Injection](https://twitter.com/maeklong/status/1355802992063045633)
     * [The Perfect Match : **Logging**, *1.1 Core Concepts : Accountability*](https://drive.google.com/file/d/1BNcEDIkDbivXhM9fyzpw6FMfcAIyZb9t)
+    * The Twelve-Factor App : [(**Dependencies**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/2-Dependencies.pdf)
 <a name="Jaruspong"></a>
 1. [Jaruspong Tongboon](https://jaruspong4.GitHub.io)
     * (6217810004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/jaruspong4) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/jaruspong4)
@@ -439,6 +440,7 @@
         * [Day 7 : http.server](https://www.facebook.com/itvill/posts/3762706590447838) - *Jan 9, 2021*
     * [Collaborative Coding](Collab/No10.jpg)
     * [The Perfect Match : **Platform as a Service (PaaS)**, *3.2 Define the Security Architecture*](https://drive.google.com/file/d/1J9--oqN7nF1gTF9TPxkhab7o24KcxHaC)
+    * The Twelve-Factor App : [(**Dependencies**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/2-Dependencies.pdf)
 <a name="Sununta"></a>
 1. [Sununta Labaiusuh](https://sununta580.GitHub.io)
     * (6217810009) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/sununta580) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/sununta)
