@@ -952,10 +952,10 @@
     1. Khun Nantawan & Khun Ekawut [(**Build, release, run**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/5-BuildReleaseRun.pdf)
     1. Khun Saran & Khun Phureephat (**Processes**)
     1. Khun Fareed & Khun Vatcharin [(**Port binding**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/7-PortBinding.pdf)
-    1. Khun Anan & Khun Wasupol (**Concurrency**)
-    1. Khun Nipitpon & Khun Nattawut (**Disposability**)
-    1. Khun Soontorn & Khun Athiporn (**Dev/prod parity**)
-    1. Khun Piyawit & Khun Supattra (**Logs**)
+    1. Khun Anan & Khun Wasupol [(**Concurrency**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/8-Concurrency.pdf)
+    1. Khun Nipitpon & Khun Nattawut [(**Disposability**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/9-Disposability.pdf)
+    1. Khun Soontorn & Khun Athiporn [(**Dev/prod parity**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/10-DevProdParity.pdf)
+    1. Khun Piyawit & Khun Supattra [(**Logs**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/11-Logs.pdf)
     1. Khun Hachol & Khun Narunart (**Admin processes**)
 *  Homework
    * Prep. for the **Band Battle : The War is On**
