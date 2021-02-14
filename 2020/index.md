@@ -135,6 +135,7 @@
     * [MiSSxTalks : The Vulnerability of IoTs](https://twitter.com/maeklong/status/1355798104813969408)
     * [Subresource Integrity (SRI)](https://gitlab.com/NEIS0736/2020/-/wikis/KBs/SRI)
     * [The Perfect Match : **Memory Management**, *4.1 Adhere to Relevant Secure Coding Practices*](https://drive.google.com/file/d/17kLKvyxTHERRFNK3Yz-gy6k3Vak5K7LX)
+    * The Twelve-Factor App : [(**Port binding**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/7-PortBinding.pdf)
 <a name="Hachol"></a>
 1. [Hachol Dabthong](https://hacholda.GitHub.io)
     * (6217810010) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/hacholda) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/hacholda) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-7028-3742")](https://orcid.org/0000-0002-7028-3742) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/hacholda)
@@ -532,6 +533,7 @@
         * [Day 6 : gofiber CSRF](https://www.facebook.com/itvill/posts/3774409895944174) - *Jan 13, 2021*
         * [Day 7 : limiter](https://www.facebook.com/itvill/posts/3777148649003632) - *Jan 14, 2021*
     * [Collaborative Coding](Collab/No11.jpg)
+    * The Twelve-Factor App : [(**Port binding**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/7-PortBinding.pdf)
 <a name="Vuttawat"></a>
 1. [Vuttawat Uyanont](https://Hyde4thHeaven.GitHub.io)
     * (6317810001) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Hyde4thHeaven) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Hyde4thHeaven) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-5620-9028")](https://orcid.org/0000-0002-5620-9028) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/civilman)
