@@ -112,6 +112,7 @@
         * [Day 7 : ftplib](https://www.facebook.com/455981291120401/posts/3768523129866184) - *Jan 11, 2021*
     * [Collaborative Coding](Collab/No1.png)
     * [MiSSxTalks : Software Defined Network: When software become to network](https://twitter.com/maeklong/status/1353218479931887618)
+    * The Twelve-Factor App : [(**Build, release, run**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/5-BuildReleaseRun.pdf)
 <a name="Fareed"></a>
 1. [Fareed Marnleb](https://marukofar.GitHub.io)
     * (6317810012) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/marukofar) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/marukofar) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-6769-7453")](https://orcid.org/0000-0001-6769-7453) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/marukofar)
@@ -211,6 +212,7 @@
         * [Day 6 : mcrypt_encrypt()](https://www.facebook.com/fai.nantawan/posts/10222355088619209) - *Jan 15, 2021*
         * [Day 7 : openssl_public_encrypt()](https://www.facebook.com/fai.nantawan/posts/10222362094874361) - *Jan 16, 2021*
     * [Collaborative Coding](Collab/No4.jpg)
+    * The Twelve-Factor App : [(**Build, release, run**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/5-BuildReleaseRun.pdf)
 <a name="Narunart"></a>
 1. [Narunart Vongeium](https://EITCHY.GitHub.io)
     * (6317810006) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/EITCHY) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/EITCHY) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-1157-9412")](https://orcid.org/0000-0002-1157-9412) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/eitchy)
@@ -945,9 +947,9 @@
     1. Khun Suntisuk & Khun Jaray [(**Dependencies**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/2-Dependencies.pdf)
     1. Khun Thanakorn & Khun Shirassuda [(**Config**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/3-Config.pdf)
     1. Khun Theerapong & Khun Sanchat [(**Backing services**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/4-BackingServices.pdf)
-    1. Khun Nantawan & Khun Ekawut (**Build, release, run**)
+    1. Khun Nantawan & Khun Ekawut [(**Build, release, run**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/5-BuildReleaseRun.pdf)
     1. Khun Saran & Khun Phureephat (**Processes**)
-    1. Khun Fareed & Khun Vatcharin (**Port binding**)
+    1. Khun Fareed & Khun Vatcharin [(**Port binding**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/7-PortBinding.pdf)
     1. Khun Anan & Khun Wasupol (**Concurrency**)
     1. Khun Nipitpon & Khun Nattawut (**Disposability**)
     1. Khun Soontorn & Khun Athiporn (**Dev/prod parity**)
