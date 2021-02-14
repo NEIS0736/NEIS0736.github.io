@@ -932,19 +932,19 @@
     * **"Define the cloud architecture"**, Khun Theerapong Kanrawong
     * **"SQL Injection"**, Khun Supattra Boonkied & Khun Jaray Paensong
 *  Are we all on the same page with the final examination?
-*  The Twelve-Factor App
-    1. Bhoomjit, Vuttawat
-    1. Suntisuk, Jaray
-    1. Thanakorn, Shirassuda
-    1. Theerapong, Sanchat
-    1. Nantawan, Ekawut
-    1. Saran, Phureephat
-    1. Faris, Vatcharin
-    1. Anan, Wasupol
-    1. Nipitpon, Nattawut
-    1. Soontorn, Athiporn
-    1. Piyawit, Supattra
-    1. Hachol, Narunart
+*  **The Twelve-Factor App**
+    1. Khun Bhoomjit, Khun Vuttawat (**Codebase**)
+    1. Khun Suntisuk, Khun Jaray (**Dependencies**)
+    1. Khun Thanakorn, Khun Shirassuda (**Config**)
+    1. Khun Theerapong, Khun Sanchat (**Backing services**)
+    1. Khun Nantawan, Khun Ekawut (**Build, release, run**)
+    1. Khun Saran, Khun Phureephat (**Processes**)
+    1. Khun Fareed, Khun Vatcharin (**Port binding**)
+    1. Khun Anan, Khun Wasupol (**Concurrency**)
+    1. Khun Nipitpon, Khun Nattawut (**Disposability**)
+    1. Khun Soontorn, Khun Athiporn (**Dev/prod parity**)
+    1. Khun Piyawit, Khun Supattra (**Logs**)
+    1. Khun Hachol, Khun Narunart (**Admin processes**)
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day12)** *by **John Doe***
 *  Homework
    * Prep. for the Band Battle : The War is On.
