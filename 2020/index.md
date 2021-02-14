@@ -916,10 +916,11 @@
     1. [Khun Piyawit & Khun Vuttawat : **File Integrity Monitoring (FIM)**, *4.3 Implement Security Controls*](https://drive.google.com/file/d/1zb7eGOeYb4GZVVPQzzMBzT3l1kj8vATm) - Feb 8, 2021
     1. [Khun Nattawut & Khun Athiporn : **Error and exception handling**, *4.1 Adhere to Relevant Secure Coding Practices*](https://drive.google.com/file/d/1FX8hAyzdCjrZmpBod8N9g3xdpKftsW__) - Feb 10, 2021
     1. [Khun Fareed & Khun Anan : **Memory Management**, *4.1 Adhere to Relevant Secure Coding Practices*](https://drive.google.com/file/d/17kLKvyxTHERRFNK3Yz-gy6k3Vak5K7LX) - Feb 11, 2021
-    1. [Khun Thanakorn & Khun Suntisuk : **Platform as a Service (PaaS)**, *3.2 Define the Security Architecture*](https://drive.google.com/file/d/1J9--oqN7nF1gTF9TPxkhab7o24KcxHaC) - Feb 11, 2021
+    1. [Khun Thanakorn & Khun Suntisuk : **Cloud architectures - Platform as a Service (PaaS)**, *3.2 Define the Security Architecture*](https://drive.google.com/file/d/1J9--oqN7nF1gTF9TPxkhab7o24KcxHaC) - Feb 11, 2021
     1. [Khun Theerapong & Khun Jaray : **Logging**, *1.1 Core Concepts : Accountability*](https://drive.google.com/file/d/1BNcEDIkDbivXhM9fyzpw6FMfcAIyZb9t) - Feb 12, 2021
     1. Khun Hachol & Khun Sakarin : **Digitally-signed component**, *8.3 Verify Pedigree and Provenance*
     1. Khun Phureephat & Khun Nantawan : **Type Safety**, *4.1 Adhere to Relevant Secure Coding Practices*
+    1. Khun Vatcharin & Khun Ekawut : **Cloud architectures - Infrastructure as a Service (IaaS)**, *3.2 Define the Security Architecture*
 
 ### **Class Cancelled** (Sun) **Feb 7,** 2021
 
@@ -930,23 +931,32 @@
     * **"Dynamic Application Security Testing"**, Khun Saran Kaewnang
     * **"Define the cloud architecture"**, Khun Theerapong Kanrawong
     * **"SQL Injection"**, Khun Supattra Boonkied & Khun Jaray Paensong
-*  [The **Twelve Factors**](https://12factor.net/) ([ไทย](https://12factor.net/th/))
+*  Are we all on the same page with the final examination?
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day12)** *by **John Doe***
+*  Homework
+   * Prep. for the Band Battle : The War is On.
+     * **Old School** : Athiporn, Ekawut, Hachol, Nantawan, Nattawut, Phureephat, Piyawit, Sakarin, Shirassuda, Suntisuk, Thanakorn, Vatcharin
+     * **New School** : Anan, Bhoomjit, Fareed, Jaray, Narunart, Nattapong, Nipitpon, Sanchat, Saran, Soontorn, Supattra, Theerapong, Vuttawat, Wasupol
+   * Prep. for the Last Pitch.
 
 ### [**Week 13**] - (Sun) **Feb 21,** 2021
 <!-- https://meet.google.com/zxv-teet-zuk -->
-*  **Are You Ready to Fly Solo?**
+*  Band Battle : The War is On (#CodeBattle)
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day13)** *by **John Doe***
 
 ### [**Week 14**] - (Sun) **Feb 28,** 2021
 <!-- (https://meet.google.com/syx-xxzr-ytx) -->
-*  **Coding Interview**
+*  Are You Ready to Fly Solo? -- **The Last Pitch**
+   * **Coding Interview**
    * Choose three, play only one
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day14)** *by **John Doe***
 
 ### [**Week 15**] - (Sun) **Mar 7,** 2021
 <!-- (https://meet.google.com/fsd-code-jiw) -->
-*  **The Last Pitch : Constructive Criticism**
+*  End of Course Summary
+*  Feedback for improving the KBs
+   * Constructive Criticism for KBs
+*  Final Exam Guidelines
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day15)** *by **John Doe***
 
 ### [**Final Examination**] - *(Lec)*
@@ -981,6 +991,7 @@
 *  [Thailand Data Protection Guidelines v3.0](https://www.law.chula.ac.th/wp-content/uploads/2020/12/TDPG3.0-C5-20201208.pdf)
 *  [Guideline for Blockchain Technology Adoption in Financial Services](https://www.bot.or.th/Thai/Segmentation/Public/PublicHearing/Documents/Hearing_Blockchain.pdf)
 *  [Cloud Controls Matrix v4](https://cloudsecurityalliance.org/artifacts/cloud-controls-matrix-v4/)
+*  [The **Twelve Factors**](https://12factor.net/) ([ไทย](https://12factor.net/th/))
 
 ---
 
