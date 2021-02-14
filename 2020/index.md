@@ -946,7 +946,7 @@
     1. Khun Piyawit & Khun Supattra (**Logs**)
     1. Khun Hachol & Khun Narunart (**Admin processes**)
 *  Homework
-   * Prep. for the Band Battle : The War is On.
+   * Prep. for the **Band Battle : The War is On**
      * **Old School** : Athiporn, Ekawut, Hachol, Nantawan, Nattawut, Phureephat, Piyawit, Sakarin, Shirassuda, Suntisuk, Thanakorn, Vatcharin
      * **New School** : Anan, Bhoomjit, Fareed, Jaray, Narunart, Nattapong, Nipitpon, Sanchat, Saran, Soontorn, Supattra, Theerapong, Vuttawat, Wasupol
    * Prep. for the Last Pitch.
