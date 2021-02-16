@@ -1005,6 +1005,8 @@
 *  Final Exam Guidelines
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day15)** *by **John Doe***
 
+### [#**MiSS**x***Talks*** special] - (Sun) **Mar 14,** 2021
+
 ### [**Final Examination**] - *(Lec)*
 *  **Mar 27, 2021 (AM)** @MII209B
 
