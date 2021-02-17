@@ -161,6 +161,7 @@
     * [Collaborative Coding](Collab/No11.jpg)
     * [Geohash](https://gitlab.com/NEIS0736/2020/-/wikis/KBs/geohash)
     * The Twelve-Factor App : [(**Admin processes**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/12-AdminProcesses.pdf)
+    * [The Perfect Match : **Digitally-signed component**, *8.3 Verify Pedigree and Provenance*](https://drive.google.com/file/d/1h1jU1jLSDkOrvj_ZqfkA6CxQCl8e2AVk/)
 <a name="Jaray"></a>
 1. [Jaray Paensong](https://HiRayShi.GitHub.io)
     * (6317660006) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/HiRayShi) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/HiRayShi) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-4654-9157")](https://orcid.org/0000-0003-4654-9157) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/jarray)
@@ -360,6 +361,7 @@
         * [Day 6 : sha256.Sum256()](https://www.facebook.com/Sakarin.BooM/posts/10220493505111130) - *Jan 14, 2021*
         * [Day 7 : empty(), isset() & isnull()](https://www.facebook.com/Sakarin.BooM/posts/10220501750437258) - *Jan 15, 2021*
     * [Collaborative Coding](Collab/No13.jpg)
+    * [The Perfect Match : **Digitally-signed component**, *8.3 Verify Pedigree and Provenance*](https://drive.google.com/file/d/1h1jU1jLSDkOrvj_ZqfkA6CxQCl8e2AVk/)
 <a name="Sanchat"></a>
 1. [Sanchat Phaisit](https://ph-sanchat.GitHub.io)
     * (6317810015) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ph-sanchat) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/ph-sanchat) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-4707-179X")](https://orcid.org/0000-0003-4707-179X) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/sanchatphaisit)
