@@ -943,7 +943,7 @@
     1. [Khun Fareed & Khun Anan : **Memory Management**, *4.1 Adhere to Relevant Secure Coding Practices*](https://drive.google.com/file/d/17kLKvyxTHERRFNK3Yz-gy6k3Vak5K7LX) - Feb 11, 2021
     1. [Khun Thanakorn & Khun Suntisuk : **Cloud architectures - Platform as a Service (PaaS)**, *3.2 Define the Security Architecture*](https://drive.google.com/file/d/1J9--oqN7nF1gTF9TPxkhab7o24KcxHaC) - Feb 11, 2021
     1. [Khun Theerapong & Khun Jaray : **Logging**, *1.1 Core Concepts : Accountability*](https://drive.google.com/file/d/1BNcEDIkDbivXhM9fyzpw6FMfcAIyZb9t) - Feb 12, 2021
-    1. Khun Hachol & Khun Sakarin : **Digitally-signed component**, *8.3 Verify Pedigree and Provenance*
+    1. [Khun Hachol & Khun Sakarin : **Digitally-signed component**, *8.3 Verify Pedigree and Provenance*](https://drive.google.com/file/d/1h1jU1jLSDkOrvj_ZqfkA6CxQCl8e2AVk/) - Feb 16, 2021
     1. Khun Phureephat & Khun Nantawan : **Type Safety**, *4.1 Adhere to Relevant Secure Coding Practices*
     1. Khun Vatcharin & Khun Ekawut : **Cloud architectures - Infrastructure as a Service (IaaS)**, *3.2 Define the Security Architecture*
 
