@@ -1038,6 +1038,7 @@
 *  [OWASP Top 10 Web Application Security Risks](https://owasp.org/www-project-top-ten/)
 *  [OWASP Web Security Testing Guide v4.2](https://github.com/OWASP/wstg/releases/download/v4.2/wstg-v4.2.pdf)
 *  [Web Application Security Standard v1.0](https://standard.etda.or.th/wp-content/uploads/2018/09/20150405-ER-WAS-V07-33-R1.pdf) by ETDA
+*  [Trusted Electronic Document and Authentication](https://teda.th/) : TEDA
 *  [The **Twelve Factors**](https://12factor.net/) ([ไทย](https://12factor.net/th/))
 *  [The Architecture of Open Source Applications](https://www.researchgate.net/publication/229059316_The_Architecture_of_Open_Source_Applications)
 *  [Thailand Data Protection Guidelines v3.0](https://www.law.chula.ac.th/wp-content/uploads/2020/12/TDPG3.0-C5-20201208.pdf)
