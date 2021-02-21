@@ -975,7 +975,7 @@
 *  Homework
    * Prep. for the **Band Battle : The War is On**
      * **Old School** : **Athiporn**, **Ekawut**, **Hachol**, Nantawan, **Nattawut**, **Phureephat**, **Piyawit**, **Sakarin**, **Shirassuda**, **Suntisuk**, **Thanakorn**, **Vatcharin**
-     * **New School** : **Anan**, **Bhoomjit**, **Fareed**, **Jaray**, **Narunart**, Nattapong, **Nipitpon**, **Sanchat**, **Saran**, **Soontorn**, **Supattra**, **Theerapong**, **Vuttawat**, Wasupol
+     * **New School** : **Anan**, **Bhoomjit**, **Fareed**, **Jaray**, **Narunart**, <del>Nattapong</del>, **Nipitpon**, **Sanchat**, **Saran**, **Soontorn**, **Supattra**, **Theerapong**, **Vuttawat**, **Wasupol**
    * Prep. for the **Last Pitch**
 
 ### [**Week 13**] - (Sun) **Feb 21,** 2021
@@ -983,14 +983,16 @@
 *  **Band Battle : The War is On** (#CodeBattle)
 
    |**Old School**|**Athiporn**, **Ekawut**, **Hachol**, Nantawan, **Nattawut**, **Phureephat**, **Piyawit**, **Sakarin**, **Shirassuda**, **Suntisuk**, **Thanakorn**, **Vatcharin**|
-   |**New School**|**Anan**, **Bhoomjit**, **Fareed**, **Jaray**, **Narunart**, <del>Nattapong</del>, **Nipitpon**, **Sanchat**, **Saran**, **Soontorn**, **Supattra**, **Theerapong**, **Vuttawat**, Wasupol|
+   |**New School**|**Anan**, **Bhoomjit**, **Fareed**, **Jaray**, **Narunart**, **Nipitpon**, **Sanchat**, **Saran**, **Soontorn**, **Supattra**, **Theerapong**, **Vuttawat**, Wasupol|
    
    
 *  There's something about number.
    * version
    * factor
    * etc.
-*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day13)** *by **John Doe***
+*  **The Twelve-Factor App** ***Cont'd***
+*  Homework
+   * Prep. for the **Last Pitch**
 
 ### [**Week 14**] - (Sun) **Feb 28,** 2021
 <!-- (https://meet.google.com/syx-xxzr-ytx) -->
