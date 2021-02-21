@@ -965,7 +965,7 @@
     1. Khun Thanakorn & Khun Shirassuda [(**Config**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/3-Config.pdf)
     1. Khun Theerapong & Khun Sanchat [(**Backing services**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/4-BackingServices.pdf)
     1. Khun Nantawan & Khun Ekawut [(**Build, release, run**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/5-BuildReleaseRun.pdf)
-    1. Khun Saran & Khun Phureephat (**Processes**)
+    1. Khun Saran & Khun Phureephat [(**Processes**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/6-Processes.pdf)
     1. Khun Fareed & Khun Vatcharin [(**Port binding**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/7-PortBinding.pdf)
     1. Khun Anan & Khun Wasupol [(**Concurrency**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/8-Concurrency.pdf)
     1. Khun Nipitpon & Khun Nattawut [(**Disposability**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/9-Disposability.pdf)
