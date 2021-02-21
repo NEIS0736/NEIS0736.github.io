@@ -975,7 +975,7 @@
 *  Homework
    * Prep. for the **Band Battle : The War is On**
      * **Old School** : **Athiporn**, **Ekawut**, **Hachol**, Nantawan, **Nattawut**, **Phureephat**, **Piyawit**, **Sakarin**, **Shirassuda**, **Suntisuk**, **Thanakorn**, **Vatcharin**
-     * **New School** : **Anan**, **Bhoomjit**, **Fareed**, **Jaray**, **Narunart**, Nattapong, **Nipitpon**, Sanchat, **Saran**, **Soontorn**, **Supattra**, **Theerapong**, **Vuttawat**, Wasupol
+     * **New School** : **Anan**, **Bhoomjit**, **Fareed**, **Jaray**, **Narunart**, Nattapong, **Nipitpon**, **Sanchat**, **Saran**, **Soontorn**, **Supattra**, **Theerapong**, **Vuttawat**, Wasupol
    * Prep. for the **Last Pitch**
 
 ### [**Week 13**] - (Sun) **Feb 21,** 2021
@@ -983,7 +983,7 @@
 *  **Band Battle : The War is On** (#CodeBattle)
 
    |**Old School**|**Athiporn**, **Ekawut**, **Hachol**, Nantawan, **Nattawut**, **Phureephat**, **Piyawit**, **Sakarin**, **Shirassuda**, **Suntisuk**, **Thanakorn**, **Vatcharin**|
-   |**New School**|**Anan**, **Bhoomjit**, **Fareed**, **Jaray**, **Narunart**, <del>Nattapong</del>, **Nipitpon**, Sanchat, **Saran**, **Soontorn**, **Supattra**, **Theerapong**, **Vuttawat**, Wasupol|
+   |**New School**|**Anan**, **Bhoomjit**, **Fareed**, **Jaray**, **Narunart**, <del>Nattapong</del>, **Nipitpon**, **Sanchat**, **Saran**, **Soontorn**, **Supattra**, **Theerapong**, **Vuttawat**, Wasupol|
    
    
 *  There's something about number.
