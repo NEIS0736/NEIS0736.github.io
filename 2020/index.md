@@ -999,6 +999,7 @@
 *  Are You Ready to Fly Solo? -- **The Last Pitch**
    * **Coding Interview**
    * Choose three, play only one
+*  **em·pa·thize**
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day14)** *by **John Doe***
 
 ### [**Week 15**] - (Sun) **Mar 7,** 2021
