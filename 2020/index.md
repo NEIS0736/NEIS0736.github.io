@@ -117,6 +117,7 @@
     * [MiSSxTalks : Software Defined Network: When software become to network](https://twitter.com/maeklong/status/1353218479931887618)
     * The Twelve-Factor App : [(**Build, release, run**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/5-BuildReleaseRun.pdf)
     * [The Perfect Match : **Cloud architectures - Infrastructure as a Service (IaaS)**, *3.2 Define the Security Architecture*](https://drive.google.com/file/d/1e9iTZvokis65n75QX2cx-dYWUp8xOWRH)
+    * [Zero Trust : Identity](https://inuax.github.io/ZeroTrust-Identity)
 <a name="Fareed"></a>
 1. [Fareed Marnleb](https://marukofar.GitHub.io)
     * (6317810012) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/marukofar) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/marukofar) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-6769-7453")](https://orcid.org/0000-0001-6769-7453) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/marukofar)
