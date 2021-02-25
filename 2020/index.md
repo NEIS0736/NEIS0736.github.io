@@ -1091,7 +1091,7 @@
 *  [Homomorphic Encryption: Unlock value of sensitive data without decryption](https://www.ibm.com/security/digital-assets/fhe/unlock-value-of-sensitive-data-without-decryption/)
 *  <del>Software Supply-Chain Attack</del>, *claimed by Khun [Nattapong K.](#Nattapong)*
 *  <del>Golden SAML</del>, *claimed by Khun [Anan B.](#Anan)*
-*  <del>Zero Trust : Identity</del>, *booked by Khun [Ekawut C.](#Ekawut)*
+*  <del>Zero Trust : Identity</del>, *claimed by Khun [Ekawut C.](#Ekawut)*
 *  [SSI: Self Sovereign Identity](https://www.pwc.com/it/it/publications/assets/docs/blockchain-and-digital-identity.pdf)
 *  Business logic vulnerability
 *  <del>Case Styles</del>, *booked by Khun [Vatcharin K.](#Vatcharin)*
