@@ -1011,6 +1011,8 @@
 *  Feedback for improving the KBs
    * Constructive Criticism for KBs
 *  Final Exam Guidelines
+*  Knowledge along with virtue
+   * [Use your ability to learn to work for this country.](https://www.facebook.com/photo?fbid=10212930730636903&set=a.10200639308479031)
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day15)** *by **John Doe***
 
 ### [#**MiSS**x***Talks*** special] - (Sun) **Mar 14,** 2021
