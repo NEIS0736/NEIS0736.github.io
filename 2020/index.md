@@ -1003,9 +1003,9 @@
    * **Coding Interview**
    * Choose three, play only one
 * Navigator w/ improvisation
-   * Vatcharin & Ekawut [**Doing**]
+   * Vatcharin & Ekawut [**Done**]
+   * Thanakorn & Suntisuk [***Doing***]
    * Piyawit & Bhoomjit [To Do]
-   * Thanakorn & Suntisuk [To Do]
    * Athiporn & Phureephat [To Do]
    * Theerapong & Jaray [To Do]
    * Narunart & Saran [To Do]
