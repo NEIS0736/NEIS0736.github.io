@@ -1004,8 +1004,8 @@
    * Choose three, play only one
 * Navigator w/ Improvisation
    * Vatcharin & Ekawut [**Done**] -- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ryudokung/file_integrity_log)
-   * Thanakorn & Suntisuk [***Doing***]
-   * Piyawit & Bhoomjit [To Do]
+   * Thanakorn & Suntisuk [**Done**]
+   * Piyawit & Bhoomjit [***Doing***]
    * Athiporn & Phureephat [To Do]
    * Theerapong & Jaray [To Do]
    * Narunart & Saran [To Do]
