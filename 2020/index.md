@@ -1001,6 +1001,7 @@
 <!-- (https://meet.google.com/syx-xxzr-ytx) -->
 *  Are You Ready to Fly Solo? -- **The Last Pitch**
    * **Coding Interview**, choose three and play only one
+   * Do not be afraid to improvise
 * **Navigator** w/ **Improvisation**
    * Vatcharin & Ekawut [**Done**] -- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ryudokung/file_integrity_log) #FileIntegrity #Logging
    * Thanakorn & Suntisuk [**Done**] -- [![](/Assets/github-20x20.jpg "GitHub")](https://icesuntisuk.github.io/File_Integrity_Monitor/) #FileIntegrityMonitoring #LiNENotification
@@ -1011,7 +1012,7 @@
    * Theerapong & Jaray [**Done**]
    * Anan & Fareed [**Done**]
    * Soontorn & Wasupol [**Done**]
-   * Hachol, Nattawut & Nantawan [***Doing***]
+   * Hachol, Nattawut & Nantawan [**Done**]
 *  **em·pa·thize**
    ![](https://miro.medium.com/max/4200/0*uCE2WfdwFOCMO59K.png "Design Thinking")
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day14)** *by **John Doe***
