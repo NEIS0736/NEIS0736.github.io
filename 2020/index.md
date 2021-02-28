@@ -1008,8 +1008,8 @@
    * Piyawit & Bhoomjit [**Done**] -- [![](/Assets/github-20x20.jpg "GitHub")](https://eskoong.github.io/logging_with_count) #Logging #LimitTimeLogin
    * Athiporn & Phureephat [**Done**] -- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/AthipornP/TheLastPitch/tree/master/Logging) #Logging #CodeSnippet
    * Narunart & Saran [**Done**]
-   * Nipitpon & Shirassuda [***Doing***]
-   * Theerapong & Jaray [To Do]
+   * Nipitpon & Shirassuda [**Done**]
+   * Theerapong & Jaray [***Doing***]
    * Anan & Fareed [To Do]
    * Soontorn & Wasupol [To Do]
    * Hachol & Nattawut [To Do]
