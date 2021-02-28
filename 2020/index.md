@@ -1014,7 +1014,7 @@
    * Hachol, Nattawut & Nantawan [***Doing***]
 *  **em·pa·thize**
    
-   [![](https://miro.medium.com/max/4200/0*uCE2WfdwFOCMO59K.png "Design Thinking")
+   ![](https://miro.medium.com/max/4200/0*uCE2WfdwFOCMO59K.png "Design Thinking")
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day14)** *by **John Doe***
 
 ### [**Week 15**] - (Sun) **Mar 7,** 2021
