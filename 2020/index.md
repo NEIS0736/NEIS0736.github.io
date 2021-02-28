@@ -1006,7 +1006,7 @@
    * Vatcharin & Ekawut [**Done**] -- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ryudokung/file_integrity_log)
    * Thanakorn & Suntisuk [**Done**] -- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/icesuntisuk/icesuntisuk.github.io/blob/main/KB/fimnotifyline.py)
    * Piyawit & Bhoomjit [**Done**]
-   * Athiporn & Phureephat [**Doing***]
+   * Athiporn & Phureephat [***Doing***]
    * Theerapong & Jaray [To Do]
    * Narunart & Saran [To Do]
    * Anan & Fareed [To Do]
