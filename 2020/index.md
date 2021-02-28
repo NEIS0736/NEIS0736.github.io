@@ -1002,7 +1002,7 @@
 *  Are You Ready to Fly Solo? -- **The Last Pitch**
    * **Coding Interview**
    * Choose three, play only one
-* Navigator w/ Improvisation
+* **Navigator** w/ **Improvisation**
    * Vatcharin & Ekawut [**Done**] -- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ryudokung/file_integrity_log) #FileIntegrity #Logging
    * Thanakorn & Suntisuk [**Done**] -- [![](/Assets/github-20x20.jpg "GitHub")](https://icesuntisuk.github.io/File_Integrity_Monitor/) #FileIntegrityMonitoring #LiNENotification
    * Piyawit & Bhoomjit [**Done**] -- [![](/Assets/github-20x20.jpg "GitHub")](https://eskoong.github.io/logging_with_count) #Logging #LimitTimeLogin
