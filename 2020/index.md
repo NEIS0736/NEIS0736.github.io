@@ -1012,7 +1012,7 @@
    * Theerapong & Jaray [**Done**]
    * Anan & Fareed [**Done**]
    * Soontorn & Wasupol [**Done**]
-   * Hachol, Nattawut & Nantawan [**Done**] -- [![](/Assets/github-20x20.jpg "GitHub")](https://hacholda.github.io/FIM_with_Email)
+   * Hachol, Nattawut & Nantawan [**Done**] -- [![](/Assets/github-20x20.jpg "GitHub")](https://hacholda.github.io/FIM_with_Email) #FileIntegrityMonitoring #EmailNotification
 *  **em·pa·thize**
    ![](https://miro.medium.com/max/4200/0*uCE2WfdwFOCMO59K.png "Design Thinking")
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day14)** *by **John Doe***
