@@ -1011,8 +1011,8 @@
    * Nipitpon & Shirassuda [**Done**]
    * Theerapong & Jaray [**Done**]
    * Anan & Fareed [**Done**]
-   * Soontorn & Wasupol [***Doing***]
-   * Hachol & Nattawut [To Do]
+   * Soontorn & Wasupol [**Done**]
+   * Hachol & Nattawut [***Doing***]
    * Nantawan & ??? [To Do]
 *  **em·pa·thize**
    [![](https://miro.medium.com/max/4200/0*uCE2WfdwFOCMO59K.png "Design Thinking")
