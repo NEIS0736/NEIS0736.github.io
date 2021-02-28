@@ -1002,7 +1002,18 @@
 *  Are You Ready to Fly Solo? -- **The Last Pitch**
    * **Coding Interview**
    * Choose three, play only one
-   * Navigator w/ improvisation
+* Navigator w/ improvisation
+   * Vatcharin & Ekawut [Doing]
+   * Piyawit & Bhoomjit [To Do]
+   * Thanakorn & Suntisuk [To Do]
+   * Athiporn & Phureephat [To Do]
+   * Theerapong & Jaray [To Do]
+   * Narunart & Saran [To Do]
+   * Anan & Fareed [To Do]
+   * Soontorn & Wasupol [To Do]
+   * Nipitpon & Shirassuda [To Do]
+   * Hachol & Nattawut [To Do]
+   * Nantawan & ??? [To Do]
 *  **em·pa·thize**
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day14)** *by **John Doe***
 
