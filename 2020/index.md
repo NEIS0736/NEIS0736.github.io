@@ -1006,7 +1006,7 @@
    * Vatcharin & Ekawut [**Done**] -- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ryudokung/file_integrity_log) #FileIntegrity #Logging
    * Thanakorn & Suntisuk [**Done**] -- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/icesuntisuk/icesuntisuk.github.io/blob/main/KB/fimnotifyline.py) #FileIntegrity #LiNENotification
    * Piyawit & Bhoomjit [**Done**]
-   * Athiporn & Phureephat [**Done**] -- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/AthipornP/TheLastPitch/tree/master/Logging) #Logging
+   * Athiporn & Phureephat [**Done**] -- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/AthipornP/TheLastPitch/tree/master/Logging) #Logging #CodeSnippet
    * Narunart & Saran [***Doing***]
    * Theerapong & Jaray [To Do]
    * Anan & Fareed [To Do]
