@@ -1010,8 +1010,8 @@
    * Narunart & Saran [**Done**] -- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ahictf/Logging-The-Last-Pitch)
    * Nipitpon & Shirassuda [**Done**]
    * Theerapong & Jaray [**Done**]
-   * Anan & Fareed [***Doing***]
-   * Soontorn & Wasupol [To Do]
+   * Anan & Fareed [**Done**]
+   * Soontorn & Wasupol [***Doing***]
    * Hachol & Nattawut [To Do]
    * Nantawan & ??? [To Do]
 *  **em·pa·thize**
