@@ -1009,8 +1009,8 @@
    * Athiporn & Phureephat [**Done**] -- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/AthipornP/TheLastPitch/tree/master/Logging) #Logging #CodeSnippet
    * Narunart & Saran [**Done**] -- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ahictf/Logging-The-Last-Pitch)
    * Nipitpon & Shirassuda [**Done**]
-   * Theerapong & Jaray [***Doing***]
-   * Anan & Fareed [To Do]
+   * Theerapong & Jaray [**Done**]
+   * Anan & Fareed [***Doing***]
    * Soontorn & Wasupol [To Do]
    * Hachol & Nattawut [To Do]
    * Nantawan & ??? [To Do]
