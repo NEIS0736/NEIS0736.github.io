@@ -1000,8 +1000,7 @@
 ### [**Week 14**] - (Sun) **Feb 28,** 2021
 <!-- (https://meet.google.com/syx-xxzr-ytx) -->
 *  Are You Ready to Fly Solo? -- **The Last Pitch**
-   * **Coding Interview**
-   * Choose three, play only one
+   * **Coding Interview**, choose three and play only one
 * **Navigator** w/ **Improvisation**
    * Vatcharin & Ekawut [**Done**] -- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ryudokung/file_integrity_log) #FileIntegrity #Logging
    * Thanakorn & Suntisuk [**Done**] -- [![](/Assets/github-20x20.jpg "GitHub")](https://icesuntisuk.github.io/File_Integrity_Monitor/) #FileIntegrityMonitoring #LiNENotification
