@@ -1011,8 +1011,7 @@
    * Theerapong & Jaray [**Done**]
    * Anan & Fareed [**Done**]
    * Soontorn & Wasupol [**Done**]
-   * Hachol & Nattawut [***Doing***]
-   * Nantawan & ??? [To Do]
+   * Hachol, Nattawut & Nantawan [***Doing***]
 *  **em·pa·thize**
    [![](https://miro.medium.com/max/4200/0*uCE2WfdwFOCMO59K.png "Design Thinking")
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day14)** *by **John Doe***
