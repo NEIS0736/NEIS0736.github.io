@@ -1019,7 +1019,7 @@
 
 ### [**Week 15**] - (Sun) **Mar 7,** 2021
 <!-- (https://meet.google.com/fsd-code-jiw) -->
-*  **Navigator** w/ **Improvisation**
+*  **Navigator** w/ **Improvisation** (cont'd)
    * Sakarin, Sanchat, Supattra, Vuttawat
 *  **MiSSxTalks**
    * Sakarin
