@@ -1022,8 +1022,8 @@
 *  **Navigator** w/ **Improvisation** (cont'd)
    * Sakarin, Sanchat, Supattra, Vuttawat
 *  **MiSS**x***Talks***
-   * Sakarin
-   * Saran
+   * **"TBD"**, Khun Sakarin Kaewsathitwong
+   * **"Dynamic Application Security Testing"**, Khun Saran Kaewnang
 *  [OWASP Proactive Controls](https://github.com/OWASP/www-project-proactive-controls/blob/master/v3/OWASP-OPC-IEEEE-OTop10-OTMobTop10-ssdf.pdf)
    * C1: Define Security Requirements
    * C2: Leverage Security Frameworks and Libraries
