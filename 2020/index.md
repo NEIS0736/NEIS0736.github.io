@@ -1020,8 +1020,7 @@
 ### [**Week 15**] - (Sun) **Mar 7,** 2021
 <!-- (https://meet.google.com/fsd-code-jiw) -->
 *  **Navigator** w/ **Improvisation**
-   * Alice & Bob
-   * Craig & Dave
+   * Sakarin, Sanchat, Supattra, Vuttawat
 *  **MiSSxTalks**
    * Sakarin
    * Saran
