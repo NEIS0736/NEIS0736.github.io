@@ -1021,7 +1021,7 @@
 <!-- (https://meet.google.com/fsd-code-jiw) -->
 *  **Navigator** w/ **Improvisation** (cont'd)
    * Sakarin, Sanchat, Supattra, Vuttawat
-*  **MiSSxTalks**
+*  **MiSS**x***Talks***
    * Sakarin
    * Saran
 *  [OWASP Proactive Controls](https://github.com/OWASP/www-project-proactive-controls/blob/master/v3/OWASP-OPC-IEEEE-OTop10-OTMobTop10-ssdf.pdf)
