@@ -1024,7 +1024,7 @@
 *  **MiSSxTalks**
    * Sakarin
    * Saran
-*  OWASP Proactive Controls
+*  [OWASP Proactive Controls](https://github.com/OWASP/www-project-proactive-controls/blob/master/v3/OWASP-OPC-IEEEE-OTop10-OTMobTop10-ssdf.pdf)
    * C1: Define Security Requirements
    * C2: Leverage Security Frameworks and Libraries
    * C3: Secure Database Access
