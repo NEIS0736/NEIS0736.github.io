@@ -1010,8 +1010,8 @@
    * Narunart & Saran [**Done**] -- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ahictf/Logging-The-Last-Pitch) #BruteForcePrevention
    * Nipitpon & Shirassuda [**Done**]
    * Theerapong & Jaray [**Done**]
-   * Anan & Fareed [**Done**] -- [![](/Assets/github-20x20.jpg "GitHub")](https://marukofar.github.io/error)
-   * Soontorn & Wasupol [**Done**] -- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/freedom357/freedom357.github.io/blob/master/data_anonymize.py)
+   * Anan & Fareed [**Done**] -- [![](/Assets/github-20x20.jpg "GitHub")](https://marukofar.github.io/error) #ExceptionHandling
+   * Soontorn & Wasupol [**Done**] -- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/freedom357/freedom357.github.io/blob/master/data_anonymize.py) #Anonymization
    * Hachol, Nattawut & Nantawan [**Done**] -- [![](/Assets/github-20x20.jpg "GitHub")](https://hacholda.github.io/FIM_with_Email) #FileIntegrityMonitoring #EmailNotification
 *  **em·pa·thize**
    ![](https://miro.medium.com/max/4200/0*uCE2WfdwFOCMO59K.png "Design Thinking")
