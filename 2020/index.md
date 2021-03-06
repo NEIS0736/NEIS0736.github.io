@@ -1018,6 +1018,12 @@
 
 ### [**Week 15**] - (Sun) **Mar 7,** 2021
 <!-- (https://meet.google.com/fsd-code-jiw) -->
+*  **Navigator** w/ **Improvisation**
+   * Alice & Bob
+   * Craig & Dave
+*  **MiSSxTalks**
+   * Sakarin
+   * Saran
 *  End of Course Summary
 *  Feedback for improving the KBs
    * Constructive Criticism for KBs
