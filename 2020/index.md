@@ -1036,6 +1036,9 @@
    * C9: Implement Security Logging and Monitoring
    * C10: Handle All Errors and Exceptions
 *  End of Course Summary
+   * The Coolest
+   * The Worst
+   * The Most admired KB
 *  Feedback for improving the KBs
    * Constructive Criticism for KBs
 *  Final Exam Guidelines
