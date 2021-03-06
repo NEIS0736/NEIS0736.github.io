@@ -593,8 +593,9 @@
 
 ### **[MiSS**x***Talks*]** <del>(2 chances)</del> 
 * [**Book**](https://docs.google.com/spreadsheets/d/1NBZyw19XSU4rv0BdW0LQ2KAnSXwAGk1odZ9KhA6fbNc) your time slot
-* (Sun) **Feb 21,** 2021
-    1. **"TBD"**, Khun SakarinPrep. for the Last Pitch
+* (Sun) **Mar 7,** 2021
+    1. **"TBD"**, Khun Sakarin Kaewsathitwong (**Alfatoxin**) 
+    1. **"Dynamic Application Security Testing"**, Khun Saran Kaewnang (**Golf**)
 
 * **[Done]**
     * (Sun) **Nov 22,** 2020
