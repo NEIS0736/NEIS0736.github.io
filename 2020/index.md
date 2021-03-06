@@ -1024,6 +1024,17 @@
 *  **MiSSxTalks**
    * Sakarin
    * Saran
+*  OWASP Proactive Controls
+   * C1: Define Security Requirements
+   * C2: Leverage Security Frameworks and Libraries
+   * C3: Secure Database Access
+   * C4: Encode and Escape Data
+   * C5: Validate All Inputs
+   * C6: Implement Digital Identity
+   * C7: Enforce Access Controls
+   * C8: Protect Data Everywhere
+   * C9: Implement Security Logging and Monitoring
+   * C10: Handle All Errors and Exceptions
 *  End of Course Summary
 *  Feedback for improving the KBs
    * Constructive Criticism for KBs
