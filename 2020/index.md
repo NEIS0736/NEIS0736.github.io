@@ -983,7 +983,6 @@
    * Prep. for the **Last Pitch**
 
 ### [**Week 13**] - (Sun) **Feb 21,** 2021
-<!-- https://meet.google.com/zxv-teet-zuk -->
 *  **Band Battle : The War is On** (#CodeBattle)
 
    |**Old School**|**Athiporn**, **Ekawut**, **Hachol**, Nantawan, **Nattawut**, **Phureephat**, **Piyawit**, **Sakarin**, **Shirassuda**, **Suntisuk**, **Thanakorn**, **Vatcharin**|
@@ -999,7 +998,6 @@
    * Prep. for the **Last Pitch**
 
 ### [**Week 14**] - (Sun) **Feb 28,** 2021
-<!-- (https://meet.google.com/syx-xxzr-ytx) -->
 *  Are You Ready to Fly Solo? -- **The Last Pitch**
    * **Coding Interview**, choose three and play only one
    * Do not be afraid to improvise
@@ -1018,7 +1016,6 @@
    ![](https://miro.medium.com/max/4200/0*uCE2WfdwFOCMO59K.png "Design Thinking")
 
 ### [**Week 15**] - (Sun) **Mar 7,** 2021
-<!-- (https://meet.google.com/fsd-code-jiw) -->
 *  **Navigator** w/ **Improvisation** (cont'd)
    * Vuttawat, Sakarin & Sanchat 
 *  **MiSS**x***Talks***
@@ -1173,4 +1170,7 @@
 ---
 
 **"Improvement begins with I."**, -- ***Arnold H. Glasow.***
-<!-- (img/video.png "Video")](https://meet.google.com/cmm-dzag-def)-->
+<!-- (https://meet.google.com/cmm-dzag-def) -->
+<!-- (https://meet.google.com/zxv-teet-zuk) -->
+<!-- (https://meet.google.com/syx-xxzr-ytx) -->
+<!-- (https://meet.google.com/fsd-code-jiw) -->
