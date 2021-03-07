@@ -1037,8 +1037,6 @@
    ![](https://i.pinimg.com/originals/f7/c0/48/f7c04844df5d4f593b1cdc5d771c725d.png "The Learning Pyramid")
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day15)** *by **John Doe***
 
-### [#**MiSS**x***Talks*** special] - (Sun) **Mar 14,** 2021
-
 ### [**Final Examination**] - *(Lec)*
 *  **Mar 27, 2021 (AM)** @MII209B
 
