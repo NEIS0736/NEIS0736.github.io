@@ -1024,8 +1024,7 @@
 *  **MiSS**x***Talks***
    * **"TBD"**, Khun Sakarin Kaewsathitwong
    * **"Dynamic Application Security Testing"**, Khun Saran Kaewnang
-*  [OWASP Proactive Controls](https://github.com/OWASP/www-project-proactive-controls/blob/master/v3/OWASP-OPC-IEEEE-OTop10-OTMobTop10-ssdf.pdf)
-   * C1: Define Security Requirements
+<!--   * C1: Define Security Requirements
    * C2: Leverage Security Frameworks and Libraries
    * C3: Secure Database Access
    * C4: Encode and Escape Data
@@ -1035,6 +1034,7 @@
    * C8: Protect Data Everywhere
    * C9: Implement Security Logging and Monitoring
    * C10: Handle All Errors and Exceptions
+-->
 *  End of Course Summary
    * The Coolest
    * The Worst
