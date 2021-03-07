@@ -593,9 +593,6 @@
 
 ### **[MiSS**x***Talks*]** <del>(2 chances)</del> 
 * [**Book**](https://docs.google.com/spreadsheets/d/1NBZyw19XSU4rv0BdW0LQ2KAnSXwAGk1odZ9KhA6fbNc) your time slot
-* (Sun) **Mar 7,** 2021
-    1. **"TBD"**, Khun Sakarin Kaewsathitwong (**Alfatoxin**) 
-    1. **"Dynamic Application Security Testing"**, Khun Saran Kaewnang (**Golf**)
 
 * **[Done]**
     * (Sun) **Nov 22,** 2020
@@ -629,7 +626,10 @@
         * **"Dynamic Application Security Testing"**, Khun Saran Kaewnang (**Golf**)
         * **"Define the cloud architecture"**, Khun Theerapong Kanrawong (**Pong**)
         * **"SQL Injection"**, Khun Supattra Boonkied (**Noy**) + (**Jaray**)
-
+    * (Sun) **Mar 7,** 2021
+        * **"Dynamic Application Security Testing"**, Khun Saran Kaewnang (**Golf**)
+        * **"Input Validation: Why it matters?"**, Khun Sakarin Kaewsathitwong (**Alfatoxin**) 
+        
 ---
 
 ### **[Instructor]**
@@ -1020,10 +1020,10 @@
 ### [**Week 15**] - (Sun) **Mar 7,** 2021
 <!-- (https://meet.google.com/fsd-code-jiw) -->
 *  **Navigator** w/ **Improvisation** (cont'd)
-   * Sakarin, Sanchat, Supattra, Vuttawat
+   * Vuttawat, Sakarin & Sanchat 
 *  **MiSS**x***Talks***
-   * **"TBD"**, Khun Sakarin Kaewsathitwong
    * **"Dynamic Application Security Testing"**, Khun Saran Kaewnang
+   * **"Input Validation: Why it matters?"**, Khun Sakarin Kaewsathitwong
 *  End of Course Summary
    * The Coolest
    * The Worst
