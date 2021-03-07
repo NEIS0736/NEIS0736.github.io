@@ -598,41 +598,40 @@
 ### **[MiSS**x***Talks*]** <del>(2 chances)</del> 
 * [**Book**](https://docs.google.com/spreadsheets/d/1NBZyw19XSU4rv0BdW0LQ2KAnSXwAGk1odZ9KhA6fbNc) your time slot
 
-* **[Done]**
-    * (Sun) **Nov 22,** 2020
-        * **"Git"**, Khun Vatcharin Kongsakul
-    * (Sun) **Dec 6,** 2020
-        * **"DevSecOps : Integrating Security into DevOps"**, Khun Piyawit Khumkrong (**Es**)
-        * **"Automated Testing, Robot Framework Will Save the Day!"**, Khun Hachol Dabthong (**Chon**)
-        * **"Keep Calm and Sign your Strong Name Assemblies"**, Khun Athiporn Phumnicom (**Beam**)
-        * **"Secure Access Service Edge (SASE)"**, Khun Suntisuk Thepthong (**IceSuntisuk**)
-    * (Sun) **Dec 13,** 2020
-        * **"SQL Injection, the well-known vulnerability ever."**, Khun Jaray Paensong (**Ray**)
-    * (Sun) **Dec 20,** 2020
-        * **"System acquisition, development and maintenance in ISO27001"**, Khun Nantawan Sanpukdee (**Fai**)
-    * (Sun) **Jan 24,** 2021
-        * **"Threat Modeling, The first step towards security in SDLC"**, Khun Bhoomjit Bhoominath (**Luck**)
-        * **"Blockchain and Smart Contract"**,	Khun Vuttawat Uyanont (**Palm**)
-        * **"Software Defined Network: When software become to network"**, Khun Ekawut Chairat (**Nua**)
-        * **"Secret management in software development"**, Khun Thanakorn Prajuabkamon (**Korn**)
-        * **"Personal Data Protection Act"**, Khun Nattawut Reungsap (**Meaw**)
-        * **"3 Pillars Of Observability"**, Khun Narunart Vongeium (**Eit**)
-        * **"Cyber Threat Intelligence"**, Khun Soontorn Janphuk (**Brad**)
-        * **"Software Supply Chain Attack"**, Khun Nattapong Ketkaew (**X**)
-    * (Sun) **Jan 31,** 2021
-        * **"What is Container Security?"**, Khun Shirassuda Thongpakdhi (**Kad**)
-        * **"The Vulnerability of IoTs"**, Khun Fareed Marnleb (**Far**)
-        * **"Golden SAML"**, Khun Anan Boondamnoen (**Nan**)
-        * **"SQL Injection"**, Khun Supattra Boonkied (**Noy**) + (**Jaray**)
-        * **"Secure Software Concepts : Core Concepts"**,	Khun Phureephat Sottiratanapan (**Farn**)
-        * **"Static Application Security Testing"**, Khun Nipitpon Doungyai (**Geno**)
-    * (Sun) **Feb 14,** 2021
-        * **"Dynamic Application Security Testing"**, Khun Saran Kaewnang (**Golf**)
-        * **"Define the cloud architecture"**, Khun Theerapong Kanrawong (**Pong**)
-        * **"SQL Injection"**, Khun Supattra Boonkied (**Noy**) + (**Jaray**)
-    * (Sun) **Mar 7,** 2021
-        * **"Dynamic Application Security Testing"**, Khun Saran Kaewnang (**Golf**)
-        * **"Input Validation: Why it matters?"**, Khun Sakarin Kaewsathitwong (**Alfatoxin**) 
+* (Sun) **Nov 22,** 2020
+    * **"Git"**, Khun Vatcharin Kongsakul
+* (Sun) **Dec 6,** 2020
+    * **"DevSecOps : Integrating Security into DevOps"**, Khun Piyawit Khumkrong (**Es**)
+    * **"Automated Testing, Robot Framework Will Save the Day!"**, Khun Hachol Dabthong (**Chon**)
+    * **"Keep Calm and Sign your Strong Name Assemblies"**, Khun Athiporn Phumnicom (**Beam**)
+    * **"Secure Access Service Edge (SASE)"**, Khun Suntisuk Thepthong (**IceSuntisuk**)
+* (Sun) **Dec 13,** 2020
+    * **"SQL Injection, the well-known vulnerability ever."**, Khun Jaray Paensong (**Ray**)
+* (Sun) **Dec 20,** 2020
+    * **"System acquisition, development and maintenance in ISO27001"**, Khun Nantawan Sanpukdee (**Fai**)
+* (Sun) **Jan 24,** 2021
+    * **"Threat Modeling, The first step towards security in SDLC"**, Khun Bhoomjit Bhoominath (**Luck**)
+    * **"Blockchain and Smart Contract"**,	Khun Vuttawat Uyanont (**Palm**)
+    * **"Software Defined Network: When software become to network"**, Khun Ekawut Chairat (**Nua**)
+    * **"Secret management in software development"**, Khun Thanakorn Prajuabkamon (**Korn**)
+    * **"Personal Data Protection Act"**, Khun Nattawut Reungsap (**Meaw**)
+    * **"3 Pillars Of Observability"**, Khun Narunart Vongeium (**Eit**)
+    * **"Cyber Threat Intelligence"**, Khun Soontorn Janphuk (**Brad**)
+    * **"Software Supply Chain Attack"**, Khun Nattapong Ketkaew (**X**)
+* (Sun) **Jan 31,** 2021
+    * **"What is Container Security?"**, Khun Shirassuda Thongpakdhi (**Kad**)
+    * **"The Vulnerability of IoTs"**, Khun Fareed Marnleb (**Far**)
+    * **"Golden SAML"**, Khun Anan Boondamnoen (**Nan**)
+    * **"SQL Injection"**, Khun Supattra Boonkied (**Noy**) + (**Jaray**)
+    * **"Secure Software Concepts : Core Concepts"**,	Khun Phureephat Sottiratanapan (**Farn**)
+    * **"Static Application Security Testing"**, Khun Nipitpon Doungyai (**Geno**)
+* (Sun) **Feb 14,** 2021
+    * **"Dynamic Application Security Testing"**, Khun Saran Kaewnang (**Golf**)
+    * **"Define the cloud architecture"**, Khun Theerapong Kanrawong (**Pong**)
+    * **"SQL Injection"**, Khun Supattra Boonkied (**Noy**) + (**Jaray**)
+* (Sun) **Mar 7,** 2021
+    * **"Dynamic Application Security Testing"**, Khun Saran Kaewnang (**Golf**)
+    * **"Input Validation: Why it matters?"**, Khun Sakarin Kaewsathitwong (**Alfatoxin**) 
         
 ---
 
