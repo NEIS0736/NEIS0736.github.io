@@ -394,6 +394,8 @@
     * #Code4Sec Week
         * [Day 1 : mysqli_real_escape_string()](https://www.facebook.com/SaranKaewnang/posts/3617391354981586) - *Jan 5, 2021*
     * [Collaborative Coding](Collab/No7.jpg)
+    * [MiSSxTalks : Dynamic Application Security Testing](https://twitter.com/maeklong/status/1360850718328979457)
+    * [MiSSxTalks : Dynamic Application Security Testing (cont'd)](https://www.facebook.com/tourlek.fisho/posts/10215312029312868)
 <a name="Shirassuda"></a>
 1. [Shirassuda Thongpakdhi](http://MyGitHubNEIS0736.github.io)
     * (6117810017) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/MyGitHubNEIS0736) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/MyGitHubNEIS0736) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-8272-0161")](https://orcid.org/0000-0002-8272-0161) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/shianeis0736)
