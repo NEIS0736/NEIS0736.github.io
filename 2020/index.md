@@ -529,6 +529,7 @@
         * [Day 7 : AES encryption](https://twitter.com/theerap94168677/status/1350440704477077508) - *Jan 16, 2021*
     * [Collaborative Coding](Collab/No2.jpg)
     * [The Perfect Match : **Logging**, *1.1 Core Concepts : Accountability*](https://drive.google.com/file/d/1BNcEDIkDbivXhM9fyzpw6FMfcAIyZb9t)
+    * [MiSSxTalks - Define the Cloud Architecture](https://twitter.com/maeklong/status/1360852496067911680)
     * The Twelve-Factor App : [(**Backing services**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/4-BackingServices.pdf)
 <a name="Vatcharin"></a>
 1. [Vatcharin Kongsakul](https://ryudokung.GitHub.io)
