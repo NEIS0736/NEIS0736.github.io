@@ -529,7 +529,7 @@
         * [Day 7 : AES encryption](https://twitter.com/theerap94168677/status/1350440704477077508) - *Jan 16, 2021*
     * [Collaborative Coding](Collab/No2.jpg)
     * [The Perfect Match : **Logging**, *1.1 Core Concepts : Accountability*](https://drive.google.com/file/d/1BNcEDIkDbivXhM9fyzpw6FMfcAIyZb9t)
-    * The Twelve-Factor App : [(**Backing services**)] (https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/4-BackingServices.pdf)
+    * The Twelve-Factor App : [(**Backing services**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/4-BackingServices.pdf)
 <a name="Vatcharin"></a>
 1. [Vatcharin Kongsakul](https://ryudokung.GitHub.io)
     * (6217810003) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ryudokung) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/ryudokun) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-5029-636X")](https://orcid.org/0000-0002-5029-636X) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/ryudokung)
