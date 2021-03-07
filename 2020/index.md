@@ -1078,6 +1078,7 @@
 *  [Software Security:  Principles, Policies, and Protection](https://nebelwelt.net/SS3P/softsec.pdf), Payer
 *  [OWASP Top 10 Web Application Security Risks](https://owasp.org/www-project-top-ten/)
 *  [OWASP Web Security Testing Guide v4.2](https://github.com/OWASP/wstg/releases/download/v4.2/wstg-v4.2.pdf)
+*  [OWASP Proactive Controls](https://github.com/OWASP/www-project-proactive-controls/blob/master/v3/OWASP-OPC-IEEEE-OTop10-OTMobTop10-ssdf.pdf)
 *  [Web Application Security Standard v1.0](https://standard.etda.or.th/wp-content/uploads/2018/09/20150405-ER-WAS-V07-33-R1.pdf) by ETDA
 *  [Trusted Electronic Document and Authentication](https://teda.th/) : TEDA
 *  [The **Twelve Factors**](https://12factor.net/) ([ไทย](https://12factor.net/th/))
