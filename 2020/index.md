@@ -345,6 +345,7 @@
     * [Collaborative Coding](Collab/No3.jpg)
     * [The Perfect Match : **File Integrity Monitoring (FIM)**, *4.3 Implement Security Controls*](https://drive.google.com/file/d/1zb7eGOeYb4GZVVPQzzMBzT3l1kj8vATm)
     * The Twelve-Factor App : [(**Logs**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/11-Logs.pdf)
+    * [https://eskoong.github.io/dev_sec_ops](https://eskoong.github.io/dev_sec_ops)
 <a name="Sakarin"></a>
 1. [Sakarin Kaewsathitwong](https://Alfatoxin.GitHub.io)
     * (6217810002) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Alfatoxin) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Alfatoxin) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-0519-6925")](https://orcid.org/0000-0002-0519-6925) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/alfatoxin)
