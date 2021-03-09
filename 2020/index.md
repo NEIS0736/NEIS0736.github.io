@@ -1021,7 +1021,7 @@
 
 ### [**Week 15**] - (Sun) **Mar 7,** 2021
 *  **Navigator** w/ **Improvisation** (cont'd)
-   * Vuttawat, Sakarin & Sanchat 
+   * Vuttawat, Sakarin & Sanchat -- [**Done**] -- [![](/Assets/github-20x20.jpg "GitHub")](https://hyde4thheaven.github.io/Logging-with-Hash-DataValidation/)
 *  **MiSS**x***Talks***
    * **"Dynamic Application Security Testing"**, Khun Saran Kaewnang
    * **"Input Validation: Why it matters?"**, Khun Sakarin Kaewsathitwong
