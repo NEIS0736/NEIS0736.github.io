@@ -957,6 +957,7 @@
     1. [Khun Vatcharin & Khun Ekawut : **Cloud architectures - Infrastructure as a Service (IaaS)**, *3.2 Define the Security Architecture*](https://drive.google.com/file/d/1e9iTZvokis65n75QX2cx-dYWUp8xOWRH) - Feb 22, 2021
     1. [Khun Nipitpon & Khun Narunart : **Component Reuse**, *1.2 Security Design Principles*](https://drive.google.com/file/d) - Mar 23, 2021 
     1. Khun Phureephat & Khun Nantawan : **Type Safety**, *4.1 Adhere to Relevant Secure Coding Practices*
+    1. Khun Shirassuda & Khun Saran : **???**, *3.3 Performing Secure Interface Design*
 
 ### **Class Cancelled** (Sun) **Feb 7,** 2021
 
