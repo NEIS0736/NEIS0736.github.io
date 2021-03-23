@@ -955,6 +955,7 @@
     1. [Khun Theerapong & Khun Jaray : **Logging**, *1.1 Core Concepts : Accountability*](https://drive.google.com/file/d/1BNcEDIkDbivXhM9fyzpw6FMfcAIyZb9t) - Feb 12, 2021
     1. [Khun Hachol & Khun Sakarin : **Digitally-signed component**, *8.3 Verify Pedigree and Provenance*](https://drive.google.com/file/d/1h1jU1jLSDkOrvj_ZqfkA6CxQCl8e2AVk/) - Feb 16, 2021
     1. [Khun Vatcharin & Khun Ekawut : **Cloud architectures - Infrastructure as a Service (IaaS)**, *3.2 Define the Security Architecture*](https://drive.google.com/file/d/1e9iTZvokis65n75QX2cx-dYWUp8xOWRH) - Feb 22, 2021
+    1. [Khun Nipitpon & Khun Narunart : **Component Reuse**, *1.2 Security Design Principles*](https://drive.google.com/file/d) - Mar 23, 2021 
     1. Khun Phureephat & Khun Nantawan : **Type Safety**, *4.1 Adhere to Relevant Secure Coding Practices*
 
 ### **Class Cancelled** (Sun) **Feb 7,** 2021
