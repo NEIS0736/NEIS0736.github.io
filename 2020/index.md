@@ -241,6 +241,7 @@
     * [Collaborative Coding](Collab/No8.png)
     * [MiSSxTalks : 3 Pillars of Observability](https://twitter.com/maeklong/status/1353220816930922496)
     * The Twelve-Factor App : [(**Admin processes**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/12-AdminProcesses.pdf)
+    * [The Perfect Match : **Component Reuse**, *1.2 Security Design Principles*](https://drive.google.com/file/d/1R4ViTNQKtogHgqIkCb8c-jPAK0xI-YUS) 
 <a name="Nattapong"></a>
 1. [Nattapong Ketkaew](https://nattapong007.GitHub.io)
     * (6317810011) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/nattapong007) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/nattapong007) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-0018-4431")](https://orcid.org/0000-0002-0018-4431) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/nattapong007)
@@ -298,6 +299,7 @@
     * [Collaborative Coding](Collab/No12.jpg)
     * [MiSSxTalks : Static Application Security Testing](https://twitter.com/maeklong/status/1355807476763901953)
     * The Twelve-Factor App : [(**Disposability**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/9-Disposability.pdf)
+    * [The Perfect Match : **Component Reuse**, *1.2 Security Design Principles*](https://drive.google.com/file/d/1R4ViTNQKtogHgqIkCb8c-jPAK0xI-YUS) 
 <a name="Phureephat"></a>
 1. [Phureephat Sottiratanapan](https://PhureephatS.GitHub.io)
     * (6217810014) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/PhureephatS) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/PhureephatS) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-1300-8231")](https://orcid.org/0000-0003-1300-8231) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/phureephats)
