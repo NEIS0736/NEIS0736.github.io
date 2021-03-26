@@ -557,6 +557,7 @@
     * The Twelve-Factor App : [(**Port binding**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/7-PortBinding.pdf)
     * [The Perfect Match : **Cloud architectures - Infrastructure as a Service (IaaS)**, *3.2 Define the Security Architecture*](https://drive.google.com/file/d/1e9iTZvokis65n75QX2cx-dYWUp8xOWRH)
     * [Case Style](https://ghinryudokung.medium.com/%E0%B8%81%E0%B8%B3%E0%B8%AB%E0%B8%99%E0%B8%94%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-casestyles-df003a03f66d)
+    * [Business logic vulnerability](https://ghinryudokung.medium.com/%E0%B8%97%E0%B8%B3%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B1%E0%B8%9A-business-logic-vulnerability-ece284d6b9e)
 <a name="Vuttawat"></a>
 1. [Vuttawat Uyanont](https://Hyde4thHeaven.GitHub.io)
     * (6317810001) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Hyde4thHeaven) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/Hyde4thHeaven) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-5620-9028")](https://orcid.org/0000-0002-5620-9028) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/civilman)
