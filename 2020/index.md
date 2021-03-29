@@ -1046,7 +1046,7 @@
 
 ### [**Final Examination**] - *(Lec)*
 *  **Mar 27, 2021 (AM)** @MII209B
-*  [![](img/FinalExam.jpg "Video")](https://www.facebook.com/maeklong/posts/10222797758426431)
+[![](img/FinalExam.jpg "Video")](https://www.facebook.com/maeklong/posts/10222797758426431)
 
 ---
 ### [**Grading Policy**]
