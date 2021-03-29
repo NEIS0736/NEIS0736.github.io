@@ -46,6 +46,7 @@
     * [Golden SAML](https://gitlab.com/NEIS0736/2020/-/wikis/KBs/Golden-SAML)
     * [The Perfect Match : **Memory Management**, *4.1 Adhere to Relevant Secure Coding Practices*](https://drive.google.com/file/d/17kLKvyxTHERRFNK3Yz-gy6k3Vak5K7LX)
     * The Twelve-Factor App : [(**Concurrency**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/8-Concurrency.pdf)
+    * [Technical Due Diligence](https://mygithubneis0736.github.io/extrapoint/TDD)
 <a name="Athiporn"></a>
 1. [Athiporn Phumnicom](https://AthipornP.GitHub.io)
     * (6217810016) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/AthipornP) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/AthipornP) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-0532-3733")](https://orcid.org/0000-0003-0532-3733) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/athiporn)
@@ -261,6 +262,7 @@
         * [Day 7 : javax.crypto.Cipher](https://www.facebook.com/permalink.php?story_fbid=3911423938877804&id=100000307097053) - *Jan 16, 2021*
     * [Collaborative Coding](Collab/No12.jpg)
     * [MiSSxTalks : Software Supply Chain Attack](https://twitter.com/maeklong/status/1353226643335114752)
+    * [Technical Due Diligence](https://mygithubneis0736.github.io/extrapoint/TDD)
 <a name="Nattawut"></a>
 1. [Nattawut Reungsap](https://omoomomx.GitHub.io)
     * (6217810013) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/omoomomx) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/omoomomx) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-6578-6583")](https://orcid.org/0000-0001-6578-6583) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/omoomomx)
@@ -420,6 +422,7 @@
     * [Collaborative Coding](Collab/No5.jpg)
     * [MiSSxTalks : What is Container Security?](https://twitter.com/maeklong/status/1355794129809076226)
     * The Twelve-Factor App : [(**Config**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/3-Config.pdf)
+    * [Technical Due Diligence](https://mygithubneis0736.github.io/extrapoint/TDD)
 <a name="Soontorn"></a>
 1. [Soontorn Janphuk](https://freedom357.GitHub.io)
     * (6317660001) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/freedom357) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/freedom357) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-0858-412X")](https://orcid.org/0000-0003-0858-412X) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/freedom357)
@@ -1110,7 +1113,7 @@
 *  **ar·chi·tec·ture** /ˈärkəˌtek(t)SHər/
 *  <del>[Data Governance](https://www.dga.or.th/th/profile/2108/)</del>, *claimed by Khun [Bhoomjit Bh.](#Bhoomjit)*
 *  <del>Source Code **Escrow** Agreement</del>, *claimed by Khun [Theerapong K.](#Theerapong)*
-*  <del>Technical Due Diligence</del>, *booked by Khun [Shirassuda T.](#Shirassuda)*
+*  <del>Technical Due Diligence</del>, *claimed by Khun [Shirassuda T.](#Shirassuda)*
 *  <del>Search vs. Browse</del>, *claimed by Khun [Phureephat S.](#Phureephat)*
 *  [Amazon Lookout for Vision - Spot product defects using computer vision to automate quality inspection](https://aws.amazon.com/lookout-for-vision/)
 *  <del>Planet earth with visualization of GitHub activity crossing the globe</del>, *claimed by Khun [Piyawit K.](#Piyawit)*
