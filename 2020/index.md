@@ -1042,7 +1042,6 @@
    * [Use your ability to learn to work for this country.](https://www.facebook.com/photo?fbid=10212930730636903&set=a.10200639308479031)
    * [The Learning Pyramid](https://nurinathirahamani504886378.wordpress.com/author/athirahamani20/)
    ![](https://i.pinimg.com/originals/f7/c0/48/f7c04844df5d4f593b1cdc5d771c725d.png "The Learning Pyramid")
-*  **[Daily Scribe](https://gitlab.com/NEIS0736/2020/wikis/DailyScribe/Day15)** *by **John Doe***
 
 ### [**Final Examination**] - *(Lec)*
 *  **Mar 27, 2021 (AM)** @MII209B
