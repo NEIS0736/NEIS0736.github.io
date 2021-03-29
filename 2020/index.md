@@ -960,7 +960,7 @@
     1. [Khun Hachol & Khun Sakarin : **Digitally-signed component**, *8.3 Verify Pedigree and Provenance*](https://drive.google.com/file/d/1h1jU1jLSDkOrvj_ZqfkA6CxQCl8e2AVk/) - Feb 16, 2021
     1. [Khun Vatcharin & Khun Ekawut : **Cloud architectures - Infrastructure as a Service (IaaS)**, *3.2 Define the Security Architecture*](https://drive.google.com/file/d/1e9iTZvokis65n75QX2cx-dYWUp8xOWRH) - Feb 22, 2021
     1. [Khun Nipitpon & Khun Narunart : **Component Reuse**, *1.2 Security Design Principles*](https://drive.google.com/file/d/1R4ViTNQKtogHgqIkCb8c-jPAK0xI-YUS) - Mar 23, 2021 
-    1. [Khun Shirassuda & Khun Saran : **Out-of-Band (OOB) management**, *3.3 Performing Secure Interface Design*] - Mar 29, 2021
+    1. [Khun Shirassuda & Khun Saran : **Out-of-Band (OOB) management**, *3.3 Performing Secure Interface Design*](#) - Mar 29, 2021
     1. Khun Phureephat & Khun Nantawan : **Type Safety**, *4.1 Adhere to Relevant Secure Coding Practices*
 
 ### **Class Cancelled** (Sun) **Feb 7,** 2021
