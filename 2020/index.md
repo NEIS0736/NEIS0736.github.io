@@ -378,6 +378,7 @@
     * [Collaborative Coding](Collab/No13.jpg)
     * [The Perfect Match : **Digitally-signed component**, *8.3 Verify Pedigree and Provenance*](https://drive.google.com/file/d/1h1jU1jLSDkOrvj_ZqfkA6CxQCl8e2AVk/)
     * [MiSSxTalks : Input Validation : Why it matters?](https://www.facebook.com/tourlek.fisho/posts/10215312023632726)
+    * [Data Pipeline](https://alfatoxin.github.io/KB/DataPipeline)
 <a name="Sanchat"></a>
 1. [Sanchat Phaisit](https://ph-sanchat.GitHub.io)
     * (6317810015) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ph-sanchat) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/ph-sanchat) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-4707-179X")](https://orcid.org/0000-0003-4707-179X) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/sanchatphaisit)
