@@ -413,6 +413,9 @@
     * [MiSSxTalks : Dynamic Application Security Testing](https://twitter.com/maeklong/status/1360850718328979457)
     * [MiSSxTalks : Dynamic Application Security Testing (cont'd)](https://www.facebook.com/tourlek.fisho/posts/10215312029312868)
     * The Twelve-Factor App : [(**Processes**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/6-Processes.pdf)
+    * [Dynamic Application Security Testing](https://ahictf.github.io/DAST/DAST.html)
+    * [How to crack and protect vb.net language programs](https://ahictf.github.io/VBCRACK/VBCRACK.html)
+    * [Prevent brute force with Google recaptcha in php language](https://ahictf.github.io/Recaptcha/recaptcha.html)
 <a name="Shirassuda"></a>
 1. [Shirassuda Thongpakdhi](http://MyGitHubNEIS0736.github.io)
     * (6117810017) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/MyGitHubNEIS0736) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/MyGitHubNEIS0736) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-8272-0161")](https://orcid.org/0000-0002-8272-0161) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/shianeis0736)
