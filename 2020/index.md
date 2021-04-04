@@ -614,6 +614,10 @@
         * [Day 7 : sleep()](https://www.facebook.com/permalink.php?story_fbid=2304733789672253&id=100004069626150) - *Jan 16, 2021*
     * [Collaborative Coding](Collab/No4.jpg)
     * The Twelve-Factor App : [(**Concurrency**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/8-Concurrency.pdf)
+    * [Web Application Security](https://xseriex.github.io/KBs/web_app_security)
+    * [Security Misconfiguration](https://xseriex.github.io/KBs/security_misconfiguration)
+    * []()
+    * []()
     
 ---
 
