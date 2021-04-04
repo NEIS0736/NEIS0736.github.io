@@ -400,6 +400,9 @@
         * [Day 7 : OS commands](https://www.facebook.com/permalink.php?story_fbid=3442878285834610&id=100003374168414) - *Jan 16, 2021*
     * [Collaborative Coding](Collab/No10.jpg)
     * The Twelve-Factor App : [(**Backing services**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/4-BackingServices.pdf)
+    * [Cross-Site Request Forgery Attacks](https://ph-sanchat.github.io/CSRF)
+    * [Directory traversal](https://ph-sanchat.github.io/Directory-traversal)
+    * [LDAP Injection](https://ph-sanchat.github.io/LDAP-Injection)
 <a name="Saran"></a>
 1. [Saran Kaewnang](https://ahictf.GitHub.io)
     * (6317810007) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ahictf) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/ahictf) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-1885-5448 ")](https://orcid.org/0000-0003-1885-5448) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/ahiahi)
