@@ -616,8 +616,8 @@
     * The Twelve-Factor App : [(**Concurrency**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/8-Concurrency.pdf)
     * [Web Application Security](https://xseriex.github.io/KBs/web_app_security)
     * [Security Misconfiguration](https://xseriex.github.io/KBs/security_misconfiguration)
-    * []()
-    * []()
+    * [Penetration Testing](https://xseriex.github.io/KBs/pentest)
+    * [DDoS Protection](https://xseriex.github.io/KBs/DDoS_protection)
     
 ---
 
