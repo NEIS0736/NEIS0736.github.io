@@ -301,7 +301,12 @@
     * [Collaborative Coding](Collab/No12.jpg)
     * [MiSSxTalks : Static Application Security Testing](https://twitter.com/maeklong/status/1355807476763901953)
     * The Twelve-Factor App : [(**Disposability**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/9-Disposability.pdf)
-    * [The Perfect Match : **Component Reuse**, *1.2 Security Design Principles*](https://drive.google.com/file/d/1R4ViTNQKtogHgqIkCb8c-jPAK0xI-YUS) 
+    * [The Perfect Match : **Component Reuse**, *1.2 Security Design Principles*](https://drive.google.com/file/d/1R4ViTNQKtogHgqIkCb8c-jPAK0xI-YUS)
+    * [Broken Access Control](https://itsgno.github.io/BrokenAccessControl/)
+    * [CSV Injection](https://itsgno.github.io/CSVInjection/)
+    * [No Rate Limit](https://itsgno.github.io/NoRateLimit/)
+    * [Using Comonents with Knonw Vulnerabilities](https://itsgno.github.io/UsingComponentswithKnownVulerabilities/)
+    * [Brute force attack](https://itsgno.github.io/BruteForceAttack/)
 <a name="Phureephat"></a>
 1. [Phureephat Sottiratanapan](https://PhureephatS.GitHub.io)
     * (6217810014) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/PhureephatS) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/PhureephatS) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-1300-8231")](https://orcid.org/0000-0003-1300-8231) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/phureephats)
