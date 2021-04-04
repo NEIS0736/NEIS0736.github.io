@@ -189,6 +189,8 @@
     * [MiSSxTalks : SQL Injection](https://twitter.com/maeklong/status/1355802992063045633)
     * [The Perfect Match : **Logging**, *1.1 Core Concepts : Accountability*](https://drive.google.com/file/d/1BNcEDIkDbivXhM9fyzpw6FMfcAIyZb9t)
     * The Twelve-Factor App : [(**Dependencies**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/2-Dependencies.pdf)
+    * [What Are Application Security Risks?](https://hirayshi.github.io/security_kb1)
+    * [Language Server Protocol](https://hirayshi.github.io/security_kb2)
 <a name="Jaruspong"></a>
 1. [Jaruspong Tongboon](https://jaruspong4.GitHub.io)
     * (6217810004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/jaruspong4) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/jaruspong4)
