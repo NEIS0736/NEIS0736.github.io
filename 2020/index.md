@@ -222,6 +222,7 @@
         * [Day 7 : openssl_public_encrypt()](https://www.facebook.com/fai.nantawan/posts/10222362094874361) - *Jan 16, 2021*
     * [Collaborative Coding](Collab/No4.jpg)
     * The Twelve-Factor App : [(**Build, release, run**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/5-BuildReleaseRun.pdf)
+    * [The Perfect Match : **Type Safety**, *4.1 Adhere to Relevant Secure Coding Practices*](https://drive.google.com/file/d/10XZ_YcTsHhHdztXARJv0IBQBAhdMuRtu)
 <a name="Narunart"></a>
 1. [Narunart Vongeium](https://EITCHY.GitHub.io)
     * (6317810006) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/EITCHY) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/EITCHY) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-1157-9412")](https://orcid.org/0000-0002-1157-9412) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/eitchy)
@@ -330,6 +331,7 @@
     * [Collaborative Coding](Collab/No3.jpg)
     * [MiSSxTalks : Secure Software Concepts : Core Concepts](https://twitter.com/maeklong/status/1355806072120852480)
     * The Twelve-Factor App : [(**Processes**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/6-Processes.pdf)
+    * [The Perfect Match : **Type Safety**, *4.1 Adhere to Relevant Secure Coding Practices*](https://drive.google.com/file/d/10XZ_YcTsHhHdztXARJv0IBQBAhdMuRtu)
 <a name="Piyawit"></a>
 1. [Piyawit Khumkrong](https://EsKoOnG.GitHub.io)
     * (6317810004) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/EsKoOnG) [![](/Assets/gitlab-20x20.jpg "GitLab")](https://gitlab.com/EsKoOnG) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0001-5527-0233")](https://orcid.org/0000-0001-5527-0233) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/eskoong)
@@ -502,6 +504,7 @@
     * [Collaborative Coding](Collab/No7.jpg)
     * [MiSSxTalks : SQL Injection](https://twitter.com/maeklong/status/1355802992063045633)
     * The Twelve-Factor App : [(**Logs**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/11-Logs.pdf)
+    * [The Perfect Match : **Type Safety**, *4.1 Adhere to Relevant Secure Coding Practices*](https://drive.google.com/file/d/10XZ_YcTsHhHdztXARJv0IBQBAhdMuRtu)
 <a name="Thanakorn"></a>
 1. [Thanakorn Prajuabkamon](https://nongkon09.GitHub.io)
     * (6217810017) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/nongkon09) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/nongkon09) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-3201-789X")](https://orcid.org/0000-0002-3201-789X) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/nongkon09)
@@ -974,7 +977,7 @@
     1. [Khun Vatcharin & Khun Ekawut : **Cloud architectures - Infrastructure as a Service (IaaS)**, *3.2 Define the Security Architecture*](https://drive.google.com/file/d/1e9iTZvokis65n75QX2cx-dYWUp8xOWRH) - Feb 22, 2021
     1. [Khun Nipitpon & Khun Narunart : **Component Reuse**, *1.2 Security Design Principles*](https://drive.google.com/file/d/1R4ViTNQKtogHgqIkCb8c-jPAK0xI-YUS) - Mar 23, 2021 
     1. [Khun Shirassuda & Khun Saran : **Out-of-Band (OOB) management**, *3.3 Performing Secure Interface Design*](#) - Mar 29, 2021
-    1. Khun Phureephat, Khun Nantawan & Khun Supattra : **Type Safety**, *4.1 Adhere to Relevant Secure Coding Practices*
+    1. [Khun Phureephat, Khun Nantawan & Khun Supattra : **Type Safety**, *4.1 Adhere to Relevant Secure Coding Practices*](https://drive.google.com/file/d/10XZ_YcTsHhHdztXARJv0IBQBAhdMuRtu) - Apr 4, 2021
 
 ### **Class Cancelled** (Sun) **Feb 7,** 2021
 
