@@ -419,6 +419,7 @@
     * [MiSSxTalks : Dynamic Application Security Testing](https://twitter.com/maeklong/status/1360850718328979457)
     * [MiSSxTalks : Dynamic Application Security Testing (cont'd)](https://www.facebook.com/tourlek.fisho/posts/10215312029312868)
     * The Twelve-Factor App : [(**Processes**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/6-Processes.pdf)
+    * [The Perfect Match : **Out-of-Band (OOB) management**, *3.3 Performing Secure Interface Design*](https://drive.google.com/file/d/1ZHO736-r0HKILOCP2ZTG0ocUei03545s)
     * [Dynamic Application Security Testing](https://ahictf.github.io/DAST/DAST.html)
     * [How to crack and protect vb.net language programs](https://ahictf.github.io/VBCRACK/VBCRACK.html)
     * [Prevent brute force with Google recaptcha in php language](https://ahictf.github.io/Recaptcha/recaptcha.html)
@@ -442,6 +443,7 @@
     * [Collaborative Coding](Collab/No5.jpg)
     * [MiSSxTalks : What is Container Security?](https://twitter.com/maeklong/status/1355794129809076226)
     * The Twelve-Factor App : [(**Config**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/3-Config.pdf)
+    * [The Perfect Match : **Out-of-Band (OOB) management**, *3.3 Performing Secure Interface Design*](https://drive.google.com/file/d/1ZHO736-r0HKILOCP2ZTG0ocUei03545s)
     * [Technical Due Diligence](https://mygithubneis0736.github.io/extrapoint/TDD)
 <a name="Soontorn"></a>
 1. [Soontorn Janphuk](https://freedom357.GitHub.io)
@@ -991,7 +993,7 @@
     1. [Khun Hachol & Khun Sakarin : **Digitally-signed component**, *8.3 Verify Pedigree and Provenance*](https://drive.google.com/file/d/1h1jU1jLSDkOrvj_ZqfkA6CxQCl8e2AVk/) - Feb 16, 2021
     1. [Khun Vatcharin & Khun Ekawut : **Cloud architectures - Infrastructure as a Service (IaaS)**, *3.2 Define the Security Architecture*](https://drive.google.com/file/d/1e9iTZvokis65n75QX2cx-dYWUp8xOWRH) - Feb 22, 2021
     1. [Khun Nipitpon & Khun Narunart : **Component Reuse**, *1.2 Security Design Principles*](https://drive.google.com/file/d/1R4ViTNQKtogHgqIkCb8c-jPAK0xI-YUS) - Mar 23, 2021 
-    1. [Khun Shirassuda & Khun Saran : **Out-of-Band (OOB) management**, *3.3 Performing Secure Interface Design*](#) - Mar 29, 2021
+    1. [Khun Shirassuda & Khun Saran : **Out-of-Band (OOB) management**, *3.3 Performing Secure Interface Design*](https://drive.google.com/file/d/1ZHO736-r0HKILOCP2ZTG0ocUei03545s) - Mar 29, 2021
     1. [Khun Phureephat, Khun Nantawan & Khun Supattra : **Type Safety**, *4.1 Adhere to Relevant Secure Coding Practices*](https://drive.google.com/file/d/10XZ_YcTsHhHdztXARJv0IBQBAhdMuRtu) - Apr 4, 2021
 
 ### **Class Cancelled** (Sun) **Feb 7,** 2021
