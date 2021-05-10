@@ -1107,6 +1107,7 @@
 *  [OWASP Web Security Testing Guide v4.2](https://github.com/OWASP/wstg/releases/download/v4.2/wstg-v4.2.pdf)
 *  [OWASP Proactive Controls](https://github.com/OWASP/www-project-proactive-controls/blob/master/v3/OWASP-OPC-IEEEE-OTop10-OTMobTop10-ssdf.pdf)
 *  [Web Application Security Standard v1.0](https://standard.etda.or.th/wp-content/uploads/2018/09/20150405-ER-WAS-V07-33-R1.pdf) by ETDA
+*  [OWASP AppSec Pipeline](https://owasp.org/www-project-appsec-pipeline/)
 *  [Trusted Electronic Document and Authentication](https://teda.th/) : TEDA
 *  [The **Twelve Factors**](https://12factor.net/) ([ไทย](https://12factor.net/th/))
 *  [The Architecture of Open Source Applications](https://www.researchgate.net/publication/229059316_The_Architecture_of_Open_Source_Applications)
