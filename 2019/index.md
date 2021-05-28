@@ -148,7 +148,7 @@
 	  ([TC02](https://twinzabx2.github.io/TC02))
 	* ([TC03](https://twinzabx2.github.io/TC03-9.1.1))
 	* ([TossapornH](https://twinzabx2.github.io/TossapornH))
-1. **6117810017 - S---------- T----------** <!-- Shirassuda Thongpakdhi -->
+1. **6117810017 - S---------- T----------** <span style="color:white">Shirassuda Thongpakdhi</span><!-- Shirassuda Thongpakdhi -->
 	* (Hello World\*)
 	* (Failure transparency\*)
 1. **Certificate - [Thanchanok Laopromsukon](https://thanchanok28.github.io)**
