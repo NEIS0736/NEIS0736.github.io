@@ -901,7 +901,7 @@
 ---
 
 ### [**Week 8**] - (Sun) **Jan 10,** 2021
-*  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://drive.google.com/file/d/1jG_y9pjIXSgdIY3G0xW_CH6rDlp5THF6)
+*  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://drive.google.com/file/d/1jG_y9pjIXSgdIY3G0xW_CH6rDlp5THF6) <!-- https://youtu.be/DKEVjGWUQG8 -->
 *  Class check-in : [Talk, learn, collab and **code together** right in your browser](https://repl.it/join/daowtxah-maeklong)
 *  Pairing for **#CollabChallenge** by [Random Team Generator](https://www.randomlists.com/team-generator)
    1. [@VuttawatUyanont](https://repl.it/@VuttawatUyanont) & [@inuax](https://repl.it/@inuax)
