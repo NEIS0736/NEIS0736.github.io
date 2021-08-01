@@ -999,7 +999,7 @@
 ### **Class Cancelled** (Sun) **Feb 7,** 2021
 
 ### [**Week 12**] - (Sun) **Feb 14,** 2021
-*  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://drive.google.com/file/d/1t1_0gyWWwKWfdmD9ef6FyfThDJuA5DhO)
+*  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://drive.google.com/file/d/1t1_0gyWWwKWfdmD9ef6FyfThDJuA5DhO) <!-- https://youtu.be/r_HF1Oa29Pg -->
 *  **Valentine** *vs.* **Ovaltine** <!--Mini contest, organized by you-->
 *  **MiSS**x***Talks***
     * **"Dynamic Application Security Testing"**, Khun Saran Kaewnang
