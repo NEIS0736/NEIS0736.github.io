@@ -925,7 +925,7 @@
       *  Take turn every 3 characters in 3 mins w/o talking together.
    
 ### [**Week 9**] - (Sun) **Jan 17,** 2021
-*  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://drive.google.com/file/d/11_pqmXk6jJ_CPrVHRWB1XMiO2cqjTcL2)
+*  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://drive.google.com/file/d/11_pqmXk6jJ_CPrVHRWB1XMiO2cqjTcL2) <!-- https://youtu.be/O1Vdb_ANT6I -->
 *  **#CollabChallenge**, **#PairProgramming** the funny way (**Takeshi's Castle** style) 😜 [***(draw lots)***](https://wheelofnames.com/)
    1. [@AnanBoondamnoen](https://repl.it/@AnanBoondamnoen) & [@peegonggoy](https://repl.it/@peegonggoy)
    1. [@marukofar](https://repl.it/@marukofar) & [@NarunartVongeiu](https://repl.it/@NarunartVongeiu)
@@ -962,7 +962,7 @@
        * [Saran vs. Supattra](Collab/No7.jpg) - *Jan 28, 2021*
 
 ### [**Week 10**] - (Sun) **Jan 24,** 2021
-*  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://drive.google.com/file/d/1k8STmYrKiHZEjEjKP-UIxJTVHI1JSfSv)
+*  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://drive.google.com/file/d/1k8STmYrKiHZEjEjKP-UIxJTVHI1JSfSv) <!-- https://youtu.be/Upz7i_E1b7U -->
 *  **MiSS**x***Talks***
     * **"Threat Modeling, The first step towards security in SDLC"**, Khun Bhoomjit Bhoominath
     * **"Blockchain and Smart Contract"**,	Khun Vuttawat Uyanont
