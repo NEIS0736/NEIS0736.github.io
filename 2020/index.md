@@ -827,7 +827,7 @@
 -->
 
 ### [**Week 6**] - (Sun) **Dec 27,** 2020
-*  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://drive.google.com/file/d/1UpEXge7oPGw89haRPTURluVy9LP9ifD-)
+*  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://drive.google.com/file/d/1UpEXge7oPGw89haRPTURluVy9LP9ifD-) <!-- https://youtu.be/adXhMTdw3Mk -->
    * Static Application Security Testing (SAST), Source Code Analysis
       * [VirtualBox](https://www.virtualbox.org/wiki/Downloads) / [VMware Workstation Player](https://www.vmware.com/go/downloadworkstationplayer)
       * [WinSCP](https://winscp.net/eng/download.php) or any SCP client
