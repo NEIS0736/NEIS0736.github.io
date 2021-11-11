@@ -17,7 +17,7 @@
 
 ---
 
-[Anan](#Anan), [Athiporn](#Athiporn), [Bhoomjit](#Bhoomjit), [Ekawut](#Ekawut), [Fareed](#Fareed), [Hachol](#Hachol), [Jaray](#Jaray), [Jaruspong](#Jaruspong), [Keaittisak](#Keaittisak), [Nantawan](#Nantawan), [Narunart](#Narunart), [Nattapong](#Nattapong), [Nattawut](#Nattawut), [Nipitpon](#Nipitpon), [Phureephat](#Phureephat), [Piyawit](#Piyawit), [Sakarin](#Sakarin), [Sanchat](#Sanchat), [Saran](#Saran), [Shirassuda](#Shirassuda), [Soontorn](#Soontorn), [Suntisuk](#Suntisuk), [Sununta](#Sununta), [Supattra](#Supattra), [Thanakorn](#Thanakorn), [Theerapong](#Theerapong), [Vatcharin](#Vatcharin), [Vuttawat](#Vuttawat), [Wasupol](#Wasupol)
+[Anan](#Anan), [Athiporn](#Athiporn), [Bhoomjit](#Bhoomjit), [Ekawut](#Ekawut), [Fareed](#Fareed), [Hachol](#Hachol), [Jaray](#Jaray), [Jaruspong](#Jaruspong), [Keaittisak](#Keaittisak), [Nantawan](#Nantawan), [Narunart](#Narunart), [Nattapong](#Nattapong), [Nattawut](#Nattawut), [Nipitpon](#Nipitpon), [Phureephat](#Phureephat), [Piyawit](#Piyawit), [Sakarin](#Sakarin), [Sanchat](#Sanchat), [Saran](#Saran), <!--[Shirassuda](#Shirassuda)-->??????, [Soontorn](#Soontorn), [Suntisuk](#Suntisuk), [Sununta](#Sununta), [Supattra](#Supattra), [Thanakorn](#Thanakorn), [Theerapong](#Theerapong), [Vatcharin](#Vatcharin), [Vuttawat](#Vuttawat), [Wasupol](#Wasupol)
 
 ---
 
@@ -423,8 +423,9 @@
     * [Dynamic Application Security Testing](https://ahictf.github.io/DAST/DAST.html)
     * [How to crack and protect vb.net language programs](https://ahictf.github.io/VBCRACK/VBCRACK.html)
     * [Prevent brute force with Google recaptcha in php language](https://ahictf.github.io/Recaptcha/recaptcha.html)
+
 <a name="Shirassuda"></a>
-1. [Shirassuda Thongpakdhi](http://MyGitHubNEIS0736.github.io)
+1. <!--[Shirassuda Thongpakdhi](http://MyGitHubNEIS0736.github.io)-->??????
     * (6117810017) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/MyGitHubNEIS0736) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/MyGitHubNEIS0736) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0002-8272-0161")](https://orcid.org/0000-0002-8272-0161) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/shianeis0736)
     * One-on-One - Static Analysis, Android, SaaS, SDN
     * [DSV - Arduino IDE](https://gitlab.com/NEIS0736/2020/-/wikis/DigitalSignature/Arduino-IDE) (#8)
@@ -445,6 +446,7 @@
     * The Twelve-Factor App : [(**Config**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/3-Config.pdf)
     * [The Perfect Match : **Out-of-Band (OOB) management**, *3.3 Performing Secure Interface Design*](https://drive.google.com/file/d/1ZHO736-r0HKILOCP2ZTG0ocUei03545s)
     * [Technical Due Diligence](https://mygithubneis0736.github.io/extrapoint/TDD)
+-->
 <a name="Soontorn"></a>
 1. [Soontorn Janphuk](https://freedom357.GitHub.io)
     * (6317660001) [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/freedom357) [![](/Assets/gitlab-20x20.jpg "GitHub")](https://gitlab.com/freedom357) [![](/Assets/ORCID_iD-20x20.png "ORCiD : 0000-0003-0858-412X")](https://orcid.org/0000-0003-0858-412X) [![](/Assets/Keybase-20x20.jpg "Keybase")](https://keybase.io/freedom357)
@@ -657,7 +659,7 @@
     * **"Cyber Threat Intelligence"**, Khun Soontorn Janphuk (**Brad**)
     * **"Software Supply Chain Attack"**, Khun Nattapong Ketkaew (**X**)
 * (Sun) **Jan 31,** 2021
-    * **"What is Container Security?"**, Khun Shirassuda Thongpakdhi (**Kad**)
+    * **"What is Container Security?"**, Khun <!--Shirassuda Thongpakdhi (**Kad**)-->??????
     * **"The Vulnerability of IoTs"**, Khun Fareed Marnleb (**Far**)
     * **"Golden SAML"**, Khun Anan Boondamnoen (**Nan**)
     * **"SQL Injection"**, Khun Supattra Boonkied (**Noy**) + (**Jaray**)
@@ -736,7 +738,7 @@
     1. 10:51 - 11:00 : [Khun Saran Kaewnang](OneOnOne/SaranK.jpg) 
     1. 11:01 - 11:10 : [Khun Nipitpon Doungyai](OneOnOne/NipitponD.jpg)
     1. 11:11 - 11:20 : [Khun Narunart Vongeium](OneOnOne/NarunartV.jpg)
-    1. 11:21 - 11:30 : [Khun Shirassuda Thongpakdhi](OneOnOne/ShirassudaT.jpg)
+    1. 11:21 - 11:30 : <!--[Khun Shirassuda Thongpakdhi](OneOnOne/ShirassudaT.jpg) -->Khun ??????
     1. 11:31 - 11:40 : [Khun Phureephat Sottiratanapan](OneOnOne/PhureephatS.jpg)
     1. 11:41 - 11:50 : [Khun Supattra Boonkied](OneOnOne/SupattraB.jpg)
     1. 11:51 - 12:00 : [Khun Wasupol Chaisangasilp](OneOnOne/WasupolC.jpg)
@@ -842,7 +844,7 @@
    * [XSS - Reflected (PHP_SELF)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/xss-php-self) - Thanakorn / Ekawut
    * [SQL Injection (POST/Search)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/sql-injection-POST-Search) - Nantawan / Vuttawat
    * [HTML Injection - Reflected (GET)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/HTML-Injection-Reflected-GET) - Theerapong / Narunart
-   * [SQL Injection (GET/Select)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/SQL-Injection-GET-Select) - Shirassuda
+   * [SQL Injection (GET/Select)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/SQL-Injection-GET-Select) - <!--Shirassuda -->??????
    * [XSS - Reflected (User-Agent)](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/XSS-Reflexted(JSON)) - Hachol / Nattawut
    * [SQL Injection - Blind - Time-Based](https://gitlab.com/NEIS0736/2020/-/wikis/bWAPP/SQL-Injection-Blind-TimeBased) - Anan / Soontorn
    * [XSS - Reflected (HREF)](https://gitlab.com/NEIS0736/2020/-/wikis/XSS---Reflected-(HREF)) - Sanchat / Wasupol
@@ -958,7 +960,7 @@
        * [Hachol vs. Vatcharin](Collab/No11.jpg) - *Jan 23, 2021*
        * [Bhoomjit vs. Anan](Collab/No6.jpg) - *Jan 23, 2021*
        * [Sakarin vs. Jaray](Collab/No13.jpg) - *Jan 23, 2021*
-       * [Nattawut vs. Shirassuda](Collab/No5.jpg) - *Jan 24, 2021*
+       * [Nattawut vs. <!--Shirassuda--> ??????](Collab/No5.jpg) - *Jan 24, 2021*
        * [Saran vs. Supattra](Collab/No7.jpg) - *Jan 28, 2021*
 
 ### [**Week 10**] - (Sun) **Jan 24,** 2021
@@ -977,7 +979,7 @@
 ### [**Week 11**] - (Sun) **Jan 31,** 2021
 *  **Online** ***(due to COVID-19)*** [![](img/video.png "Video")](https://drive.google.com/file/d/1vB7fdtIoAEvMvJjGk6X16qDkYBO_KDC6) <!-- https://youtu.be/wz9VwxvM2t4 -->
 *  **MiSS**x***Talks***
-    * **"What is Container Security?"**, Khun Shirassuda Thongpakdhi
+    * **"What is Container Security?"**, Khun ??????<!--Shirassuda Thongpakdhi -->
     * **"The Vulnerability of IoTs"**, Khun Fareed Marnleb
     * **"Golden SAML"**, Khun Anan Boondamnoen
     * **"SQL Injection"**, Khun Supattra Boonkied & Khun Jaray Paensong
@@ -993,7 +995,7 @@
     1. [Khun Hachol & Khun Sakarin : **Digitally-signed component**, *8.3 Verify Pedigree and Provenance*](https://drive.google.com/file/d/1h1jU1jLSDkOrvj_ZqfkA6CxQCl8e2AVk/) - Feb 16, 2021
     1. [Khun Vatcharin & Khun Ekawut : **Cloud architectures - Infrastructure as a Service (IaaS)**, *3.2 Define the Security Architecture*](https://drive.google.com/file/d/1e9iTZvokis65n75QX2cx-dYWUp8xOWRH) - Feb 22, 2021
     1. [Khun Nipitpon & Khun Narunart : **Component Reuse**, *1.2 Security Design Principles*](https://drive.google.com/file/d/1R4ViTNQKtogHgqIkCb8c-jPAK0xI-YUS) - Mar 23, 2021 
-    1. [Khun Shirassuda & Khun Saran : **Out-of-Band (OOB) management**, *3.3 Performing Secure Interface Design*](https://drive.google.com/file/d/1ZHO736-r0HKILOCP2ZTG0ocUei03545s) - Mar 29, 2021
+    1. [Khun <!--Shirassuda-->?????? & Khun Saran : **Out-of-Band (OOB) management**, *3.3 Performing Secure Interface Design*](https://drive.google.com/file/d/1ZHO736-r0HKILOCP2ZTG0ocUei03545s) - Mar 29, 2021
     1. [Khun Phureephat, Khun Nantawan & Khun Supattra : **Type Safety**, *4.1 Adhere to Relevant Secure Coding Practices*](https://drive.google.com/file/d/10XZ_YcTsHhHdztXARJv0IBQBAhdMuRtu) - Apr 4, 2021
 
 ### **Class Cancelled** (Sun) **Feb 7,** 2021
@@ -1009,7 +1011,7 @@
 *  **The Twelve-Factor App**
     1. Khun Bhoomjit & Khun Vuttawat [(**Codebase**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/1-Codebase.png)
     1. Khun Suntisuk & Khun Jaray [(**Dependencies**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/2-Dependencies.pdf)
-    1. Khun Thanakorn & Khun Shirassuda [(**Config**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/3-Config.pdf)
+    1. Khun Thanakorn & Khun <!--Shirassuda-->?????? [(**Config**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/3-Config.pdf)
     1. Khun Theerapong & Khun Sanchat [(**Backing services**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/4-BackingServices.pdf)
     1. Khun Nantawan & Khun Ekawut [(**Build, release, run**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/5-BuildReleaseRun.pdf)
     1. Khun Saran & Khun Phureephat [(**Processes**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/6-Processes.pdf)
@@ -1021,14 +1023,14 @@
     1. Khun Hachol & Khun Narunart [(**Admin processes**)](https://gitlab.com/NEIS0736/2020/-/wikis/TheTwelveFactorApp/12-AdminProcesses.pdf)
 *  Homework
    * Prep. for the **Band Battle : The War is On**
-     * **Old School** : **Athiporn**, **Ekawut**, **Hachol**, Nantawan, **Nattawut**, **Phureephat**, **Piyawit**, **Sakarin**, **Shirassuda**, **Suntisuk**, **Thanakorn**, **Vatcharin**
+     * **Old School** : **Athiporn**, **Ekawut**, **Hachol**, Nantawan, **Nattawut**, **Phureephat**, **Piyawit**, **Sakarin**, <!--**Shirassuda**-->??????, **Suntisuk**, **Thanakorn**, **Vatcharin**
      * **New School** : **Anan**, **Bhoomjit**, **Fareed**, **Jaray**, **Narunart**, <del>Nattapong</del>, **Nipitpon**, **Sanchat**, **Saran**, **Soontorn**, **Supattra**, **Theerapong**, **Vuttawat**, **Wasupol**
    * Prep. for the **Last Pitch**
 
 ### [**Week 13**] - (Sun) **Feb 21,** 2021
 *  **Band Battle : The War is On** (#CodeBattle)
 
-   |**Old School**|**Athiporn**, **Ekawut**, **Hachol**, Nantawan, **Nattawut**, **Phureephat**, **Piyawit**, **Sakarin**, **Shirassuda**, **Suntisuk**, **Thanakorn**, **Vatcharin**|
+   |**Old School**|**Athiporn**, **Ekawut**, **Hachol**, Nantawan, **Nattawut**, **Phureephat**, **Piyawit**, **Sakarin**, <!--**Shirassuda**-->??????, **Suntisuk**, **Thanakorn**, **Vatcharin**|
    |**New School**|**Anan**, **Bhoomjit**, **Fareed**, **Jaray**, **Narunart**, **Nipitpon**, **Sanchat**, **Saran**, **Soontorn**, **Supattra**, **Theerapong**, **Vuttawat**, Wasupol|
    
    
@@ -1050,7 +1052,7 @@
    * Piyawit & Bhoomjit [**Done**] -- [![](/Assets/github-20x20.jpg "GitHub")](https://eskoong.github.io/logging_with_count) #Logging #LimitTimeLogin
    * Athiporn & Phureephat [**Done**] -- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/AthipornP/TheLastPitch/tree/master/Logging) #Logging #CodeSnippet
    * Narunart & Saran [**Done**] -- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/ahictf/Logging-The-Last-Pitch) #BruteForcePrevention
-   * Nipitpon & Shirassuda [**Done**] -- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/MyGitHubNEIS0736/MyGitHubNEIS0736.github.io/tree/main/Improvisation)
+   * Nipitpon & <!--Shirassuda-->?????? [**Done**] -- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/MyGitHubNEIS0736/MyGitHubNEIS0736.github.io/tree/main/Improvisation)
    * Theerapong & Jaray [**Done**] -- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/Devtech95/Devtech95.github.io/tree/main/Navigator_Improvisation)
    * Anan & Fareed [**Done**] -- [![](/Assets/github-20x20.jpg "GitHub")](https://marukofar.github.io/error) #ExceptionHandling
    * Soontorn & Wasupol [**Done**] -- [![](/Assets/github-20x20.jpg "GitHub")](https://github.com/freedom357/freedom357.github.io/blob/master/data_anonymize.py) #Anonymization
@@ -1144,7 +1146,7 @@
 *  **ar·chi·tec·ture** /ˈärkəˌtek(t)SHər/
 *  <del>[Data Governance](https://www.dga.or.th/th/profile/2108/)</del>, *claimed by Khun [Bhoomjit Bh.](#Bhoomjit)*
 *  <del>Source Code **Escrow** Agreement</del>, *claimed by Khun [Theerapong K.](#Theerapong)*
-*  <del>Technical Due Diligence</del>, *claimed by Khun [Shirassuda T.](#Shirassuda)*
+*  <del>Technical Due Diligence</del>, *claimed by Khun <!--[Shirassuda T.](#Shirassuda)-->??????*
 *  <del>Search vs. Browse</del>, *claimed by Khun [Phureephat S.](#Phureephat)*
 *  [Amazon Lookout for Vision - Spot product defects using computer vision to automate quality inspection](https://aws.amazon.com/lookout-for-vision/)
 *  <del>Planet earth with visualization of GitHub activity crossing the globe</del>, *claimed by Khun [Piyawit K.](#Piyawit)*
@@ -1171,7 +1173,7 @@
 *  [sigstore, Software Signing](https://sigstore.dev/)
 
 ---
-[Anan](#Anan), [Athiporn](#Athiporn), [Bhoomjit](#Bhoomjit), [Ekawut](#Ekawut), [Fareed](#Fareed), [Hachol](#Hachol), [Jaray](#Jaray), [Jaruspong](#Jaruspong), [Keaittisak](#Keaittisak), [Nantawan](#Nantawan), [Narunart](#Narunart), [Nattapong](#Nattapong), [Nattawut](#Nattawut), [Nipitpon](#Nipitpon), [Phureephat](#Phureephat), [Piyawit](#Piyawit), [Sakarin](#Sakarin), [Sanchat](#Sanchat), [Saran](#Saran), [Shirassuda](#Shirassuda), [Soontorn](#Soontorn), [Suntisuk](#Suntisuk), [Sununta](#Sununta), [Supattra](#Supattra), [Thanakorn](#Thanakorn), [Theerapong](#Theerapong), [Vatcharin](#Vatcharin), [Vuttawat](#Vuttawat), [Wasupol](#Wasupol)
+[Anan](#Anan), [Athiporn](#Athiporn), [Bhoomjit](#Bhoomjit), [Ekawut](#Ekawut), [Fareed](#Fareed), [Hachol](#Hachol), [Jaray](#Jaray), [Jaruspong](#Jaruspong), [Keaittisak](#Keaittisak), [Nantawan](#Nantawan), [Narunart](#Narunart), [Nattapong](#Nattapong), [Nattawut](#Nattawut), [Nipitpon](#Nipitpon), [Phureephat](#Phureephat), [Piyawit](#Piyawit), [Sakarin](#Sakarin), [Sanchat](#Sanchat), [Saran](#Saran), <!--[Shirassuda]-->[??????](#Shirassuda), [Soontorn](#Soontorn), [Suntisuk](#Suntisuk), [Sununta](#Sununta), [Supattra](#Supattra), [Thanakorn](#Thanakorn), [Theerapong](#Theerapong), [Vatcharin](#Vatcharin), [Vuttawat](#Vuttawat), [Wasupol](#Wasupol)
 
 ---
 ### [**80-20 Rule**]
